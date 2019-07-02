@@ -1,0 +1,687 @@
+,City,County,Lat,Long,Radius,State,ZipCode,ZipScore,id,CountyScore
+0,Avondale Estates,DeKalb County,33.77,-84.26,1.0,Georgia,30002,26,13089,97
+1,Alpharetta,Fulton County,34.14,-84.29,6.0,Georgia,30004,17,13121,98
+2,Alpharetta,Fulton County,34.09,-84.22,4.0,Georgia,30005,91,13121,98
+3,Marietta,Cobb County,33.9,-84.59,4.0,Georgia,30008,19,13067,94
+4,Alpharetta,Fulton County,34.08,-84.3,3.0,Georgia,30009,53,13121,98
+5,Auburn,Barrow County,34.03,-83.83,5.0,Georgia,30011,66,13013,95
+6,Conyers,Rockdale County,33.72,-84.01,6.0,Georgia,30012,74,13247,74
+7,Conyers,Rockdale County,33.64,-83.97,7.0,Georgia,30013,66,13247,74
+8,Covington,Newton County,33.6,-83.8,16.0,Georgia,30014,42,13217,79
+9,Covington,Newton County,33.5,-83.9,9.0,Georgia,30016,79,13217,79
+10,Grayson,Gwinnett County,33.89,-83.96,3.0,Georgia,30017,57,13135,90
+11,Dacula,Gwinnett County,34.0,-83.9,8.0,Georgia,30019,65,13135,90
+12,Clarkston,DeKalb County,33.81,-84.24,2.0,Georgia,30021,35,13089,97
+13,Alpharetta,Fulton County,34.02,-84.25,5.0,Georgia,30022,12,13121,98
+14,Suwanee,Gwinnett County,34.07,-84.1,6.0,Georgia,30024,24,13135,90
+15,Social Circle,Walton County,33.6,-83.7,7.0,Georgia,30025,94,13297,94
+16,Cumming,Forsyth County,34.3,-84.2,8.0,Georgia,30028,4,13117,98
+17,Decatur,DeKalb County,33.77,-84.29,2.0,Georgia,30030,69,13089,97
+18,Decatur,DeKalb County,33.75,-84.27,3.0,Georgia,30032,0,13089,97
+19,Decatur,DeKalb County,33.82,-84.29,3.0,Georgia,30033,29,13089,97
+20,Decatur,DeKalb County,33.69,-84.25,4.0,Georgia,30034,58,13089,97
+21,Decatur,DeKalb County,33.73,-84.2,3.0,Georgia,30035,27,13089,97
+22,Lithonia,DeKalb County,33.66,-84.14,5.0,Georgia,30038,54,13089,97
+23,Snellville,Gwinnett County,33.8,-84.03,5.0,Georgia,30039,5,13135,90
+24,Cumming,Forsyth County,34.2,-84.2,7.0,Georgia,30040,45,13117,98
+25,Cumming,Forsyth County,34.2,-84.1,11.0,Georgia,30041,98,13117,98
+26,Lawrenceville,Gwinnett County,34.01,-84.01,6.0,Georgia,30043,36,13135,90
+27,Lawrenceville,Gwinnett County,33.92,-84.07,5.0,Georgia,30044,66,13135,90
+28,Lawrenceville,Gwinnett County,33.93,-83.92,6.0,Georgia,30045,28,13135,90
+29,Lawrenceville,Gwinnett County,33.95,-84.0,4.0,Georgia,30046,90,13135,90
+30,Lilburn,Gwinnett County,33.87,-84.11,5.0,Georgia,30047,37,13135,90
+31,Loganville,Walton County,33.8,-83.9,8.0,Georgia,30052,18,13297,94
+32,Oxford,Newton County,33.68,-83.86,6.0,Georgia,30054,54,13217,79
+33,Mansfield,Jasper County,33.5,-83.7,10.0,Georgia,30055,80,13159,95
+34,Newborn,Jasper County,33.5,-83.65,6.0,Georgia,30056,95,13159,95
+35,Lithonia,DeKalb County,33.74,-84.1,5.0,Georgia,30058,88,13089,97
+36,Marietta,Cobb County,33.93,-84.54,6.0,Georgia,30060,70,13067,94
+37,Marietta,Cobb County,34.0,-84.47,5.0,Georgia,30062,71,13067,94
+38,Marietta,Cobb County,33.93,-84.62,5.0,Georgia,30064,37,13067,94
+39,Marietta,Cobb County,34.02,-84.5,5.0,Georgia,30066,17,13067,94
+40,Marietta,Cobb County,33.93,-84.46,4.0,Georgia,30067,91,13067,94
+41,Marietta,Cobb County,33.97,-84.44,5.0,Georgia,30068,3,13067,94
+42,Norcross,Gwinnett County,33.94,-84.21,4.0,Georgia,30071,23,13135,90
+43,Decatur,Dekalb County,,,,Georgia,30073,13,[],13
+44,Roswell,Fulton County,34.06,-84.38,5.0,Georgia,30075,48,13121,98
+45,Roswell,Fulton County,34.02,-84.31,4.0,Georgia,30076,6,13121,98
+46,Snellville,Gwinnett County,33.86,-84.01,4.0,Georgia,30078,7,13135,90
+47,Scottdale,DeKalb County,33.79,-84.26,1.0,Georgia,30079,77,13089,97
+48,Smyrna,Cobb County,33.87,-84.5,4.0,Georgia,30080,94,13067,94
+49,Smyrna,Cobb County,33.86,-84.53,3.0,Georgia,30082,53,13067,94
+50,Stone Mountain,DeKalb County,33.79,-84.2,4.0,Georgia,30083,52,13089,97
+51,Tucker,DeKalb County,33.86,-84.21,3.0,Georgia,30084,7,13089,97
+52,Stone Mountain,DeKalb County,33.82,-84.11,5.0,Georgia,30087,15,13089,97
+53,Stone Mountain,DeKalb County,33.76,-84.17,3.0,Georgia,30088,52,13089,97
+54,Marietta,Cobb County,,,,Georgia,30090,88,13067,94
+55,Norcross,Gwinnett County,33.97,-84.23,3.0,Georgia,30092,81,13135,90
+56,Norcross,Gwinnett County,33.91,-84.18,4.0,Georgia,30093,50,13135,90
+57,Conyers,Rockdale County,33.6,-84.1,7.0,Georgia,30094,48,13247,74
+58,Duluth,Gwinnett County,33.98,-84.15,5.0,Georgia,30096,17,13135,90
+59,Duluth,Fulton County,34.02,-84.14,5.0,Georgia,30097,97,13121,98
+60,Acworth,Cobb County,34.03,-84.7,7.0,Georgia,30101,79,13067,94
+61,Acworth,Cherokee County,34.11,-84.63,6.0,Georgia,30102,100,13057,100
+62,Adairsville,Bartow County,34.4,-84.9,9.0,Georgia,30103,98,13015,98
+63,Aragon,Polk County,34.09,-85.06,5.0,Georgia,30104,34,13233,75
+64,Armuchee,Floyd County,34.5,-85.2,9.0,Georgia,30105,9,13115,94
+65,Austell,Cobb County,33.83,-84.64,4.0,Georgia,30106,88,13067,94
+66,Ball Ground,Cherokee County,34.3,-84.3,10.0,Georgia,30107,64,13057,100
+67,Bowdon,Carroll County,33.5,-85.3,10.0,Georgia,30108,81,13045,81
+68,Bremen,Haralson County,33.7,-85.2,7.0,Georgia,30110,15,13143,97
+69,Buchanan,Haralson County,33.9,-85.2,11.0,Georgia,30113,97,13143,97
+70,Canton,Cherokee County,34.3,-84.5,10.0,Georgia,30114,56,13057,100
+71,Canton,Cherokee County,34.2,-84.4,9.0,Georgia,30115,70,13057,100
+72,Carrollton,Carroll County,33.6,-85.0,11.0,Georgia,30116,18,13045,81
+73,Carrollton,Carroll County,33.6,-85.1,9.0,Georgia,30117,28,13045,81
+74,Cartersville,Bartow County,34.2,-84.8,9.0,Georgia,30120,42,13015,98
+75,Cartersville,Bartow County,34.2,-84.8,10.0,Georgia,30121,39,13015,98
+76,Lithia Springs,Douglas County,33.76,-84.65,5.0,Georgia,30122,63,13097,82
+77,Cave Spring,Floyd County,34.14,-85.35,7.0,Georgia,30124,74,13115,94
+78,Cedartown,Polk County,34.0,-85.3,10.0,Georgia,30125,75,13233,75
+79,Mableton,Cobb County,33.82,-84.55,5.0,Georgia,30126,37,13067,94
+80,Powder Springs,Cobb County,33.9,-84.7,8.0,Georgia,30127,11,13067,94
+81,Dallas,Paulding County,34.0,-84.9,8.0,Georgia,30132,70,13223,85
+82,Douglasville,Douglas County,33.8,-84.8,7.0,Georgia,30134,67,13097,82
+83,Douglasville,Douglas County,33.7,-84.7,9.0,Georgia,30135,82,13097,82
+84,Emerson,Bartow County,34.12,-84.77,2.0,Georgia,30137,32,13015,98
+85,Fairmount,Gordon County,34.4,-84.7,10.0,Georgia,30139,55,13129,57
+86,Hiram,Paulding County,33.86,-84.76,5.0,Georgia,30141,85,13223,85
+87,Jasper,Pickens County,34.5,-84.4,12.0,Georgia,30143,41,13227,93
+88,Kennesaw,Cobb County,34.03,-84.6,5.0,Georgia,30144,26,13067,94
+89,Kingston,Bartow County,34.2,-85.0,9.0,Georgia,30145,97,13015,98
+90,Lindale,Floyd County,34.15,-85.22,5.0,Georgia,30147,62,13115,94
+91,Marble Hill,Pickens County,34.44,-84.29,3.0,Georgia,30148,93,13227,93
+92,Kennesaw,Cobb County,33.99,-84.64,5.0,Georgia,30152,35,13067,94
+93,Rockmart,Polk County,34.0,-85.1,9.0,Georgia,30153,7,13233,75
+94,Dallas,Paulding County,33.9,-84.9,10.0,Georgia,30157,76,13223,85
+95,Rome,Floyd County,34.3,-85.2,15.0,Georgia,30161,38,13115,94
+96,Rome,Floyd County,34.3,-85.3,13.0,Georgia,30165,94,13115,94
+97,Austell,Cobb County,33.78,-84.59,4.0,Georgia,30168,67,13067,94
+98,Roopville,Carroll County,33.4,-85.2,7.0,Georgia,30170,18,13045,81
+99,Rydal,Bartow County,34.36,-84.74,7.0,Georgia,30171,49,13015,98
+100,Silver Creek,Floyd County,34.14,-85.13,5.0,Georgia,30173,75,13115,94
+101,Talking Rock,Pickens County,34.5,-84.5,11.0,Georgia,30175,76,13227,93
+102,Tallapoosa,Haralson County,33.8,-85.3,10.0,Georgia,30176,2,13143,97
+103,Tate,Pickens County,34.4,-84.37,2.0,Georgia,30177,29,13227,93
+104,Taylorsville,Bartow County,34.1,-85.0,7.0,Georgia,30178,7,13015,98
+105,Temple,Carroll County,33.8,-85.0,9.0,Georgia,30179,19,13045,81
+106,Villa Rica,Carroll County,33.7,-84.9,9.0,Georgia,30180,61,13045,81
+107,Waco,Carroll County,33.65,-85.25,7.0,Georgia,30182,45,13045,81
+108,Waleska,Cherokee County,34.34,-84.59,6.0,Georgia,30183,41,13057,100
+109,White,Bartow County,34.3,-84.7,10.0,Georgia,30184,21,13015,98
+110,Whitesburg,Carroll County,33.51,-84.91,7.0,Georgia,30185,27,13045,81
+111,Winston,Douglas County,33.7,-84.8,7.0,Georgia,30187,24,13097,82
+112,Woodstock,Cherokee County,34.12,-84.45,6.0,Georgia,30188,34,13057,100
+113,Woodstock,Cherokee County,34.13,-84.57,4.0,Georgia,30189,80,13057,100
+114,Barnesville,Lamar County,33.1,-84.1,10.0,Georgia,30204,9,13171,68
+115,Brooks,Fayette County,33.26,-84.46,7.0,Georgia,30205,50,13113,98
+116,Concord,Pike County,33.1,-84.44,6.0,Georgia,30206,73,13231,73
+117,Fairburn,Fulton County,33.6,-84.6,10.0,Georgia,30213,24,13121,98
+118,Fayetteville,Fayette County,33.49,-84.48,7.0,Georgia,30214,98,13113,98
+119,Fayetteville,Fayette County,33.4,-84.5,7.0,Georgia,30215,40,13113,98
+120,Flovilla,Butts County,33.24,-83.87,5.0,Georgia,30216,63,13035,65
+121,Franklin,Heard County,33.3,-85.1,12.0,Georgia,30217,52,13149,52
+122,Gay,Meriwether County,33.13,-84.59,7.0,Georgia,30218,75,13199,95
+123,Grantville,Coweta County,33.23,-84.84,7.0,Georgia,30220,8,13077,88
+124,Greenville,Meriwether County,33.0,-84.7,10.0,Georgia,30222,59,13199,95
+125,Griffin,Spalding County,33.3,-84.3,11.0,Georgia,30223,55,13255,90
+126,Griffin,Spalding County,33.2,-84.2,8.0,Georgia,30224,90,13255,90
+127,Hampton,Henry County,33.41,-84.3,7.0,Georgia,30228,80,13151,93
+128,Hogansville,Troup County,33.2,-84.9,10.0,Georgia,30230,7,13285,92
+129,Jackson,Butts County,33.3,-84.0,12.0,Georgia,30233,65,13035,65
+130,Jenkinsburg,Butts County,33.32,-84.03,4.0,Georgia,30234,22,13035,65
+131,Jonesboro,Clayton County,33.53,-84.33,7.0,Georgia,30236,60,13063,88
+132,Jonesboro,Clayton County,33.5,-84.38,4.0,Georgia,30238,38,13063,88
+133,Lagrange,Troup County,33.0,-85.1,13.0,Georgia,30240,92,13285,92
+134,Lagrange,Troup County,33.0,-85.0,10.0,Georgia,30241,13,13285,92
+135,Locust Grove,Henry County,33.3,-84.1,8.0,Georgia,30248,93,13151,93
+136,Luthersville,Meriwether County,33.18,-84.7,5.0,Georgia,30251,48,13199,95
+137,Mcdonough,Henry County,33.5,-84.0,9.0,Georgia,30252,90,13151,93
+138,Mcdonough,Henry County,33.45,-84.19,6.0,Georgia,30253,79,13151,93
+139,Meansville,Pike County,33.02,-84.32,5.0,Georgia,30256,9,13231,73
+140,Milner,Lamar County,33.1,-84.2,7.0,Georgia,30257,68,13171,68
+141,Molena,Pike County,33.0,-84.4,7.0,Georgia,30258,12,13231,73
+142,Moreland,Coweta County,33.27,-84.72,6.0,Georgia,30259,63,13077,88
+143,Morrow,Clayton County,33.58,-84.33,3.0,Georgia,30260,2,13063,88
+144,Newnan,Coweta County,33.4,-84.9,11.0,Georgia,30263,88,13077,88
+145,Newnan,Coweta County,33.42,-84.7,7.0,Georgia,30265,22,13077,88
+146,Palmetto,Fulton County,33.6,-84.7,9.0,Georgia,30268,55,13121,98
+147,Peachtree City,Fayette County,33.39,-84.57,5.0,Georgia,30269,72,13113,98
+148,Rex,Clayton County,33.58,-84.27,2.0,Georgia,30273,36,13063,88
+149,Riverdale,Clayton County,33.55,-84.4,5.0,Georgia,30274,88,13063,88
+150,Senoia,Coweta County,33.3,-84.6,8.0,Georgia,30276,25,13077,88
+151,Sharpsburg,Coweta County,33.4,-84.6,9.0,Georgia,30277,54,13077,88
+152,Stockbridge,Henry County,33.6,-84.2,8.0,Georgia,30281,84,13151,93
+153,The Rock,Upson County,32.97,-84.25,3.0,Georgia,30285,77,13293,94
+154,Thomaston,Upson County,32.9,-84.3,12.0,Georgia,30286,40,13293,94
+155,Conley,Clayton County,33.65,-84.32,2.0,Georgia,30288,10,13063,88
+156,Tyrone,Fayette County,33.48,-84.59,4.0,Georgia,30290,61,13113,98
+157,Union City,Fulton County,33.57,-84.54,3.0,Georgia,30291,38,13121,98
+158,Williamson,Pike County,33.17,-84.41,7.0,Georgia,30292,71,13231,73
+159,Woodbury,Meriwether County,33.0,-84.6,8.0,Georgia,30293,13,13199,95
+160,Ellenwood,DeKalb County,33.64,-84.25,6.0,Georgia,30294,29,13089,97
+161,Zebulon,Pike County,33.1,-84.31,6.0,Georgia,30295,15,13231,73
+162,Riverdale,Clayton County,33.56,-84.45,3.0,Georgia,30296,73,13063,88
+163,Forest Park,Clayton County,33.61,-84.36,3.0,Georgia,30297,27,13063,88
+164,Atlanta,Fulton County,33.75,-84.39,1.0,Georgia,30303,43,13121,98
+165,Atlanta,Fulton County,,,,Georgia,30304,9,13121,98
+166,Atlanta,Fulton County,33.84,-84.38,2.0,Georgia,30305,52,13121,98
+167,Atlanta,Fulton County,33.79,-84.35,2.0,Georgia,30306,87,13121,98
+168,Atlanta,DeKalb County,33.77,-84.34,2.0,Georgia,30307,15,13089,97
+169,Atlanta,Fulton County,33.77,-84.38,1.0,Georgia,30308,46,13121,98
+170,Atlanta,Fulton County,33.8,-84.39,2.0,Georgia,30309,67,13121,98
+171,Atlanta,Fulton County,33.73,-84.43,3.0,Georgia,30310,78,13121,98
+172,Atlanta,Fulton County,33.73,-84.47,3.0,Georgia,30311,29,13121,98
+173,Atlanta,Fulton County,33.74,-84.38,2.0,Georgia,30312,65,13121,98
+174,Atlanta,Fulton County,33.76,-84.4,2.0,Georgia,30313,7,13121,98
+175,Atlanta,Fulton County,33.76,-84.43,2.0,Georgia,30314,48,13121,98
+176,Atlanta,Fulton County,33.7,-84.38,3.0,Georgia,30315,81,13121,98
+177,Atlanta,DeKalb County,33.74,-84.34,3.0,Georgia,30316,17,13089,97
+178,Atlanta,DeKalb County,33.75,-84.32,2.0,Georgia,30317,61,13089,97
+179,Atlanta,Fulton County,33.79,-84.44,4.0,Georgia,30318,76,13121,98
+180,Atlanta,DeKalb County,33.86,-84.35,4.0,Georgia,30319,68,13089,97
+181,Atlanta,Fulton County,33.82,-84.36,2.0,Georgia,30324,47,13121,98
+182,Atlanta,Fulton County,33.85,-84.36,0.7954545454545454,Georgia,30326,56,13121,98
+183,Atlanta,Fulton County,33.86,-84.42,4.0,Georgia,30327,94,13121,98
+184,Atlanta,Fulton County,33.93,-84.4,3.0,Georgia,30328,6,13121,98
+185,Atlanta,DeKalb County,33.83,-84.33,3.0,Georgia,30329,59,13089,97
+186,Atlanta,Fulton County,33.72,-84.56,7.0,Georgia,30331,98,13121,98
+187,Atlanta,Fulton County,33.749,-84.387,0.17045454545454544,Georgia,30334,24,13121,98
+188,Atlanta,Fulton County,33.74,-84.57,4.0,Georgia,30336,81,13121,98
+189,Atlanta,Fulton County,33.64,-84.44,3.0,Georgia,30337,6,13121,98
+190,Atlanta,DeKalb County,33.94,-84.32,3.0,Georgia,30338,47,13089,97
+191,Atlanta,Cobb County,33.87,-84.45,4.0,Georgia,30339,9,13067,94
+192,Atlanta,DeKalb County,33.89,-84.23,3.0,Georgia,30340,89,13089,97
+193,Atlanta,DeKalb County,33.89,-84.28,3.0,Georgia,30341,74,13089,97
+194,Atlanta,Fulton County,33.88,-84.38,3.0,Georgia,30342,93,13121,98
+195,Atlanta,Fulton County,33.68,-84.44,4.0,Georgia,30344,43,13121,98
+196,Atlanta,DeKalb County,33.85,-84.28,2.0,Georgia,30345,97,13089,97
+197,Atlanta,DeKalb County,33.92,-84.34,0.7386363636363636,Georgia,30346,27,13089,97
+198,Atlanta,Fulton County,,,,Georgia,30347,27,13121,98
+199,Atlanta,Fulton County,33.6,-84.5,9.0,Georgia,30349,55,13121,98
+200,Atlanta,Fulton County,33.98,-84.32,4.0,Georgia,30350,96,13121,98
+201,Atlanta,Fulton County,33.66,-84.4,3.0,Georgia,30354,17,13121,98
+202,Atlanta,DeKalb County,33.93,-84.26,3.0,Georgia,30360,68,13089,97
+203,Atlanta,Fulton County,,,,Georgia,30361,55,13121,98
+204,Atlanta,Fulton County,33.792,-84.399,0.5681818181818182,Georgia,30363,65,13121,98
+205,Atlanta,Fulton County,,,,Georgia,30369,46,13121,98
+206,Atlanta,Fulton County,,,,Georgia,30376,6,13121,98
+207,Atlanta,Fulton County,,,,Georgia,30379,97,13121,98
+208,Swainsboro,Emanuel County,32.6,-82.4,16.0,Georgia,30401,57,13107,79
+209,Ailey,Montgomery County,32.2,-82.5,8.0,Georgia,30410,66,13209,100
+210,Alamo,Wheeler County,32.1,-82.8,11.0,Georgia,30411,73,13309,73
+211,Bartow,Jefferson County,32.9,-82.5,10.0,Georgia,30413,75,13163,96
+212,Brooklet,Bulloch County,32.4,-81.6,11.0,Georgia,30415,31,13031,89
+213,Claxton,Evans County,32.2,-81.9,11.0,Georgia,30417,27,13109,27
+214,Cobbtown,Tattnall County,32.26,-82.14,7.0,Georgia,30420,9,13267,84
+215,Collins,Tattnall County,32.2,-82.1,8.0,Georgia,30421,84,13267,84
+216,Garfield,Emanuel County,32.6,-82.0,12.0,Georgia,30425,64,13107,79
+217,Girard,Burke County,33.0,-81.7,11.0,Georgia,30426,69,13033,69
+218,Glennville,Tattnall County,31.9,-81.9,13.0,Georgia,30427,13,13267,84
+219,Glenwood,Wheeler County,32.2,-82.7,20.0,Georgia,30428,49,13309,73
+220,Louisville,Jefferson County,33.0,-82.4,15.0,Georgia,30434,85,13163,96
+221,Lyons,Toombs County,32.2,-82.3,21.0,Georgia,30436,11,13279,99
+222,Metter,Candler County,32.4,-82.1,12.0,Georgia,30439,0,13043,0
+223,Midville,Emanuel County,32.8,-82.3,14.0,Georgia,30441,28,13107,79
+224,Millen,Jenkins County,32.8,-82.0,14.0,Georgia,30442,52,13165,71
+225,Mount Vernon,Montgomery County,32.2,-82.6,11.0,Georgia,30445,100,13209,100
+226,Newington,Screven County,32.6,-81.5,8.0,Georgia,30446,79,13251,89
+227,Portal,Bulloch County,32.56,-81.94,6.0,Georgia,30450,23,13031,89
+228,Register,Bulloch County,32.3,-81.9,7.0,Georgia,30452,75,13031,89
+229,Reidsville,Tattnall County,32.0,-82.1,10.0,Georgia,30453,62,13267,84
+230,Rockledge,Laurens County,32.44,-82.73,6.0,Georgia,30454,69,13175,95
+231,Rocky Ford,Screven County,32.7,-81.8,7.0,Georgia,30455,89,13251,89
+232,Sardis,Burke County,33.0,-81.8,8.0,Georgia,30456,3,13033,69
+233,Soperton,Treutlen County,32.4,-82.5,14.0,Georgia,30457,52,13283,52
+234,Statesboro,Bulloch County,32.4,-81.9,13.0,Georgia,30458,89,13031,89
+235,Statesboro,Bulloch County,32.5,-81.7,12.0,Georgia,30461,45,13031,89
+236,Sylvania,Screven County,32.7,-81.6,20.0,Georgia,30467,35,13251,89
+237,Tarrytown,Montgomery County,32.29,-82.51,6.0,Georgia,30470,7,13209,100
+238,Twin City,Emanuel County,32.5,-82.1,15.0,Georgia,30471,55,13107,79
+239,Uvalda,Montgomery County,32.0,-82.5,9.0,Georgia,30473,5,13209,100
+240,Vidalia,Toombs County,32.2,-82.4,13.0,Georgia,30474,99,13279,99
+241,Wadley,Jefferson County,32.9,-82.4,9.0,Georgia,30477,63,13163,96
+242,Gainesville,Hall County,34.32,-83.81,5.0,Georgia,30501,48,13139,87
+243,Gainesville,Hall County,34.27,-83.89,5.0,Georgia,30504,69,13139,87
+244,Gainesville,Hall County,34.3,-83.9,12.0,Georgia,30506,29,13139,87
+245,Gainesville,Hall County,34.3,-83.8,8.0,Georgia,30507,87,13139,87
+246,Alto,Habersham County,34.45,-83.57,6.0,Georgia,30510,83,13137,99
+247,Baldwin,Banks County,34.46,-83.47,6.0,Georgia,30511,6,13011,100
+248,Blairsville,Union County,34.9,-84.0,14.0,Georgia,30512,44,13291,44
+249,Blue Ridge,Fannin County,34.8,-84.3,16.0,Georgia,30513,99,13111,99
+250,Bowersville,Hart County,34.38,-83.03,5.0,Georgia,30516,57,13147,57
+251,Braselton,Jackson County,34.13,-83.79,5.0,Georgia,30517,5,13157,97
+252,Buford,Gwinnett County,34.12,-84.01,6.0,Georgia,30518,31,13135,90
+253,Buford,Gwinnett County,34.09,-83.94,6.0,Georgia,30519,22,13135,90
+254,Canon,Franklin County,34.3,-83.1,8.0,Georgia,30520,92,13119,97
+255,Carnesville,Franklin County,34.4,-83.3,9.0,Georgia,30521,97,13119,97
+256,Cherry Log,Gilmer County,34.8,-84.4,9.0,Georgia,30522,35,13123,90
+257,Clarkesville,Habersham County,34.7,-83.5,14.0,Georgia,30523,99,13137,99
+258,Clayton,Rabun County,34.9,-83.4,18.0,Georgia,30525,1,13241,92
+259,Clermont,Hall County,34.48,-83.77,5.0,Georgia,30527,37,13139,87
+260,Cleveland,White County,34.6,-83.8,13.0,Georgia,30528,71,13311,71
+261,Commerce,Jackson County,34.2,-83.5,8.0,Georgia,30529,76,13157,97
+262,Commerce,Banks County,34.2,-83.4,11.0,Georgia,30530,14,13011,100
+263,Cornelia,Habersham County,34.5,-83.6,8.0,Georgia,30531,87,13137,99
+264,Dahlonega,Lumpkin County,34.5,-84.0,13.0,Georgia,30533,62,13187,62
+265,Dawsonville,Dawson County,34.5,-84.1,13.0,Georgia,30534,47,13085,47
+266,Demorest,Habersham County,34.59,-83.57,5.0,Georgia,30535,99,13137,99
+267,Ellijay,Gilmer County,34.7,-84.4,11.0,Georgia,30536,59,13123,90
+268,Dillard,Rabun County,34.96,-83.35,5.0,Georgia,30537,88,13241,92
+269,Eastanollee,Stephens County,34.5,-83.27,5.0,Georgia,30538,83,13257,83
+270,East Ellijay,Gilmer County,,,,Georgia,30539,16,13123,90
+271,Ellijay,Gilmer County,34.7,-84.5,13.0,Georgia,30540,90,13123,90
+272,Epworth,Fannin County,34.9,-84.5,9.0,Georgia,30541,15,13111,99
+273,Flowery Branch,Hall County,34.17,-83.91,6.0,Georgia,30542,40,13139,87
+274,Gillsville,Hall County,34.29,-83.65,6.0,Georgia,30543,17,13139,87
+275,Helen,White County,34.73,-83.77,6.0,Georgia,30545,20,13311,71
+276,Hiawassee,Towns County,34.9,-83.7,10.0,Georgia,30546,41,13281,41
+277,Homer,Banks County,34.37,-83.47,6.0,Georgia,30547,100,13011,100
+278,Hoschton,Jackson County,34.1,-83.8,8.0,Georgia,30548,30,13157,97
+279,Jefferson,Jackson County,34.1,-83.6,8.0,Georgia,30549,15,13157,97
+280,Lakemont,Rabun County,34.8,-83.4,8.0,Georgia,30552,44,13241,92
+281,Lavonia,Franklin County,34.4,-83.1,8.0,Georgia,30553,60,13119,97
+282,Lula,Hall County,34.4,-83.6,9.0,Georgia,30554,5,13139,87
+283,Mc Caysville,Fannin County,34.97,-84.42,5.0,Georgia,30555,86,13111,99
+284,Martin,Stephens County,34.5,-83.2,8.0,Georgia,30557,59,13257,83
+285,Maysville,Jackson County,34.3,-83.6,8.0,Georgia,30558,97,13157,97
+286,Mineral Bluff,Fannin County,34.9,-84.2,8.0,Georgia,30559,97,13111,99
+287,Morganton,Fannin County,34.9,-84.2,9.0,Georgia,30560,39,13111,99
+288,Mount Airy,Habersham County,34.56,-83.46,5.0,Georgia,30563,43,13137,99
+289,Murrayville,Hall County,34.5,-83.9,7.0,Georgia,30564,10,13139,87
+290,Nicholson,Jackson County,34.09,-83.41,4.0,Georgia,30565,28,13157,97
+291,Oakwood,Hall County,34.24,-83.89,2.0,Georgia,30566,87,13139,87
+292,Pendergrass,Jackson County,34.19,-83.68,6.0,Georgia,30567,74,13157,97
+293,Rabun Gap,Rabun County,34.95,-83.42,6.0,Georgia,30568,92,13241,92
+294,Sautee Nacoochee,White County,34.72,-83.7,7.0,Georgia,30571,52,13311,71
+295,Suches,Union County,34.7,-84.1,9.0,Georgia,30572,19,13291,44
+296,Talmo,Jackson County,34.2,-83.72,3.0,Georgia,30575,30,13157,97
+297,Tiger,Rabun County,34.8,-83.4,8.0,Georgia,30576,80,13241,92
+298,Toccoa,Stephens County,34.6,-83.3,13.0,Georgia,30577,78,13257,83
+299,Young Harris,Towns County,34.91,-83.9,7.0,Georgia,30582,29,13281,41
+300,Athens,Clarke County,34.0,-83.35,4.0,Georgia,30601,76,13059,100
+301,Athens,Clarke County,33.9,-83.32,6.0,Georgia,30605,74,13059,100
+302,Athens,Clarke County,33.94,-83.44,5.0,Georgia,30606,48,13059,100
+303,Athens,Clarke County,34.03,-83.45,5.0,Georgia,30607,72,13059,100
+304,Arnoldsville,Oglethorpe County,33.85,-83.25,7.0,Georgia,30619,19,13221,94
+305,Bethlehem,Barrow County,33.93,-83.75,6.0,Georgia,30620,2,13013,95
+306,Bishop,Oconee County,33.8,-83.48,6.0,Georgia,30621,41,13219,99
+307,Bogart,Oconee County,33.9,-83.5,7.0,Georgia,30622,99,13219,99
+308,Bowman,Elbert County,34.2,-83.1,8.0,Georgia,30624,8,13105,70
+309,Buckhead,Morgan County,33.53,-83.36,6.0,Georgia,30625,66,13211,90
+310,Carlton,Oglethorpe County,34.0,-82.9,11.0,Georgia,30627,73,13221,94
+311,Colbert,Madison County,34.03,-83.22,7.0,Georgia,30628,35,13195,52
+312,Comer,Madison County,34.1,-83.1,9.0,Georgia,30629,33,13195,52
+313,Crawford,Oglethorpe County,33.9,-83.15,7.0,Georgia,30630,94,13221,94
+314,Crawfordville,Taliaferro County,33.6,-82.8,12.0,Georgia,30631,26,13265,26
+315,Danielsville,Madison County,34.2,-83.3,8.0,Georgia,30633,52,13195,52
+316,Dewy Rose,Elbert County,34.2,-82.9,7.0,Georgia,30634,70,13105,70
+317,Elberton,Elbert County,34.1,-82.8,16.0,Georgia,30635,37,13105,70
+318,Good Hope,Walton County,33.78,-83.57,5.0,Georgia,30641,21,13297,94
+319,Greensboro,Greene County,33.5,-83.2,15.0,Georgia,30642,98,13133,98
+320,Hartwell,Hart County,34.4,-82.9,10.0,Georgia,30643,7,13147,57
+321,Hull,Madison County,34.08,-83.31,7.0,Georgia,30646,30,13195,52
+322,Lexington,Oglethorpe County,33.9,-83.0,9.0,Georgia,30648,51,13221,94
+323,Madison,Morgan County,33.6,-83.4,14.0,Georgia,30650,90,13211,90
+324,Monroe,Walton County,33.8,-83.7,10.0,Georgia,30655,47,13297,94
+325,Monroe,Walton County,33.9,-83.7,8.0,Georgia,30656,58,13297,94
+326,Rayle,Wilkes County,33.8,-82.9,9.0,Georgia,30660,52,13317,79
+327,Royston,Franklin County,34.3,-83.1,9.0,Georgia,30662,72,13119,97
+328,Rutledge,Morgan County,33.6,-83.6,8.0,Georgia,30663,65,13211,90
+329,Statham,Barrow County,33.96,-83.58,7.0,Georgia,30666,95,13013,95
+330,Stephens,Oglethorpe County,33.8,-83.2,8.0,Georgia,30667,26,13221,94
+331,Tignall,Wilkes County,33.9,-82.7,13.0,Georgia,30668,64,13317,79
+332,Union Point,Greene County,33.7,-83.1,13.0,Georgia,30669,3,13133,98
+333,Washington,Wilkes County,33.7,-82.7,15.0,Georgia,30673,79,13317,79
+334,Watkinsville,Oconee County,33.8,-83.4,11.0,Georgia,30677,27,13219,99
+335,White Plains,Greene County,33.5,-83.1,8.0,Georgia,30678,81,13133,98
+336,Winder,Barrow County,34.0,-83.7,9.0,Georgia,30680,23,13013,95
+337,Winterville,Clarke County,33.93,-83.26,7.0,Georgia,30683,100,13059,100
+338,Calhoun,Gordon County,34.5,-85.0,11.0,Georgia,30701,20,13129,57
+339,Chatsworth,Murray County,34.7,-84.8,13.0,Georgia,30705,36,13213,71
+340,Chickamauga,Walker County,34.8,-85.3,14.0,Georgia,30707,97,13295,97
+341,Cisco,Murray County,34.96,-84.66,3.0,Georgia,30708,71,13213,71
+342,Cohutta,Whitfield County,34.94,-84.91,7.0,Georgia,30710,84,13313,94
+343,Crandall,Murray County,34.9,-84.7,8.0,Georgia,30711,27,13213,71
+344,Dalton,Whitfield County,34.8,-85.0,12.0,Georgia,30720,81,13313,94
+345,Dalton,Whitfield County,34.8,-84.9,15.0,Georgia,30721,11,13313,94
+346,Flintstone,Walker County,34.93,-85.36,5.0,Georgia,30725,92,13295,97
+347,La Fayette,Walker County,34.7,-85.2,13.0,Georgia,30728,68,13295,97
+348,Lyerly,Chattooga County,34.38,-85.41,6.0,Georgia,30730,71,13055,71
+349,Menlo,Chattooga County,34.6,-85.5,13.0,Georgia,30731,30,13055,71
+350,Plainville,Gordon County,34.42,-85.05,4.0,Georgia,30733,50,13129,57
+351,Ranger,Gordon County,34.5,-84.7,7.0,Georgia,30734,57,13129,57
+352,Resaca,Gordon County,34.6,-84.9,8.0,Georgia,30735,39,13129,57
+353,Ringgold,Catoosa County,34.9,-85.1,10.0,Georgia,30736,66,13047,77
+354,Rising Fawn,Dade County,34.8,-85.5,10.0,Georgia,30738,18,13083,98
+355,Rock Spring,Walker County,34.8,-85.22,5.0,Georgia,30739,23,13295,97
+356,Rocky Face,Whitfield County,34.76,-85.09,6.0,Georgia,30740,26,13313,94
+357,Rossville,Walker County,34.94,-85.27,5.0,Georgia,30741,3,13295,97
+358,Fort Oglethorpe,Catoosa County,34.95,-85.24,2.0,Georgia,30742,77,13047,77
+359,Sugar Valley,Gordon County,34.6,-85.0,7.0,Georgia,30746,50,13129,57
+360,Summerville,Chattooga County,34.5,-85.3,13.0,Georgia,30747,14,13055,71
+361,Lookout Mountain,Walker County,34.94,-85.39,3.0,Georgia,30750,72,13295,97
+362,Trenton,Dade County,34.9,-85.5,8.0,Georgia,30752,43,13083,98
+363,Trion,Chattooga County,34.59,-85.28,6.0,Georgia,30753,30,13055,71
+364,Tunnel Hill,Whitfield County,34.86,-85.04,6.0,Georgia,30755,94,13313,94
+365,Wildwood,Dade County,34.93,-85.44,4.0,Georgia,30757,98,13083,98
+366,Appling,Columbia County,33.6,-82.3,9.0,Georgia,30802,91,13073,91
+367,Avera,Jefferson County,33.2,-82.6,8.0,Georgia,30803,41,13163,96
+368,Blythe,Richmond County,33.3,-82.2,7.0,Georgia,30805,60,13245,90
+369,Dearing,McDuffie County,33.39,-82.38,6.0,Georgia,30808,42,13189,60
+370,Evans,Columbia County,33.56,-82.16,6.0,Georgia,30809,47,13073,91
+371,Gibson,Glascock County,33.2,-82.6,10.0,Georgia,30810,85,13125,85
+372,Grovetown,Columbia County,33.47,-82.22,6.0,Georgia,30813,83,13073,91
+373,Harlem,Columbia County,33.43,-82.31,6.0,Georgia,30814,59,13073,91
+374,Hephzibah,Richmond County,33.3,-82.1,10.0,Georgia,30815,16,13245,90
+375,Keysville,Burke County,33.2,-82.1,11.0,Georgia,30816,42,13033,69
+376,Lincolnton,Lincoln County,33.8,-82.4,12.0,Georgia,30817,41,13181,41
+377,Matthews,Jefferson County,33.26,-82.33,6.0,Georgia,30818,96,13163,96
+378,Mitchell,Glascock County,33.2,-82.7,8.0,Georgia,30820,62,13125,85
+379,Norwood,Warren County,33.5,-82.7,11.0,Georgia,30821,94,13301,94
+380,Perkins,Jenkins County,32.9,-81.9,8.0,Georgia,30822,71,13165,71
+381,Stapleton,Jefferson County,33.2,-82.4,9.0,Georgia,30823,79,13163,96
+382,Thomson,McDuffie County,33.5,-82.5,13.0,Georgia,30824,60,13189,60
+383,Warrenton,Warren County,33.4,-82.7,11.0,Georgia,30828,32,13301,94
+384,Waynesboro,Burke County,33.1,-82.0,19.0,Georgia,30830,41,13033,69
+385,Wrens,Jefferson County,33.2,-82.4,8.0,Georgia,30833,21,13163,96
+386,Augusta,Richmond County,33.43,-81.96,5.0,Georgia,30901,30,13245,90
+387,Augusta,Richmond County,33.48,-82.02,4.0,Georgia,30904,90,13245,90
+388,Augusta,Richmond County,33.4,-82.17,5.0,Georgia,30905,41,13245,90
+389,Augusta,Richmond County,33.3,-82.0,10.0,Georgia,30906,39,13245,90
+390,Augusta,Columbia County,33.53,-82.09,5.0,Georgia,30907,12,13073,91
+391,Augusta,Richmond County,33.48,-82.1,6.0,Georgia,30909,49,13245,90
+392,Augusta,Richmond County,,,,Georgia,30911,19,13245,90
+393,Augusta,Richmond County,33.469,-81.989,0.3977272727272727,Georgia,30912,44,13245,90
+394,Augusta,Richmond County,,,,Georgia,30913,14,13245,90
+395,Abbeville,Wilcox County,32.0,-83.3,12.0,Georgia,31001,24,13315,51
+396,Adrian,Emanuel County,32.6,-82.6,11.0,Georgia,31002,79,13107,79
+397,Bonaire,Houston County,32.5,-83.6,9.0,Georgia,31005,84,13153,84
+398,Butler,Taylor County,32.6,-84.3,13.0,Georgia,31006,98,13269,98
+399,Byromville,Dooly County,32.2,-83.9,9.0,Georgia,31007,40,13093,86
+400,Byron,Peach County,32.6,-83.8,7.0,Georgia,31008,6,13225,6
+401,Cadwell,Laurens County,32.3,-83.0,10.0,Georgia,31009,40,13175,95
+402,Chauncey,Dodge County,32.1,-83.1,7.0,Georgia,31011,54,13091,88
+403,Chester,Dodge County,32.4,-83.2,8.0,Georgia,31012,88,13091,88
+404,Cochran,Bleckley County,32.4,-83.3,14.0,Georgia,31014,18,13023,18
+405,Cordele,Crisp County,31.9,-83.8,12.0,Georgia,31015,39,13081,39
+406,Culloden,Monroe County,32.8,-84.1,12.0,Georgia,31016,65,13207,86
+407,Danville,Twiggs County,32.6,-83.2,9.0,Georgia,31017,89,13289,89
+408,Davisboro,Washington County,33.0,-82.6,12.0,Georgia,31018,11,13303,90
+409,Dexter,Laurens County,32.42,-83.05,6.0,Georgia,31019,95,13175,95
+410,Dry Branch,Twiggs County,32.6,-83.5,15.0,Georgia,31020,22,13289,89
+411,Dublin,Laurens County,32.5,-82.9,20.0,Georgia,31021,4,13175,95
+412,Dudley,Laurens County,32.5,-83.1,7.0,Georgia,31022,33,13175,95
+413,Eastman,Dodge County,32.2,-83.2,15.0,Georgia,31023,2,13091,88
+414,Eatonton,Putnam County,33.3,-83.3,14.0,Georgia,31024,93,13237,93
+415,Elko,Houston County,32.3,-83.7,7.0,Georgia,31025,10,13153,84
+416,East Dublin,Laurens County,32.6,-82.8,13.0,Georgia,31027,79,13175,95
+417,Centerville,Houston County,32.63,-83.69,2.0,Georgia,31028,79,13153,84
+418,Forsyth,Monroe County,33.0,-83.9,15.0,Georgia,31029,86,13207,86
+419,Fort Valley,Peach County,32.6,-83.9,13.0,Georgia,31030,3,13225,6
+420,Gordon,Wilkinson County,32.9,-83.3,10.0,Georgia,31031,18,13319,60
+421,Gray,Jones County,33.0,-83.6,11.0,Georgia,31032,92,13169,92
+422,Haddock,Jones County,33.1,-83.5,11.0,Georgia,31033,70,13169,92
+423,Harrison,Washington County,32.86,-82.71,7.0,Georgia,31035,90,13303,90
+424,Hawkinsville,Pulaski County,32.3,-83.5,14.0,Georgia,31036,68,13235,68
+425,Helena,Telfair County,32.1,-82.9,8.0,Georgia,31037,48,13271,85
+426,Hillsboro,Jasper County,33.2,-83.6,8.0,Georgia,31038,58,13159,95
+427,Ideal,Macon County,32.4,-84.2,7.0,Georgia,31041,64,13193,64
+428,Irwinton,Wilkinson County,32.77,-83.18,6.0,Georgia,31042,58,13319,60
+429,Jeffersonville,Twiggs County,32.7,-83.4,12.0,Georgia,31044,14,13289,89
+430,Jewell,Warren County,33.29,-82.76,2.0,Georgia,31045,49,13301,94
+431,Juliette,Monroe County,33.0,-83.8,9.0,Georgia,31046,77,13207,86
+432,Kathleen,Houston County,32.48,-83.64,6.0,Georgia,31047,23,13153,84
+433,Kite,Johnson County,32.7,-82.5,8.0,Georgia,31049,4,13167,66
+434,Knoxville,Crawford County,32.74,-83.95,5.0,Georgia,31050,81,13079,81
+435,Lizella,Bibb County,32.78,-83.85,7.0,Georgia,31052,35,13021,90
+436,Mc Intyre,Wilkinson County,32.89,-83.21,5.0,Georgia,31054,60,13319,60
+437,Mc Rae,Telfair County,32.0,-82.8,10.0,Georgia,31055,45,13271,85
+438,Marshallville,Macon County,32.4,-83.9,8.0,Georgia,31057,53,13193,64
+439,Mauk,Marion County,32.5,-84.4,10.0,Georgia,31058,42,13197,91
+440,Milan,Telfair County,32.0,-83.1,12.0,Georgia,31060,80,13271,85
+441,Milledgeville,Baldwin County,33.1,-83.2,14.0,Georgia,31061,35,13009,35
+442,Montezuma,Macon County,32.3,-83.9,9.0,Georgia,31063,43,13193,64
+443,Monticello,Jasper County,33.3,-83.7,13.0,Georgia,31064,20,13159,95
+444,Montrose,Laurens County,32.57,-83.15,7.0,Georgia,31065,77,13175,95
+445,Musella,Crawford County,32.8,-84.0,8.0,Georgia,31066,66,13079,81
+446,Oglethorpe,Macon County,32.3,-84.1,11.0,Georgia,31068,40,13193,64
+447,Perry,Houston County,32.4,-83.7,9.0,Georgia,31069,21,13153,84
+448,Pinehurst,Dooly County,32.2,-83.8,7.0,Georgia,31070,86,13093,86
+449,Pineview,Wilcox County,32.1,-83.5,7.0,Georgia,31071,33,13315,51
+450,Pitts,Wilcox County,32.0,-83.6,10.0,Georgia,31072,0,13315,51
+451,Rentz,Laurens County,32.4,-83.0,8.0,Georgia,31075,25,13175,95
+452,Reynolds,Taylor County,32.6,-84.1,10.0,Georgia,31076,53,13269,98
+453,Rhine,Dodge County,32.0,-83.2,8.0,Georgia,31077,88,13091,88
+454,Roberta,Crawford County,32.7,-84.1,9.0,Georgia,31078,48,13079,81
+455,Rochelle,Wilcox County,31.9,-83.4,11.0,Georgia,31079,51,13315,51
+456,Rupert,Taylor County,32.42,-84.28,7.0,Georgia,31081,84,13269,98
+457,Sandersville,Washington County,33.0,-82.9,16.0,Georgia,31082,83,13303,90
+458,Shady Dale,Jasper County,33.42,-83.63,7.0,Georgia,31085,83,13159,95
+459,Sparta,Hancock County,33.3,-83.0,18.0,Georgia,31087,55,13141,55
+460,Warner Robins,Houston County,32.58,-83.65,5.0,Georgia,31088,81,13153,84
+461,Tennille,Washington County,32.9,-82.8,10.0,Georgia,31089,72,13303,90
+462,Toomsboro,Wilkinson County,32.8,-83.1,11.0,Georgia,31090,43,13319,60
+463,Unadilla,Dooly County,32.2,-83.7,9.0,Georgia,31091,16,13093,86
+464,Vienna,Dooly County,32.1,-83.8,13.0,Georgia,31092,83,13093,86
+465,Warner Robins,Houston County,32.65,-83.65,4.0,Georgia,31093,42,13153,84
+466,Warthen,Washington County,33.1,-82.8,9.0,Georgia,31094,62,13303,90
+467,Wrightsville,Johnson County,32.7,-82.8,14.0,Georgia,31096,66,13167,66
+468,Yatesville,Upson County,32.9,-84.1,7.0,Georgia,31097,94,13293,94
+469,Warner Robins,Houston County,32.62,-83.57,4.0,Georgia,31098,68,13153,84
+470,Atlanta,Fulton County,,,,Georgia,31120,86,13121,98
+471,Macon,Bibb County,32.81,-83.62,4.0,Georgia,31201,4,13021,90
+472,Macon,Bibb County,32.86,-83.67,4.0,Georgia,31204,21,13021,90
+473,Macon,Bibb County,32.8,-83.69,5.0,Georgia,31206,90,13021,90
+474,Macon,Bibb County,32.9,-83.75,7.0,Georgia,31210,27,13021,90
+475,Macon,Bibb County,32.9,-83.6,9.0,Georgia,31211,18,13021,90
+476,Macon,Bibb County,32.73,-83.69,7.0,Georgia,31216,4,13021,90
+477,Macon,Bibb County,32.8,-83.5,12.0,Georgia,31217,51,13021,90
+478,Macon,Bibb County,32.88,-83.81,6.0,Georgia,31220,11,13021,90
+479,Allenhurst,Liberty County,31.77,-81.62,2.0,Georgia,31301,32,13179,86
+480,Bloomingdale,Effingham County,32.11,-81.34,6.0,Georgia,31302,16,13103,94
+481,Clyo,Effingham County,32.5,-81.3,8.0,Georgia,31303,0,13103,94
+482,Darien,McIntosh County,31.4,-81.4,9.0,Georgia,31305,85,13191,85
+483,Ellabell,Bryan County,32.2,-81.5,9.0,Georgia,31308,29,13029,63
+484,Fleming,Liberty County,31.9,-81.45,5.0,Georgia,31309,86,13179,86
+485,Guyton,Effingham County,32.3,-81.4,14.0,Georgia,31312,17,13103,94
+486,Hinesville,Liberty County,31.9,-81.6,12.0,Georgia,31313,54,13179,86
+487,Fort Stewart,Liberty County,32.0,-81.5,16.0,Georgia,31314,64,13179,86
+488,Fort Stewart,Liberty County,31.89,-81.6,2.0,Georgia,31315,24,13179,86
+489,Ludowici,Long County,31.8,-81.7,19.0,Georgia,31316,12,13183,12
+490,Midway,Liberty County,31.8,-81.4,14.0,Georgia,31320,14,13179,86
+491,Pembroke,Bryan County,32.2,-81.7,11.0,Georgia,31321,63,13029,63
+492,Pooler,Chatham County,32.11,-81.25,7.0,Georgia,31322,100,13051,100
+493,Riceboro,Liberty County,31.7,-81.4,17.0,Georgia,31323,0,13179,86
+494,Richmond Hill,Bryan County,31.9,-81.3,11.0,Georgia,31324,32,13029,63
+495,Rincon,Effingham County,32.3,-81.2,8.0,Georgia,31326,94,13103,94
+496,Tybee Island,Chatham County,32.01,-80.88,2.0,Georgia,31328,6,13051,100
+497,Springfield,Effingham County,32.4,-81.3,10.0,Georgia,31329,33,13103,94
+498,Townsend,McIntosh County,31.5,-81.4,16.0,Georgia,31331,68,13191,85
+499,Savannah,Chatham County,32.07,-81.09,2.0,Georgia,31401,64,13051,100
+500,Savannah,Chatham County,32.05,-81.03,4.0,Georgia,31404,35,13051,100
+501,Savannah,Chatham County,32.04,-81.17,6.0,Georgia,31405,31,13051,100
+502,Savannah,Chatham County,31.97,-81.08,5.0,Georgia,31406,54,13051,100
+503,Savannah,Chatham County,32.18,-81.18,5.0,Georgia,31407,51,13051,100
+504,Savannah,Chatham County,32.12,-81.18,4.0,Georgia,31408,87,13051,100
+505,Savannah,Chatham County,32.01,-80.95,7.0,Georgia,31410,54,13051,100
+506,Savannah,Chatham County,31.9,-81.1,12.0,Georgia,31411,7,13051,100
+507,Savannah,Chatham County,32.08,-81.13,2.0,Georgia,31415,59,13051,100
+508,Savannah,Chatham County,32.0,-81.2,9.0,Georgia,31419,92,13051,100
+509,Savannah,Chatham County,,,,Georgia,31421,29,13051,100
+510,Waycross,Ware County,31.24,-82.36,5.0,Georgia,31501,10,13299,67
+511,Waycross,Ware County,31.1,-82.4,26.0,Georgia,31503,10,13299,67
+512,Alma,Bacon County,31.6,-82.5,13.0,Georgia,31510,53,13005,53
+513,Ambrose,Coffee County,31.6,-83.0,10.0,Georgia,31512,91,13069,91
+514,Baxley,Appling County,31.8,-82.3,17.0,Georgia,31513,3,13001,66
+515,Blackshear,Pierce County,31.3,-82.2,10.0,Georgia,31516,27,13229,88
+516,Bristol,Appling County,31.51,-82.17,7.0,Georgia,31518,59,13001,66
+517,Broxton,Coffee County,31.7,-82.9,10.0,Georgia,31519,7,13069,91
+518,Brunswick,Glynn County,31.18,-81.48,5.0,Georgia,31520,33,13127,96
+519,Saint Simons Island,Glynn County,31.2,-81.4,8.0,Georgia,31522,63,13127,96
+520,Brunswick,Glynn County,31.2,-81.6,15.0,Georgia,31523,61,13127,96
+521,Brunswick,Glynn County,31.3,-81.5,11.0,Georgia,31525,36,13127,96
+522,Jekyll Island,Glynn County,31.07,-81.45,4.0,Georgia,31527,96,13127,96
+523,Denton,Jeff Davis County,31.7,-82.7,7.0,Georgia,31532,60,13161,60
+524,Douglas,Coffee County,31.5,-82.8,8.0,Georgia,31533,17,13069,91
+525,Douglas,Coffee County,31.5,-82.8,11.0,Georgia,31535,1,13069,91
+526,Folkston,Charlton County,30.9,-82.0,13.0,Georgia,31537,91,13049,91
+527,Hazlehurst,Jeff Davis County,31.8,-82.6,14.0,Georgia,31539,50,13161,60
+528,Hoboken,Brantley County,31.1,-82.2,10.0,Georgia,31542,60,13025,92
+529,Hortense,Brantley County,31.4,-81.8,14.0,Georgia,31543,92,13025,92
+530,Jacksonville,Telfair County,31.9,-82.9,11.0,Georgia,31544,31,13271,85
+531,Jesup,Wayne County,31.7,-82.0,12.0,Georgia,31545,13,13305,97
+532,Jesup,Wayne County,31.5,-81.8,13.0,Georgia,31546,97,13305,97
+533,Kings Bay,Camden County,30.79,-81.54,3.0,Georgia,31547,16,13039,84
+534,Kingsland,Camden County,30.8,-81.7,11.0,Georgia,31548,84,13039,84
+535,Lumber City,Telfair County,31.9,-82.8,8.0,Georgia,31549,85,13271,85
+536,Manor,Ware County,31.1,-82.6,10.0,Georgia,31550,67,13299,67
+537,Mershon,Pierce County,31.5,-82.3,8.0,Georgia,31551,28,13229,88
+538,Millwood,Ware County,31.3,-82.6,9.0,Georgia,31552,38,13299,67
+539,Nahunta,Brantley County,31.2,-82.0,10.0,Georgia,31553,13,13025,92
+540,Nicholls,Coffee County,31.5,-82.6,12.0,Georgia,31554,53,13069,91
+541,Odum,Wayne County,31.7,-82.1,11.0,Georgia,31555,28,13305,97
+542,Patterson,Pierce County,31.4,-82.1,9.0,Georgia,31557,88,13229,88
+543,Saint Marys,Camden County,30.8,-81.5,11.0,Georgia,31558,75,13039,84
+544,Screven,Wayne County,31.5,-82.0,12.0,Georgia,31560,38,13305,97
+545,Saint George,Charlton County,30.7,-82.2,26.0,Georgia,31562,12,13049,91
+546,Surrency,Appling County,31.7,-82.2,15.0,Georgia,31563,66,13001,66
+547,Waverly,Camden County,31.1,-81.7,13.0,Georgia,31565,49,13039,84
+548,Waynesville,Brantley County,31.2,-81.8,12.0,Georgia,31566,26,13025,92
+549,West Green,Coffee County,31.62,-82.7,5.0,Georgia,31567,18,13069,91
+550,White Oak,Camden County,31.0,-81.8,10.0,Georgia,31568,53,13039,84
+551,Woodbine,Camden County,30.9,-81.6,13.0,Georgia,31569,50,13039,84
+552,Valdosta,Lowndes County,30.8,-83.4,10.0,Georgia,31601,59,13185,96
+553,Valdosta,Lowndes County,30.9,-83.3,8.0,Georgia,31602,29,13185,96
+554,Valdosta,Lowndes County,30.95,-83.23,6.0,Georgia,31605,3,13185,96
+555,Valdosta,Lowndes County,30.8,-83.2,8.0,Georgia,31606,8,13185,96
+556,Adel,Cook County,31.1,-83.4,9.0,Georgia,31620,91,13075,91
+557,Alapaha,Berrien County,31.4,-83.2,9.0,Georgia,31622,73,13019,73
+558,Axson,Atkinson County,31.3,-82.7,8.0,Georgia,31624,74,13003,87
+559,Barney,Brooks County,31.01,-83.53,6.0,Georgia,31625,65,13027,65
+560,Boston,Thomas County,30.8,-83.8,11.0,Georgia,31626,48,13275,89
+561,Dixie,Brooks County,30.8,-83.7,9.0,Georgia,31629,41,13027,65
+562,Du Pont,Clinch County,30.9,-82.9,11.0,Georgia,31630,47,13065,47
+563,Fargo,Clinch County,30.8,-82.5,27.0,Georgia,31631,45,13065,47
+564,Hahira,Lowndes County,31.0,-83.4,10.0,Georgia,31632,90,13185,96
+565,Homerville,Clinch County,31.0,-82.7,15.0,Georgia,31634,12,13065,47
+566,Lakeland,Lanier County,31.1,-83.1,9.0,Georgia,31635,55,13173,73
+567,Lake Park,Lowndes County,30.7,-83.1,11.0,Georgia,31636,96,13185,96
+568,Lenox,Cook County,31.3,-83.4,9.0,Georgia,31637,13,13075,91
+569,Morven,Brooks County,30.92,-83.5,6.0,Georgia,31638,53,13027,65
+570,Nashville,Berrien County,31.2,-83.2,11.0,Georgia,31639,3,13019,73
+571,Naylor,Lowndes County,30.9,-83.1,8.0,Georgia,31641,72,13185,96
+572,Pearson,Atkinson County,31.3,-82.9,9.0,Georgia,31642,34,13003,87
+573,Quitman,Brooks County,30.8,-83.6,13.0,Georgia,31643,59,13027,65
+574,Ray City,Berrien County,31.06,-83.23,5.0,Georgia,31645,54,13019,73
+575,Sparks,Cook County,31.2,-83.42,6.0,Georgia,31647,86,13075,91
+576,Statenville,Echols County,30.7,-82.9,11.0,Georgia,31648,78,13101,78
+577,Stockton,Lanier County,30.92,-83.0,7.0,Georgia,31649,73,13173,73
+578,Willacoochee,Atkinson County,31.3,-83.0,12.0,Georgia,31650,87,13003,87
+579,Albany,Dougherty County,31.58,-84.15,5.0,Georgia,31701,98,13095,98
+580,Albany,Dougherty County,31.5,-84.0,11.0,Georgia,31705,11,13095,98
+581,Albany,Dougherty County,31.59,-84.21,4.0,Georgia,31707,46,13095,98
+582,Americus,Sumter County,32.0,-84.1,10.0,Georgia,31709,21,13261,90
+583,Andersonville,Sumter County,32.19,-84.12,7.0,Georgia,31711,76,13261,90
+584,Arabi,Crisp County,31.8,-83.7,8.0,Georgia,31712,2,13081,39
+585,Ashburn,Turner County,31.7,-83.7,14.0,Georgia,31714,84,13287,91
+586,Baconton,Mitchell County,31.4,-84.1,7.0,Georgia,31716,12,13205,75
+587,Americus,Sumter County,32.0,-84.3,10.0,Georgia,31719,90,13261,90
+588,Albany,Dougherty County,31.5,-84.3,12.0,Georgia,31721,34,13095,98
+589,Camilla,Mitchell County,31.2,-84.3,17.0,Georgia,31730,53,13205,75
+590,Chula,Tift County,31.6,-83.5,7.0,Georgia,31733,89,13277,99
+591,Cobb,Sumter County,31.97,-83.98,5.0,Georgia,31735,6,13261,90
+592,Coolidge,Thomas County,31.01,-83.87,6.0,Georgia,31738,69,13275,89
+593,De Soto,Sumter County,31.9,-84.0,7.0,Georgia,31743,68,13261,90
+594,Doerun,Colquitt County,31.3,-83.9,9.0,Georgia,31744,30,13071,91
+595,Enigma,Berrien County,31.4,-83.33,7.0,Georgia,31749,31,13019,73
+596,Fitzgerald,Ben Hill County,31.7,-83.2,14.0,Georgia,31750,98,13017,98
+597,Hartsfield,Colquitt County,31.18,-83.96,6.0,Georgia,31756,88,13071,91
+598,Thomasville,Thomas County,30.9,-83.9,9.0,Georgia,31757,60,13275,89
+599,Leesburg,Lee County,31.7,-84.1,11.0,Georgia,31763,53,13177,92
+600,Leslie,Sumter County,32.0,-84.1,9.0,Georgia,31764,38,13261,90
+601,Meigs,Thomas County,31.1,-84.0,8.0,Georgia,31765,82,13275,89
+602,Moultrie,Colquitt County,31.2,-83.8,13.0,Georgia,31768,91,13071,91
+603,Norman Park,Colquitt County,31.3,-83.6,9.0,Georgia,31771,55,13071,91
+604,Oakfield,Worth County,31.72,-83.96,7.0,Georgia,31772,33,13321,100
+605,Ochlocknee,Thomas County,31.0,-84.1,9.0,Georgia,31773,89,13275,89
+606,Ocilla,Irwin County,31.6,-83.3,11.0,Georgia,31774,69,13155,69
+607,Omega,Tift County,31.34,-83.61,7.0,Georgia,31775,99,13277,99
+608,Pavo,Thomas County,31.0,-83.7,9.0,Georgia,31778,67,13275,89
+609,Pelham,Mitchell County,31.1,-84.2,11.0,Georgia,31779,14,13205,75
+610,Plains,Sumter County,32.0,-84.4,10.0,Georgia,31780,52,13261,90
+611,Poulan,Worth County,31.5,-83.8,8.0,Georgia,31781,26,13321,100
+612,Rebecca,Turner County,31.8,-83.5,10.0,Georgia,31783,56,13287,91
+613,Sale City,Mitchell County,31.25,-84.05,5.0,Georgia,31784,75,13205,75
+614,Smithville,Lee County,31.9,-84.2,11.0,Georgia,31787,92,13177,92
+615,Moultrie,Colquitt County,31.1,-83.7,10.0,Georgia,31788,89,13071,91
+616,Sumner,Worth County,31.5,-83.7,12.0,Georgia,31789,35,13321,100
+617,Sycamore,Turner County,31.65,-83.56,7.0,Georgia,31790,91,13287,91
+618,Sylvester,Worth County,31.5,-83.9,14.0,Georgia,31791,100,13321,100
+619,Thomasville,Thomas County,30.8,-84.1,14.0,Georgia,31792,23,13275,89
+620,Tifton,Tift County,31.5,-83.6,11.0,Georgia,31793,0,13277,99
+621,Tifton,Tift County,31.4,-83.4,10.0,Georgia,31794,61,13277,99
+622,Ty Ty,Tift County,31.48,-83.68,7.0,Georgia,31795,56,13277,99
+623,Warwick,Worth County,31.8,-83.9,7.0,Georgia,31796,58,13321,100
+624,Wray,Irwin County,31.6,-83.1,13.0,Georgia,31798,69,13155,69
+625,Box Springs,Marion County,32.5,-84.6,9.0,Georgia,31801,36,13197,91
+626,Buena Vista,Marion County,32.3,-84.5,13.0,Georgia,31803,91,13197,91
+627,Cataula,Harris County,32.65,-84.9,7.0,Georgia,31804,15,13145,86
+628,Cusseta,Chattahoochee County,32.29,-84.75,6.0,Georgia,31805,24,13053,84
+629,Ellaville,Schley County,32.3,-84.3,12.0,Georgia,31806,47,13249,47
+630,Ellerslie,Harris County,32.65,-84.83,4.0,Georgia,31807,43,13145,86
+631,Fortson,Harris County,32.64,-85.01,7.0,Georgia,31808,68,13145,86
+632,Hamilton,Harris County,32.8,-85.0,15.0,Georgia,31811,81,13145,86
+633,Junction City,Talbot County,32.62,-84.45,7.0,Georgia,31812,10,13263,33
+634,Lumpkin,Stewart County,32.0,-84.9,13.0,Georgia,31815,72,13259,76
+635,Manchester,Meriwether County,32.88,-84.61,6.0,Georgia,31816,54,13199,95
+636,Midland,Muscogee County,32.55,-84.84,7.0,Georgia,31820,99,13215,99
+637,Omaha,Stewart County,32.1,-84.9,12.0,Georgia,31821,54,13259,76
+638,Pine Mountain,Harris County,32.8,-84.9,9.0,Georgia,31822,86,13145,86
+639,Pine Mountain Valley,Harris County,32.81,-84.82,3.0,Georgia,31823,41,13145,86
+640,Preston,Webster County,32.1,-84.5,13.0,Georgia,31824,52,13307,64
+641,Richland,Stewart County,32.1,-84.7,13.0,Georgia,31825,76,13259,76
+642,Shiloh,Harris County,32.79,-84.69,6.0,Georgia,31826,21,13145,86
+643,Talbotton,Talbot County,32.7,-84.5,14.0,Georgia,31827,33,13263,33
+644,Upatoi,Muscogee County,32.5,-84.8,9.0,Georgia,31829,82,13215,99
+645,Warm Springs,Meriwether County,32.89,-84.73,6.0,Georgia,31830,95,13199,95
+646,Waverly Hall,Harris County,32.7,-84.7,7.0,Georgia,31831,70,13145,86
+647,Weston,Webster County,31.97,-84.6,4.0,Georgia,31832,64,13307,64
+648,West Point,Troup County,32.8,-85.1,9.0,Georgia,31833,58,13285,92
+649,Woodland,Talbot County,32.8,-84.5,10.0,Georgia,31836,8,13263,33
+650,Columbus,Muscogee County,32.47,-84.98,2.0,Georgia,31901,39,13215,99
+651,Columbus,Muscogee County,32.41,-84.95,3.0,Georgia,31903,4,13215,99
+652,Columbus,Muscogee County,32.54,-85.01,5.0,Georgia,31904,69,13215,99
+653,Fort Benning,Chattahoochee County,32.4,-84.8,13.0,Georgia,31905,84,13053,84
+654,Columbus,Muscogee County,32.47,-84.95,3.0,Georgia,31906,20,13215,99
+655,Columbus,Muscogee County,32.48,-84.87,5.0,Georgia,31907,3,13215,99
+656,Columbus,Muscogee County,32.54,-84.92,3.0,Georgia,31909,96,13215,99
+657,Arlington,Calhoun County,31.46,-84.74,5.0,Georgia,39813,96,13037,96
+658,Attapulgus,Decatur County,30.75,-84.47,6.0,Georgia,39815,60,13087,72
+659,Bainbridge,Decatur County,30.9,-84.6,12.0,Georgia,39817,72,13087,72
+660,Bainbridge,Decatur County,30.9,-84.6,14.0,Georgia,39819,25,13087,72
+661,Blakely,Early County,31.3,-84.9,16.0,Georgia,39823,20,13099,89
+662,Bluffton,Clay County,31.6,-84.9,9.0,Georgia,39824,50,13061,50
+663,Brinson,Decatur County,30.9,-84.7,11.0,Georgia,39825,71,13087,72
+664,Bronwood,Terrell County,31.82,-84.33,5.0,Georgia,39826,33,13273,86
+665,Cairo,Grady County,31.0,-84.2,7.0,Georgia,39827,66,13131,91
+666,Cairo,Grady County,30.8,-84.2,11.0,Georgia,39828,91,13131,91
+667,Climax,Decatur County,30.9,-84.4,15.0,Georgia,39834,58,13087,72
+668,Coleman,Randolph County,31.6,-84.9,8.0,Georgia,39836,79,13243,79
+669,Colquitt,Miller County,31.1,-84.7,14.0,Georgia,39837,38,13201,38
+670,Cuthbert,Randolph County,31.8,-84.8,13.0,Georgia,39840,36,13243,79
+671,Damascus,Early County,31.3,-84.7,8.0,Georgia,39841,78,13099,89
+672,Dawson,Terrell County,31.8,-84.4,12.0,Georgia,39842,86,13273,86
+673,Donalsonville,Seminole County,31.0,-84.9,17.0,Georgia,39845,3,13253,77
+674,Edison,Calhoun County,31.54,-84.75,6.0,Georgia,39846,38,13037,96
+675,Fort Gaines,Clay County,31.7,-85.0,11.0,Georgia,39851,11,13061,50
+676,Georgetown,Quitman County,31.9,-85.0,8.0,Georgia,39854,36,13239,36
+677,Iron City,Seminole County,31.0,-84.8,9.0,Georgia,39859,77,13253,77
+678,Jakin,Early County,31.2,-85.0,9.0,Georgia,39861,89,13099,89
+679,Leary,Calhoun County,31.5,-84.5,9.0,Georgia,39862,20,13037,96
+680,Morgan,Calhoun County,31.5,-84.6,9.0,Georgia,39866,0,13037,96
+681,Morris,Clay County,31.8,-85.0,8.0,Georgia,39867,18,13061,50
+682,Newton,Baker County,31.3,-84.4,17.0,Georgia,39870,14,13007,14
+683,Parrott,Terrell County,31.9,-84.5,8.0,Georgia,39877,72,13273,86
+684,Shellman,Randolph County,31.8,-84.6,12.0,Georgia,39886,70,13243,79
+685,Whigham,Grady County,30.9,-84.3,15.0,Georgia,39897,22,13131,91

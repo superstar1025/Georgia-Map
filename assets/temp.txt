@@ -1,0 +1,31 @@
+just add this: https://www.google.com/maps/place/Walmart+Supercenter/@34.4799556,-84.9453569,16z/data=!4m5!3m4!1s0x0:0x44df4356821c957f!8m2!3d34.4793896!4d-84.9453784
+
+and this: https://www.google.com/maps/place/Walmart+Supercenter/@33.9354709,-84.7304135,15z/data=!4m5!3m4!1s0x0:0x483d5f1f04229f24!8m2!3d33.9354709!4d-84.7304135
+
+the first one is in Gordon County
+
+and the second one in the Paulding County
+
+can be done?
+
+
+450 W Belmont Dr, Calhoun, GA 30701, USA
+Latitude, Longitude
+34.479210, -84.945630
+
+3615 Marietta Hwy, Dallas, GA 30157, USA
+33.935610, -84.730390
+
+
+No,Zipcode,Score,City,County,Lat,Long,State,ZipScore,CountyScore,id
+4898,30139,1,Fairmount,Gordon County,34.4,-84.7,Georgia,10,126,13129
+4899,30141,1,Hiram,Paulding County,33.86,-84.76,Georgia,65,114,13223
+
+
+
+863 Drummond St SW
+Atlanta, GA 30314, USA
+33.752935, -84.415916
+
+
+// .range(["rgb(0,47,69)", "rgb(18,84,122)", "rgb(16,125,194)", "rgb(68,164,170)", "rgb(142,192,127)", "rgb(203,203,49)", "rgb(254,193,34)", "rgb(246,145,78)", "rgb(242,116,70)", "rgb(240,93,93)"]);
