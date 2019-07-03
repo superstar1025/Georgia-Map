@@ -5,6 +5,7 @@ const TOPO_JSON = "./assets/us-counties.topojson";
 const US_COUNTIES = "./assets/us-counties.csv";
 const SPECIFIC_STATE_INFO = "./assets/georgiaMarch.csv";
 const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
+const WALMART_ICON = "./assets/walmart-green.png";
 const COLOR_1 = "#002f45";
 const COLOR_2 = "#12547a";
 const COLOR_3 = "#107dc2";
@@ -403,7 +404,8 @@ function walMartMark() {
             .attr('class', 'mark')
             .attr('width', 3)
             .attr('height', 3)
-            .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
+            // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
+            .attr("xlink:href", WALMART_ICON)
             .attr("transform", function (d) {
                 // return "translate(" + projection([d.long, d.lat]) + ")";
                 return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
