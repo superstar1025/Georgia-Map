@@ -1,0 +1,3829 @@
+[  
+    {  
+       "no":3072,
+       "name":"Snellville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.034228,
+          33.852976
+       ],
+       "streetAddress":"2912 W Main St",
+       "city":"Snellville",
+       "stateProvCode":"GA",
+       "zip":"30078",
+       "phoneNumber":"770-225-0949",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1024,
+       "name":"Swainsboro Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.330518,
+          32.588146
+       ],
+       "streetAddress":"414 S Main St",
+       "city":"Swainsboro",
+       "stateProvCode":"GA",
+       "zip":"30401",
+       "phoneNumber":"478-237-3318",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3074,
+       "name":"Lawrenceville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.085591,
+          33.922428
+       ],
+       "streetAddress":"3059 Lawrenceville Hwy",
+       "city":"Lawrenceville",
+       "stateProvCode":"GA",
+       "zip":"30044",
+       "phoneNumber":"678-259-0050",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8194,
+       "name":"Athens Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -83.486714,
+          33.938056
+       ],
+       "streetAddress":"4365 Atlanta Hwy",
+       "city":"Athens",
+       "stateProvCode":"GA",
+       "zip":"30606",
+       "phoneNumber":"706-548-3666",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":3,
+       "name":"Commerce Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.456616,
+          34.247854
+       ],
+       "streetAddress":"30983 Highway 441 S",
+       "city":"Commerce",
+       "stateProvCode":"GA",
+       "zip":"30529",
+       "phoneNumber":"706-335-7563",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":518,
+       "name":"Canton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.461178,
+          34.255416
+       ],
+       "streetAddress":"1550 Riverstone Pkwy",
+       "city":"Canton",
+       "stateProvCode":"GA",
+       "zip":"30114",
+       "phoneNumber":"770-479-9891",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4616,
+       "name":"Cleveland Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.759015,
+          34.579087
+       ],
+       "streetAddress":"260 Donald E Thurmond Pkwy",
+       "city":"Cleveland",
+       "stateProvCode":"GA",
+       "zip":"30528",
+       "phoneNumber":"706-219-2304",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":520,
+       "name":"Winder Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.756707,
+          33.990029
+       ],
+       "streetAddress":"440 Atlanta Hwy N.w.",
+       "city":"Winder",
+       "stateProvCode":"GA",
+       "zip":"30680",
+       "phoneNumber":"770-867-8642",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8202,
+       "name":"Savannah Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -81.080988,
+          31.986225
+       ],
+       "streetAddress":"1975 E Montgomery Xrd",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31406",
+       "phoneNumber":"912-352-3330",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":8203,
+       "name":"Marietta Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.521892,
+          33.948831
+       ],
+       "streetAddress":"150 Cobb Pkwy S",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30060",
+       "phoneNumber":"770-423-7018",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":7185,
+       "name":"Cumming Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.087093,
+          34.267078
+       ],
+       "streetAddress":"3655 Browns Bridge Rd",
+       "city":"Cumming",
+       "stateProvCode":"GA",
+       "zip":"30028",
+       "phoneNumber":"770-203-4860",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8211,
+       "name":"Douglasville Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.755986,
+          33.730926
+       ],
+       "streetAddress":"6995 Concourse Pkwy",
+       "city":"Douglasville",
+       "stateProvCode":"GA",
+       "zip":"30134",
+       "phoneNumber":"770-489-6167",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":8213,
+       "name":"Columbus Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.948412,
+          32.540875
+       ],
+       "streetAddress":"5448 A Whittlesey Blvd.",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31909",
+       "phoneNumber":"706-649-6799",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":1047,
+       "name":"Morrow Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.340272,
+          33.589722
+       ],
+       "streetAddress":"6065 Jonesboro Rd",
+       "city":"Morrow",
+       "stateProvCode":"GA",
+       "zip":"30260",
+       "phoneNumber":"770-968-0774",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2584,
+       "name":"Tucker Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.205036,
+          33.855743
+       ],
+       "streetAddress":"4375 Lawrenceville Hwy",
+       "city":"Tucker",
+       "stateProvCode":"GA",
+       "zip":"30084",
+       "phoneNumber":"770-939-2671",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3609,
+       "name":"Ellenwood Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.292949,
+          33.636377
+       ],
+       "streetAddress":"2940 Anvil Block Rd",
+       "city":"Ellenwood",
+       "stateProvCode":"GA",
+       "zip":"30294",
+       "phoneNumber":"404-361-6811",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":7194,
+       "name":"Adel Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.440227,
+          31.133256
+       ],
+       "streetAddress":"351 Alabama Road",
+       "city":"Adel",
+       "stateProvCode":"GA",
+       "zip":"31620",
+       "phoneNumber":"229-896-9980",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3611,
+       "name":"Marietta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.636252,
+          33.867392
+       ],
+       "streetAddress":"6520 Earnest Barrett Parkway",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30064",
+       "phoneNumber":"770-222-6666",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5151,
+       "name":"Rome Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.130382,
+          34.221331
+       ],
+       "streetAddress":"825 Cartersville Hwy Se",
+       "city":"Rome",
+       "stateProvCode":"GA",
+       "zip":"30161",
+       "phoneNumber":"706-292-0838",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8225,
+       "name":"Macon Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -83.711737,
+          32.815228
+       ],
+       "streetAddress":"4701 Log Cabin Dr",
+       "city":"Macon",
+       "stateProvCode":"GA",
+       "zip":"31204",
+       "phoneNumber":"478-788-6121",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":91683,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.35057,
+          33.82137
+       ],
+       "streetAddress":"2441 Cheshire Bridge Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30324",
+       "phoneNumber":"404-679-5743",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":548,
+       "name":"Lawrenceville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.996583,
+          33.971139
+       ],
+       "streetAddress":"630 Collins Hill Rd",
+       "city":"Lawrenceville",
+       "stateProvCode":"GA",
+       "zip":"30046",
+       "phoneNumber":"770-995-0102",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3621,
+       "name":"Chamblee Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.311428,
+          33.888542
+       ],
+       "streetAddress":"1871 Chamblee Tucker Rd",
+       "city":"Chamblee",
+       "stateProvCode":"GA",
+       "zip":"30341",
+       "phoneNumber":"770-455-0422",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1061,
+       "name":"Hazlehurst Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.586586,
+          31.861931
+       ],
+       "streetAddress":"136 E Jarman St",
+       "city":"Hazlehurst",
+       "stateProvCode":"GA",
+       "zip":"31539",
+       "phoneNumber":"912-375-3627",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":91172,
+       "name":"Woodstock FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.52861,
+          34.08691
+       ],
+       "streetAddress":"9745 Hwy 92",
+       "city":"Woodstock",
+       "stateProvCode":"GA",
+       "zip":"30188",
+       "phoneNumber":"770-517-2175",
+       "sundayOpen":true
+    },
+    {  
+       "no":1578,
+       "name":"Roswell Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.33353,
+          34.045297
+       ],
+       "streetAddress":"970 Mansell Rd",
+       "city":"Roswell",
+       "stateProvCode":"GA",
+       "zip":"30076",
+       "phoneNumber":"770-993-0533",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3627,
+       "name":"Oakwood Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.874813,
+          34.231419
+       ],
+       "streetAddress":"3875 Mundy Mill Rd",
+       "city":"Oakwood",
+       "stateProvCode":"GA",
+       "zip":"30566",
+       "phoneNumber":"770-535-6543",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":555,
+       "name":"Dublin Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.972249,
+          32.551232
+       ],
+       "streetAddress":"2423 Us Highway 80 W",
+       "city":"Dublin",
+       "stateProvCode":"GA",
+       "zip":"31021",
+       "phoneNumber":"478-272-7017",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":556,
+       "name":"Waycross Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.32106,
+          31.197949
+       ],
+       "streetAddress":"2425 Memorial Dr",
+       "city":"Waycross",
+       "stateProvCode":"GA",
+       "zip":"31503",
+       "phoneNumber":"912-283-9000",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1070,
+       "name":"East Ellijay Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.488294,
+          34.656273
+       ],
+       "streetAddress":"88 Highland Xing",
+       "city":"East Ellijay",
+       "stateProvCode":"GA",
+       "zip":"30540",
+       "phoneNumber":"706-276-1170",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3118,
+       "name":"Decatur Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.288978,
+          33.792235
+       ],
+       "streetAddress":"2525 N Decatur Rd",
+       "city":"Decatur",
+       "stateProvCode":"GA",
+       "zip":"30033",
+       "phoneNumber":"404-464-4480",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4144,
+       "name":"Augusta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.070236,
+          33.466742
+       ],
+       "streetAddress":"3338 Wrightsboro Road",
+       "city":"Augusta",
+       "stateProvCode":"GA",
+       "zip":"30909",
+       "phoneNumber":"706-941-5317",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1072,
+       "name":"Tifton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.542525,
+          31.442672
+       ],
+       "streetAddress":"1830 Us Highway 82 W",
+       "city":"Tifton",
+       "stateProvCode":"GA",
+       "zip":"31793",
+       "phoneNumber":"229-386-0263",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1586,
+       "name":"Austell Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.58697,
+          33.85557
+       ],
+       "streetAddress":"1133 Ew Connector Sw",
+       "city":"Austell",
+       "stateProvCode":"GA",
+       "zip":"30106",
+       "phoneNumber":"770-863-9300",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3635,
+       "name":"Fort Oglethorpe Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -85.2447285,
+          34.9547985
+       ],
+       "streetAddress":"1155 Battlefield Pkwy",
+       "city":"Fort Oglethorpe",
+       "stateProvCode":"GA",
+       "zip":"30742",
+       "phoneNumber":"762-887-6044",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1076,
+       "name":"Macon Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.610778,
+          32.86309
+       ],
+       "streetAddress":"1401 Gray Hwy",
+       "city":"Macon",
+       "stateProvCode":"GA",
+       "zip":"31211",
+       "phoneNumber":"478-745-3999",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5173,
+       "name":"Dalton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.998972,
+          34.786712
+       ],
+       "streetAddress":"815 Shugart Rd",
+       "city":"Dalton",
+       "stateProvCode":"GA",
+       "zip":"30720",
+       "phoneNumber":"706-281-2855",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2615,
+       "name":"Valdosta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.287605,
+          30.880763
+       ],
+       "streetAddress":"3274 Inner Perimeter Rd",
+       "city":"Valdosta",
+       "stateProvCode":"GA",
+       "zip":"31602",
+       "phoneNumber":"229-253-0312",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6204,
+       "name":"Valdosta Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -83.320764,
+          30.828568
+       ],
+       "streetAddress":"450 Norman Dr",
+       "city":"Valdosta",
+       "stateProvCode":"GA",
+       "zip":"31601",
+       "phoneNumber":"229-244-3939",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":575,
+       "name":"Woodstock Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.481231,
+          34.084165
+       ],
+       "streetAddress":"12182 Highway 92",
+       "city":"Woodstock",
+       "stateProvCode":"GA",
+       "zip":"30188",
+       "phoneNumber":"770-516-4719",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2630,
+       "name":"Jesup Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.871807,
+          31.615935
+       ],
+       "streetAddress":"1100 N 1st St",
+       "city":"Jesup",
+       "stateProvCode":"GA",
+       "zip":"31545",
+       "phoneNumber":"912-530-6335",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":588,
+       "name":"Albany Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.213742,
+          31.624849
+       ],
+       "streetAddress":"2825 Ledo Rd",
+       "city":"Albany",
+       "stateProvCode":"GA",
+       "zip":"31707",
+       "phoneNumber":"229-889-9655",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6732,
+       "name":"Valdosta Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.257543,
+          30.91561
+       ],
+       "streetAddress":"4196 Bemiss Rd",
+       "city":"Valdosta",
+       "stateProvCode":"GA",
+       "zip":"31605",
+       "phoneNumber":"229-588-7578",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5709,
+       "name":"Locust Grove Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.120553,
+          33.358138
+       ],
+       "streetAddress":"4949 Bill Gardner Pkwy",
+       "city":"Locust Grove",
+       "stateProvCode":"GA",
+       "zip":"30248",
+       "phoneNumber":"678-734-3395",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":7245,
+       "name":"Sylvester Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.8117412,
+          31.5257909
+       ],
+       "streetAddress":"1102 E Franklin",
+       "city":"Sylvester",
+       "stateProvCode":"GA",
+       "zip":"31791",
+       "phoneNumber":"229-463-6004",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5198,
+       "name":"Tifton Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.504093,
+          31.471371
+       ],
+       "streetAddress":"1810 Tift Ave N",
+       "city":"Tifton",
+       "stateProvCode":"GA",
+       "zip":"31794",
+       "phoneNumber":"229-339-8484",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":7246,
+       "name":"Cochran Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.336257,
+          32.400301
+       ],
+       "streetAddress":"366 Hwy 26 East",
+       "city":"Cochran",
+       "stateProvCode":"GA",
+       "zip":"31014",
+       "phoneNumber":"478-934-4919",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":593,
+       "name":"Douglas Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.848265,
+          31.484879
+       ],
+       "streetAddress":"1450 Bowens Mill Rd Se",
+       "city":"Douglas",
+       "stateProvCode":"GA",
+       "zip":"31533",
+       "phoneNumber":"912-384-4600",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":594,
+       "name":"Fayetteville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.443322,
+          33.481376
+       ],
+       "streetAddress":"125 Pavilion Pkwy",
+       "city":"Fayetteville",
+       "stateProvCode":"GA",
+       "zip":"30214",
+       "phoneNumber":"770-460-0947",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1111,
+       "name":"Hartwell Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.904918,
+          34.349543
+       ],
+       "streetAddress":"1572 Anderson Hwy",
+       "city":"Hartwell",
+       "stateProvCode":"GA",
+       "zip":"30643",
+       "phoneNumber":"706-376-5400",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1112,
+       "name":"Thomaston Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.333816,
+          32.912532
+       ],
+       "streetAddress":"855 N Church St",
+       "city":"Thomaston",
+       "stateProvCode":"GA",
+       "zip":"30286",
+       "phoneNumber":"706-648-2105",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4185,
+       "name":"Cumming Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.1737497,
+          34.1001327
+       ],
+       "streetAddress":"2395 Peachtree Pkwy",
+       "city":"Cumming",
+       "stateProvCode":"GA",
+       "zip":"30041",
+       "phoneNumber":"770-406-5165",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":605,
+       "name":"Savannah Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.0825278,
+          31.9867025
+       ],
+       "streetAddress":"1955 E Montgomery Xrd",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31406",
+       "phoneNumber":"912-354-0335",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":606,
+       "name":"Savannah Store",
+       "country":"US",
+       "coordinates":[  
+          -81.00334,
+          32.04225
+       ],
+       "streetAddress":"4725 Us Highway 80 E",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31410",
+       "phoneNumber":"912-898-1391",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8287,
+       "name":"Morrow Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.349206,
+          33.555625
+       ],
+       "streetAddress":"7325 Jonesboro Rd",
+       "city":"Morrow",
+       "stateProvCode":"GA",
+       "zip":"30260",
+       "phoneNumber":"706-676-2871",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":1121,
+       "name":"Milledgeville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.265246,
+          33.116273
+       ],
+       "streetAddress":"2592 N Columbia St",
+       "city":"Milledgeville",
+       "stateProvCode":"GA",
+       "zip":"31061",
+       "phoneNumber":"478-453-0667",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1122,
+       "name":"Toccoa Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.283794,
+          34.548085
+       ],
+       "streetAddress":"3886 Highway 17 S",
+       "city":"Toccoa",
+       "stateProvCode":"GA",
+       "zip":"30538",
+       "phoneNumber":"706-886-9775",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":614,
+       "name":"Lagrange Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.031485,
+          33.059904
+       ],
+       "streetAddress":"803 New Franklin Rd",
+       "city":"Lagrange",
+       "stateProvCode":"GA",
+       "zip":"30240",
+       "phoneNumber":"706-812-0225",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5735,
+       "name":"Grovetown Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.195931,
+          33.481819
+       ],
+       "streetAddress":"5010 Steiner Way",
+       "city":"Grovetown",
+       "stateProvCode":"GA",
+       "zip":"30813",
+       "phoneNumber":"706-860-8883",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":615,
+       "name":"Cartersville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.787531,
+          34.202913
+       ],
+       "streetAddress":"101 Market Place Blvd",
+       "city":"Cartersville",
+       "stateProvCode":"GA",
+       "zip":"30121",
+       "phoneNumber":"770-382-0182",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4200,
+       "name":"Columbus Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.87679,
+          32.538557
+       ],
+       "streetAddress":"6475 Gateway Road",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31909",
+       "phoneNumber":"706-563-5979",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":618,
+       "name":"Hiram Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.758895,
+          33.890811
+       ],
+       "streetAddress":"4166 Jimmy Lee Smith Pkwy",
+       "city":"Hiram",
+       "stateProvCode":"GA",
+       "zip":"30141",
+       "phoneNumber":"770-439-1028",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2154,
+       "name":"Duluth Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.150415,
+          33.970083
+       ],
+       "streetAddress":"2635 Pleasant Hill Rd",
+       "city":"Duluth",
+       "stateProvCode":"GA",
+       "zip":"30096",
+       "phoneNumber":"770-418-0162",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4206,
+       "name":"Augusta Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -82.135999,
+          33.493626
+       ],
+       "streetAddress":"300 South Belair Rd",
+       "city":"Augusta",
+       "stateProvCode":"GA",
+       "zip":"30907",
+       "phoneNumber":"706-941-5148",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3188,
+       "name":"Stone Mountain Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.195045,
+          33.799259
+       ],
+       "streetAddress":"5935 Memorial Dr",
+       "city":"Stone Mountain",
+       "stateProvCode":"GA",
+       "zip":"30083",
+       "phoneNumber":"404-260-6142",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1143,
+       "name":"Sandersville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.812239,
+          32.951903
+       ],
+       "streetAddress":"1308 S Harris St",
+       "city":"Sandersville",
+       "stateProvCode":"GA",
+       "zip":"31082",
+       "phoneNumber":"478-552-1988",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1658,
+       "name":"Thomson Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.501568,
+          33.480822
+       ],
+       "streetAddress":"2205 Harrison Rd Se",
+       "city":"Thomson",
+       "stateProvCode":"GA",
+       "zip":"30824",
+       "phoneNumber":"706-595-5530",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":635,
+       "name":"Savannah Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.258013,
+          31.99979
+       ],
+       "streetAddress":"6000 Ogeechee Rd",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31419",
+       "phoneNumber":"912-921-0882",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3709,
+       "name":"Atlanta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.312878,
+          33.719115
+       ],
+       "streetAddress":"2427 Gresham Rd Se",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30316",
+       "phoneNumber":"404-244-3034",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3710,
+       "name":"Decatur Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.268408,
+          33.757277
+       ],
+       "streetAddress":"3580 Memorial Dr",
+       "city":"Decatur",
+       "stateProvCode":"GA",
+       "zip":"30032",
+       "phoneNumber":"404-284-0500",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":639,
+       "name":"Brunswick Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.485464,
+          31.212801
+       ],
+       "streetAddress":"150 Altama Connector",
+       "city":"Brunswick",
+       "stateProvCode":"GA",
+       "zip":"31525",
+       "phoneNumber":"912-261-1616",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1153,
+       "name":"Macon Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.7177241,
+          32.8090607
+       ],
+       "streetAddress":"6020 Harrison Rd",
+       "city":"Macon",
+       "stateProvCode":"GA",
+       "zip":"31206",
+       "phoneNumber":"478-781-0086",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3201,
+       "name":"Mcdonough Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.184909,
+          33.432882
+       ],
+       "streetAddress":"135 Willow Ln",
+       "city":"Mcdonough",
+       "stateProvCode":"GA",
+       "zip":"30253",
+       "phoneNumber":"678-432-2023",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4739,
+       "name":"Snellville Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.007892,
+          33.889021
+       ],
+       "streetAddress":"1520 Scenic Hwy N",
+       "city":"Snellville",
+       "stateProvCode":"GA",
+       "zip":"30078",
+       "phoneNumber":"770-979-0492",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":5252,
+       "name":"Loganville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.911143,
+          33.840982
+       ],
+       "streetAddress":"4221 Atlanta Hwy",
+       "city":"Loganville",
+       "stateProvCode":"GA",
+       "zip":"30052",
+       "phoneNumber":"770-554-7481",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3205,
+       "name":"Lithia Springs Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.6010619,
+          33.7745093
+       ],
+       "streetAddress":"1100 Thornton Rd",
+       "city":"Lithia Springs",
+       "stateProvCode":"GA",
+       "zip":"30122",
+       "phoneNumber":"770-819-1123",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90244,
+       "name":"Norcross FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.23167,
+          33.949287
+       ],
+       "streetAddress":"4895 Peachtree Industrial Blvd",
+       "city":"Norcross",
+       "stateProvCode":"GA",
+       "zip":"30092",
+       "phoneNumber":"770-246-1061",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":2699,
+       "name":"Gainesville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.834674,
+          34.321869
+       ],
+       "streetAddress":"1435 Thompson Bridge Rd",
+       "city":"Gainesville",
+       "stateProvCode":"GA",
+       "zip":"30501",
+       "phoneNumber":"678-971-6384",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90250,
+       "name":"Duluth FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.17155,
+          34.064236
+       ],
+       "streetAddress":"11600 Medlock Bridge Rd",
+       "city":"Duluth",
+       "stateProvCode":"GA",
+       "zip":"30097",
+       "phoneNumber":"770-476-5404",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":90253,
+       "name":"Duluth FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.12658,
+          33.942036
+       ],
+       "streetAddress":"3695 Club Dr",
+       "city":"Duluth",
+       "stateProvCode":"GA",
+       "zip":"30096",
+       "phoneNumber":"770-564-2577",
+       "sundayOpen":true
+    },
+    {  
+       "no":658,
+       "name":"Rome Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.229825,
+          34.275423
+       ],
+       "streetAddress":"2510 Redmond Cir Nw",
+       "city":"Rome",
+       "stateProvCode":"GA",
+       "zip":"30165",
+       "phoneNumber":"706-236-9595",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5267,
+       "name":"Athens Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.444484,
+          33.943652
+       ],
+       "streetAddress":"3130 Atlanta Hwy",
+       "city":"Athens",
+       "stateProvCode":"GA",
+       "zip":"30606",
+       "phoneNumber":"706-715-6238",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90772,
+       "name":"Athens FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -83.41119,
+          33.94937
+       ],
+       "streetAddress":"2235 W Broad St",
+       "city":"Athens",
+       "stateProvCode":"GA",
+       "zip":"30606",
+       "phoneNumber":"706-353-8755",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":5786,
+       "name":"Jasper Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.460079,
+          34.476216
+       ],
+       "streetAddress":"1100 Old Philadelphia Rd",
+       "city":"Jasper",
+       "stateProvCode":"GA",
+       "zip":"30143",
+       "phoneNumber":"706-301-5696",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5275,
+       "name":"Woodstock Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.584433,
+          34.112862
+       ],
+       "streetAddress":"6435 Bells Ferry Rd",
+       "city":"Woodstock",
+       "stateProvCode":"GA",
+       "zip":"30189",
+       "phoneNumber":"770-926-2606",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3741,
+       "name":"Atlanta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.507908,
+          33.72837
+       ],
+       "streetAddress":"1105 Research Center Atlanta Drive Sw",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30331",
+       "phoneNumber":"404-260-6153",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1181,
+       "name":"Marietta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.488515,
+          33.909904
+       ],
+       "streetAddress":"1785 Cobb Pkwy S",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30060",
+       "phoneNumber":"770-955-0626",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":669,
+       "name":"Dalton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.92994,
+          34.76783
+       ],
+       "streetAddress":"2545 E Walnut Ave",
+       "city":"Dalton",
+       "stateProvCode":"GA",
+       "zip":"30721",
+       "phoneNumber":"706-279-1905",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1184,
+       "name":"Stone Mountain Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.1258516,
+          33.8247643
+       ],
+       "streetAddress":"1825 Rockbridge Rd",
+       "city":"Stone Mountain",
+       "stateProvCode":"GA",
+       "zip":"30087",
+       "phoneNumber":"770-469-8660",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3748,
+       "name":"Acworth Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.698029,
+          34.048696
+       ],
+       "streetAddress":"3826 Cobb Pkwy Nw",
+       "city":"Acworth",
+       "stateProvCode":"GA",
+       "zip":"30101",
+       "phoneNumber":"770-966-1226",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5797,
+       "name":"Albany Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.086699,
+          31.578974
+       ],
+       "streetAddress":"262 Cordele Rd",
+       "city":"Albany",
+       "stateProvCode":"GA",
+       "zip":"31705",
+       "phoneNumber":"229-352-9332",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1701,
+       "name":"Elberton Store",
+       "country":"US",
+       "coordinates":[  
+          -82.845258,
+          34.092012
+       ],
+       "streetAddress":"955 Elbert St",
+       "city":"Elberton",
+       "stateProvCode":"GA",
+       "zip":"30635",
+       "phoneNumber":"706-283-8660",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3750,
+       "name":"Warner Robins Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.612256,
+          32.590144
+       ],
+       "streetAddress":"502 Booth Rd",
+       "city":"Warner Robins",
+       "stateProvCode":"GA",
+       "zip":"31088",
+       "phoneNumber":"478-918-0338",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90278,
+       "name":"Smyrna FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.50571,
+          33.84177
+       ],
+       "streetAddress":"4624 Camp Highland Rd Se",
+       "city":"Smyrna",
+       "stateProvCode":"GA",
+       "zip":"30082",
+       "phoneNumber":"770-431-9851",
+       "sundayOpen":true
+    },
+    {  
+       "no":2731,
+       "name":"Gainesville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.8752864,
+          34.2801955
+       ],
+       "streetAddress":"2892 Browns Bridge Rd",
+       "city":"Gainesville",
+       "stateProvCode":"GA",
+       "zip":"30504",
+       "phoneNumber":"678-971-6367",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":7339,
+       "name":"Grovetown Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -82.207958,
+          33.455443
+       ],
+       "streetAddress":"5303-a Wrightsboro Rd",
+       "city":"Grovetown",
+       "stateProvCode":"GA",
+       "zip":"30813",
+       "phoneNumber":"762-383-6528",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2732,
+       "name":"Villa Rica Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.934926,
+          33.720124
+       ],
+       "streetAddress":"600 Carrollton Villa Rica Hwy",
+       "city":"Villa Rica",
+       "stateProvCode":"GA",
+       "zip":"30180",
+       "phoneNumber":"770-459-6601",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4780,
+       "name":"Buford Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -83.980845,
+          34.072997
+       ],
+       "streetAddress":"3383 Buford Dr",
+       "city":"Buford",
+       "stateProvCode":"GA",
+       "zip":"30519",
+       "phoneNumber":"770-831-7122",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":2733,
+       "name":"Perry Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.739099,
+          32.472626
+       ],
+       "streetAddress":"1009 Saint Patricks Dr",
+       "city":"Perry",
+       "stateProvCode":"GA",
+       "zip":"31069",
+       "phoneNumber":"478-987-1444",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":686,
+       "name":"Fitzgerald Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.248393,
+          31.689946
+       ],
+       "streetAddress":"120 Benjamin H Hill Dr W",
+       "city":"Fitzgerald",
+       "stateProvCode":"GA",
+       "zip":"31750",
+       "phoneNumber":"229-423-4353",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5812,
+       "name":"Blue Ridge Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.325777,
+          34.877099
+       ],
+       "streetAddress":"97 Commerce Drive",
+       "city":"Blue Ridge",
+       "stateProvCode":"GA",
+       "zip":"30513",
+       "phoneNumber":"706-632-9500",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5813,
+       "name":"Martinez Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -82.088197,
+          33.551564
+       ],
+       "streetAddress":"3851 Evans To Locks Road",
+       "city":"Martinez",
+       "stateProvCode":"GA",
+       "zip":"30907",
+       "phoneNumber":"706-941-5844",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4789,
+       "name":"Sharpsburg Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.624567,
+          33.400604
+       ],
+       "streetAddress":"310 Fischer Rd",
+       "city":"Sharpsburg",
+       "stateProvCode":"GA",
+       "zip":"30277",
+       "phoneNumber":"770-304-0346",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":5814,
+       "name":"Holly Springs Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.50442,
+          34.185397
+       ],
+       "streetAddress":"2200 Holly Springs Parkway",
+       "city":"Holly Springs",
+       "stateProvCode":"GA",
+       "zip":"30115",
+       "phoneNumber":"770-213-6519",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5815,
+       "name":"Marietta Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.586639,
+          33.882577
+       ],
+       "streetAddress":"2909 Austell Rd Sw Suite 100",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30008",
+       "phoneNumber":"770-615-1243",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1720,
+       "name":"Snellville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.007537,
+          33.886549
+       ],
+       "streetAddress":"1550 Scenic Hwy N",
+       "city":"Snellville",
+       "stateProvCode":"GA",
+       "zip":"30078",
+       "phoneNumber":"770-979-2447",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4283,
+       "name":"Columbus Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.949144,
+          32.522769
+       ],
+       "streetAddress":"2801 Airport Thruway",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31909",
+       "phoneNumber":"706-653-4227",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3775,
+       "name":"Atlanta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.411781,
+          33.803041
+       ],
+       "streetAddress":"1801 Howell Mill Rd Nw",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30318",
+       "phoneNumber":"404-352-5252",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1215,
+       "name":"Calhoun Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.945512,
+          34.479327
+       ],
+       "streetAddress":"450 W Belmont Dr",
+       "city":"Calhoun",
+       "stateProvCode":"GA",
+       "zip":"30701",
+       "phoneNumber":"706-625-4274",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2753,
+       "name":"Clayton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.404242,
+          34.859781
+       ],
+       "streetAddress":"1455 Highway 441 S",
+       "city":"Clayton",
+       "stateProvCode":"GA",
+       "zip":"30525",
+       "phoneNumber":"706-782-3039",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2754,
+       "name":"Waynesboro Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.024684,
+          33.107622
+       ],
+       "streetAddress":"1500 N Liberty St",
+       "city":"Waynesboro",
+       "stateProvCode":"GA",
+       "zip":"30830",
+       "phoneNumber":"706-437-8380",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4802,
+       "name":"Hiram Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.749504,
+          33.886851
+       ],
+       "streetAddress":"4798 Jimmy Lee Smith Pkwy",
+       "city":"Hiram",
+       "stateProvCode":"GA",
+       "zip":"30141",
+       "phoneNumber":"678-567-5990",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":4804,
+       "name":"Mcdonough Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.212066,
+          33.460406
+       ],
+       "streetAddress":"1765 Jonesboro Rd",
+       "city":"Mcdonough",
+       "stateProvCode":"GA",
+       "zip":"30253",
+       "phoneNumber":"770-914-0488",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":90310,
+       "name":"Roswell FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.42084,
+          34.06239
+       ],
+       "streetAddress":"4648 Woodstock Rd",
+       "city":"Roswell",
+       "stateProvCode":"GA",
+       "zip":"30075",
+       "phoneNumber":"678-352-1042",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":3786,
+       "name":"Buford Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.921922,
+          34.078384
+       ],
+       "streetAddress":"3250 Sardis Church Rd",
+       "city":"Buford",
+       "stateProvCode":"GA",
+       "zip":"30519",
+       "phoneNumber":"678-546-6464",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1227,
+       "name":"Augusta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.086122,
+          33.504905
+       ],
+       "streetAddress":"260 Bobby Jones Expy",
+       "city":"Augusta",
+       "stateProvCode":"GA",
+       "zip":"30907",
+       "phoneNumber":"706-860-0170",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":722,
+       "name":"Carrollton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.0772931,
+          33.5432197
+       ],
+       "streetAddress":"1735 S Highway 27",
+       "city":"Carrollton",
+       "stateProvCode":"GA",
+       "zip":"30117",
+       "phoneNumber":"770-834-3513",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4820,
+       "name":"Pooler Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -81.244369,
+          32.138189
+       ],
+       "streetAddress":"15 Mill Creek Cir",
+       "city":"Pooler",
+       "stateProvCode":"GA",
+       "zip":"31322",
+       "phoneNumber":"912-748-3767",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":2773,
+       "name":"Lagrange Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -85.0122579,
+          33.0405288
+       ],
+       "streetAddress":"955 Lafayette Parkway",
+       "city":"Lagrange",
+       "stateProvCode":"GA",
+       "zip":"30241",
+       "phoneNumber":"706-443-7059",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":727,
+       "name":"Cedartown Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.239825,
+          34.0463802
+       ],
+       "streetAddress":"1585 Rome Hwy",
+       "city":"Cedartown",
+       "stateProvCode":"GA",
+       "zip":"30125",
+       "phoneNumber":"770-748-1636",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90337,
+       "name":"Marietta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.414566,
+          33.97713
+       ],
+       "streetAddress":"1100 Johnson Ferry Rd",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30068",
+       "phoneNumber":"770-509-6600",
+       "sundayOpen":true
+    },
+    {  
+       "no":1766,
+       "name":"Marietta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.422495,
+          34.023274
+       ],
+       "streetAddress":"3100 Johnson Ferry Rd",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30062",
+       "phoneNumber":"770-640-7225",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":745,
+       "name":"Stockbridge Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.25538,
+          33.553185
+       ],
+       "streetAddress":"5600 N Henry Blvd",
+       "city":"Stockbridge",
+       "stateProvCode":"GA",
+       "zip":"30281",
+       "phoneNumber":"770-389-1709",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2801,
+       "name":"Albany Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.218466,
+          31.583836
+       ],
+       "streetAddress":"108 S Westover Blvd",
+       "city":"Albany",
+       "stateProvCode":"GA",
+       "zip":"31707",
+       "phoneNumber":"229-405-6804",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":754,
+       "name":"Statesboro Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.759548,
+          32.4341545
+       ],
+       "streetAddress":"147 Northside Dr E",
+       "city":"Statesboro",
+       "stateProvCode":"GA",
+       "zip":"30458",
+       "phoneNumber":"912-489-1910",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5363,
+       "name":"Lovejoy Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.3256768,
+          33.4425589
+       ],
+       "streetAddress":"11465 Tara Blvd",
+       "city":"Lovejoy",
+       "stateProvCode":"GA",
+       "zip":"30250",
+       "phoneNumber":"770-471-4451",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90866,
+       "name":"Macon FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -83.68949,
+          32.89752
+       ],
+       "streetAddress":"181 Tom Hill Sr Blvd",
+       "city":"Macon",
+       "stateProvCode":"GA",
+       "zip":"31210",
+       "phoneNumber":"478-474-1246",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":756,
+       "name":"Trion Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.316582,
+          34.521761
+       ],
+       "streetAddress":"13427 Highway 27",
+       "city":"Trion",
+       "stateProvCode":"GA",
+       "zip":"30753",
+       "phoneNumber":"706-734-2931",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":758,
+       "name":"Americus Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.202197,
+          32.060471
+       ],
+       "streetAddress":"1711 E Lamar St",
+       "city":"Americus",
+       "stateProvCode":"GA",
+       "zip":"31709",
+       "phoneNumber":"229-928-0653",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2811,
+       "name":"Athens Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.30886,
+          33.934232
+       ],
+       "streetAddress":"4375 Lexington Rd",
+       "city":"Athens",
+       "stateProvCode":"GA",
+       "zip":"30605",
+       "phoneNumber":"706-355-3966",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6409,
+       "name":"Tucker Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.202325,
+          33.840208
+       ],
+       "streetAddress":"1940 Mountain Industrial Blvd",
+       "city":"Tucker",
+       "stateProvCode":"GA",
+       "zip":"30084",
+       "phoneNumber":"770-908-8408",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":780,
+       "name":"Monroe Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.742318,
+          33.798413
+       ],
+       "streetAddress":"2050 W Spring St",
+       "city":"Monroe",
+       "stateProvCode":"GA",
+       "zip":"30655",
+       "phoneNumber":"770-267-4527",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1293,
+       "name":"Augusta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.062901,
+          33.424433
+       ],
+       "streetAddress":"3209 Deans Bridge Rd",
+       "city":"Augusta",
+       "stateProvCode":"GA",
+       "zip":"30906",
+       "phoneNumber":"706-792-9323",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5390,
+       "name":"Marietta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.521428,
+          33.945801
+       ],
+       "streetAddress":"210 Cobb Pkwy S",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30060",
+       "phoneNumber":"770-429-9029",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5392,
+       "name":"Baxley Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.364662,
+          31.786216
+       ],
+       "streetAddress":"980 W Parker St",
+       "city":"Baxley",
+       "stateProvCode":"GA",
+       "zip":"31513",
+       "phoneNumber":"912-367-3117",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":787,
+       "name":"Riverdale Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.410314,
+          33.562448
+       ],
+       "streetAddress":"7050 Highway 85",
+       "city":"Riverdale",
+       "stateProvCode":"GA",
+       "zip":"30274",
+       "phoneNumber":"770-994-1670",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5907,
+       "name":"Columbus Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.910145,
+          32.468844
+       ],
+       "streetAddress":"4909 Buena Vista Rd",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31907",
+       "phoneNumber":"706-223-6914",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90388,
+       "name":"Lawrenceville FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.03631,
+          33.96952
+       ],
+       "streetAddress":"2003 Riverside Pkwy",
+       "city":"Lawrenceville",
+       "stateProvCode":"GA",
+       "zip":"30043",
+       "phoneNumber":"678-442-1884",
+       "sundayOpen":true
+    },
+    {  
+       "no":2840,
+       "name":"Brunswick Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -81.487474,
+          31.193456
+       ],
+       "streetAddress":"11 Glynn Plaza",
+       "city":"Brunswick",
+       "stateProvCode":"GA",
+       "zip":"31520",
+       "phoneNumber":"912-602-6145",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1311,
+       "name":"Columbus Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.945814,
+          32.540884
+       ],
+       "streetAddress":"5448 Whittlesey Blvd Ste B",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31909",
+       "phoneNumber":"706-322-8801",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90913,
+       "name":"East Point FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.5006,
+          33.656036
+       ],
+       "streetAddress":"3515 Camp Creek Pkwy",
+       "city":"East Point",
+       "stateProvCode":"GA",
+       "zip":"30344",
+       "phoneNumber":"404-344-5225",
+       "sundayOpen":true
+    },
+    {  
+       "no":90912,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.257324,
+          33.848495
+       ],
+       "streetAddress":"4805 Briarcliff Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30345",
+       "phoneNumber":"770-270-1544",
+       "sundayOpen":true
+    },
+    {  
+       "no":3874,
+       "name":"Dawsonville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.041709,
+          34.3549547
+       ],
+       "streetAddress":"98 Power Center Dr",
+       "city":"Dawsonville",
+       "stateProvCode":"GA",
+       "zip":"30534",
+       "phoneNumber":"706-265-8787",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1314,
+       "name":"Buford Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.989918,
+          34.08896
+       ],
+       "streetAddress":"3795 Buford Dr",
+       "city":"Buford",
+       "stateProvCode":"GA",
+       "zip":"30519",
+       "phoneNumber":"770-271-8210",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2858,
+       "name":"Statesboro Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -81.768958,
+          32.411345
+       ],
+       "streetAddress":"349 Brampton Ave",
+       "city":"Statesboro",
+       "stateProvCode":"GA",
+       "zip":"30458",
+       "phoneNumber":"912-489-2750",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2860,
+       "name":"Pooler Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.243874,
+          32.143954
+       ],
+       "streetAddress":"160 Pooler Pkwy",
+       "city":"Pooler",
+       "stateProvCode":"GA",
+       "zip":"31322",
+       "phoneNumber":"912-748-2677",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5422,
+       "name":"Bainbridge Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.571098,
+          30.889931
+       ],
+       "streetAddress":"500 E Alice St",
+       "city":"Bainbridge",
+       "stateProvCode":"GA",
+       "zip":"39819",
+       "phoneNumber":"229-246-2404",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":91439,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.38612,
+          33.792416
+       ],
+       "streetAddress":"1375 Peachtree St Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30309",
+       "phoneNumber":"404-876-4752",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":91438,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.35325,
+          33.773815
+       ],
+       "streetAddress":"1047 Ponce De Leon Ave",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30306",
+       "phoneNumber":"404-876-2076",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":91442,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.38839,
+          33.756706
+       ],
+       "streetAddress":"100 Peachtree St Nw",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30303",
+       "phoneNumber":"404-221-0000",
+       "sundayOpen":true
+    },
+    {  
+       "no":2360,
+       "name":"Dunwoody Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.3332,
+          33.9333
+       ],
+       "streetAddress":"4725 Ashford Dunwoody Rd",
+       "city":"Dunwoody",
+       "stateProvCode":"GA",
+       "zip":"30338",
+       "phoneNumber":"770-395-0199",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4409,
+       "name":"Rockmart Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.030381,
+          34.013127
+       ],
+       "streetAddress":"1801 Nathan Dean Byp",
+       "city":"Rockmart",
+       "stateProvCode":"GA",
+       "zip":"30153",
+       "phoneNumber":"678-757-8766",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1338,
+       "name":"Columbus Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.945113,
+          32.423808
+       ],
+       "streetAddress":"3515 Victory Drive",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31903",
+       "phoneNumber":"706-568-3222",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3388,
+       "name":"Lawrenceville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.025181,
+          33.936752
+       ],
+       "streetAddress":"1400 Lawrenceville Hwy",
+       "city":"Lawrenceville",
+       "stateProvCode":"GA",
+       "zip":"30044",
+       "phoneNumber":"770-682-1992",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1340,
+       "name":"Lithonia Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.166977,
+          33.700533
+       ],
+       "streetAddress":"5401 Fairington Rd",
+       "city":"Lithonia",
+       "stateProvCode":"GA",
+       "zip":"30038",
+       "phoneNumber":"770-593-3540",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3389,
+       "name":"Snellville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.046785,
+          33.807876
+       ],
+       "streetAddress":"3435 Centerville Hwy",
+       "city":"Snellville",
+       "stateProvCode":"GA",
+       "zip":"30039",
+       "phoneNumber":"770-972-7572",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90947,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.462,
+          33.879852
+       ],
+       "streetAddress":"2980 Cobb Pkwy",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30339",
+       "phoneNumber":"770-272-1583",
+       "sundayOpen":true
+    },
+    {  
+       "no":90946,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.47568,
+          33.864933
+       ],
+       "streetAddress":"2676 Paces Ferry Rd Se",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30339",
+       "phoneNumber":"678-556-9511",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":836,
+       "name":"Saint Marys Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.618596,
+          30.778436
+       ],
+       "streetAddress":"6586 Ga Highway 40 E",
+       "city":"Saint Marys",
+       "stateProvCode":"GA",
+       "zip":"31558",
+       "phoneNumber":"912-510-9216",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4421,
+       "name":"Columbus Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.895833,
+          32.552444
+       ],
+       "streetAddress":"7400 Blackmon Rd",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31909",
+       "phoneNumber":"706-330-5213",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":840,
+       "name":"Warner Robins Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.64289,
+          32.6254
+       ],
+       "streetAddress":"515 N Houston Rd",
+       "city":"Warner Robins",
+       "stateProvCode":"GA",
+       "zip":"31093",
+       "phoneNumber":"478-273-6996",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3401,
+       "name":"College Park Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.472179,
+          33.586866
+       ],
+       "streetAddress":"6149 Old National Hwy",
+       "city":"College Park",
+       "stateProvCode":"GA",
+       "zip":"30349",
+       "phoneNumber":"770-994-9440",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2890,
+       "name":"Macon Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.759967,
+          32.882928
+       ],
+       "streetAddress":"5955 Zebulon Rd",
+       "city":"Macon",
+       "stateProvCode":"GA",
+       "zip":"31210",
+       "phoneNumber":"478-471-9150",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3402,
+       "name":"Stockbridge Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.235582,
+          33.507466
+       ],
+       "streetAddress":"1400 Hudson Bridge Rd",
+       "city":"Stockbridge",
+       "stateProvCode":"GA",
+       "zip":"30281",
+       "phoneNumber":"770-474-0123",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4426,
+       "name":"Columbus Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.977565,
+          32.506142
+       ],
+       "streetAddress":"1042 Manchester Expy",
+       "city":"Columbus",
+       "stateProvCode":"GA",
+       "zip":"31904",
+       "phoneNumber":"706-330-5452",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":843,
+       "name":"Camilla Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.198478,
+          31.23577
+       ],
+       "streetAddress":"165 Us Highway 19 S",
+       "city":"Camilla",
+       "stateProvCode":"GA",
+       "zip":"31730",
+       "phoneNumber":"229-336-0920",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3403,
+       "name":"Dallas Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.730256,
+          33.935634
+       ],
+       "streetAddress":"3615 Marietta Hwy",
+       "city":"Dallas",
+       "stateProvCode":"GA",
+       "zip":"30157",
+       "phoneNumber":"770-445-2141",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1363,
+       "name":"Madison Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.480021,
+          33.56619
+       ],
+       "streetAddress":"1681 Eatonton Rd",
+       "city":"Madison",
+       "stateProvCode":"GA",
+       "zip":"30650",
+       "phoneNumber":"706-342-9988",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4436,
+       "name":"Alpharetta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.24936,
+          34.150322
+       ],
+       "streetAddress":"5455 Atlanta Hwy",
+       "city":"Alpharetta",
+       "stateProvCode":"GA",
+       "zip":"30004",
+       "phoneNumber":"770-475-4101",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6998,
+       "name":"East Point Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.416522,
+          33.678363
+       ],
+       "streetAddress":"844 Cleveland Avenue",
+       "city":"East Point",
+       "stateProvCode":"GA",
+       "zip":"30344",
+       "phoneNumber":"404-460-6177",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":855,
+       "name":"Union City Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.5418153,
+          33.5731692
+       ],
+       "streetAddress":"4735 Jonesboro Rd",
+       "city":"Union City",
+       "stateProvCode":"GA",
+       "zip":"30291",
+       "phoneNumber":"770-964-6921",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1367,
+       "name":"Warner Robins Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.673274,
+          32.621467
+       ],
+       "streetAddress":"2720 Watson Blvd",
+       "city":"Warner Robins",
+       "stateProvCode":"GA",
+       "zip":"31093",
+       "phoneNumber":"478-953-7070",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":856,
+       "name":"Bremen Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.163517,
+          33.70787
+       ],
+       "streetAddress":"404 Hwy 27 No. Bypas",
+       "city":"Bremen",
+       "stateProvCode":"GA",
+       "zip":"30110",
+       "phoneNumber":"770-537-5531",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":858,
+       "name":"Cairo Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.2035475,
+          30.8870711
+       ],
+       "streetAddress":"361 8th Ave Ne",
+       "city":"Cairo",
+       "stateProvCode":"GA",
+       "zip":"39828",
+       "phoneNumber":"229-377-1394",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1373,
+       "name":"Lilburn Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.110453,
+          33.90295
+       ],
+       "streetAddress":"4004 Lawrenceville Hwy Nw",
+       "city":"Lilburn",
+       "stateProvCode":"GA",
+       "zip":"30047",
+       "phoneNumber":"770-921-9224",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":862,
+       "name":"Hinesville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.601756,
+          31.826074
+       ],
+       "streetAddress":"751 W Oglethorpe Hwy",
+       "city":"Hinesville",
+       "stateProvCode":"GA",
+       "zip":"31313",
+       "phoneNumber":"912-369-3600",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":864,
+       "name":"Vidalia Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.362284,
+          32.202161
+       ],
+       "streetAddress":"3109 E 1st St",
+       "city":"Vidalia",
+       "stateProvCode":"GA",
+       "zip":"30474",
+       "phoneNumber":"912-537-0889",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":90977,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.37937,
+          33.92658
+       ],
+       "streetAddress":"6280 Roswell Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30328",
+       "phoneNumber":"404-257-1881",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":90981,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.42827,
+          33.84745
+       ],
+       "streetAddress":"3401 Northside Pkwy Nw",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30327",
+       "phoneNumber":"404-262-9393",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":90980,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.36711,
+          33.82505
+       ],
+       "streetAddress":"2561 Piedmont Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30324",
+       "phoneNumber":"404-816-3139",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5482,
+       "name":"Eatonton Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.388909,
+          33.295546
+       ],
+       "streetAddress":"201 Walmart Dr",
+       "city":"Eatonton",
+       "stateProvCode":"GA",
+       "zip":"31024",
+       "phoneNumber":"706-485-5052",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6506,
+       "name":"Albany Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.208916,
+          31.617244
+       ],
+       "streetAddress":"1201 N Westover Blvd",
+       "city":"Albany",
+       "stateProvCode":"GA",
+       "zip":"31707",
+       "phoneNumber":"229-888-3400",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":6509,
+       "name":"Rome Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -85.230783,
+          34.272458
+       ],
+       "streetAddress":"2550 Redmond Cir Nw",
+       "city":"Rome",
+       "stateProvCode":"GA",
+       "zip":"30165",
+       "phoneNumber":"706-236-9765",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":878,
+       "name":"Cumming Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.129022,
+          34.183876
+       ],
+       "streetAddress":"1500 Market Place Blvd",
+       "city":"Cumming",
+       "stateProvCode":"GA",
+       "zip":"30041",
+       "phoneNumber":"770-889-3436",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4472,
+       "name":"Lithonia Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.084863,
+          33.694644
+       ],
+       "streetAddress":"8424 Mall Parkway",
+       "city":"Lithonia",
+       "stateProvCode":"GA",
+       "zip":"30038",
+       "phoneNumber":"770-225-0428",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1400,
+       "name":"Athens Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.445494,
+          33.919842
+       ],
+       "streetAddress":"1911 Epps Bridge Pkwy",
+       "city":"Athens",
+       "stateProvCode":"GA",
+       "zip":"30606",
+       "phoneNumber":"706-549-1423",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":889,
+       "name":"Thomasville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.94478,
+          30.859931
+       ],
+       "streetAddress":"15328 Us Highway 19 S",
+       "city":"Thomasville",
+       "stateProvCode":"GA",
+       "zip":"31757",
+       "phoneNumber":"229-228-0144",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1403,
+       "name":"Cornelia Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.531914,
+          34.536413
+       ],
+       "streetAddress":"250 Furniture Dr",
+       "city":"Cornelia",
+       "stateProvCode":"GA",
+       "zip":"30531",
+       "phoneNumber":"706-778-0353",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2941,
+       "name":"Alpharetta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.274352,
+          34.093816
+       ],
+       "streetAddress":"5200 Windward Pkwy",
+       "city":"Alpharetta",
+       "stateProvCode":"GA",
+       "zip":"30004",
+       "phoneNumber":"770-772-9033",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":91008,
+       "name":"Savannah FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -81.09242,
+          32.078835
+       ],
+       "streetAddress":"5 W Broughton St",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31401",
+       "phoneNumber":"912-443-1901",
+       "sundayOpen":true
+    },
+    {  
+       "no":899,
+       "name":"Valdosta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.31968,
+          30.826047
+       ],
+       "streetAddress":"340 Norman Dr",
+       "city":"Valdosta",
+       "stateProvCode":"GA",
+       "zip":"31601",
+       "phoneNumber":"229-249-8400",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3461,
+       "name":"Peachtree City Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.599962,
+          33.401226
+       ],
+       "streetAddress":"2717 Highway 54",
+       "city":"Peachtree City",
+       "stateProvCode":"GA",
+       "zip":"30269",
+       "phoneNumber":"770-632-6373",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3462,
+       "name":"Suwanee Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.050564,
+          34.03644
+       ],
+       "streetAddress":"3245 Lawrenceville Suwanee Rd",
+       "city":"Suwanee",
+       "stateProvCode":"GA",
+       "zip":"30024",
+       "phoneNumber":"678-482-5441",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":907,
+       "name":"Forsyth Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.94326,
+          33.042326
+       ],
+       "streetAddress":"180 N Lee St",
+       "city":"Forsyth",
+       "stateProvCode":"GA",
+       "zip":"31029",
+       "phoneNumber":"478-994-0163",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":91018,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.35858,
+          33.853043
+       ],
+       "streetAddress":"3637 Peachtree Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30319",
+       "phoneNumber":"404-233-1329",
+       "sundayOpen":true
+    },
+    {  
+       "no":3471,
+       "name":"Acworth Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.658026,
+          34.028451
+       ],
+       "streetAddress":"3105 Cobb Pkwy Nw",
+       "city":"Acworth",
+       "stateProvCode":"GA",
+       "zip":"30152",
+       "phoneNumber":"770-974-9291",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":5010,
+       "name":"Atlanta Pharmacy",
+       "country":"US",
+       "coordinates":[  
+          -84.4240045,
+          33.6562283
+       ],
+       "streetAddress":"1030 Delta Blvd",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30354",
+       "phoneNumber":"404-305-8890",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":920,
+       "name":"Warner Robins Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -83.696237,
+          32.580056
+       ],
+       "streetAddress":"3009 Russell Parkway",
+       "city":"Warner Robins",
+       "stateProvCode":"GA",
+       "zip":"31088",
+       "phoneNumber":"478-333-7031",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3485,
+       "name":"Blairsville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.998011,
+          34.863923
+       ],
+       "streetAddress":"2257 Hwy 515",
+       "city":"Blairsville",
+       "stateProvCode":"GA",
+       "zip":"30512",
+       "phoneNumber":"706-835-2881",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2465,
+       "name":"Hephzibah Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -82.0730206,
+          33.3788255
+       ],
+       "streetAddress":"3697 Windsor Spring Rd",
+       "city":"Hephzibah",
+       "stateProvCode":"GA",
+       "zip":"30815",
+       "phoneNumber":"706-691-0575",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":932,
+       "name":"Griffin Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.2967,
+          33.272396
+       ],
+       "streetAddress":"1569 N Expressway",
+       "city":"Griffin",
+       "stateProvCode":"GA",
+       "zip":"30223",
+       "phoneNumber":"770-229-5040",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4517,
+       "name":"Albany Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.174185,
+          31.613341
+       ],
+       "streetAddress":"2586 N Slappey Blvd",
+       "city":"Albany",
+       "stateProvCode":"GA",
+       "zip":"31701",
+       "phoneNumber":"229-405-7032",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4519,
+       "name":"Hinesville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -81.579257,
+          31.851129
+       ],
+       "streetAddress":"801-a East General Stewart Way",
+       "city":"Hinesville",
+       "stateProvCode":"GA",
+       "zip":"31313",
+       "phoneNumber":"912-255-6010",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":937,
+       "name":"Marietta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.55707,
+          34.019289
+       ],
+       "streetAddress":"2795 Chastain Meadows Pkwy",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30066",
+       "phoneNumber":"770-427-4933",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2475,
+       "name":"Conyers Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.996654,
+          33.652864
+       ],
+       "streetAddress":"1436 Dogwood Dr Se",
+       "city":"Conyers",
+       "stateProvCode":"GA",
+       "zip":"30013",
+       "phoneNumber":"770-860-8544",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2988,
+       "name":"La Fayette Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.273411,
+          34.746325
+       ],
+       "streetAddress":"2625 No. Hwy 27",
+       "city":"La Fayette",
+       "stateProvCode":"GA",
+       "zip":"30728",
+       "phoneNumber":"706-639-4900",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4525,
+       "name":"Hinesville Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -81.605653,
+          31.796834
+       ],
+       "streetAddress":"1422 W Oglethorpe Hwy Ste A",
+       "city":"Hinesville",
+       "stateProvCode":"GA",
+       "zip":"31313",
+       "phoneNumber":"912-877-9810",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4527,
+       "name":"Waycross Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -82.346165,
+          31.220298
+       ],
+       "streetAddress":"1630 Plant Ave",
+       "city":"Waycross",
+       "stateProvCode":"GA",
+       "zip":"31501",
+       "phoneNumber":"912-584-6085",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4528,
+       "name":"Dalton Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.968896,
+          34.762529
+       ],
+       "streetAddress":"98 West Walnut Ave",
+       "city":"Dalton",
+       "stateProvCode":"GA",
+       "zip":"30720",
+       "phoneNumber":"762-209-5010",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1458,
+       "name":"Fort Oglethorpe Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -85.216181,
+          34.936522
+       ],
+       "streetAddress":"3040 Battlefield Pkwy",
+       "city":"Fort Oglethorpe",
+       "stateProvCode":"GA",
+       "zip":"30742",
+       "phoneNumber":"706-861-4698",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4530,
+       "name":"Savannah Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -81.13094,
+          31.983726
+       ],
+       "streetAddress":"10530 Abercorn St",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31419",
+       "phoneNumber":"912-712-7007",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8115,
+       "name":"Augusta Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -82.084456,
+          33.500371
+       ],
+       "streetAddress":"596 Bobby Jones Expy",
+       "city":"Augusta",
+       "stateProvCode":"GA",
+       "zip":"30907",
+       "phoneNumber":"706-863-7846",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":952,
+       "name":"Moultrie Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.757943,
+          31.170209
+       ],
+       "streetAddress":"641 Veterans Pkwy S",
+       "city":"Moultrie",
+       "stateProvCode":"GA",
+       "zip":"31788",
+       "phoneNumber":"229-985-6648",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6592,
+       "name":"Savannah Pharmacy",
+       "country":"US",
+       "coordinates":[  
+          -81.184185,
+          32.127124
+       ],
+       "streetAddress":"251 Robert B Miller Rd",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31408",
+       "phoneNumber":"912-964-9851",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3008,
+       "name":"Atlanta Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.413627,
+          33.755828
+       ],
+       "streetAddress":"835 Martin Luther King Jr Drive Nw",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30314",
+       "phoneNumber":"404-460-2703",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":459,
+       "name":"Covington Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.830231,
+          33.610856
+       ],
+       "streetAddress":"10300 Industrial Blvd Ne",
+       "city":"Covington",
+       "stateProvCode":"GA",
+       "zip":"30014",
+       "phoneNumber":"770-787-8030",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4556,
+       "name":"Savannah Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.173508,
+          31.980865
+       ],
+       "streetAddress":"14030 Abercorn St",
+       "city":"Savannah",
+       "stateProvCode":"GA",
+       "zip":"31419",
+       "phoneNumber":"912-344-9664",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":4558,
+       "name":"Covington Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.959197,
+          33.577117
+       ],
+       "streetAddress":"4200 Salem Rd",
+       "city":"Covington",
+       "stateProvCode":"GA",
+       "zip":"30016",
+       "phoneNumber":"678-212-3195",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1488,
+       "name":"Douglasville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.756492,
+          33.732555
+       ],
+       "streetAddress":"7001 Concourse Pkwy",
+       "city":"Douglasville",
+       "stateProvCode":"GA",
+       "zip":"30134",
+       "phoneNumber":"770-489-7057",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":2513,
+       "name":"Dahlonega Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.972401,
+          34.538663
+       ],
+       "streetAddress":"270 Walmart Way",
+       "city":"Dahlonega",
+       "stateProvCode":"GA",
+       "zip":"30533",
+       "phoneNumber":"706-867-6912",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":91610,
+       "name":"Suwanee FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.087814,
+          34.052895
+       ],
+       "streetAddress":"991 Peachtree Industrial Blvd",
+       "city":"Suwanee",
+       "stateProvCode":"GA",
+       "zip":"30024",
+       "phoneNumber":"678-546-2477",
+       "sundayOpen":true,
+       "timezone":"EDT"
+    },
+    {  
+       "no":91613,
+       "name":"Atlanta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.39374,
+          33.80756
+       ],
+       "streetAddress":"1929 Peachtree Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30309",
+       "phoneNumber":"404-355-9143",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":8158,
+       "name":"Woodstock Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.520361,
+          34.089182
+       ],
+       "streetAddress":"9464 Main Street",
+       "city":"Woodstock",
+       "stateProvCode":"GA",
+       "zip":"30188",
+       "phoneNumber":"678-402-0541",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":91616,
+       "name":"Johns Creek FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.18632,
+          34.01306
+       ],
+       "streetAddress":"5950 State Bridge Rd",
+       "city":"Johns Creek",
+       "stateProvCode":"GA",
+       "zip":"30097",
+       "phoneNumber":"770-813-1230",
+       "sundayOpen":true
+    },
+    {  
+       "no":8166,
+       "name":"Duluth Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.136753,
+          33.950372
+       ],
+       "streetAddress":"3450 Steve Reynolds Blvd",
+       "city":"Duluth",
+       "stateProvCode":"GA",
+       "zip":"30096",
+       "phoneNumber":"770-497-1165",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":90088,
+       "name":"Alpharetta FedEx Pickup Location",
+       "country":"US",
+       "coordinates":[  
+          -84.2376,
+          34.059956
+       ],
+       "streetAddress":"4150 Old Milton Pkwy",
+       "city":"Alpharetta",
+       "stateProvCode":"GA",
+       "zip":"30005",
+       "phoneNumber":"770-619-7081",
+       "sundayOpen":true
+    },
+    {  
+       "no":7658,
+       "name":"Brunswick Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -81.495746,
+          31.231663
+       ],
+       "streetAddress":"10100 Canal Crossing",
+       "city":"Brunswick",
+       "stateProvCode":"GA",
+       "zip":"31525",
+       "phoneNumber":"912-602-6815",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":1006,
+       "name":"Cordele Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.761891,
+          31.964712
+       ],
+       "streetAddress":"1215 E 16th Ave",
+       "city":"Cordele",
+       "stateProvCode":"GA",
+       "zip":"31015",
+       "phoneNumber":"229-273-9270",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":494,
+       "name":"Newnan Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.743664,
+          33.393498
+       ],
+       "streetAddress":"1025 Highway 34 E",
+       "city":"Newnan",
+       "stateProvCode":"GA",
+       "zip":"30265",
+       "phoneNumber":"770-502-0677",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3570,
+       "name":"Evans Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -82.142287,
+          33.545794
+       ],
+       "streetAddress":"4469 Washington Rd",
+       "city":"Evans",
+       "stateProvCode":"GA",
+       "zip":"30809",
+       "phoneNumber":"706-854-9892",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":1011,
+       "name":"Rincon Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -81.225781,
+          32.274694
+       ],
+       "streetAddress":"434 S Columbia Ave",
+       "city":"Rincon",
+       "stateProvCode":"GA",
+       "zip":"31326",
+       "phoneNumber":"912-826-4030",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":6643,
+       "name":"Atlanta Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.311301,
+          33.842713
+       ],
+       "streetAddress":"2901 Clairmont Rd Ne",
+       "city":"Atlanta",
+       "stateProvCode":"GA",
+       "zip":"30329",
+       "phoneNumber":"404-325-4000",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":6644,
+       "name":"Oakwood Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -83.873794,
+          34.230013
+       ],
+       "streetAddress":"3839 Mundy Mill Rd",
+       "city":"Oakwood",
+       "stateProvCode":"GA",
+       "zip":"30566",
+       "phoneNumber":"770-532-8884",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":6646,
+       "name":"Alpharetta Sam's Club",
+       "country":"US",
+       "coordinates":[  
+          -84.315064,
+          34.043337
+       ],
+       "streetAddress":"10600 Davis Dr",
+       "city":"Alpharetta",
+       "stateProvCode":"GA",
+       "zip":"30009",
+       "phoneNumber":"770-992-4568",
+       "sundayOpen":false,
+       "timezone":"EST"
+    },
+    {  
+       "no":1018,
+       "name":"Eastman Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.177707,
+          32.178956
+       ],
+       "streetAddress":"1099 Indian Dr",
+       "city":"Eastman",
+       "stateProvCode":"GA",
+       "zip":"31023",
+       "phoneNumber":"478-374-7782",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3067,
+       "name":"Norcross Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -84.194157,
+          33.894961
+       ],
+       "streetAddress":"4975 Jimmy Carter Blvd",
+       "city":"Norcross",
+       "stateProvCode":"GA",
+       "zip":"30093",
+       "phoneNumber":"770-225-9882",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3069,
+       "name":"Marietta Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.463068,
+          33.98091
+       ],
+       "streetAddress":"3101 Roswell Road",
+       "city":"Marietta",
+       "stateProvCode":"GA",
+       "zip":"30062",
+       "phoneNumber":"678-695-4959",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3070,
+       "name":"Dunwoody Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.269679,
+          33.94189
+       ],
+       "streetAddress":"5025 Winters Chapel Rd",
+       "city":"Dunwoody",
+       "stateProvCode":"GA",
+       "zip":"30360",
+       "phoneNumber":"770-280-0193",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":510,
+       "name":"Gainesville Supercenter",
+       "country":"US",
+       "coordinates":[  
+          -83.8506,
+          34.2917
+       ],
+       "streetAddress":"400 Shallowford Rd Nw",
+       "city":"Gainesville",
+       "stateProvCode":"GA",
+       "zip":"30504",
+       "phoneNumber":"770-503-9300",
+       "sundayOpen":true,
+       "timezone":"EST"
+    },
+    {  
+       "no":3071,
+       "name":"Tucker Neighborhood Market",
+       "country":"US",
+       "coordinates":[  
+          -84.218458,
+          33.88378
+       ],
+       "streetAddress":"3201 Tucker Norcross Rd",
+       "city":"Tucker",
+       "stateProvCode":"GA",
+       "zip":"30084",
+       "phoneNumber":"770-225-6010",
+       "sundayOpen":true,
+       "timezone":"EST"
+    }
+ ]

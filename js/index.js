@@ -4,6 +4,7 @@
 const TOPO_JSON = "./assets/us-counties.topojson";
 const US_COUNTIES = "./assets/us-counties.csv";
 const SPECIFIC_STATE_INFO = "./assets/georgiaMarch.csv";
+const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
 const COLOR_1 = "#002f45";
 const COLOR_2 = "#12547a";
 const COLOR_3 = "#107dc2";
@@ -390,89 +391,24 @@ function legend() {
 }
 
 function walMartMark() {
-    var marks = [
-        {
-            long: -84.945630,
-            lat: 34.479210
-        },
-        {
-            long: -84.730390,
-            lat: 33.935610
-        },
-        {
-            long: -84.415916,
-            lat: 33.752935
-        },
-        {   
-            long: -84.542804,
-            lat: 34.272744,
-            county: "Canton",
-            state: "Georgia"
-        },
-        {   
-            long: -83.968956,
-            lat: 35.018706,
-            address: "541900380933000, Murphy, NC 28902, USA",
-            code: "229J+FC Brasstown, North Carolina, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -82.896989,
-            lat: 34.516757,
-            address: "100004006, SC 29689, USA",
-            code: "G483+P6 Fair Play, South Carolina, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -84.474569,
-            lat: 34.265157,
-            address: "Canton, GA, USA",
-            code: "7G8G+35 Canton, Georgia, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -84.980556,
-            lat: 33.857662,
-            address: "Paulding County, GA, USA",
-            code: "V259+3Q Dallas, Georgia, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -84.735034,
-            lat: 33.882023,
-            address: "Hiram, GA 30141, USA",
-            code: "V7J7+RX Hiram, Georgia, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -84.712272,
-            lat: 33.916604,
-            address: "1602 Flowering Dogwood Dr, Powder Springs, GA 30127, USA",
-            code: "W78Q+J3 Powder Springs, Georgia, USA",
-            state: "Georgia"
-        },
-        {   
-            long: -84.712272,
-            lat: 33.916604,
-            address: "1602 Flowering Dogwood Dr, Powder Springs, GA 30127, USA",
-            code: "W78Q+J3 Powder Springs, Georgia, USA",
-            state: "Georgia"
-        }
+    
+    d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
 
-    ];
-    g.append("g")
-        .attr("id", "walmart")
-        .selectAll(".mark")
-        .data(marks)
-        .enter()
-        .append("image")
-        .attr('class', 'mark')
-        .attr('width', 3)
-        .attr('height', 3)
-        .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
-        .attr("transform", function (d) {
-            return "translate(" + projection([d.long, d.lat]) + ")";
-        });
+        g.append("g")
+            .attr("id", "walmart")
+            .selectAll(".mark")
+            .data(georgiaWalmarts)
+            .enter()
+            .append("image")
+            .attr('class', 'mark')
+            .attr('width', 3)
+            .attr('height', 3)
+            .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
+            .attr("transform", function (d) {
+                // return "translate(" + projection([d.long, d.lat]) + ")";
+                return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
+            });
+    })
 
 }
 
