@@ -20,6 +20,9 @@ const COLOR_10 = "#f05d5d";
 
 var stateInfo = SPECIFIC_STATE_INFO;
 var centered;
+var zoomable = false;
+var georgiaCityData = null;
+var georgiaWalmartData = null;
 
 var margin = {
     top: 10,
@@ -41,7 +44,12 @@ svg.append('rect')
     .attr('class', 'background center-container')
     .attr('height', height + margin.top + margin.bottom)
     .attr('width', width + margin.left + margin.right)
-    // .on('click', clicked);
+    .on('click', function (d) {
+        const instance = this;
+        if (zoomable) {
+            clicked(d, instance);
+        }
+    })
 
 var usMapData = null;
 
@@ -65,6 +73,8 @@ d3.json(TOPO_JSON, {
     usMapData = us;
     ready(us, stateInfo);
 });
+
+toogleZoom();
 
 var projection = d3.geoAlbersUsa()
     .translate([width / 2, height / 2])
@@ -105,7 +115,9 @@ function ready(us, stateInfo) {
                 cityData = citydata;
                 mainMapDraw(us, cityData, usCountiesData);
                 if (cityData.length == 0) {
-                    walMartMark();
+                    if(!zoomable) {
+                        walMartMark();
+                    }
                 }
                 legend();
             });
@@ -154,10 +166,14 @@ function mainMapDraw(us, cityData, data) {
             } else if (getCounty[0] && getCounty[0].state == undefined) {
                 color = "#fec122";
             }
-            // console.log(color)
             return color;
         })
-        // .on("click", clicked)
+        .on('click', function (d) {
+            const instance = this;
+            if (zoomable) {
+                clicked(d, instance);
+            }
+        })
         .on("mousemove", function (d) {
 
             var getCity = window.lodash.filter(data, function (o) {
@@ -214,7 +230,12 @@ function mainMapDraw(us, cityData, data) {
         .attr("d", path)
         .attr("class", "state")
         .attr("fill", "none")
-        // .on("click", clicked)
+        .on('click', function (d) {
+            const instance = this;
+            if (zoomable) {
+                clicked(d, instance);
+            }
+        })
 
     g.append("path")
         .datum(topojson.mesh(us, us.objects.states, function (a, b) { return a !== b; }))
@@ -226,9 +247,9 @@ function mainMapDraw(us, cityData, data) {
         // list of state FIPS codes
         return d.id === 13; //Georgia
     });
-    
+
     centeredMap(georgia[0]);
-    
+
 
 }
 
@@ -391,8 +412,62 @@ function legend() {
         .text(function (d) { return d; });
 }
 
+function zoomWalmartMark(d) {
+    var locationMarkData = [];
+
+    $('.city-marked').css("display", "none");
+    // $('.county-boundary').css("fill", "#aaa");
+
+    if (georgiaCityData && georgiaWalmartData) {
+        var getCity = window.lodash.filter(georgiaCityData, function (o) {
+            return o.id == d.id;
+        });
+
+        getCity.map((item, key) => {
+            var walmart = window.lodash.filter(georgiaWalmartData, function (o) {
+                return o.zip == item.ZipCode;
+            });
+
+            if (walmart.length > 0) {
+                locationMarkData.push(walmart[0])
+            }
+        })
+
+        locationMark(locationMarkData, d);
+
+        $('.city-marked-' + d.id).css("display", "block");
+    } else {
+        d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
+
+            georgiaWalmartData = georgiaWalmarts;
+
+            d3.csv(SPECIFIC_STATE_INFO).then((cityData) => {
+                georgiaCityData = cityData;
+                var getCity = window.lodash.filter(cityData, function (o) {
+                    return o.id == d.id;
+                });
+
+                getCity.map((item, key) => {
+                    var walmart = window.lodash.filter(georgiaWalmarts, function (o) {
+                        return o.zip == item.ZipCode;
+                    });
+
+                    if (walmart.length > 0) {
+                        locationMarkData.push(walmart[0])
+                    }
+                })
+
+                locationMark(locationMarkData, d);
+
+                $('.city-marked-' + d.id).css("display", "block");
+            });
+        });
+    }
+
+}
+
 function walMartMark() {
-    
+
     d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
 
         g.append("g")
@@ -414,81 +489,75 @@ function walMartMark() {
 
 }
 
-function cityMark() {
-    d3.csv(SPECIFIC_STATE_INFO).then((cityData) => {
+function locationMark(data, d) {
+    g.append("g")
+        .attr("id", "walmart")
+        .selectAll(".mark")
+        .data(data)
+        .enter()
+        .append("image")
+        .attr('class', "mark county-boundary city-marked city-marked-" + d.id)
+        .attr('width', 3)
+        .attr('height', 3)
+        // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
+        .attr("xlink:href", WALMART_ICON)
+        .attr("transform", function (d) {
+            // return "translate(" + projection([d.long, d.lat]) + ")";
+            return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
+        })
+        .on("click", reset)
+        .on("mouseover", function (d) {
+            var html = "";
+            html += "<div class=\"tooltip_kv\">";
+            html += "<span class=\"tooltip_key\">";
+            html += "<span class=\"tooltip_walmart\">WalMart Info</span>";
+            html += "<br/>";
+            html += "Name: " + d.name;
+            html += "<br/>";
+            html += "Country: " + d.country;
+            html += "<br/>";
+            html += "StreetAddress: " + d.streetAddress;
+            html += "<br/>";
+            html += "City: " + d.city;
+            html += "<br/>";
+            html += "StateProvCode: " + d.stateProvCode;
+            html += "<br/>";
+            html += "Zip: " + d.zip;
+            html += "<br/>";
+            html += "PhoneNumber: " + d.phoneNumber;
+            html += "<br/>";
+            html += "SundayOpen: " + d.sundayOpen;
+            html += "<br/>";
+            html += "Timezone: " + d.timezone;
+            html += "</span>";
+            html += "<span class=\"tooltip_value\">";
+            html += "";
+            html += "</span>";
+            html += "</div>";
 
-        g.append("g")
-            .attr("id", "cities")
-            .selectAll("circle")
-            .data(cityData)
-            .enter().append("circle")
-            .attr("class", "county-boundary")
-            .attr("cx", function (d) {
-                return projection([d.Long, d.Lat])[0];
-            })
-            .attr("cy", function (d) {
-                return projection([d.Long, d.Lat])[1];
-            })
-            .attr("r", function (d) {
-                return Math.sqrt(d.ZipScore * 0.01) * 0.5;
-            })
-            .style("fill", function (d) {
-                color = '#' + Math.floor(Math.random() * Math.pow(2, 32) ^ 0xffffff).toString(16).substr(-6);
-                // color = '#000';
-                // color = '#aaa';
-                // color = colorRange(d.ZipScore);
-                return color;
-            })
-            .style("opacity", 1.0)
-            .style("display", "block")
-            // .style("stroke", "#aaa")
-            .style("stroke-width", 0.1)
-            .on("click", reset)
-            .on("mouseover", function (d) {
-                var html = "";
-                html += "<div class=\"tooltip_kv\">";
-                html += "<span class=\"tooltip_key\">";
-                html += "State: " + d.State;
-                html += "<br/>";
-                html += "County: " + d.County;
-                html += "<br/>";
-                html += "City: " + d.City;
-                html += "<br/>";
-                html += "ZipCode: " + d.ZipCode;
-                html += "<br/>";
-                html += "ZipScore: " + d.ZipScore;
-                html += "</span>";
-                html += "<span class=\"tooltip_value\">";
-                html += "";
-                html += "</span>";
-                html += "</div>";
+            $("#tooltip-container").html(html);
+            $(this).attr("fill-opacity", "1.0");
+            $("#tooltip-container").show();
 
-                $("#tooltip-container").html(html);
-                $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").show();
+            var coordinates = d3.mouse(this);
 
-                var coordinates = d3.mouse(this);
+            var map_width = $('.viz-svg')[0].getBoundingClientRect().width;
+            if (d3.event.layerX < map_width / 2) {
+                d3.select("#tooltip-container")
+                    .style("top", (d3.event.layerY + 15) + "px")
+                    .style("left", (d3.event.layerX + 15) + "px");
+            } else {
+                var tooltip_width = $("#tooltip-container").width();
+                d3.select("#tooltip-container")
+                    .style("top", (d3.event.layerY + 15) + "px")
+                    .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
+            }
+        })
+        .on("mouseout", function () {
+            $(this).attr("fill-opacity", "1.0");
+            $("#tooltip-container").hide();
+        });
 
-                var map_width = $('.viz-svg')[0].getBoundingClientRect().width;
-                if (d3.event.layerX < map_width / 2) {
-                    d3.select("#tooltip-container")
-                        .style("top", (d3.event.layerY + 15) + "px")
-                        .style("left", (d3.event.layerX + 15) + "px");
-                } else {
-                    var tooltip_width = $("#tooltip-container").width();
-                    d3.select("#tooltip-container")
-                        .style("top", (d3.event.layerY + 15) + "px")
-                        .style("left", (d3.event.layerX - tooltip_width - 30) + "px");
-                }
-            })
-            .on("mouseout", function () {
-                $(this).attr("fill-opacity", "1.0");
-                $("#tooltip-container").hide();
-            });
-
-
-        $('.city-marked-' + d.id).css("display", "block");
-    });
 }
 
 function colorRange(score) {
@@ -542,13 +611,13 @@ function colorGeneratorbyMinMax(data) {
     return ramp;
 }
 
-function clicked(d) {
-    if (d3.select('.background').node() === this) return reset();
+function clicked(d, instance) {
+    if (d3.select('.background').node() === instance) return reset();
 
-    if (active.node() === this) return reset();
+    if (active.node() === instance) return reset();
 
     active.classed("active", false);
-    active = d3.select(this).classed("active", true);
+    active = d3.select(instance).classed("active", true);
 
     var bounds = path.bounds(d),
         dx = bounds[1][0] - bounds[0][0],
@@ -567,7 +636,8 @@ function clicked(d) {
 
 
     if (cityData.length != 0) {
-        citiesMark(d);
+        // citiesMark(d);
+        zoomWalmartMark(d);
     }
 
 }
@@ -623,10 +693,17 @@ function centeredMap(d) {
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
         .style("stroke-width", 1.5 / k + "px");
 
-    setTimeout(function() {
+    setTimeout(function () {
         // cityMark();
-        walMartMark();
+        if(!zoomable) {
+            walMartMark();
+        }
     }, 500);
-    
+}
 
+function toogleZoom() {
+    $(".toogle-switch").click(function (e) {
+        zoomable = e.target.checked;
+        mainMapDraw(usMapData, cityData, usCountiesData);
+    })
 }
