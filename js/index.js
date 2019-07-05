@@ -5,7 +5,8 @@ const TOPO_JSON = "./assets/us-counties.topojson";
 const US_COUNTIES = "./assets/us-counties.csv";
 const SPECIFIC_STATE_INFO = "./assets/georgiaMarch.csv";
 const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
-const WALMART_ICON = "./assets/walmart-green.png";
+// const WALMART_ICON = "./assets/image-pin.png";
+const WALMART_ICON = "./assets/walmart-pin-lightgreen.png";
 const COLOR_1 = "#002f45";
 const COLOR_2 = "#12547a";
 const COLOR_3 = "#107dc2";
@@ -29,14 +30,14 @@ var margin = {
     bottom: 10,
     left: 10,
     right: 10
-}, width = parseInt(d3.select('.viz').style('width'))
+}, width = parseInt(d3.select('.georgia-viz').style('width'))
     , width = width - margin.left - margin.right
     , mapRatio = 0.5
     , height = width * mapRatio
     , active = d3.select(null);
 
-var svg = d3.select('.viz').append('svg')
-    .attr('class', 'center-container viz-svg')
+var svg = d3.select('.georgia-viz').append('svg')
+    .attr('class', 'center-container georgia-viz-svg')
     .attr('height', height + margin.top + margin.bottom)
     .attr('width', width + margin.left + margin.right);
 
@@ -205,7 +206,7 @@ function mainMapDraw(us, cityData, data) {
 
             var coordinates = d3.mouse(this);
 
-            var map_width = $('.viz-svg')[0].getBoundingClientRect().width;
+            var map_width = $('.georgia-viz-svg')[0].getBoundingClientRect().width;
             if (d3.event.layerX < map_width / 2) {
                 d3.select("#tooltip-container")
                     .style("top", (d3.event.layerY + 15) + "px")
@@ -314,7 +315,7 @@ function citiesMark(d) {
 
                 var coordinates = d3.mouse(this);
 
-                var map_width = $('.viz-svg')[0].getBoundingClientRect().width;
+                var map_width = $('.georgia-viz-svg')[0].getBoundingClientRect().width;
                 if (d3.event.layerX < map_width / 2) {
                     d3.select("#tooltip-container")
                         .style("top", (d3.event.layerY + 15) + "px")
@@ -477,8 +478,8 @@ function walMartMark() {
             .enter()
             .append("image")
             .attr('class', 'mark')
-            .attr('width', 3)
-            .attr('height', 3)
+            .attr('width', 5)
+            .attr('height', 5)
             // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
             .attr("xlink:href", WALMART_ICON)
             .attr("transform", function (d) {
@@ -497,8 +498,8 @@ function locationMark(data, d) {
         .enter()
         .append("image")
         .attr('class', "mark county-boundary city-marked city-marked-" + d.id)
-        .attr('width', 3)
-        .attr('height', 3)
+        .attr('width', 1)
+        .attr('height', 1)
         // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
         .attr("xlink:href", WALMART_ICON)
         .attr("transform", function (d) {
@@ -541,7 +542,7 @@ function locationMark(data, d) {
 
             var coordinates = d3.mouse(this);
 
-            var map_width = $('.viz-svg')[0].getBoundingClientRect().width;
+            var map_width = $('.georgia-viz-svg')[0].getBoundingClientRect().width;
             if (d3.event.layerX < map_width / 2) {
                 d3.select("#tooltip-container")
                     .style("top", (d3.event.layerY + 15) + "px")
