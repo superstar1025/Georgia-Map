@@ -425,7 +425,7 @@ function zoomWalmartMark(d) {
 
         getCity.map((item, key) => {
             var walmart = window.lodash.filter(georgiaWalmartData, function (o) {
-                return o.zip == item.ZipCode;
+                return o.zip == item.Zipcode;
             });
 
             if (walmart.length > 0) {
@@ -448,7 +448,7 @@ function zoomWalmartMark(d) {
 
                 getCity.map((item, key) => {
                     var walmart = window.lodash.filter(georgiaWalmarts, function (o) {
-                        return o.zip == item.ZipCode;
+                        return o.zip == item.Zipcode;
                     });
 
                     if (walmart.length > 0) {
@@ -708,8 +708,8 @@ function centeredMap(d) {
 
     if (d && centered !== d) {
         var centroid = path.centroid(d);
-        x = centroid[0] - 20;
-        y = centroid[1] - 3;
+        x = centroid[0];
+        y = centroid[1];
         k = 5.9;
         centered = d;
     } else {
