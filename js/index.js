@@ -3,10 +3,9 @@
 // --- config --- //
 const TOPO_JSON = "./assets/us-counties.topojson";
 const US_COUNTIES = "./assets/us-counties.csv";
-const SPECIFIC_STATE_INFO = "./assets/georgiaMarch.csv";
+const SPECIFIC_STATE_INFO = "./assets/Georgia-data/georgia_March.csv";
 const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
-const WALMART_ICON = "./assets/walmart-white1.png";
-// const WALMART_ICON = "./assets/walmart-pin-lightgreen.png";
+const WALMART_ICON = "./assets/icons/walmart-white1.png";
 const COLOR_1 = "#002f45";
 const COLOR_2 = "#12547a";
 const COLOR_3 = "#107dc2";
@@ -98,9 +97,9 @@ var legend_obj = svg.append("g")
 
 $('.import-btn').click(function (e) {
     if (e.target.name === 'NoData') {
-        stateInfo = './assets/georgia' + e.target.name + '.csv';
+        stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
     } else {
-        stateInfo = './assets/georgia' + e.target.name + '.csv';
+        stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
     }
     ready(usMapData, stateInfo);
 })
@@ -276,13 +275,13 @@ function citiesMark(d) {
                 return projection([d.Long, d.Lat])[1];
             })
             .attr("r", function (d) {
-                return Math.sqrt(d.ZipScore * 0.01) * 0.5;
+                return Math.sqrt(d.CountyScore * 0.01) * 0.5;
             })
             .style("fill", function (d) {
                 color = '#' + Math.floor(Math.random() * Math.pow(2, 32) ^ 0xffffff).toString(16).substr(-6);
                 // color = '#000';
                 // color = '#aaa';
-                // color = colorRange(d.ZipScore);
+                // color = colorRange(d.CountyScore);
                 return color;
             })
             .style("opacity", 1.0)
@@ -302,7 +301,7 @@ function citiesMark(d) {
                 html += "<br/>";
                 html += "ZipCode: " + d.ZipCode;
                 html += "<br/>";
-                html += "ZipScore: " + d.ZipScore;
+                html += "CountyScore: " + d.CountyScore;
                 html += "</span>";
                 html += "<span class=\"tooltip_value\">";
                 html += "";
@@ -563,38 +562,73 @@ function locationMark(data, d) {
 
 function colorRange(score) {
     var color = "#fff";
-    if (0 < score && score <= 60) {
+    if (0 < score && score <= 400) {
         color = COLOR_1;
-    } else if (60 < score && score <= 120) {
+    } else if (400 < score && score <= 800) {
         color = COLOR_2;
     }
-    else if (120 < score && score <= 180) {
+    else if (800 < score && score <= 1200) {
         color = COLOR_3;
     }
-    else if (180 < score && score <= 240) {
+    else if (1200 < score && score <= 1600) {
         color = COLOR_4;
     }
-    else if (240 < score && score <= 300) {
+    else if (1600 < score && score <= 2000) {
         color = COLOR_5;
     }
-    else if (300 < score && score <= 360) {
+    else if (2000 < score && score <= 2400) {
         color = COLOR_6;
     }
-    else if (360 < score && score <= 420) {
+    else if (2400 < score && score <= 2800) {
         color = COLOR_7;
     }
-    else if (420 < score && score <= 480) {
+    else if (2800 < score && score <= 3200) {
         color = COLOR_8;
     }
-    else if (480 < score && score <= 540) {
+    else if (3200 < score && score <= 3600) {
         color = COLOR_9;
     }
-    else if (540 < score && score <= 600) {
+    else if (3600 < score && score <= 4000) {
         color = COLOR_10;
     }
 
     return color;
 }
+
+// function colorRange(score) {
+//     var color = "#fff";
+//     if (0 < score && score <= 60) {
+//         color = COLOR_1;
+//     } else if (60 < score && score <= 120) {
+//         color = COLOR_2;
+//     }
+//     else if (120 < score && score <= 180) {
+//         color = COLOR_3;
+//     }
+//     else if (180 < score && score <= 240) {
+//         color = COLOR_4;
+//     }
+//     else if (240 < score && score <= 300) {
+//         color = COLOR_5;
+//     }
+//     else if (300 < score && score <= 360) {
+//         color = COLOR_6;
+//     }
+//     else if (360 < score && score <= 420) {
+//         color = COLOR_7;
+//     }
+//     else if (420 < score && score <= 480) {
+//         color = COLOR_8;
+//     }
+//     else if (480 < score && score <= 540) {
+//         color = COLOR_9;
+//     }
+//     else if (540 < score && score <= 600) {
+//         color = COLOR_10;
+//     }
+
+//     return color;
+// }
 
 function colorGeneratorbyMinMax(data) {
     var lowColor = '#44A4AA';
