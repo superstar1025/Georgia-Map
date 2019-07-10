@@ -476,8 +476,8 @@ function walMartMark() {
             .enter()
             .append("image")
             .attr('class', 'mark')
-            .attr('width', 5)
-            .attr('height', 5)
+            .attr('width', 3)
+            .attr('height', 3)
             // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
             .attr("xlink:href", WALMART_ICON)
             .attr("transform", function (d) {
@@ -709,7 +709,7 @@ function centeredMap(d) {
     if (d && centered !== d) {
         var centroid = path.centroid(d);
         x = centroid[0];
-        y = centroid[1];
+        y = centroid[1]-5;
         k = 5.9;
         centered = d;
     } else {
