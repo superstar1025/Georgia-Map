@@ -382,7 +382,7 @@ function legend_line() {
 }
 
 function legend() {
-    var legendText = ["1 - 60", "60 - 120", "120 - 180", "180 - 240", "240 - 300", "300 - 360", "360 - 420", "420 - 480", "480 - 540", "540 - 600"];
+    var legendText = ["1 - 400", "400 - 800", "800 - 1200", "1200 - 1600", "1600 - 2000", "2000 - 2400", "2400 - 2800", "2800 - 3200", "3200 - 3600", "3600 - 4000"];
     var color = d3.scaleLinear()
         .range([COLOR_1, COLOR_2, COLOR_3, COLOR_4, COLOR_5, COLOR_6, COLOR_7, COLOR_8, COLOR_9, COLOR_10]);
 
