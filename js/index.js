@@ -432,7 +432,6 @@ function zoomWalmartMark(d) {
                 locationMarkData.push(walmart[0])
             }
         })
-
         locationMark(locationMarkData, d);
 
         $('.city-marked-' + d.id).css("display", "block");
@@ -709,7 +708,7 @@ function centeredMap(d) {
 
     if (d && centered !== d) {
         var centroid = path.centroid(d);
-        x = centroid[0];
+        x = centroid[0] - 20;
         y = centroid[1] - 3;
         k = 5.9;
         centered = d;
