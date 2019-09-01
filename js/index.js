@@ -160,7 +160,14 @@ $('.import-btn').click(function (e) {
 $('.select-state').change(function (e) {
     selectedState = e.target.value;
     console.log(selectedState)
-    location.href = location.href + "&state=" + selectedState;
+    var route = location.href.toString();
+    var newURL = route;
+    if (route.split('?state=')[1]) {
+        newURL = location.origin + location.pathname + '?state=' + selectedState;
+    } else {
+        newURL = route + '?state=' + selectedState;    
+    }
+    location.replace(newURL);
     // initStateConfig(selectedState);
     // ready(usMapData, stateInfo);
 })
@@ -749,8 +756,6 @@ function getUrlVars() {
 
 // initial state config
 function initStateConfig(state) {
-    console.log('state ==========>', state)
-    console.log(STATE_CONFIGURATIONS[state])
     STATE_NAME = STATE_CONFIGURATIONS[state].state_name;
     SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[state].specific_state_info;
     STATE_FIPS = STATE_CONFIGURATIONS[state].state_fips;
@@ -758,3 +763,11 @@ function initStateConfig(state) {
     CENTERED_X = STATE_CONFIGURATIONS[state].centered_x;
     CENTERED_Y = STATE_CONFIGURATIONS[state].centered_y;
 }
+
+$(document).ready(function() {
+    var route = location.href.toString();
+    var state = route.split('?state=')[1];
+    if (state) {
+        $('.select-state select').val(state);
+    }
+})
