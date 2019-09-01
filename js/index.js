@@ -15,7 +15,7 @@ const STATE_CONFIGURATIONS = {
         state_fips: 48,
         map_ratio: 1.2,
         centered_x: 0,
-        centered_y: -5
+        centered_y: 11
     },
     Florida: {
         specific_state_info : './assets/Florida-data/florida_July.csv',
@@ -23,7 +23,7 @@ const STATE_CONFIGURATIONS = {
         state_fips: 12,
         map_ratio: 0.7,
         centered_x: -20,
-        centered_y: 18
+        centered_y: 30
     },
     Michigan: {
         specific_state_info : './assets/Michigan-data/michigan_July.csv',
@@ -31,7 +31,7 @@ const STATE_CONFIGURATIONS = {
         state_fips: 26,
         map_ratio: 0.8,
         centered_x: 0,
-        centered_y: -5
+        centered_y: -2
     }
 }
 var selectedState = getUrlVars()["state"] == undefined ? 'Georgia' : getUrlVars()["state"];
