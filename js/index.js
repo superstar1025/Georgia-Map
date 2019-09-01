@@ -1,9 +1,61 @@
 // Cusom Map JS
+// Specific US state configuration data
+const STATE_CONFIGURATIONS = {
+    Georgia: {
+        specific_state_info : './assets/Georgia-data/georgia_March.csv',
+        state_name: 'Georgia',
+        state_fips: 13,
+        map_ratio: 0.5,
+        centered_x: 0,
+        centered_y: -5
+    },
+    Texas: {
+        specific_state_info : './assets/Texas-data/texas_July.csv',
+        state_name: 'Texas',
+        state_fips: 48,
+        map_ratio: 1.2,
+        centered_x: 0,
+        centered_y: -5
+    },
+    Florida: {
+        specific_state_info : './assets/Florida-data/florida_July.csv',
+        state_name: 'Florida',
+        state_fips: 12,
+        map_ratio: 0.7,
+        centered_x: -20,
+        centered_y: 18
+    },
+    Michigan: {
+        specific_state_info : './assets/Michigan-data/michigan_July.csv',
+        state_name: 'Michigan',
+        state_fips: 26,
+        map_ratio: 0.8,
+        centered_x: 0,
+        centered_y: -5
+    }
+}
+var selectedState = getUrlVars()["state"] == undefined ? 'Georgia' : getUrlVars()["state"];
 
 // --- config --- //
 const TOPO_JSON = "./assets/us-counties.topojson";
 const US_COUNTIES = "./assets/us-counties.csv";
-const SPECIFIC_STATE_INFO = "./assets/Georgia-data/georgia_March.csv";
+
+const CURRENT_STATE = selectedState;
+const STATE_NAME = STATE_CONFIGURATIONS[CURRENT_STATE].state_name;
+const SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[CURRENT_STATE].specific_state_info;
+const STATE_FIPS = STATE_CONFIGURATIONS[CURRENT_STATE].state_fips;
+const MAP_RATIO = STATE_CONFIGURATIONS[CURRENT_STATE].map_ratio;
+const CENTERED_X = STATE_CONFIGURATIONS[CURRENT_STATE].centered_x;
+const CENTERED_Y = STATE_CONFIGURATIONS[CURRENT_STATE].centered_y;
+
+// var CURRENT_STATE = selectedState;
+// var STATE_NAME = STATE_CONFIGURATIONS[CURRENT_STATE].state_name;
+// var SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[CURRENT_STATE].specific_state_info;
+// var STATE_FIPS = STATE_CONFIGURATIONS[CURRENT_STATE].state_fips;
+// var MAP_RATIO = STATE_CONFIGURATIONS[CURRENT_STATE].map_ratio;
+// var CENTERED_X = STATE_CONFIGURATIONS[CURRENT_STATE].centered_x;
+// var CENTERED_Y = STATE_CONFIGURATIONS[CURRENT_STATE].centered_y;
+
 const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
 const WALMART_ICON = "./assets/icons/walmart-white1.png";
 const COLOR_1 = "#002f45";
@@ -31,8 +83,9 @@ var margin = {
     right: 10
 }, width = parseInt(d3.select('.georgia-viz').style('width'))
     , width = width - margin.left - margin.right
-    , mapRatio = 0.5
+    , mapRatio = MAP_RATIO
     , height = width * mapRatio
+    // , height = $(document).height()
     , active = d3.select(null);
 
 var svg = d3.select('.georgia-viz').append('svg')
@@ -104,6 +157,14 @@ $('.import-btn').click(function (e) {
     ready(usMapData, stateInfo);
 })
 
+$('.select-state').change(function (e) {
+    selectedState = e.target.value;
+    console.log(selectedState)
+    location.href = location.href + "&state=" + selectedState;
+    // initStateConfig(selectedState);
+    // ready(usMapData, stateInfo);
+})
+
 var usCountiesData = null;
 var cityData = null;
 
@@ -133,7 +194,7 @@ function mainMapDraw(us, cityData, data) {
                 return o.id == d.id;
             });
             if (getCounty[0] && getCounty[0].state !== undefined) {
-                if (getCounty[0].state === "Georgia") {
+                if (getCounty[0].state === STATE_NAME) {
                     return true;
                 } else {
                     return false;
@@ -154,12 +215,12 @@ function mainMapDraw(us, cityData, data) {
             });
             var color = "#002F45";
             if (getCounty[0] && getCounty[0].state !== undefined) {
-                if (getCounty[0].state === "Georgia") {
+                if (getCounty[0].state === STATE_NAME) {
                     var getCountyScore = window.lodash.filter(cityData, function (o) {
                         return o.id == getCounty[0].id;
                     });
-                    // color = '#' + Math.floor(Math.random() * Math.pow(2, 32) ^ 0xffffff).toString(16).substr(-6);
-                    color = colorRange(getCountyScore[0] == undefined ? "#002F45" : getCountyScore[0].CountyScore);
+                    color = getCountyScore.length > 0 ? 
+                        colorRange(getCountyScore[0] == undefined ? "#002F45" : getCountyScore[0].CountyScore) : '#002F45';
                 } else {
                     color = "#002F45";
                 }
@@ -175,7 +236,6 @@ function mainMapDraw(us, cityData, data) {
             }
         })
         .on("mousemove", function (d) {
-
             var getCity = window.lodash.filter(data, function (o) {
                 return o.id == d.id;
             });
@@ -245,19 +305,15 @@ function mainMapDraw(us, cityData, data) {
     var states = topojson.feature(us, us.objects.states).features;
     var georgia = states.filter(function (d) {
         // list of state FIPS codes
-        return d.id === 13; //Georgia
+        return d.id === STATE_FIPS;
     });
 
     centeredMap(georgia[0]);
-
-
 }
 
 function citiesMark(d) {
     $('.city-marked').css("display", "none");
-    // $('.county-boundary').css("fill", "#aaa");
     d3.csv(SPECIFIC_STATE_INFO).then((cityData) => {
-
         var getCity = window.lodash.filter(cityData, function (o) {
             return o.id == d.id;
         });
@@ -279,14 +335,10 @@ function citiesMark(d) {
             })
             .style("fill", function (d) {
                 color = '#' + Math.floor(Math.random() * Math.pow(2, 32) ^ 0xffffff).toString(16).substr(-6);
-                // color = '#000';
-                // color = '#aaa';
-                // color = colorRange(d.CountyScore);
                 return color;
             })
             .style("opacity", 1.0)
             .style("display", "block")
-            // .style("stroke", "#aaa")
             .style("stroke-width", 0.1)
             .on("click", reset)
             .on("mouseover", function (d) {
@@ -388,7 +440,6 @@ function legend() {
 
     color.domain([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
 
-
     var legend = d3.select("body").append("svg")
         .attr("class", "legend")
         .attr("width", 140)
@@ -414,9 +465,7 @@ function legend() {
 
 function zoomWalmartMark(d) {
     var locationMarkData = [];
-
     $('.city-marked').css("display", "none");
-    // $('.county-boundary').css("fill", "#aaa");
 
     if (georgiaCityData && georgiaWalmartData) {
         var getCity = window.lodash.filter(georgiaCityData, function (o) {
@@ -437,7 +486,6 @@ function zoomWalmartMark(d) {
         $('.city-marked-' + d.id).css("display", "block");
     } else {
         d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
-
             georgiaWalmartData = georgiaWalmarts;
 
             d3.csv(SPECIFIC_STATE_INFO).then((cityData) => {
@@ -468,7 +516,6 @@ function zoomWalmartMark(d) {
 function walMartMark() {
 
     d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
-
         g.append("g")
             .attr("id", "walmart")
             .selectAll(".mark")
@@ -478,14 +525,11 @@ function walMartMark() {
             .attr('class', 'mark')
             .attr('width', 3)
             .attr('height', 3)
-            // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
             .attr("xlink:href", WALMART_ICON)
             .attr("transform", function (d) {
-                // return "translate(" + projection([d.long, d.lat]) + ")";
                 return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
             });
     })
-
 }
 
 function locationMark(data, d) {
@@ -498,10 +542,8 @@ function locationMark(data, d) {
         .attr('class', "mark county-boundary city-marked city-marked-" + d.id)
         .attr('width', 1)
         .attr('height', 1)
-        // .attr("xlink:href", 'https://static.wixstatic.com/media/20c715_dc20b5f240f149678f72c5c7710b817a~mv2.png')
         .attr("xlink:href", WALMART_ICON)
         .attr("transform", function (d) {
-            // return "translate(" + projection([d.long, d.lat]) + ")";
             return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
         })
         .on("click", reset)
@@ -556,7 +598,6 @@ function locationMark(data, d) {
             $(this).attr("fill-opacity", "1.0");
             $("#tooltip-container").hide();
         });
-
 }
 
 function colorRange(score) {
@@ -594,46 +635,9 @@ function colorRange(score) {
     return color;
 }
 
-// function colorRange(score) {
-//     var color = "#fff";
-//     if (0 < score && score <= 60) {
-//         color = COLOR_1;
-//     } else if (60 < score && score <= 120) {
-//         color = COLOR_2;
-//     }
-//     else if (120 < score && score <= 180) {
-//         color = COLOR_3;
-//     }
-//     else if (180 < score && score <= 240) {
-//         color = COLOR_4;
-//     }
-//     else if (240 < score && score <= 300) {
-//         color = COLOR_5;
-//     }
-//     else if (300 < score && score <= 360) {
-//         color = COLOR_6;
-//     }
-//     else if (360 < score && score <= 420) {
-//         color = COLOR_7;
-//     }
-//     else if (420 < score && score <= 480) {
-//         color = COLOR_8;
-//     }
-//     else if (480 < score && score <= 540) {
-//         color = COLOR_9;
-//     }
-//     else if (540 < score && score <= 600) {
-//         color = COLOR_10;
-//     }
-
-//     return color;
-// }
-
 function colorGeneratorbyMinMax(data) {
     var lowColor = '#44A4AA';
     var highColor = '#F05D5D';
-    // var lowColor = '#f9f9f9'
-    // var highColor = '#bc2a66'
     var dataArray = [];
     for (var d = 0; d < data.length; d++) {
         dataArray.push(parseFloat(data[d].CountyScore))
@@ -670,7 +674,6 @@ function clicked(d, instance) {
 
 
     if (cityData.length != 0) {
-        // citiesMark(d);
         zoomWalmartMark(d);
     }
 
@@ -691,16 +694,9 @@ function reset() {
     // georgia centered map
     var states = topojson.feature(usMapData, usMapData.objects.states).features;
     var georgia = states.filter(function (d) {
-        return d.id === 13; //Georgia
+        return d.id === STATE_FIPS; //Georgia
     });
     centeredMap(georgia[0]);
-
-    // walMartMark();
-
-    // setTimeout(function () {
-    //     mainMapDraw(usMapData, cityData, usCountiesData);
-    //     // walMartMark();
-    // }, 100)
 }
 
 function centeredMap(d) {
@@ -708,8 +704,8 @@ function centeredMap(d) {
 
     if (d && centered !== d) {
         var centroid = path.centroid(d);
-        x = centroid[0];
-        y = centroid[1]-5;
+        x = centroid[0] + CENTERED_X;
+        y = centroid[1] + CENTERED_Y;
         k = 5.9;
         centered = d;
     } else {
@@ -728,7 +724,6 @@ function centeredMap(d) {
         .style("stroke-width", 1.5 / k + "px");
 
     setTimeout(function () {
-        // cityMark();
         if(!zoomable) {
             walMartMark();
         }
@@ -740,4 +735,26 @@ function toogleZoom() {
         zoomable = e.target.checked;
         mainMapDraw(usMapData, cityData, usCountiesData);
     })
+}
+
+// get url argument
+function getUrlVars() {
+    // example var currentState = getUrlVars()["state"];
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+// initial state config
+function initStateConfig(state) {
+    console.log('state ==========>', state)
+    console.log(STATE_CONFIGURATIONS[state])
+    STATE_NAME = STATE_CONFIGURATIONS[state].state_name;
+    SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[state].specific_state_info;
+    STATE_FIPS = STATE_CONFIGURATIONS[state].state_fips;
+    MAP_RATIO = STATE_CONFIGURATIONS[state].map_ratio;
+    CENTERED_X = STATE_CONFIGURATIONS[state].centered_x;
+    CENTERED_Y = STATE_CONFIGURATIONS[state].centered_y;
 }

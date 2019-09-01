@@ -1,0 +1,1147 @@
+"City","city_ascii","id","State","county_fips","County","Lat","Long","population","population_proper","density","source","incorporated","timezone","Zipcode","nid"
+"Lake Panasoffkee";"Lake Panasoffkee";"FL";"Florida";12119;"Sumter";28.7878;-82.1318;"null";"null";20.8;"polygon";"false";"America/New_York";33538;1840014066
+"Alachua";"Alachua";"FL";"Florida";12001;"Alachua";29.778;-82.4827;4533;9982;109;"polygon";"true";"America/New_York";"32615 32616 32653";1840014020
+"Holt";"Holt";"FL";"Florida";12091;"Okaloosa";30.7157;-86.7458;"null";"null";99.5;"point";"false";"America/Chicago";32564;1840028697
+"Ochopee";"Ochopee";"FL";"Florida";12021;"Collier";25.9015;-81.3034;"null";"null";0.9;"point";"false";"America/New_York";34141;1840023571
+"Pretty Bayou";"Pretty Bayou";"FL";"Florida";12005;"Bay";30.1975;-85.6974;"null";"null";739.7;"polygon";"false";"America/Chicago";32405;1840029069
+"Bushnell";"Bushnell";"FL";"Florida";12119;"Sumter";28.6859;-82.1159;4497;3107;104;"polygon";"true";"America/New_York";"33513 33538 33585";1840014067
+"Apalachicola";"Apalachicola";"FL";"Florida";12037;"Franklin";29.7282;-84.994;3798;2296;461;"polygon";"true";"America/New_York";"32320 32329";1840014015
+"Campville";"Campville";"FL";"Florida";12001;"Alachua";29.6664;-82.1184;"null";"null";12.4;"point";"false";"America/New_York";32640;1840028865
+"Tequesta";"Tequesta";"FL";"Florida";12099;"Palm Beach";26.9618;-80.1011;6094;6094;1287;"polygon";"true";"America/New_York";33469;1840018310
+"Dundee";"Dundee";"FL";"Florida";12105;"Polk";28.0116;-81.5995;4497;4497;165;"polygon";"true";"America/New_York";"33898 33877 33838 33844";1840017241
+"West Hollywood";"West Hollywood";"FL";"Florida";12011;"Broward";26.0206;-80.1839;"null";"null";1984.3;"point";"false";"America/New_York";33021;1840028808
+"Luraville";"Luraville";"FL";"Florida";12121;"Suwannee";30.1224;-83.1693;"null";"null";35.8;"point";"false";"America/New_York";32060;1840028838
+"Sumatra";"Sumatra";"FL";"Florida";12077;"Liberty";30.023;-84.9825;"null";"null";138.7;"polygon";"false";"America/New_York";"32321 32335";1840026013
+"Bonifay";"Bonifay";"FL";"Florida";12059;"Holmes";30.7828;-85.6846;4121;2722;257;"polygon";"true";"America/Chicago";32425;1840013924
+"Indian Pass";"Indian Pass";"FL";"Florida";12045;"Gulf";29.6905;-85.2644;"null";"null";19.9;"point";"false";"America/New_York";32456;1840028887
+"Jupiter Island";"Jupiter Island";"FL";"Florida";12085;"Martin";27.0449;-80.11;908;908;130;"polygon";"true";"America/New_York";33455;1840017251
+"The Villages";"The Villages";"FL";"Florida";12119;"Sumter";28.9021;-81.9888;"null";"null";1179.6;"polygon";"false";"America/New_York";"32162 34785 32159";1840014065
+"Taylor Creek";"Taylor Creek";"FL";"Florida";12093;"Okeechobee";27.2172;-80.7927;"null";"null";932.3;"polygon";"false";"America/New_York";34974;1840029086
+"Columbia";"Columbia";"FL";"Florida";12023;"Columbia";30.0738;-82.6957;"null";"null";95.1;"point";"false";"America/New_York";32024;1840028654
+"North Palm Beach";"North Palm Beach";"FL";"Florida";12099;"Palm Beach";26.8217;-80.0574;13057;13057;1551;"polygon";"true";"America/New_York";33408;1840018307
+"Tiger Point";"Tiger Point";"FL";"Florida";12113;"Santa Rosa";30.3775;-87.0578;"null";"null";992.7;"polygon";"false";"America/Chicago";32563;1840029101
+"Goodland";"Goodland";"FL";"Florida";12021;"Collier";25.9252;-81.648;"null";"null";858.9;"polygon";"false";"America/New_York";34140;1840014229
+"Falmouth";"Falmouth";"FL";"Florida";12121;"Suwannee";30.363;-83.1312;"null";"null";8.4;"point";"false";"America/New_York";32060;1840028823
+"Yankeetown";"Yankeetown";"FL";"Florida";12075;"Levy";29.0334;-82.733;495;495;25;"polygon";"true";"America/New_York";34498;1840017223
+"Grove City";"Grove City";"FL";"Florida";12015;"Charlotte";26.9071;-82.3259;"null";"null";577.5;"polygon";"false";"America/New_York";34224;1840014196
+"Indian Rocks Beach";"Indian Rocks Beach";"FL";"Florida";12103;"Pinellas";27.8963;-82.8443;4276;4276;1961;"polygon";"true";"America/New_York";33785;1840015113
+"Tangelo Park";"Tangelo Park";"FL";"Florida";12095;"Orange";28.456;-81.4465;"null";"null";2435;"polygon";"false";"America/New_York";32819;1840014087
+"Bayshore";"Bayshore";"FL";"Florida";12071;"Lee";26.7153;-81.8234;"null";"null";452.7;"point";"false";"America/New_York";33917;1840028629
+"Glenvar Heights";"Glenvar Heights";"FL";"Florida";12086;"Miami-Dade";25.709;-80.3156;"null";"null";1010.1;"polygon";"false";"America/New_York";"33143 33155";1840014238
+"Kingsley";"Kingsley";"FL";"Florida";12019;"Clay";29.9819;-81.9959;"null";"null";36.5;"point";"false";"America/New_York";32091;1840028714
+"Belleair Beach";"Belleair Beach";"FL";"Florida";12103;"Pinellas";27.924;-82.8365;1607;1607;1301;"polygon";"true";"America/New_York";33786;1840014146
+"Fruit Cove";"Fruit Cove";"FL";"Florida";12109;"St. Johns";30.0972;-81.6176;"null";"null";500.8;"polygon";"false";"America/New_York";32259;1840013970
+"Wannee";"Wannee";"FL";"Florida";12041;"Gilchrist";29.7186;-82.941;"null";"null";30.1;"point";"false";"America/New_York";32619;1840028857
+"Westchester";"Westchester";"FL";"Florida";12086;"Miami-Dade";25.7474;-80.3358;"null";"null";3186.7;"polygon";"false";"America/New_York";"33174 33144 33165 33155";1840014241
+"Dowling Park";"Dowling Park";"FL";"Florida";12121;"Suwannee";30.2436;-83.2363;"null";"null";422.2;"point";"false";"America/New_York";32060;1840028668
+"Keystone Heights";"Keystone Heights";"FL";"Florida";12019;"Clay";29.781;-82.0339;7134;1472;516;"polygon";"true";"America/New_York";32656;1840015049
+"Day";"Day";"FL";"Florida";12067;"Lafayette";30.195;-83.2909;"null";"null";48.9;"polygon";"false";"America/New_York";32066;1840026032
+"Highland City";"Highland City";"FL";"Florida";12105;"Polk";27.9631;-81.8779;"null";"null";1541.1;"polygon";"false";"America/New_York";"33830 33812 33813 33846";1840014122
+"Miami Springs";"Miami Springs";"FL";"Florida";12086;"Miami-Dade";25.8195;-80.2895;14424;14424;1898;"polygon";"true";"America/New_York";"33166 33011";1840015152
+"Bradenton";"Bradenton";"FL";"Florida";12081;"Manatee";27.49;-82.5743;56508;56508;1524;"polygon";"true";"America/New_York";"34208 34209 34205 34206 34281";1840014173
+"Thonotosassa";"Thonotosassa";"FL";"Florida";12057;"Hillsborough";28.0465;-82.291;"null";"null";874;"polygon";"false";"America/New_York";"33592 33584";1840014154
+"Lakeland";"Lakeland";"FL";"Florida";12105;"Polk";28.0557;-81.9543;291281;108054;633;"polygon";"true";"America/New_York";"33803 33801 33805 33815 33811 33813 33802 33804 33806";1840015108
+"Elfers";"Elfers";"FL";"Florida";12101;"Pasco";28.214;-82.723;"null";"null";1338.2;"polygon";"false";"America/New_York";"34690 34653 34652 34680";1840013122
+"Lely Resort";"Lely Resort";"FL";"Florida";12021;"Collier";26.0889;-81.7031;"null";"null";588.4;"polygon";"false";"America/New_York";34113;1840028991
+"Citra";"Citra";"FL";"Florida";12083;"Marion";29.4119;-82.1098;"null";"null";193.9;"point";"false";"America/New_York";32113;1840028652
+"Capitola";"Capitola";"FL";"Florida";12073;"Leon";30.451;-84.0879;"null";"null";135;"point";"false";"America/New_York";32317;1840028646
+"Hillsboro Pines";"Hillsboro Pines";"FL";"Florida";12011;"Broward";26.3252;-80.1947;"null";"null";2104.9;"polygon";"false";"America/New_York";33073;1840029106
+"Shiloh";"Shiloh";"FL";"Florida";12009;"Brevard";28.7905;-80.8045;"null";"null";0;"point";"false";"America/New_York";32754;1840023575
+"Winter Springs";"Winter Springs";"FL";"Florida";12117;"Seminole";28.689;-81.2708;36635;36635;964;"polygon";"true";"America/New_York";"32708 32719";1840015959
+"Citrus Hills";"Citrus Hills";"FL";"Florida";12017;"Citrus";28.887;-82.4312;"null";"null";549.1;"polygon";"false";"America/New_York";"34461 34453 34442";1840028978
+"Alafaya";"Alafaya";"FL";"Florida";12095;"Orange";28.5183;-81.178;"null";"null";834.4;"polygon";"false";"America/New_York";"32825 32828 32829 32831 32834 32878";1840029102
+"Parker";"Parker";"FL";"Florida";12005;"Bay";30.129;-85.6008;4577;4577;922;"polygon";"true";"America/Chicago";32404;1840015036
+"Laguna Beach";"Laguna Beach";"FL";"Florida";12005;"Bay";30.2549;-85.951;"null";"null";808.5;"polygon";"false";"America/Chicago";32413;1840013957
+"Lake Lindsey";"Lake Lindsey";"FL";"Florida";12053;"Hernando";28.6322;-82.3617;"null";"null";101.4;"polygon";"false";"America/New_York";34601;1840014107
+"Briny Breezes";"Briny Breezes";"FL";"Florida";12099;"Palm Beach";26.509;-80.0543;647;647;3997;"polygon";"true";"America/New_York";33435;1840015991
+"Schall Circle";"Schall Circle";"FL";"Florida";12099;"Palm Beach";26.7152;-80.1143;"null";"null";1232.6;"polygon";"false";"America/New_York";33417;1840029002
+"Mascotte";"Mascotte";"FL";"Florida";12069;"Lake";28.611;-81.9107;5616;5616;175;"polygon";"true";"America/New_York";"34736 34753";1840015951
+"Miccosukee";"Miccosukee";"FL";"Florida";12073;"Leon";30.5946;-84.0413;"null";"null";10.1;"point";"false";"America/New_York";32309;1840028730
+"West Frostproof";"West Frostproof";"FL";"Florida";12105;"Polk";27.7336;-81.5831;"null";"null";11.1;"point";"false";"America/New_York";32094;1840011659
+"Captiva";"Captiva";"FL";"Florida";12071;"Lee";26.5205;-82.191;"null";"null";373.7;"polygon";"false";"America/New_York";33924;1840014217
+"Miami Lakes";"Miami Lakes";"FL";"Florida";12086;"Miami-Dade";25.9125;-80.3214;31087;31087;2118;"polygon";"true";"America/New_York";"33014 33016 33018 33002";1840017275
+"Cottondale";"Cottondale";"FL";"Florida";12063;"Jackson";30.789;-85.3641;906;906;105;"polygon";"true";"America/Chicago";"32431 32448";1840017150
+"Celebration";"Celebration";"FL";"Florida";12097;"Osceola";28.3102;-81.551;"null";"null";1044.4;"polygon";"false";"America/New_York";34747;1840014138
+"Estero";"Estero";"FL";"Florida";12071;"Lee";26.4277;-81.7951;33048;33048;522;"polygon";"true";"America/New_York";"33967 34135 33928 33929";1840013129
+"Loxahatchee Groves";"Loxahatchee Groves";"FL";"Florida";12099;"Palm Beach";26.7106;-80.2764;3528;3528;109;"polygon";"true";"America/New_York";33470;1840017260
+"Cobbtown";"Cobbtown";"FL";"Florida";12113;"Santa Rosa";30.8823;-87.1212;"null";"null";13.3;"polygon";"false";"America/Chicago";32565;1840027007
+"Ocala";"Ocala";"FL";"Florida";12083;"Marion";29.1803;-82.1495;164712;59110;497;"polygon";"true";"America/New_York";"34475 34474 34471 34470 32111 34477 34478 34483";1840015067
+"McIntosh";"McIntosh";"FL";"Florida";12083;"Marion";29.4493;-82.2209;477;477;264;"polygon";"true";"America/New_York";32664;1840017225
+"River Park";"River Park";"FL";"Florida";12111;"St. Lucie";27.3214;-80.3309;"null";"null";1664.3;"polygon";"false";"America/New_York";"34983 34952";1840028958
+"Allentown";"Allentown";"FL";"Florida";12113;"Santa Rosa";30.7736;-87.0808;"null";"null";24.9;"polygon";"false";"America/Chicago";"32570 32565";1840025108
+"Garden Grove";"Garden Grove";"FL";"Florida";12053;"Hernando";28.4716;-82.4348;"null";"null";209.8;"polygon";"false";"America/New_York";34604;1840025147
+"Country Walk";"Country Walk";"FL";"Florida";12086;"Miami-Dade";25.6331;-80.4353;"null";"null";1064.4;"polygon";"false";"America/New_York";"33196 33186";1840028979
+"Crawfordville";"Crawfordville";"FL";"Florida";12129;"Wakulla";30.1996;-84.3634;"null";"null";431.1;"polygon";"false";"America/New_York";32327;1840025125
+"Crystal Springs";"Crystal Springs";"FL";"Florida";12101;"Pasco";28.183;-82.1539;"null";"null";62.3;"polygon";"false";"America/New_York";"33540 33524";1840014113
+"Fruitville";"Fruitville";"FL";"Florida";12115;"Sarasota";27.3328;-82.4615;"null";"null";574.5;"polygon";"false";"America/New_York";"34232 34240";1840014179
+"Hilliard";"Hilliard";"FL";"Florida";12089;"Nassau";30.6869;-81.9212;3166;3166;224;"polygon";"true";"America/New_York";32046;1840017180
+"Glen Saint Mary";"Glen Saint Mary";"FL";"Florida";12003;"Baker";30.2751;-82.1603;453;453;377;"polygon";"true";"America/New_York";32040;1840017191
+"Ormond Beach";"Ormond Beach";"FL";"Florida";12127;"Volusia";29.296;-81.1003;42816;42816;500;"polygon";"true";"America/New_York";"32174 32176 32173 32175";1840015076
+"Saint George Island";"Saint George Island";"FL";"Florida";12037;"Franklin";29.652;-84.8881;"null";"null";197.8;"polygon";"false";"America/New_York";32328;1840029111
+"Dade City";"Dade City";"FL";"Florida";12101;"Pasco";28.3569;-82.1942;7134;7134;465;"polygon";"true";"America/New_York";"33525 33523";1840015101
+"Lake Placid";"Lake Placid";"FL";"Florida";12055;"Highlands";27.297;-81.3717;16683;2269;243;"polygon";"true";"America/New_York";"33852 33862";1840017248
+"West Bay";"West Bay";"FL";"Florida";12005;"Bay";30.2919;-85.8597;"null";"null";220.1;"point";"false";"America/Chicago";32413;1840028951
+"Washington Park";"Washington Park";"FL";"Florida";12011;"Broward";26.1304;-80.1801;"null";"null";1396.8;"polygon";"false";"America/New_York";33311;1840029015
+"Yalaha";"Yalaha";"FL";"Florida";12069;"Lake";28.7509;-81.8194;"null";"null";135.2;"polygon";"false";"America/New_York";34797;1840014048
+"Saint Catherine";"Saint Catherine";"FL";"Florida";12119;"Sumter";28.6103;-82.1381;"null";"null";62.4;"point";"false";"America/New_York";33597;1840028767
+"Fussels Corner";"Fussels Corner";"FL";"Florida";12105;"Polk";28.0575;-81.8601;"null";"null";437;"polygon";"false";"America/New_York";"33801 33823";1840029036
+"Ocean City";"Ocean City";"FL";"Florida";12091;"Okaloosa";30.4398;-86.6071;"null";"null";1785.5;"polygon";"false";"America/Chicago";32547;1840013922
+"Boyd";"Boyd";"FL";"Florida";12123;"Taylor";30.1891;-83.6065;"null";"null";17.8;"point";"false";"America/New_York";32347;1840028641
+"Brooksville";"Brooksville";"FL";"Florida";12053;"Hernando";28.5403;-82.3902;8147;8147;281;"polygon";"true";"America/New_York";"34601 34603";1840014112
+"Bruce";"Bruce";"FL";"Florida";12131;"Walton";30.4724;-85.9652;"null";"null";30.6;"point";"false";"America/Chicago";32455;1840028644
+"Haverhill";"Haverhill";"FL";"Florida";12099;"Palm Beach";26.6909;-80.1218;2191;2191;1340;"polygon";"true";"America/New_York";"33415 33417";1840015994
+"Lanark Village";"Lanark Village";"FL";"Florida";12037;"Franklin";29.8835;-84.5957;"null";"null";133.9;"point";"false";"America/New_York";32323;1840028934
+"Daytona Beach";"Daytona Beach";"FL";"Florida";12127;"Volusia";29.1995;-81.0982;68055;68055;400;"polygon";"true";"America/New_York";"32124 32174 32117 32114 32118 32119 32115 32116 32120 32121 32126 32198";1840015068
+"Gladeview";"Gladeview";"FL";"Florida";12086;"Miami-Dade";25.8395;-80.2368;"null";"null";1014.8;"polygon";"false";"America/New_York";33147;1840029038
+"Buckingham";"Buckingham";"FL";"Florida";12071;"Lee";26.6615;-81.7399;"null";"null";115.3;"polygon";"false";"America/New_York";33905;1840014216
+"Burnt Store Marina";"Burnt Store Marina";"FL";"Florida";12071;"Lee";26.7645;-82.0507;"null";"null";756.2;"polygon";"false";"America/New_York";33955;1840028975
+"Altoona";"Altoona";"FL";"Florida";12069;"Lake";28.9681;-81.6482;"null";"null";147.9;"polygon";"false";"America/New_York";32702;1840014045
+"Compass Lake";"Compass Lake";"FL";"Florida";12063;"Jackson";30.5927;-85.3927;"null";"null";26.4;"point";"false";"America/Chicago";32420;1840028655
+"Sewall's Point";"Sewall's Point";"FL";"Florida";12085;"Martin";27.1971;-80.1982;2193;2193;714;"polygon";"true";"America/New_York";"34996 34958";1840018304
+"Union Park";"Union Park";"FL";"Florida";12095;"Orange";28.5657;-81.2355;"null";"null";785.4;"polygon";"false";"America/New_York";"32825 32817";1840014090
+"Manalapan";"Manalapan";"FL";"Florida";12099;"Palm Beach";26.5621;-80.0439;461;461;398;"polygon";"true";"America/New_York";33462;1840017261
+"Bay Lake";"Bay Lake";"FL";"Florida";12095;"Orange";28.387;-81.5753;50;50;0;"polygon";"true";"America/New_York";"32836 32830";1840011791
+"Sea Ranch Lakes";"Sea Ranch Lakes";"FL";"Florida";12011;"Broward";26.2009;-80.0981;739;739;1612;"polygon";"true";"America/New_York";33308;1840018329
+"Anna Maria";"Anna Maria";"FL";"Florida";12081;"Manatee";27.5297;-82.734;1725;1725;903;"polygon";"true";"America/New_York";34216;1840014171
+"Zolfo Springs";"Zolfo Springs";"FL";"Florida";12049;"Hardee";27.4927;-81.7871;1816;1816;401;"polygon";"true";"America/New_York";33890;1840017249
+"Bradenton Beach";"Bradenton Beach";"FL";"Florida";12081;"Manatee";27.4649;-82.6957;1269;1269;947;"polygon";"true";"America/New_York";34217;1840014174
+"Pinellas Park";"Pinellas Park";"FL";"Florida";12103;"Pinellas";27.8588;-82.7076;52854;52854;1283;"polygon";"true";"America/New_York";"33781 33782 33762 33760 33773 33780";1840015112
+"Indrio";"Indrio";"FL";"Florida";12111;"St. Lucie";27.5206;-80.3528;"null";"null";160.1;"point";"false";"America/New_York";34946;1840028956
+"Wildwood";"Wildwood";"FL";"Florida";12119;"Sumter";28.8003;-82.0051;6831;6831;71;"polygon";"true";"America/New_York";"33514 34484 34785";1840015956
+"North River Shores";"North River Shores";"FL";"Florida";12085;"Martin";27.2224;-80.2737;"null";"null";988.1;"polygon";"false";"America/New_York";34994;1840014191
+"Dupont";"Dupont";"FL";"Florida";12035;"Flagler";29.4269;-81.2226;"null";"null";314.1;"point";"false";"America/New_York";32164;1840028670
+"Eagle Lake";"Eagle Lake";"FL";"Florida";12105;"Polk";27.9762;-81.7574;2570;2570;523;"polygon";"true";"America/New_York";"33880 33839";1840014133
+"Venice Gardens";"Venice Gardens";"FL";"Florida";12115;"Sarasota";27.0694;-82.4054;"null";"null";1441.5;"polygon";"false";"America/New_York";34293;1840014182
+"Canal Point";"Canal Point";"FL";"Florida";12099;"Palm Beach";26.8626;-80.6222;"null";"null";398;"polygon";"false";"America/New_York";"33476 33438";1840014202
+"Archer";"Archer";"FL";"Florida";12001;"Alachua";29.5395;-82.5137;1209;1209;67;"polygon";"true";"America/New_York";32618;1840014021
+"Edgewater";"Edgewater";"FL";"Florida";12127;"Volusia";28.962;-80.9413;22399;22399;387;"polygon";"true";"America/New_York";"32141 32168 32132";1840014043
+"Belleair Shores";"Belleair Shores";"FL";"Florida";12103;"Pinellas";27.9173;-82.8455;114;114;740;"polygon";"true";"America/New_York";33786;1840028633
+"Lake Kathryn";"Lake Kathryn";"FL";"Florida";12069;"Lake";29.0072;-81.4906;"null";"null";394.6;"polygon";"false";"America/New_York";32767;1840028990
+"Key Biscayne";"Key Biscayne";"FL";"Florida";12086;"Miami-Dade";25.6908;-80.1653;13182;13182;4080;"polygon";"true";"America/New_York";33149;1840018333
+"Fort Green";"Fort Green";"FL";"Florida";12049;"Hardee";27.6255;-81.9397;"null";"null";58.5;"polygon";"false";"America/New_York";33834;1840025166
+"Sopchoppy";"Sopchoppy";"FL";"Florida";12129;"Wakulla";30.0598;-84.4855;473;473;108;"polygon";"true";"America/New_York";32358;1840015934
+"Winter Haven";"Winter Haven";"FL";"Florida";12105;"Polk";28.0122;-81.7018;245237;41280;499;"polygon";"true";"America/New_York";"33881 33880 33884 33883 33885 33888";1840015970
+"Pembroke Pines";"Pembroke Pines";"FL";"Florida";12011;"Broward";26.0128;-80.3387;170712;170712;1995;"polygon";"true";"America/New_York";"33029 33028 33024 33023 33027 33026 33025 33084";1840015141
+"Myrtle Grove";"Myrtle Grove";"FL";"Florida";12033;"Escambia";30.4158;-87.3028;"null";"null";1011.5;"polygon";"false";"America/Chicago";"32506 32511 32516";1840013917
+"Clark";"Clark";"FL";"Florida";12001;"Alachua";29.7733;-82.6259;"null";"null";1.2;"point";"false";"America/New_York";32643;1840028653
+"Wahneta";"Wahneta";"FL";"Florida";12105;"Polk";27.9574;-81.7288;"null";"null";1532.9;"polygon";"false";"America/New_York";33880;1840014125
+"Bluff Springs";"Bluff Springs";"FL";"Florida";12033;"Escambia";30.9363;-87.2947;"null";"null";24.4;"point";"false";"America/Chicago";32535;1840028950
+"Lighthouse Point";"Lighthouse Point";"FL";"Florida";12011;"Broward";26.2785;-80.089;11242;11242;1880;"polygon";"true";"America/New_York";33064;1840015998
+"Mango";"Mango";"FL";"Florida";12057;"Hillsborough";27.9915;-82.307;"null";"null";1024.2;"polygon";"false";"America/New_York";"33610 33584 33550";1840014157
+"Indiantown";"Indiantown";"FL";"Florida";12085;"Martin";27.0386;-80.4699;"null";"null";1275.9;"polygon";"true";"America/New_York";34956;1840014189
+"Horseshoe Beach";"Horseshoe Beach";"FL";"Florida";12029;"Dixie";29.4499;-83.2818;167;167;141;"polygon";"true";"America/New_York";32648;1840017279
+"Jupiter Inlet Beach Colony";"Jupiter Inlet Beach Colony";"FL";"Florida";12099;"Palm Beach";26.9489;-80.0748;"null";"null";547.9;"point";"true";"America/New_York";33469;1840028710
+"Pierson";"Pierson";"FL";"Florida";12127;"Volusia";29.2401;-81.4559;1883;1883;71;"polygon";"true";"America/New_York";32180;1840017226
+"Hull";"Hull";"FL";"Florida";12027;"DeSoto";27.1192;-81.9423;"null";"null";20.7;"point";"false";"America/New_York";34266;1840028804
+"Lacoochee";"Lacoochee";"FL";"Florida";12101;"Pasco";28.4655;-82.1698;"null";"null";1055.5;"polygon";"false";"America/New_York";"33523 33537";1840014119
+"High Point";"High Point";"FL";"Florida";12053;"Hernando";28.5474;-82.5206;"null";"null";894.6;"polygon";"false";"America/New_York";34613;1840029105
+"Hillsboro Beach";"Hillsboro Beach";"FL";"Florida";12011;"Broward";26.2838;-80.0796;2017;2017;2129;"polygon";"true";"America/New_York";33062;1840017270
+"Harlem Heights";"Harlem Heights";"FL";"Florida";12071;"Lee";26.516;-81.9293;"null";"null";650.3;"polygon";"false";"America/New_York";33908;1840028985
+"Baldwin";"Baldwin";"FL";"Florida";12031;"Duval";30.3051;-81.9737;1466;1466;278;"polygon";"true";"America/New_York";32234;1840015920
+"Punta Rassa";"Punta Rassa";"FL";"Florida";12071;"Lee";26.5036;-81.9998;"null";"null";548.1;"polygon";"false";"America/New_York";33908;1840014225
+"Seminole";"Seminole";"FL";"Florida";12103;"Pinellas";27.8429;-82.7834;18576;18576;1398;"polygon";"true";"America/New_York";"33777 33772 33778 33775";1840015978
+"Tavernier";"Tavernier";"FL";"Florida";12087;"Monroe";25.0188;-80.5132;"null";"null";554.4;"polygon";"false";"America/New_York";33070;1840014252
+"Copeland";"Copeland";"FL";"Florida";12021;"Collier";25.9537;-81.3559;"null";"null";0.5;"point";"false";"America/New_York";34141;1840023564
+"Prosperity";"Prosperity";"FL";"Florida";12059;"Holmes";30.8519;-85.9469;"null";"null";15.5;"point";"false";"America/Chicago";32464;1840028845
+"New Port Richey";"New Port Richey";"FL";"Florida";12101;"Pasco";28.2468;-82.717;16256;16256;1379;"polygon";"true";"America/New_York";"34653 34652 34656";1840015102
+"Lake City";"Lake City";"FL";"Florida";12023;"Columbia";30.1892;-82.6469;25869;12163;389;"polygon";"true";"America/New_York";"32055 32025 32056";1840015029
+"Port Saint Lucie";"Port Saint Lucie";"FL";"Florida";12111;"St. Lucie";27.2796;-80.3883;432589;189344;614;"polygon";"true";"America/New_York";"34986 34983 34987 34984 34952 34953 34985";1840015119
+"Quincy";"Quincy";"FL";"Florida";12039;"Gadsden";30.5659;-84.5856;8791;7542;251;"polygon";"true";"America/New_York";"32351 32353";1840015022
+"Ariel";"Ariel";"FL";"Florida";12127;"Volusia";28.9005;-80.8637;"null";"null";535.8;"point";"false";"America/New_York";32759;1840028812
+"Jennings";"Jennings";"FL";"Florida";12047;"Hamilton";30.5981;-83.1076;872;872;115;"polygon";"true";"America/New_York";32053;1840017188
+"Venice";"Venice";"FL";"Florida";12115;"Sarasota";27.1166;-82.4135;23020;23020;575;"polygon";"true";"America/New_York";"34285 34292 34275";1840015989
+"Siesta Key";"Siesta Key";"FL";"Florida";12115;"Sarasota";27.2779;-82.5516;"null";"null";1085.5;"polygon";"false";"America/New_York";34242;1840028968
+"Providence";"Providence";"FL";"Florida";12105;"Polk";28.1539;-81.9734;"null";"null";192.9;"point";"false";"America/New_York";33809;1840028764
+"Clearwater";"Clearwater";"FL";"Florida";12103;"Pinellas";27.9786;-82.7622;115513;115513;1719;"polygon";"true";"America/New_York";"33759 33756 33755 33763 33761 33767 33764 33765 33757 33758 33766 33769";1840015110
+"Masaryktown";"Masaryktown";"FL";"Florida";12053;"Hernando";28.4417;-82.461;"null";"null";196.1;"polygon";"false";"America/New_York";34604;1840014108
+"Fountain";"Fountain";"FL";"Florida";12005;"Bay";30.4788;-85.4196;"null";"null";171.1;"point";"false";"America/Chicago";32438;1840028682
+"Eucheeanna";"Eucheeanna";"FL";"Florida";12131;"Walton";30.6457;-86.0449;"null";"null";13.4;"point";"false";"America/Chicago";32455;1840028876
+"Lady Lake";"Lady Lake";"FL";"Florida";12069;"Lake";28.924;-81.93;15317;15317;721;"polygon";"true";"America/New_York";"32159 32158 32163";1840017229
+"Inglis";"Inglis";"FL";"Florida";12075;"Levy";29.0327;-82.6592;1320;1320;139;"polygon";"true";"America/New_York";34449;1840017222
+"Middleburg";"Middleburg";"FL";"Florida";12019;"Clay";30.0502;-81.9011;"null";"null";314.9;"polygon";"false";"America/New_York";"32068 32050";1840013998
+"Panama City";"Panama City";"FL";"Florida";12005;"Bay";30.1997;-85.6003;145239;36986;409;"polygon";"true";"America/Chicago";"32401 32404 32405 32402 32412";1840015034
+"South Bay";"South Bay";"FL";"Florida";12099;"Palm Beach";26.6783;-80.7268;5156;5156;741;"polygon";"true";"America/New_York";33493;1840015992
+"Walton";"Walton";"FL";"Florida";12111;"St. Lucie";27.3;-80.2562;"null";"null";227.4;"point";"false";"America/New_York";34982;1840028965
+"Sarasota";"Sarasota";"FL";"Florida";12115;"Sarasota";27.3391;-82.5439;706245;56994;1497;"polygon";"true";"America/New_York";"34232 34234 34237 34236 34239 34276 34278";1840015988
+"Harbour Heights";"Harbour Heights";"FL";"Florida";12015;"Charlotte";26.9928;-82.0072;"null";"null";489.2;"polygon";"false";"America/New_York";33983;1840014197
+"South Miami";"South Miami";"FL";"Florida";12086;"Miami-Dade";25.7078;-80.2952;12281;12281;2092;"polygon";"true";"America/New_York";"33143 33155 33243";1840016006
+"Carrollwood";"Carrollwood";"FL";"Florida";12057;"Hillsborough";28.0577;-82.5149;"null";"null";1680.5;"polygon";"false";"America/New_York";"33624 33618 33688";1840029026
+"De Leon Springs";"De Leon Springs";"FL";"Florida";12127;"Volusia";29.1172;-81.3517;"null";"null";781.9;"polygon";"false";"America/New_York";"32720 32130";1840013118
+"Vernon";"Vernon";"FL";"Florida";12133;"Washington";30.6197;-85.7062;678;678;55;"polygon";"true";"America/Chicago";32462;1840015906
+"Marineland";"Marineland";"FL";"Florida";12035;"Flagler";29.6648;-81.2138;17;17;24;"polygon";"true";"America/New_York";32137;1840017221
+"Frostproof";"Frostproof";"FL";"Florida";12105;"Polk";27.7493;-81.5252;8243;3234;116;"polygon";"true";"America/New_York";33843;1840014135
+"Buckhead Ridge";"Buckhead Ridge";"FL";"Florida";12043;"Glades";27.133;-80.8868;"null";"null";665.9;"polygon";"false";"America/New_York";34974;1840014195
+"Otter Creek";"Otter Creek";"FL";"Florida";12075;"Levy";29.324;-82.7737;131;131;35;"polygon";"true";"America/New_York";"32626 32683";1840017224
+"Astor";"Astor";"FL";"Florida";12069;"Lake";29.1635;-81.5349;"null";"null";214.3;"polygon";"false";"America/New_York";32102;1840014046
+"Brighton";"Brighton";"FL";"Florida";12055;"Highlands";27.2259;-81.0951;"null";"null";0.1;"point";"false";"America/New_York";34974;1840023533
+"Wauchula";"Wauchula";"FL";"Florida";12049;"Hardee";27.547;-81.8103;14408;4928;580;"polygon";"true";"America/New_York";33873;1840015987
+"Oviedo";"Oviedo";"FL";"Florida";12117;"Seminole";28.6579;-81.187;40785;40785;1023;"polygon";"true";"America/New_York";"32765 32766 32762";1840015089
+"Morriston";"Morriston";"FL";"Florida";12075;"Levy";29.2811;-82.44;"null";"null";119.6;"polygon";"false";"America/New_York";32668;1840026043
+"Pomona Park";"Pomona Park";"FL";"Florida";12107;"Putnam";29.5015;-81.5936;899;899;114;"polygon";"true";"America/New_York";32181;1840017220
+"Glencoe";"Glencoe";"FL";"Florida";12127;"Volusia";29.0009;-80.9612;"null";"null";88.4;"polygon";"false";"America/New_York";32168;1840014041
+"Sampson";"Sampson";"FL";"Florida";12007;"Bradford";29.9166;-82.2079;"null";"null";35;"point";"false";"America/New_York";32091;1840028768
+"Olga";"Olga";"FL";"Florida";12071;"Lee";26.7113;-81.695;"null";"null";411.2;"polygon";"false";"America/New_York";"33920 33905";1840028841
+"Lake Hart";"Lake Hart";"FL";"Florida";12095;"Orange";28.3858;-81.2339;"null";"null";217.3;"polygon";"false";"America/New_York";32832;1840014094
+"Orlando";"Orlando";"FL";"Florida";12095;"Orange";28.4788;-81.342;1776841;280257;1028;"polygon";"true";"America/New_York";"32824 32829 32827 32822 32804 32805 32806 32807 32801 32803 32808 32839 32835 32832 32819 32812 32811 32814 32802 32853 32854 32856 32861 32862 32872 32877 32885 32886 32891 32896 32897";1840015099
+"Chiefland";"Chiefland";"FL";"Florida";12075;"Levy";29.4895;-82.8665;2180;2180;135;"polygon";"true";"America/New_York";"32626 32644";1840015066
+"Sebring";"Sebring";"FL";"Florida";12055;"Highlands";27.477;-81.453;62814;10696;408;"polygon";"true";"America/New_York";"33870 33875 33871";1840015986
+"Greenacres City";"Greenacres City";"FL";"Florida";12099;"Palm Beach";26.6237;-80.1253;"null";"null";2157.6;"point";"true";"America/New_York";33463;1840028687
+"Taylor";"Taylor";"FL";"Florida";12003;"Baker";30.4405;-82.2912;"null";"null";63.1;"point";"false";"America/New_York";32087;1840028944
+"Leisure City";"Leisure City";"FL";"Florida";12086;"Miami-Dade";25.4937;-80.4367;"null";"null";2795.2;"polygon";"false";"America/New_York";33033;1840014245
+"June Park";"June Park";"FL";"Florida";12009;"Brevard";28.0716;-80.6872;"null";"null";540.4;"polygon";"false";"America/New_York";32904;1840014074
+"Hardaway";"Hardaway";"FL";"Florida";12039;"Gadsden";30.6305;-84.7355;"null";"null";5.4;"point";"false";"America/New_York";32324;1840028691
+"Genoa";"Genoa";"FL";"Florida";12047;"Hamilton";30.4005;-82.8349;"null";"null";0.4;"point";"false";"America/New_York";32052;1840023553
+"Crows Bluff";"Crows Bluff";"FL";"Florida";12069;"Lake";29.0078;-81.3892;"null";"null";24.3;"point";"false";"America/New_York";32720;1840028928
+"Haile";"Haile";"FL";"Florida";12001;"Alachua";29.6905;-82.5734;"null";"null";3.7;"point";"false";"America/New_York";32669;1840028879
+"Oldsmar";"Oldsmar";"FL";"Florida";12103;"Pinellas";28.0507;-82.6697;14617;14617;629;"polygon";"true";"America/New_York";"34677 34685";1840015111
+"Bayou George";"Bayou George";"FL";"Florida";12005;"Bay";30.2627;-85.5399;"null";"null";81.6;"point";"false";"America/Chicago";32404;1840028863
+"Plantation Key";"Plantation Key";"FL";"Florida";12087;"Monroe";24.9783;-80.5547;"null";"null";833.9;"point";"false";"America/New_York";33070;1840029068
+"Vamo";"Vamo";"FL";"Florida";12115;"Sarasota";27.2254;-82.4944;"null";"null";1383;"polygon";"false";"America/New_York";"34238 34231 34229";1840014181
+"Meadow Woods";"Meadow Woods";"FL";"Florida";12095;"Orange";28.3698;-81.3467;"null";"null";1197.6;"polygon";"false";"America/New_York";32824;1840029057
+"Mulat";"Mulat";"FL";"Florida";12113;"Santa Rosa";30.5595;-87.1297;"null";"null";173.6;"polygon";"false";"America/Chicago";32583;1840027016
+"Saint Cloud";"Saint Cloud";"FL";"Florida";12097;"Osceola";28.2303;-81.2849;51282;51282;1035;"polygon";"true";"America/New_York";"34769 34771 34772";1840015971
+"Bowling Green";"Bowling Green";"FL";"Florida";12049;"Hardee";27.638;-81.8244;2919;2919;891;"polygon";"true";"America/New_York";33834;1840014167
+"Floral City";"Floral City";"FL";"Florida";12017;"Citrus";28.7065;-82.309;"null";"null";214.7;"polygon";"false";"America/New_York";34436;1840014057
+"Aventura";"Aventura";"FL";"Florida";12086;"Miami-Dade";25.9566;-80.1371;38202;38202;5565;"polygon";"true";"America/New_York";"33160 33180 33163";1840014243
+"Ankona";"Ankona";"FL";"Florida";12111;"St. Lucie";27.3406;-80.275;"null";"null";105.2;"point";"false";"America/New_York";34982;1840028952
+"O'Brien";"O'Brien";"FL";"Florida";12121;"Suwannee";30.0383;-82.9401;"null";"null";27.6;"point";"false";"America/New_York";32071;1840028739
+"Jena";"Jena";"FL";"Florida";12029;"Dixie";29.6636;-83.3701;"null";"null";26.8;"point";"false";"America/New_York";32359;1840028835
+"Roeville";"Roeville";"FL";"Florida";12113;"Santa Rosa";30.6838;-86.9939;"null";"null";98.7;"polygon";"false";"America/Chicago";32570;1840025119
+"Munson";"Munson";"FL";"Florida";12113;"Santa Rosa";30.8418;-86.887;"null";"null";4.6;"polygon";"false";"America/Chicago";32570;1840025115
+"Cooper City";"Cooper City";"FL";"Florida";12011;"Broward";26.0464;-80.2862;35732;35732;1716;"polygon";"true";"America/New_York";"33024 33330 33026 33328";1840015133
+"East Naples";"East Naples";"FL";"Florida";12021;"Collier";26.1384;-81.7665;"null";"null";1300.3;"point";"false";"America/New_York";34112;1840028671
+"Eaton Park";"Eaton Park";"FL";"Florida";12105;"Polk";28.0086;-81.9076;"null";"null";862.8;"point";"false";"America/New_York";33803;1840028672
+"Sugarmill Woods";"Sugarmill Woods";"FL";"Florida";12017;"Citrus";28.7321;-82.4986;"null";"null";216.7;"polygon";"false";"America/New_York";"34461 34446";1840014063
+"Starke";"Starke";"FL";"Florida";12007;"Bradford";29.9475;-82.113;5593;5370;287;"polygon";"true";"America/New_York";"32091 32042";1840015940
+"Esto";"Esto";"FL";"Florida";12059;"Holmes";30.9819;-85.6429;352;352;62;"polygon";"true";"America/Chicago";32425;1840017161
+"Silver Lake";"Silver Lake";"FL";"Florida";12069;"Lake";28.8437;-81.8008;"null";"null";237.2;"polygon";"false";"America/New_York";34788;1840029074
+"Kathleen";"Kathleen";"FL";"Florida";12105;"Polk";28.1224;-82.0387;"null";"null";327.4;"polygon";"false";"America/New_York";33810;1840014129
+"Valparaiso";"Valparaiso";"FL";"Florida";12091;"Okaloosa";30.4926;-86.5079;4946;4946;161;"polygon";"true";"America/Chicago";"32580 32542";1840015903
+"Butler Beach";"Butler Beach";"FL";"Florida";12109;"St. Johns";29.798;-81.2653;"null";"null";883.7;"polygon";"false";"America/New_York";32080;1840029025
+"Fort Myers Shores";"Fort Myers Shores";"FL";"Florida";12071;"Lee";26.7135;-81.7383;"null";"null";1662.1;"polygon";"false";"America/New_York";33905;1840014212
+"Eatonville";"Eatonville";"FL";"Florida";12095;"Orange";28.6168;-81.3905;2273;2273;887;"polygon";"true";"America/New_York";"32751 32810";1840017237
+"Wilton Manors";"Wilton Manors";"FL";"Florida";12011;"Broward";26.1593;-80.1395;12773;12773;2507;"polygon";"true";"America/New_York";"33305 33334 33311";1840016004
+"Bonita Springs";"Bonita Springs";"FL";"Florida";12071;"Lee";26.3559;-81.7861;396220;56088;557;"polygon";"true";"America/New_York";"33931 34135 34134";1840014227
+"Telogia";"Telogia";"FL";"Florida";12077;"Liberty";30.3508;-84.8191;"null";"null";21.5;"point";"false";"America/New_York";32334;1840028945
+"Hosford";"Hosford";"FL";"Florida";12077;"Liberty";30.3944;-84.8034;"null";"null";218.6;"polygon";"false";"America/New_York";32334;1840026011
+"Bronson";"Bronson";"FL";"Florida";12075;"Levy";29.4501;-82.6391;1119;1119;102;"polygon";"true";"America/New_York";32621;1840015948
+"Milligan";"Milligan";"FL";"Florida";12091;"Okaloosa";30.7524;-86.6408;"null";"null";130.7;"point";"false";"America/Chicago";32531;1840028731
+"Coleman";"Coleman";"FL";"Florida";12119;"Sumter";28.8013;-82.07;852;852;125;"polygon";"true";"America/New_York";"33521 34785";1840015087
+"Lynne";"Lynne";"FL";"Florida";12083;"Marion";29.1925;-81.9173;"null";"null";60.6;"point";"false";"America/New_York";34488;1840028936
+"Christmas";"Christmas";"FL";"Florida";12095;"Orange";28.5606;-81.0201;"null";"null";32.5;"polygon";"false";"America/New_York";32709;1840014084
+"Ocoee";"Ocoee";"FL";"Florida";12095;"Orange";28.5785;-81.5337;46402;46402;1177;"polygon";"true";"America/New_York";"34761 34734";1840015098
+"Niceville";"Niceville";"FL";"Florida";12091;"Okaloosa";30.5291;-86.4754;15249;15249;438;"polygon";"true";"America/Chicago";"32578 32588";1840015009
+"Palmetto Bay";"Palmetto Bay";"FL";"Florida";12086;"Miami-Dade";25.622;-80.3221;24710;24710;1150;"polygon";"true";"America/New_York";"33158 33157 33257";1840018335
+"Paisley";"Paisley";"FL";"Florida";12069;"Lake";28.985;-81.5404;"null";"null";44.8;"polygon";"false";"America/New_York";32767;1840014051
+"Sparr";"Sparr";"FL";"Florida";12083;"Marion";29.3386;-82.1126;"null";"null";102.6;"point";"false";"America/New_York";32617;1840028782
+"Gibsonton";"Gibsonton";"FL";"Florida";12057;"Hillsborough";27.826;-82.3761;"null";"null";1374.3;"polygon";"false";"America/New_York";"33534 33578";1840014148
+"Orient Park";"Orient Park";"FL";"Florida";12057;"Hillsborough";27.9725;-82.3729;"null";"null";1315.2;"point";"false";"America/New_York";33619;1840028746
+"Winter Garden";"Winter Garden";"FL";"Florida";12095;"Orange";28.5421;-81.5966;43536;43536;1030;"polygon";"true";"America/New_York";34787;1840015965
+"Valkaria";"Valkaria";"FL";"Florida";12009;"Brevard";27.9636;-80.5437;"null";"null";64;"point";"false";"America/New_York";32949;1840028789
+"Okahumpka";"Okahumpka";"FL";"Florida";12069;"Lake";28.7459;-81.8962;"null";"null";178;"polygon";"false";"America/New_York";34762;1840014050
+"Warrington";"Warrington";"FL";"Florida";12033;"Escambia";30.3821;-87.2944;"null";"null";747.4;"polygon";"false";"America/Chicago";"32507 32521";1840013914
+"Gardner";"Gardner";"FL";"Florida";12049;"Hardee";27.3537;-81.7895;"null";"null";10.3;"polygon";"false";"America/New_York";33890;1840025167
+"Port Sewall";"Port Sewall";"FL";"Florida";12085;"Martin";27.1862;-80.1895;"null";"null";852.3;"point";"false";"America/New_York";34996;1840028913
+"Dalkeith";"Dalkeith";"FL";"Florida";12045;"Gulf";30.0058;-85.1541;"null";"null";14.1;"point";"false";"America/Chicago";32465;1840028871
+"Cedar Grove";"Cedar Grove";"FL";"Florida";12005;"Bay";30.1813;-85.6267;"null";"null";825.8;"polygon";"false";"America/Chicago";"32401 32405";1840027022
+"Fort Drum";"Fort Drum";"FL";"Florida";12093;"Okeechobee";27.5267;-80.8067;"null";"null";55.1;"point";"false";"America/New_York";34972;1840028826
+"Ellaville";"Ellaville";"FL";"Florida";12121;"Suwannee";30.3813;-83.1726;"null";"null";24.5;"point";"false";"America/New_York";32060;1840028822
+"Palm City";"Palm City";"FL";"Florida";12085;"Martin";27.1736;-80.2861;"null";"null";957.2;"polygon";"false";"America/New_York";"34990 34991";1840014192
+"Jan-Phyl Village";"Jan-Phyl Village";"FL";"Florida";12105;"Polk";28.0201;-81.7933;"null";"null";1994.1;"polygon";"false";"America/New_York";33880;1840028708
+"Cudjoe Key";"Cudjoe Key";"FL";"Florida";12087;"Monroe";24.6746;-81.4986;"null";"null";6.4;"polygon";"false";"America/New_York";33042;1840029031
+"Cannon Town";"Cannon Town";"FL";"Florida";12091;"Okaloosa";30.8549;-86.6741;"null";"null";44.8;"point";"false";"America/Chicago";32531;1840028819
+"McKinnon";"McKinnon";"FL";"Florida";12033;"Escambia";30.7891;-87.4733;"null";"null";21;"point";"false";"America/Chicago";32568;1840028886
+"Flowersville";"Flowersville";"FL";"Florida";12131;"Walton";30.9538;-86.3383;"null";"null";37.4;"point";"false";"America/Chicago";32567;1840028824
+"Bryceville";"Bryceville";"FL";"Florida";12089;"Nassau";30.3847;-81.9387;"null";"null";51.1;"point";"false";"America/New_York";32009;1840028818
+"Port Orange";"Port Orange";"FL";"Florida";12127;"Volusia";29.1084;-81.0136;63203;63203;909;"polygon";"true";"America/New_York";"32127 32129 32128 32122 32123";1840015077
+"Spring Hill";"Spring Hill";"FL";"Florida";12053;"Hernando";28.4797;-82.53;"null";"null";870.2;"polygon";"false";"America/New_York";"34609 34608 34604 34606 34611";1840014105
+"Saint Pete Beach";"Saint Pete Beach";"FL";"Florida";12103;"Pinellas";27.7215;-82.7383;9647;9647;1749;"polygon";"true";"America/New_York";"33706 33736 33741";1840015976
+"Bunnell";"Bunnell";"FL";"Florida";12035;"Flagler";29.4198;-81.3235;2907;2907;8;"polygon";"true";"America/New_York";32110;1840014036
+"Medley";"Medley";"FL";"Florida";12086;"Miami-Dade";25.8642;-80.3512;891;891;71;"polygon";"true";"America/New_York";"33178 33166 33198";1840017274
+"McGregor";"McGregor";"FL";"Florida";12071;"Lee";26.5611;-81.9134;"null";"null";1437.9;"polygon";"false";"America/New_York";33919;1840029055
+"Tarpon Springs";"Tarpon Springs";"FL";"Florida";12103;"Pinellas";28.1492;-82.7622;25331;25331;1075;"polygon";"true";"America/New_York";34689;1840015980
+"Bayport";"Bayport";"FL";"Florida";12053;"Hernando";28.547;-82.6456;"null";"null";48.3;"polygon";"false";"America/New_York";34607;1840014104
+"Doctor Phillips";"Doctor Phillips";"FL";"Florida";12095;"Orange";28.4473;-81.491;"null";"null";1783.7;"polygon";"false";"America/New_York";"32836 32819";1840013119
+"Summerfield";"Summerfield";"FL";"Florida";12083;"Marion";29.0086;-82.0348;"null";"null";92.2;"point";"false";"America/New_York";34491;1840028783
+"Kendrick";"Kendrick";"FL";"Florida";12083;"Marion";29.2536;-82.1679;"null";"null";64.5;"point";"false";"America/New_York";34475;1840028712
+"Charleston Park";"Charleston Park";"FL";"Florida";12071;"Lee";26.7057;-81.5807;"null";"null";318.9;"polygon";"false";"America/New_York";33920;1840028976
+"Melbourne Village";"Melbourne Village";"FL";"Florida";12009;"Brevard";28.0879;-80.6651;698;698;461;"polygon";"true";"America/New_York";32904;1840017234
+"Lorida";"Lorida";"FL";"Florida";12055;"Highlands";27.4434;-81.2537;"null";"null";89.1;"point";"false";"America/New_York";33857;1840028836
+"Callaway";"Callaway";"FL";"Florida";12005;"Bay";30.1351;-85.5598;15144;15144;656;"polygon";"true";"America/Chicago";"32404 09725";1840013958
+"Tice";"Tice";"FL";"Florida";12071;"Lee";26.6758;-81.8171;"null";"null";1230.3;"polygon";"false";"America/New_York";33905;1840014219
+"West Miami";"West Miami";"FL";"Florida";12086;"Miami-Dade";25.7578;-80.2969;8120;8120;4424;"polygon";"true";"America/New_York";"33144 33155";1840016009
+"Whitfield";"Whitfield";"FL";"Florida";12113;"Santa Rosa";30.8787;-87.0613;"null";"null";31.6;"polygon";"false";"America/Chicago";32570;1840028920
+"Tallahassee";"Tallahassee";"FL";"Florida";12073;"Leon";30.455;-84.2526;253030;191049;733;"polygon";"true";"America/New_York";"32311 32312 32399 32304 32303 32301 32309 32308 32302 32306 32307 32313 32314 32315 32316 32318 32395";1840015913
+"Panama City Beach";"Panama City Beach";"FL";"Florida";12005;"Bay";30.2369;-85.8774;12757;12757;255;"polygon";"true";"America/Chicago";"32407 32413 32417";1840015035
+"Olympia Heights";"Olympia Heights";"FL";"Florida";12086;"Miami-Dade";25.7241;-80.339;"null";"null";3028.1;"polygon";"false";"America/New_York";"33165 33155";1840014247
+"South Brooksville";"South Brooksville";"FL";"Florida";12053;"Hernando";28.5242;-82.4158;"null";"null";251.5;"polygon";"false";"America/New_York";"34604 34601 34605";1840029077
+"Ona";"Ona";"FL";"Florida";12049;"Hardee";27.483;-81.9098;"null";"null";71.2;"polygon";"false";"America/New_York";"33873 33865";1840025170
+"Altha";"Altha";"FL";"Florida";12013;"Calhoun";30.572;-85.127;526;526;138;"polygon";"true";"America/Chicago";32421;1840015919
+"Shamrock";"Shamrock";"FL";"Florida";12029;"Dixie";29.6433;-83.1449;"null";"null";13.2;"point";"false";"America/New_York";32628;1840028777
+"White City";"White City";"FL";"Florida";12045;"Gulf";29.8841;-85.2199;"null";"null";235.2;"point";"false";"America/Chicago";32465;1840028858
+"Allandale";"Allandale";"FL";"Florida";12127;"Volusia";29.1217;-80.9764;"null";"null";1587.3;"point";"false";"America/New_York";32127;1840028620
+"Citrus Springs";"Citrus Springs";"FL";"Florida";12017;"Citrus";28.9932;-82.4595;"null";"null";954.7;"polygon";"false";"America/New_York";"34433 34434 34445";1840014062
+"Gaskin";"Gaskin";"FL";"Florida";12131;"Walton";30.971;-86.1355;"null";"null";30.4;"point";"false";"America/Chicago";32464;1840028684
+"Orchid";"Orchid";"FL";"Florida";12061;"Indian River";27.7733;-80.4182;447;447;139;"polygon";"true";"America/New_York";32963;1840017247
+"Northdale";"Northdale";"FL";"Florida";12057;"Hillsborough";28.1058;-82.5263;"null";"null";467.2;"polygon";"false";"America/New_York";"33624 33548 33558";1840029107
+"Marathon";"Marathon";"FL";"Florida";12087;"Monroe";24.7261;-81.0378;9591;8877;405;"polygon";"true";"America/New_York";"33050 33052";1840016010
+"Loughman";"Loughman";"FL";"Florida";12105;"Polk";28.238;-81.5682;"null";"null";850;"polygon";"false";"America/New_York";"33896 33837 33858";1840014130
+"Gonzalez";"Gonzalez";"FL";"Florida";12033;"Escambia";30.5822;-87.2906;"null";"null";626.2;"polygon";"false";"America/Chicago";"32533 32534 32560";1840013910
+"Orange City";"Orange City";"FL";"Florida";12127;"Volusia";28.9348;-81.2882;11697;11697;600;"polygon";"true";"America/New_York";"32763 32774";1840015075
+"Manasota Key";"Manasota Key";"FL";"Florida";12015;"Charlotte";26.9226;-82.3537;"null";"null";1038.2;"polygon";"false";"America/New_York";34223;1840029056
+"Vilas";"Vilas";"FL";"Florida";12077;"Liberty";30.2191;-84.8857;"null";"null";0;"point";"false";"America/New_York";32321;1840023581
+"Clarcona";"Clarcona";"FL";"Florida";12095;"Orange";28.6218;-81.4993;"null";"null";933.8;"polygon";"false";"America/New_York";"32703 32818 32704";1840025145
+"Jay";"Jay";"FL";"Florida";12113;"Santa Rosa";30.9503;-87.1522;603;603;138;"polygon";"true";"America/Chicago";32565;1840017156
+"Limestone Creek";"Limestone Creek";"FL";"Florida";12099;"Palm Beach";26.9433;-80.1408;"null";"null";751.1;"polygon";"false";"America/New_York";33458;1840028992
+"Land O' Lakes";"Land O' Lakes";"FL";"Florida";12101;"Pasco";28.2075;-82.4476;"null";"null";793.1;"polygon";"false";"America/New_York";"33549 34638 33559 34639";1840014120
+"Pinewood";"Pinewood";"FL";"Florida";12086;"Miami-Dade";25.8697;-80.2174;"null";"null";4637.7;"polygon";"false";"America/New_York";"33168 33147 33167 33150";1840029066
+"Sanford";"Sanford";"FL";"Florida";12117;"Seminole";28.7891;-81.2757;59317;59317;983;"polygon";"true";"America/New_York";"32773 32771 32745";1840015958
+"Fairview Shores";"Fairview Shores";"FL";"Florida";12095;"Orange";28.6021;-81.3948;"null";"null";1188.7;"polygon";"false";"America/New_York";"32804 32789 32810";1840013120
+"Paxton";"Paxton";"FL";"Florida";12131;"Walton";30.9751;-86.3095;797;797;82;"polygon";"true";"America/Chicago";"32567 32538";1840017165
+"Bellview";"Bellview";"FL";"Florida";12033;"Escambia";30.462;-87.312;"null";"null";684.2;"polygon";"false";"America/Chicago";32526;1840013912
+"Inwood";"Inwood";"FL";"Florida";12105;"Polk";28.0391;-81.7678;"null";"null";2141.7;"polygon";"false";"America/New_York";"33881 33880";1840014123
+"Largo";"Largo";"FL";"Florida";12103;"Pinellas";27.9088;-82.7713;84754;84754;1790;"polygon";"true";"America/New_York";"33756 33771 33770 33760 33764 33773 33778 33774 33779";1840015114
+"Trinity";"Trinity";"FL";"Florida";12101;"Pasco";28.1809;-82.6581;"null";"null";1197.7;"polygon";"false";"America/New_York";34655;1840029012
+"Dekle Beach";"Dekle Beach";"FL";"Florida";12123;"Taylor";29.8491;-83.6193;"null";"null";46;"point";"false";"America/New_York";32348;1840028665
+"Richmond Heights";"Richmond Heights";"FL";"Florida";12086;"Miami-Dade";25.6347;-80.372;"null";"null";2930.6;"polygon";"false";"America/New_York";"33176 33186";1840014249
+"Waverly";"Waverly";"FL";"Florida";12105;"Polk";27.9839;-81.6196;"null";"null";277.7;"polygon";"false";"America/New_York";"33877 33859";1840014126
+"Leonia";"Leonia";"FL";"Florida";12059;"Holmes";30.9085;-86.0249;"null";"null";4.7;"point";"false";"America/Chicago";32464;1840028912
+"Marco";"Marco";"FL";"Florida";12021;"Collier";25.9726;-81.729;"null";"null";1525.8;"point";"true";"America/New_York";34145;1840028724
+"Wallace";"Wallace";"FL";"Florida";12113;"Santa Rosa";30.6746;-87.1996;"null";"null";56.7;"polygon";"false";"America/Chicago";32571;1840027010
+"Cypress";"Cypress";"FL";"Florida";12063;"Jackson";30.7132;-85.0738;"null";"null";69.3;"point";"false";"America/Chicago";32442;1840028659
+"Econfina";"Econfina";"FL";"Florida";12005;"Bay";30.4121;-85.5358;"null";"null";9.5;"point";"false";"America/Chicago";32466;1840028874
+"Lake Mary";"Lake Mary";"FL";"Florida";12117;"Seminole";28.7591;-81.336;16474;16474;694;"polygon";"true";"America/New_York";"32746 32795";1840015090
+"Royal Palm Beach";"Royal Palm Beach";"FL";"Florida";12099;"Palm Beach";26.7037;-80.2242;38592;38592;1290;"polygon";"true";"America/New_York";"33411 33421";1840018309
+"Floridatown";"Floridatown";"FL";"Florida";12113;"Santa Rosa";30.5828;-87.1615;"null";"null";189.3;"polygon";"false";"America/Chicago";32571;1840027009
+"Merritt Island";"Merritt Island";"FL";"Florida";12009;"Brevard";28.3146;-80.6713;"null";"null";0.1;"polygon";"false";"America/New_York";"32952 32953 32954";1840014076
+"Apollo Beach";"Apollo Beach";"FL";"Florida";12057;"Hillsborough";27.7618;-82.4002;"null";"null";1816;"polygon";"false";"America/New_York";"33573 33572";1840014149
+"Harbor Bluffs";"Harbor Bluffs";"FL";"Florida";12103;"Pinellas";27.9082;-82.8269;"null";"null";1334;"polygon";"false";"America/New_York";33770;1840014140
+"Ponce de Leon";"Ponce de Leon";"FL";"Florida";12059;"Holmes";30.7233;-85.9374;558;558;43;"polygon";"true";"America/Chicago";32455;1840017164
+"Pinetta";"Pinetta";"FL";"Florida";12079;"Madison";30.5941;-83.3524;"null";"null";82.9;"point";"false";"America/New_York";32350;1840028756
+"North Sarasota";"North Sarasota";"FL";"Florida";12115;"Sarasota";27.371;-82.5177;"null";"null";524.7;"polygon";"false";"America/New_York";"34234 34243";1840029061
+"Leesburg";"Leesburg";"FL";"Florida";12069;"Lake";28.7674;-81.8981;148161;22689;271;"polygon";"true";"America/New_York";"34748 34762 34736 34749 34789";1840015083
+"Crystal Lake";"Crystal Lake";"FL";"Florida";12105;"Polk";28.0371;-81.9064;"null";"null";2644.7;"polygon";"false";"America/New_York";33801;1840029030
+"Istachatta";"Istachatta";"FL";"Florida";12053;"Hernando";28.6634;-82.2726;"null";"null";158.3;"polygon";"false";"America/New_York";34601;1840014103
+"Lauderdale-by-the-Sea";"Lauderdale-by-the-Sea";"FL";"Florida";12011;"Broward";26.199;-80.0972;6544;6544;2895;"polygon";"true";"America/New_York";"33308 33062 33303";1840017271
+"Miami";"Miami";"FL";"Florida";12086;"Miami-Dade";25.784;-80.2102;6381966;463347;4971;"polygon";"true";"America/New_York";"33129 33125 33126 33127 33128 33149 33144 33145 33142 33139 33138 33137 33136 33135 33134 33133 33132 33131 33130 33150 33101 33109 33111 33151 33222 33231 33233 33238 33255 33299";1840015149
+"Ponce Inlet";"Ponce Inlet";"FL";"Florida";12127;"Volusia";29.0928;-80.9474;3241;3241;279;"polygon";"true";"America/New_York";"32127 32168";1840017227
+"West Park";"West Park";"FL";"Florida";12011;"Broward";25.984;-80.1922;15153;15153;2662;"polygon";"true";"America/New_York";33023;1840016002
+"Brooker";"Brooker";"FL";"Florida";12007;"Bradford";29.8877;-82.3329;336;336;245;"polygon";"true";"America/New_York";32622;1840015939
+"Palmetto";"Palmetto";"FL";"Florida";12081;"Manatee";27.5251;-82.575;13661;13661;993;"polygon";"true";"America/New_York";"34221 34220";1840015116
+"Indialantic";"Indialantic";"FL";"Florida";12009;"Brevard";28.0869;-80.57;2894;2894;1146;"polygon";"true";"America/New_York";32903;1840017231
+"North Fort Myers";"North Fort Myers";"FL";"Florida";12071;"Lee";26.7243;-81.8491;"null";"null";954.8;"polygon";"false";"America/New_York";"33917 33903 33918";1840014222
+"The Meadows";"The Meadows";"FL";"Florida";12115;"Sarasota";27.3653;-82.4725;"null";"null";909.4;"polygon";"false";"America/New_York";34235;1840029087
+"Webster";"Webster";"FL";"Florida";12119;"Sumter";28.6115;-82.0509;1090;1090;317;"polygon";"true";"America/New_York";33597;1840015955
+"Venus";"Venus";"FL";"Florida";12055;"Highlands";27.0673;-81.3567;"null";"null";5.8;"point";"false";"America/New_York";33960;1840028855
+"Pineola";"Pineola";"FL";"Florida";12017;"Citrus";28.6889;-82.2729;"null";"null";16.4;"point";"false";"America/New_York";34436;1840028896
+"Mount Plymouth";"Mount Plymouth";"FL";"Florida";12069;"Lake";28.8024;-81.5351;"null";"null";533.2;"polygon";"false";"America/New_York";32776;1840014049
+"Rotonda";"Rotonda";"FL";"Florida";12015;"Charlotte";26.8845;-82.2791;"null";"null";727.8;"polygon";"false";"America/New_York";"33947 33946";1840014201
+"North Port";"North Port";"FL";"Florida";12115;"Sarasota";27.0577;-82.1976;195992;66300;257;"polygon";"true";"America/New_York";"34286 34287 34288 34289 34266 34293 34291 34223 34290";1840015120
+"West Palm Beach";"West Palm Beach";"FL";"Florida";12099;"Palm Beach";26.7467;-80.1314;110222;110222;780;"polygon";"true";"America/New_York";"33411 33412 33417 33409 33407 33405 33401 33402 33422";1840015993
+"Eustis";"Eustis";"FL";"Florida";12069;"Lake";28.8559;-81.678;20827;20827;768;"polygon";"true";"America/New_York";"32726 32736 32727";1840014054
+"Key Colony Beach";"Key Colony Beach";"FL";"Florida";12087;"Monroe";24.7234;-81.0215;832;832;729;"polygon";"true";"America/New_York";33051;1840015160
+"Curlew";"Curlew";"FL";"Florida";12103;"Pinellas";28.0531;-82.7429;"null";"null";1015.7;"point";"false";"America/New_York";34684;1840028658
+"Baskin";"Baskin";"FL";"Florida";12103;"Pinellas";27.897;-82.7951;"null";"null";1558.6;"point";"false";"America/New_York";33778;1840028627
+"Seville";"Seville";"FL";"Florida";12127;"Volusia";29.3364;-81.5065;"null";"null";208.9;"polygon";"false";"America/New_York";32190;1840025144
+"Palm Coast";"Palm Coast";"FL";"Florida";12035;"Flagler";29.5389;-81.246;401757;86516;351;"polygon";"true";"America/New_York";"32164 32136 32137 32135 32142";1840015064
+"Branford";"Branford";"FL";"Florida";12121;"Suwannee";29.9621;-82.9256;728;728;281;"polygon";"true";"America/New_York";32008;1840015930
+"South Punta Gorda Heights";"South Punta Gorda Heights";"FL";"Florida";12015;"Charlotte";26.8656;-81.9909;"null";"null";85.4;"point";"false";"America/New_York";33955;1840028780
+"Pine Island Center";"Pine Island Center";"FL";"Florida";12071;"Lee";26.6352;-82.1253;"null";"null";150.8;"polygon";"false";"America/New_York";33922;1840014223
+"Town 'n' Country";"Town 'n' Country";"FL";"Florida";12057;"Hillsborough";28.0108;-82.576;"null";"null";1515.7;"polygon";"false";"America/New_York";"33634 33635 33615 33685";1840029089
+"Biscayne Park";"Biscayne Park";"FL";"Florida";12086;"Miami-Dade";25.8818;-80.1814;3184;3184;1982;"polygon";"true";"America/New_York";33161;1840018331
+"Turnbull";"Turnbull";"FL";"Florida";12009;"Brevard";28.7103;-80.8623;"null";"null";211.6;"point";"false";"America/New_York";32754;1840028908
+"Boynton Beach";"Boynton Beach";"FL";"Florida";12099;"Palm Beach";26.5282;-80.0811;77702;77702;1859;"polygon";"true";"America/New_York";"33426 33436 33435 33474";1840014208
+"Tamiami";"Tamiami";"FL";"Florida";12086;"Miami-Dade";25.7556;-80.4016;"null";"null";1657;"polygon";"false";"America/New_York";"33175 33182 33184 33265";1840029085
+"Heathrow";"Heathrow";"FL";"Florida";12117;"Seminole";28.7754;-81.3721;"null";"null";765.6;"polygon";"false";"America/New_York";32746;1840014070
+"Creels";"Creels";"FL";"Florida";12037;"Franklin";29.8219;-84.9091;"null";"null";0.7;"point";"false";"America/New_York";32328;1840023566
+"Port Salerno";"Port Salerno";"FL";"Florida";12085;"Martin";27.1462;-80.1894;"null";"null";1207.2;"polygon";"false";"America/New_York";34997;1840014193
+"Bokeelia";"Bokeelia";"FL";"Florida";12071;"Lee";26.68;-82.1409;"null";"null";440;"polygon";"false";"America/New_York";33922;1840014215
+"Sunnyside";"Sunnyside";"FL";"Florida";12069;"Lake";28.7989;-81.8354;"null";"null";246.6;"point";"false";"America/New_York";34748;1840028905
+"Palmona Park";"Palmona Park";"FL";"Florida";12071;"Lee";26.6892;-81.8947;"null";"null";1389.5;"polygon";"false";"America/New_York";33903;1840028922
+"Waukeenah";"Waukeenah";"FL";"Florida";12065;"Jefferson";30.402;-83.96;"null";"null";95;"polygon";"false";"America/New_York";32344;1840026008
+"Drifton";"Drifton";"FL";"Florida";12065;"Jefferson";30.4955;-83.8793;"null";"null";39.6;"point";"false";"America/New_York";32344;1840028669
+"Fort Walton Beach";"Fort Walton Beach";"FL";"Florida";12091;"Okaloosa";30.4245;-86.6193;21895;21895;1122;"polygon";"true";"America/Chicago";"32548 32547 32549";1840013923
+"Dukes";"Dukes";"FL";"Florida";12125;"Union";29.9664;-82.4073;"null";"null";6.3;"point";"false";"America/New_York";32054;1840028873
+"Carrabelle";"Carrabelle";"FL";"Florida";12037;"Franklin";29.8549;-84.6688;2503;2503;212;"polygon";"true";"America/New_York";32322;1840015055
+"Scottsmoor";"Scottsmoor";"FL";"Florida";12009;"Brevard";28.7669;-80.8781;"null";"null";55.5;"point";"false";"America/New_York";32754;1840028774
+"Martel";"Martel";"FL";"Florida";12083;"Marion";29.1866;-82.2465;"null";"null";358.6;"point";"false";"America/New_York";34482;1840028725
+"Seminole Manor";"Seminole Manor";"FL";"Florida";12099;"Palm Beach";26.5839;-80.1001;"null";"null";1750.9;"polygon";"false";"America/New_York";33462;1840029003
+"Golden Gate";"Golden Gate";"FL";"Florida";12021;"Collier";26.1844;-81.7031;"null";"null";3308.3;"polygon";"false";"America/New_York";34116;1840014228
+"Meadowbrook Terrace";"Meadowbrook Terrace";"FL";"Florida";12019;"Clay";30.1775;-81.7345;"null";"null";1194.8;"point";"false";"America/New_York";32073;1840028729
+"Good Hope";"Good Hope";"FL";"Florida";12091;"Okaloosa";30.9691;-86.6313;"null";"null";10.2;"point";"false";"America/Chicago";32531;1840028932
+"Highland View";"Highland View";"FL";"Florida";12045;"Gulf";29.838;-85.3158;"null";"null";468.5;"point";"false";"America/New_York";32456;1840028692
+"Hypoluxo";"Hypoluxo";"FL";"Florida";12099;"Palm Beach";26.5635;-80.0531;2772;2772;1873;"polygon";"true";"America/New_York";33462;1840017253
+"Miramar";"Miramar";"FL";"Florida";12011;"Broward";25.9773;-80.3358;140328;140328;1844;"polygon";"true";"America/New_York";"33029 33023 33027 33025";1840015137
+"Doral";"Doral";"FL";"Florida";12086;"Miami-Dade";25.8149;-80.3565;61130;61130;1699;"polygon";"true";"America/New_York";"33178 33172 33122 33126 33166 33112 33191 33206";1840015148
+"Avon Park";"Avon Park";"FL";"Florida";12055;"Highlands";27.5904;-81.5074;10408;10408;421;"polygon";"true";"America/New_York";"33825 33826";1840014166
+"Hawthorne";"Hawthorne";"FL";"Florida";12001;"Alachua";29.5922;-82.0918;1519;1519;86;"polygon";"true";"America/New_York";32640;1840015059
+"Romeo";"Romeo";"FL";"Florida";12083;"Marion";29.2064;-82.4362;"null";"null";30.3;"point";"false";"America/New_York";34432;1840028849
+"Bay Pines";"Bay Pines";"FL";"Florida";12103;"Pinellas";27.8144;-82.7744;"null";"null";442.1;"polygon";"false";"America/New_York";"33708 33744";1840014141
+"Grant-Valkaria";"Grant-Valkaria";"FL";"Florida";12009;"Brevard";27.9323;-80.5655;4207;4207;59;"polygon";"true";"America/New_York";"32909 32950 32949";1840017235
+"Lely";"Lely";"FL";"Florida";12021;"Collier";26.1032;-81.7296;"null";"null";821.6;"polygon";"false";"America/New_York";34113;1840029052
+"Palm Bay";"Palm Bay";"FL";"Florida";12009;"Brevard";27.9861;-80.6628;489912;111657;656;"polygon";"true";"America/New_York";"32909 32908 32905 32907 32902 32906 32910 32911";1840015094
+"Ward Ridge";"Ward Ridge";"FL";"Florida";12045;"Gulf";29.7885;-85.2849;"null";"null";157.1;"point";"false";"America/New_York";32456;1840028970
+"Campton";"Campton";"FL";"Florida";12091;"Okaloosa";30.8735;-86.5183;"null";"null";12.9;"point";"false";"America/Chicago";32567;1840028926
+"Safety Harbor";"Safety Harbor";"FL";"Florida";12103;"Pinellas";28.0079;-82.6965;17844;17844;1409;"polygon";"true";"America/New_York";34695;1840015975
+"Bostwick";"Bostwick";"FL";"Florida";12107;"Putnam";29.7741;-81.637;"null";"null";81.8;"point";"false";"America/New_York";32177;1840028639
+"Pennsuco";"Pennsuco";"FL";"Florida";12086;"Miami-Dade";25.8951;-80.3781;"null";"null";0.8;"point";"false";"America/New_York";33018;1840023579
+"Bloomingdale";"Bloomingdale";"FL";"Florida";12057;"Hillsborough";27.8784;-82.2624;"null";"null";1017;"polygon";"false";"America/New_York";"33511 33596";1840014150
+"Highland Park";"Highland Park";"FL";"Florida";12105;"Polk";27.8613;-81.5618;258;258;170;"polygon";"true";"America/New_York";33898;1840018289
+"Miami Beach";"Miami Beach";"FL";"Florida";12086;"Miami-Dade";25.8171;-80.1396;92307;92307;4637;"polygon";"true";"America/New_York";"33140 33141 33139 33109 33119 33239";1840015150
+"Gun Club Estates";"Gun Club Estates";"FL";"Florida";12099;"Palm Beach";26.6753;-80.1081;"null";"null";342.3;"polygon";"false";"America/New_York";33406;1840028984
+"Steinhatchee";"Steinhatchee";"FL";"Florida";12123;"Taylor";29.6795;-83.3837;"null";"null";111.6;"polygon";"false";"America/New_York";32359;1840026030
+"Alford";"Alford";"FL";"Florida";12063;"Jackson";30.6961;-85.3947;475;475;171;"polygon";"true";"America/Chicago";32420;1840015898
+"Lake Wales";"Lake Wales";"FL";"Florida";12105;"Polk";27.9193;-81.5969;16066;16066;327;"polygon";"true";"America/New_York";"33898 33853 33859";1840015107
+"Balm";"Balm";"FL";"Florida";12057;"Hillsborough";27.7541;-82.2882;"null";"null";94.6;"polygon";"false";"America/New_York";"33598 33503";1840025162
+"Watertown";"Watertown";"FL";"Florida";12023;"Columbia";30.1854;-82.6023;"null";"null";495.5;"polygon";"false";"America/New_York";"32055 32025";1840013955
+"Immokalee";"Immokalee";"FL";"Florida";12021;"Collier";26.4253;-81.4251;"null";"null";2088.2;"polygon";"false";"America/New_York";"34142 34143";1840014230
+"South Bradenton";"South Bradenton";"FL";"Florida";12081;"Manatee";27.4612;-82.5821;"null";"null";2190.7;"polygon";"false";"America/New_York";"34205 34207 34210";1840029076
+"Center Hill";"Center Hill";"FL";"Florida";12119;"Sumter";28.6334;-81.9985;1371;1371;88;"polygon";"true";"America/New_York";"33514 33597";1840015086
+"Alva";"Alva";"FL";"Florida";12071;"Lee";26.7188;-81.6269;"null";"null";155.4;"polygon";"false";"America/New_York";33920;1840014214
+"Lake Magdalene";"Lake Magdalene";"FL";"Florida";12057;"Hillsborough";28.0874;-82.4791;"null";"null";890;"polygon";"false";"America/New_York";"33618 33613 33612 33682 33694";1840029049
+"Belleview";"Belleview";"FL";"Florida";12083;"Marion";29.0612;-82.0565;4963;4963;500;"polygon";"true";"America/New_York";"34420 34421";1840014040
+"Boca Grande";"Boca Grande";"FL";"Florida";12071;"Lee";26.749;-82.262;"null";"null";533.4;"point";"false";"America/New_York";33921;1840028638
+"Ponte Vedra Beach";"Ponte Vedra Beach";"FL";"Florida";12109;"St. Johns";30.2397;-81.3856;"null";"null";1102.5;"point";"false";"America/New_York";32082;1840028957
+"Saint Leo";"Saint Leo";"FL";"Florida";12101;"Pasco";28.3363;-82.2589;1491;1491;514;"polygon";"true";"America/New_York";33525;1840018288
+"Beacon Square";"Beacon Square";"FL";"Florida";12101;"Pasco";28.2118;-82.7504;"null";"null";1847.4;"polygon";"false";"America/New_York";"34691 34652";1840028798
+"Dunnellon";"Dunnellon";"FL";"Florida";12083;"Marion";29.0529;-82.4414;1798;1798;111;"polygon";"true";"America/New_York";"34432 34431";1840014039
+"Sunniland";"Sunniland";"FL";"Florida";12021;"Collier";26.2693;-81.3417;"null";"null";0.1;"point";"false";"America/New_York";34142;1840023560
+"Atlantic Beach";"Atlantic Beach";"FL";"Florida";12031;"Duval";30.3372;-81.4128;13608;13608;1498;"polygon";"true";"America/New_York";32233;1840013956
+"Perrine";"Perrine";"FL";"Florida";12086;"Miami-Dade";25.6051;-80.3537;"null";"null";1175.4;"point";"false";"America/New_York";33157;1840028753
+"Ellzey";"Ellzey";"FL";"Florida";12075;"Levy";29.3111;-82.7934;"null";"null";21;"point";"false";"America/New_York";32683;1840028875
+"North Naples";"North Naples";"FL";"Florida";12021;"Collier";26.2193;-81.7918;"null";"null";371.3;"point";"false";"America/New_York";34108;1840028738
+"Wesley Chapel";"Wesley Chapel";"FL";"Florida";12101;"Pasco";28.2106;-82.3238;"null";"null";345.2;"polygon";"false";"America/New_York";"33543 33545 33559 33544";1840014118
+"Wabasso";"Wabasso";"FL";"Florida";12061;"Indian River";27.7478;-80.4363;"null";"null";136.3;"polygon";"false";"America/New_York";"32970 32967 32958";1840014162
+"Delray Beach";"Delray Beach";"FL";"Florida";12099;"Palm Beach";26.455;-80.0905;68749;68749;1671;"polygon";"true";"America/New_York";"33445 33444 33483 33448 33482";1840015123
+"Oakland Park";"Oakland Park";"FL";"Florida";12011;"Broward";26.1779;-80.1527;45035;45035;2316;"polygon";"true";"America/New_York";"33306 33309 33334 33311 33310 33335";1840015139
+"Layton";"Layton";"FL";"Florida";12087;"Monroe";24.8246;-80.8128;193;193;447;"polygon";"true";"America/New_York";33001;1840015162
+"Indian River Estates";"Indian River Estates";"FL";"Florida";12111;"St. Lucie";27.3565;-80.2984;"null";"null";751.5;"polygon";"false";"America/New_York";34982;1840029044
+"East Milton";"East Milton";"FL";"Florida";12113;"Santa Rosa";30.6175;-86.9636;"null";"null";109.8;"polygon";"false";"America/Chicago";32583;1840025112
+"Ebro";"Ebro";"FL";"Florida";12133;"Washington";30.4379;-85.8791;268;268;20;"polygon";"true";"America/Chicago";32437;1840017178
+"Brent";"Brent";"FL";"Florida";12033;"Escambia";30.4729;-87.2496;"null";"null";2032.7;"polygon";"false";"America/Chicago";"32505 32503 32520";1840013913
+"Glen Ridge";"Glen Ridge";"FL";"Florida";12099;"Palm Beach";26.6717;-80.0757;239;239;448;"polygon";"true";"America/New_York";33406;1840017264
+"Bratt";"Bratt";"FL";"Florida";12033;"Escambia";30.9657;-87.4275;"null";"null";40.4;"point";"false";"America/Chicago";32535;1840028642
+"Chokoloskee";"Chokoloskee";"FL";"Florida";12021;"Collier";25.8145;-81.3602;"null";"null";816.1;"polygon";"false";"America/New_York";34138;1840014231
+"Chipley";"Chipley";"FL";"Florida";12133;"Washington";30.7755;-85.5405;3762;3526;325;"polygon";"true";"America/Chicago";32428;1840015015
+"Chaires";"Chaires";"FL";"Florida";12073;"Leon";30.4363;-84.1174;"null";"null";75;"point";"false";"America/New_York";32317;1840028649
+"Juno Ridge";"Juno Ridge";"FL";"Florida";12099;"Palm Beach";26.8491;-80.0619;"null";"null";1085.9;"polygon";"false";"America/New_York";33408;1840028987
+"Holley";"Holley";"FL";"Florida";12113;"Santa Rosa";30.454;-86.9036;"null";"null";295;"polygon";"false";"America/Chicago";32566;1840027015
+"Sunny Isles Beach";"Sunny Isles Beach";"FL";"Florida";12086;"Miami-Dade";25.9385;-80.1245;22348;22348;8541;"polygon";"true";"America/New_York";33160;1840016007
+"Jensen Beach";"Jensen Beach";"FL";"Florida";12085;"Martin";27.2437;-80.2422;"null";"null";695.3;"polygon";"false";"America/New_York";34957;1840014190
+"DeLand";"DeLand";"FL";"Florida";12127;"Volusia";29.0226;-81.2875;32506;32506;673;"polygon";"true";"America/New_York";"32724 32720 32721";1840015071
+"South Patrick Shores";"South Patrick Shores";"FL";"Florida";12009;"Brevard";28.2021;-80.6137;"null";"null";1399.1;"polygon";"false";"America/New_York";32937;1840029080
+"Grand Island";"Grand Island";"FL";"Florida";12069;"Lake";28.8825;-81.729;"null";"null";753.1;"point";"false";"America/New_York";32735;1840028933
+"Saint James City";"Saint James City";"FL";"Florida";12071;"Lee";26.5507;-82.098;"null";"null";703.4;"polygon";"false";"America/New_York";33956;1840014211
+"Newburn";"Newburn";"FL";"Florida";12121;"Suwannee";30.2724;-83.1407;"null";"null";13.8;"point";"false";"America/New_York";32060;1840028890
+"Hugh";"Hugh";"FL";"Florida";12019;"Clay";30.1658;-82.0329;"null";"null";0.8;"point";"false";"America/New_York";32234;1840023567
+"Georgetown";"Georgetown";"FL";"Florida";12107;"Putnam";29.3914;-81.6387;"null";"null";118.3;"point";"false";"America/New_York";32139;1840028931
+"Noma";"Noma";"FL";"Florida";12059;"Holmes";30.9801;-85.6223;206;206;76;"polygon";"true";"America/Chicago";"32425 32452";1840017163
+"Winfield";"Winfield";"FL";"Florida";12023;"Columbia";30.263;-82.686;"null";"null";14.7;"point";"false";"America/New_York";32055;1840028911
+"Redington Beach";"Redington Beach";"FL";"Florida";12103;"Pinellas";27.8127;-82.8094;1479;1479;1594;"polygon";"true";"America/New_York";33708;1840018294
+"Wewahitchka";"Wewahitchka";"FL";"Florida";12045;"Gulf";30.1153;-85.1932;2091;2091;124;"polygon";"true";"America/Chicago";32465;1840015938
+"Hollywood";"Hollywood";"FL";"Florida";12011;"Broward";26.0293;-80.1678;153627;153627;2177;"polygon";"true";"America/New_York";"33019 33024 33023 33021 33020 33004 33316 33312 33022 33081 33082 33302";1840015144
+"Jasmine Estates";"Jasmine Estates";"FL";"Florida";12101;"Pasco";28.293;-82.6907;"null";"null";3047.9;"polygon";"false";"America/New_York";34668;1840014116
+"Fuller Heights";"Fuller Heights";"FL";"Florida";12105;"Polk";27.9227;-81.9978;"null";"null";375;"polygon";"false";"America/New_York";33860;1840025156
+"The Acreage";"The Acreage";"FL";"Florida";12099;"Palm Beach";26.7741;-80.2779;"null";"null";512.6;"polygon";"false";"America/New_York";"33411 33412 33470";1840026061
+"Wiscon";"Wiscon";"FL";"Florida";12053;"Hernando";28.5409;-82.4664;"null";"null";392.7;"polygon";"false";"America/New_York";"34613 34601";1840025148
+"Weeki Wachee";"Weeki Wachee";"FL";"Florida";12053;"Hernando";28.517;-82.5775;13;13;4;"polygon";"true";"America/New_York";"34613 34606";1840015967
+"Putnam Hall";"Putnam Hall";"FL";"Florida";12107;"Putnam";29.7366;-81.9593;"null";"null";41.3;"point";"false";"America/New_York";32666;1840028802
+"Winter Beach";"Winter Beach";"FL";"Florida";12061;"Indian River";27.712;-80.4254;"null";"null";96.9;"polygon";"false";"America/New_York";"32967 32971";1840014163
+"Fort Myers Beach";"Fort Myers Beach";"FL";"Florida";12071;"Lee";26.4324;-81.9167;7077;7077;983;"polygon";"true";"America/New_York";"33931 33932";1840017269
+"McAlpin";"McAlpin";"FL";"Florida";12121;"Suwannee";30.1391;-82.9518;"null";"null";20.5;"point";"false";"America/New_York";32062;1840028727
+"Lake Monroe";"Lake Monroe";"FL";"Florida";12117;"Seminole";28.8247;-81.327;"null";"null";30.6;"point";"false";"America/New_York";32771;1840028717
+"Summer Haven";"Summer Haven";"FL";"Florida";12109;"St. Johns";29.6991;-81.2234;"null";"null";230.7;"point";"false";"America/New_York";32080;1840028961
+"Jamieson";"Jamieson";"FL";"Florida";12039;"Gadsden";30.6627;-84.4505;"null";"null";19.6;"point";"false";"America/New_York";32333;1840028707
+"Wekiwa Springs";"Wekiwa Springs";"FL";"Florida";12117;"Seminole";28.6984;-81.425;"null";"null";1147;"polygon";"false";"America/New_York";"32779 32752 32791";1840029016
+"Wimauma";"Wimauma";"FL";"Florida";12057;"Hillsborough";27.6964;-82.3034;"null";"null";460.6;"polygon";"false";"America/New_York";33598;1840014155
+"Black Diamond";"Black Diamond";"FL";"Florida";12017;"Citrus";28.9066;-82.4947;"null";"null";202.1;"polygon";"false";"America/New_York";"34461 34465";1840028973
+"Satsuma";"Satsuma";"FL";"Florida";12107;"Putnam";29.555;-81.6559;"null";"null";89.6;"point";"false";"America/New_York";32189;1840028773
+"Chattahoochee";"Chattahoochee";"FL";"Florida";12039;"Gadsden";30.6977;-84.834;4681;3104;218;"polygon";"true";"America/New_York";32324;1840015020
+"Welaka";"Welaka";"FL";"Florida";12107;"Putnam";29.4824;-81.6657;702;702;184;"polygon";"true";"America/New_York";"32193 32189";1840017219
+"Pompano Park";"Pompano Park";"FL";"Florida";12011;"Broward";26.1993;-80.2084;"null";"null";2643.3;"point";"false";"America/New_York";33319;1840028761
+"Hacienda Village";"Hacienda Village";"FL";"Florida";12011;"Broward";26.0854;-80.2012;"null";"null";1087.1;"point";"false";"America/New_York";33312;1840028689
+"Lake Park";"Lake Park";"FL";"Florida";12099;"Palm Beach";26.7998;-80.0689;8645;8645;1603;"polygon";"true";"America/New_York";33403;1840017258
+"Oakdale";"Oakdale";"FL";"Florida";12063;"Jackson";30.7105;-85.1852;"null";"null";16.5;"point";"false";"America/Chicago";32448;1840028839
+"Bradfordville";"Bradfordville";"FL";"Florida";12073;"Leon";30.5613;-84.2177;"null";"null";121.8;"point";"false";"America/New_York";32312;1840028817
+"Chassahowitzka";"Chassahowitzka";"FL";"Florida";12017;"Citrus";28.713;-82.5743;"null";"null";341.8;"point";"false";"America/New_York";34448;1840028651
+"Goldenrod";"Goldenrod";"FL";"Florida";12117;"Seminole";28.6114;-81.2916;"null";"null";1575.4;"polygon";"false";"America/New_York";32792;1840014080
+"Micco";"Micco";"FL";"Florida";12009;"Brevard";27.8683;-80.51;"null";"null";249.5;"polygon";"false";"America/New_York";32976;1840014077
+"Seagrove Beach";"Seagrove Beach";"FL";"Florida";12131;"Walton";30.3185;-86.1302;"null";"null";255.6;"point";"false";"America/Chicago";32459;1840028775
+"Gandy";"Gandy";"FL";"Florida";12103;"Pinellas";27.8685;-82.6161;"null";"null";431.7;"point";"false";"America/New_York";33702;1840029037
+"West Perrine";"West Perrine";"FL";"Florida";12086;"Miami-Dade";25.6061;-80.3639;"null";"null";2845.5;"polygon";"false";"America/New_York";33157;1840029018
+"La Crosse";"La Crosse";"FL";"Florida";12001;"Alachua";29.8412;-82.3797;390;390;34;"polygon";"true";"America/New_York";"32622 32658 32609";1840017214
+"Amelia City";"Amelia City";"FL";"Florida";12089;"Nassau";30.5902;-81.4573;"null";"null";583.2;"point";"false";"America/New_York";32034;1840028811
+"Sunset";"Sunset";"FL";"Florida";12086;"Miami-Dade";25.7061;-80.353;"null";"null";876.8;"polygon";"false";"America/New_York";33173;1840029084
+"Enterprise";"Enterprise";"FL";"Florida";12127;"Volusia";28.8692;-81.2667;"null";"null";113.8;"point";"false";"America/New_York";32725;1840028673
+"South Highpoint";"South Highpoint";"FL";"Florida";12103;"Pinellas";27.9085;-82.7162;"null";"null";649.1;"polygon";"false";"America/New_York";33760;1840029006
+"Hastings";"Hastings";"FL";"Florida";12109;"St. Johns";29.7104;-81.5102;643;643;149;"polygon";"true";"America/New_York";32145;1840017203
+"Lantana";"Lantana";"FL";"Florida";12099;"Palm Beach";26.5834;-80.0565;11824;11824;1923;"polygon";"true";"America/New_York";"33462 33464";1840017259
+"Vero Beach";"Vero Beach";"FL";"Florida";12061;"Indian River";27.6463;-80.393;16919;16919;570;"polygon";"true";"America/New_York";"32963 32960 32961 32964 32965 32969";1840015985
+"Woodville";"Woodville";"FL";"Florida";12073;"Leon";30.3114;-84.2595;"null";"null";398.4;"polygon";"false";"America/New_York";"32305 32362";1840013944
+"Bayshore Gardens";"Bayshore Gardens";"FL";"Florida";12081;"Manatee";27.4346;-82.5793;"null";"null";2086;"polygon";"false";"America/New_York";"34207 34282";1840014168
+"Ridge Wood Heights";"Ridge Wood Heights";"FL";"Florida";12115;"Sarasota";27.2874;-82.5137;"null";"null";1490.5;"polygon";"false";"America/New_York";34231;1840029070
+"Wright";"Wright";"FL";"Florida";12091;"Okaloosa";30.4444;-86.642;"null";"null";855;"polygon";"false";"America/Chicago";32547;1840013921
+"Gifford";"Gifford";"FL";"Florida";12061;"Indian River";27.6748;-80.4099;"null";"null";369.4;"polygon";"false";"America/New_York";"32967 32960";1840014160
+"Sumterville";"Sumterville";"FL";"Florida";12119;"Sumter";28.745;-82.0634;"null";"null";322.1;"point";"false";"America/New_York";33585;1840028784
+"Sanderson";"Sanderson";"FL";"Florida";12003;"Baker";30.2522;-82.2729;"null";"null";268.1;"point";"false";"America/New_York";32087;1840028943
+"Warm Mineral Springs";"Warm Mineral Springs";"FL";"Florida";12115;"Sarasota";27.0469;-82.2701;"null";"null";230.8;"polygon";"false";"America/New_York";34287;1840014183
+"Usher";"Usher";"FL";"Florida";12075;"Levy";29.4075;-82.8168;"null";"null";0.7;"point";"false";"America/New_York";32626;1840023549
+"Barberville";"Barberville";"FL";"Florida";12127;"Volusia";29.1872;-81.4209;"null";"null";48.5;"point";"false";"America/New_York";32180;1840028626
+"Port LaBelle";"Port LaBelle";"FL";"Florida";12051;"Hendry";26.7493;-81.3876;"null";"null";703.9;"polygon";"false";"America/New_York";33935;1840014210
+"Rubonia";"Rubonia";"FL";"Florida";12081;"Manatee";27.5789;-82.5526;"null";"null";517.1;"point";"false";"America/New_York";34221;1840028765
+"Desoto Lakes";"Desoto Lakes";"FL";"Florida";12115;"Sarasota";27.373;-82.4968;"null";"null";539.9;"polygon";"false";"America/New_York";34235;1840029033
+"Pembroke Park";"Pembroke Park";"FL";"Florida";12011;"Broward";25.9852;-80.1779;6602;6602;1859;"polygon";"true";"America/New_York";"33023 33009";1840017273
+"DeBary";"DeBary";"FL";"Florida";12127;"Volusia";28.8815;-81.324;20784;20784;423;"polygon";"true";"America/New_York";"32713 32753";1840015070
+"South Palm Beach";"South Palm Beach";"FL";"Florida";12099;"Palm Beach";26.5899;-80.0391;1441;1441;5518;"polygon";"true";"America/New_York";33480;1840018305
+"Silver Springs Shores";"Silver Springs Shores";"FL";"Florida";12083;"Marion";29.103;-82.0049;"null";"null";983.4;"polygon";"false";"America/New_York";34472;1840028949
+"West DeLand";"West DeLand";"FL";"Florida";12127;"Volusia";29.0162;-81.3343;"null";"null";1004.1;"polygon";"false";"America/New_York";32720;1840029095
+"Blackman";"Blackman";"FL";"Florida";12091;"Okaloosa";30.9246;-86.6366;"null";"null";5.5;"point";"false";"America/Chicago";32531;1840028925
+"Gulf Stream";"Gulf Stream";"FL";"Florida";12099;"Palm Beach";26.4889;-80.0574;876;876;451;"polygon";"true";"America/New_York";33483;1840017265
+"Palm Valley";"Palm Valley";"FL";"Florida";12109;"St. Johns";30.2011;-81.3949;"null";"null";596.9;"polygon";"false";"America/New_York";32082;1840013971
+"San Carlos Park";"San Carlos Park";"FL";"Florida";12071;"Lee";26.4765;-81.8192;"null";"null";2325.9;"polygon";"false";"America/New_York";33967;1840014218
+"South Apopka";"South Apopka";"FL";"Florida";12095;"Orange";28.6564;-81.5055;"null";"null";1621.1;"polygon";"false";"America/New_York";"32703 32793";1840028779
+"Wacissa";"Wacissa";"FL";"Florida";12065;"Jefferson";30.3566;-83.9937;"null";"null";29.5;"polygon";"false";"America/New_York";"32344 32361";1840026007
+"Capps";"Capps";"FL";"Florida";12065;"Jefferson";30.4105;-83.911;"null";"null";2.5;"point";"false";"America/New_York";32344;1840028647
+"Bal Harbour";"Bal Harbour";"FL";"Florida";12086;"Miami-Dade";25.8935;-80.1258;3059;3059;3080;"polygon";"true";"America/New_York";33154;1840018330
+"Miami Gardens";"Miami Gardens";"FL";"Florida";12086;"Miami-Dade";25.9433;-80.2425;113750;113750;2408;"polygon";"true";"America/New_York";"33014 33169 33055 33056 33054 33269";1840015151
+"Myakka City";"Myakka City";"FL";"Florida";12081;"Manatee";27.3498;-82.1615;"null";"null";53.5;"point";"false";"America/New_York";34251;1840028735
+"Saint Petersburg";"Saint Petersburg";"FL";"Florida";12103;"Pinellas";27.793;-82.6652;263255;263255;1645;"polygon";"true";"America/New_York";"33707 33702 33703 33762 33713 33712 33711 33710 33716 33715 33714 33705 33701 33704 33729 33731 33732 33733 33734 33742 33743 33747";1840015977
+"Lower Grand Lagoon";"Lower Grand Lagoon";"FL";"Florida";12005;"Bay";30.1444;-85.7525;"null";"null";1625.5;"polygon";"false";"America/Chicago";32408;1840029054
+"Theressa";"Theressa";"FL";"Florida";12007;"Bradford";29.8352;-82.0707;"null";"null";55.3;"point";"false";"America/New_York";32091;1840028907
+"Willow Oak";"Willow Oak";"FL";"Florida";12105;"Polk";27.9216;-82.0244;"null";"null";1088.5;"polygon";"false";"America/New_York";"33860 33811";1840028919
+"West Melbourne";"West Melbourne";"FL";"Florida";12009;"Brevard";28.0696;-80.6738;22089;22089;802;"polygon";"true";"America/New_York";32904;1840015963
+"Fort Myers";"Fort Myers";"FL";"Florida";12071;"Lee";26.6195;-81.8302;79943;79943;775;"polygon";"true";"America/New_York";"33913 33916 33966 33901 33907 33905 33902 33994";1840014226
+"Ormond-by-the-Sea";"Ormond-by-the-Sea";"FL";"Florida";12127;"Volusia";29.3436;-81.0677;"null";"null";1340.4;"polygon";"false";"America/New_York";32176;1840014042
+"Naples";"Naples";"FL";"Florida";12021;"Collier";26.1504;-81.7936;21948;21948;687;"polygon";"true";"America/New_York";"34103 34102 34101 34105 34104 34106";1840015131
+"Island Grove";"Island Grove";"FL";"Florida";12001;"Alachua";29.4536;-82.1065;"null";"null";28.2;"point";"false";"America/New_York";32640;1840028704
+"Odessa";"Odessa";"FL";"Florida";12101;"Pasco";28.182;-82.553;"null";"null";75.6;"polygon";"false";"America/New_York";"33558 33556";1840014121
+"Edgewood";"Edgewood";"FL";"Florida";12095;"Orange";28.488;-81.3768;2930;2930;942;"polygon";"true";"America/New_York";"32806 32809 32839";1840014099
+"Wakulla Beach";"Wakulla Beach";"FL";"Florida";12129;"Wakulla";30.1094;-84.2591;"null";"null";3.3;"point";"false";"America/New_York";32327;1840028947
+"Pine Manor";"Pine Manor";"FL";"Florida";12071;"Lee";26.5727;-81.8775;"null";"null";3878.6;"polygon";"false";"America/New_York";33907;1840028755
+"Crystal River";"Crystal River";"FL";"Florida";12017;"Citrus";28.8967;-82.5994;4402;3118;162;"polygon";"true";"America/New_York";"34428 34429 34423";1840015084
+"Florahome";"Florahome";"FL";"Florida";12107;"Putnam";29.7327;-81.8834;"null";"null";110.3;"point";"false";"America/New_York";32140;1840028680
+"Alton";"Alton";"FL";"Florida";12067;"Lafayette";30.053;-83.1379;"null";"null";23.1;"point";"false";"America/New_York";32066;1840028810
+"West Samoset";"West Samoset";"FL";"Florida";12081;"Manatee";27.4702;-82.5552;"null";"null";2332.7;"polygon";"false";"America/New_York";"34208 34203";1840029097
+"Olustee";"Olustee";"FL";"Florida";12003;"Baker";30.2041;-82.4287;"null";"null";107.8;"point";"false";"America/New_York";32072;1840028939
+"Everglades City";"Everglades City";"FL";"Florida";12021;"Collier";25.8601;-81.3804;"null";"null";70.6;"point";"true";"America/New_York";34141;1840028676
+"Fanning Springs";"Fanning Springs";"FL";"Florida";12041;"Gilchrist";29.5877;-82.9245;1009;1009;79;"polygon";"true";"America/New_York";32693;1840014038
+"Newberry";"Newberry";"FL";"Florida";12001;"Alachua";29.6346;-82.6047;5942;5942;42;"polygon";"true";"America/New_York";32669;1840015058
+"Minneola";"Minneola";"FL";"Florida";12069;"Lake";28.6069;-81.732;11529;11529;401;"polygon";"true";"America/New_York";"34715 34755";1840015081
+"Drexel";"Drexel";"FL";"Florida";12101;"Pasco";28.2428;-82.4598;"null";"null";416.6;"point";"false";"America/New_York";34638;1840028807
+"Goulding";"Goulding";"FL";"Florida";12033;"Escambia";30.4396;-87.23;"null";"null";691.6;"polygon";"false";"America/Chicago";"32501 32503";1840013911
+"West Bradenton";"West Bradenton";"FL";"Florida";12081;"Manatee";27.5016;-82.6146;"null";"null";1366.2;"polygon";"false";"America/New_York";34209;1840029094
+"Royal Palm Estates";"Royal Palm Estates";"FL";"Florida";12099;"Palm Beach";26.6815;-80.1266;"null";"null";2255.3;"polygon";"false";"America/New_York";"33413 33415";1840029001
+"Lake Sarasota";"Lake Sarasota";"FL";"Florida";12115;"Sarasota";27.2916;-82.437;"null";"null";2033.5;"polygon";"false";"America/New_York";34241;1840029050
+"Nokomis";"Nokomis";"FL";"Florida";12115;"Sarasota";27.1227;-82.4369;"null";"null";865.5;"polygon";"false";"America/New_York";34275;1840014185
+"Point Baker";"Point Baker";"FL";"Florida";12113;"Santa Rosa";30.6851;-87.0522;"null";"null";308.2;"polygon";"false";"America/Chicago";32570;1840025118
+"Lloyd";"Lloyd";"FL";"Florida";12065;"Jefferson";30.4822;-84.0244;"null";"null";96.4;"polygon";"false";"America/New_York";32344;1840026006
+"Lake Helen";"Lake Helen";"FL";"Florida";12127;"Volusia";28.9829;-81.2309;2780;2780;242;"polygon";"true";"America/New_York";32744;1840015079
+"Flamingo";"Flamingo";"FL";"Florida";12087;"Monroe";25.1418;-80.9253;"null";"null";0;"point";"false";"America/New_York";33034;1840023534
+"Cypress Quarters";"Cypress Quarters";"FL";"Florida";12093;"Okeechobee";27.2479;-80.8116;"null";"null";539.8;"polygon";"false";"America/New_York";"34972 34974";1840013126
+"Hallandale Beach";"Hallandale Beach";"FL";"Florida";12011;"Broward";25.9854;-80.1423;39831;39831;3649;"polygon";"true";"America/New_York";"33009 33008";1840014237
+"Dellwood";"Dellwood";"FL";"Florida";12063;"Jackson";30.8238;-85.0496;"null";"null";17.3;"point";"false";"America/Chicago";32442;1840028666
+"Sunrise";"Sunrise";"FL";"Florida";12011;"Broward";26.1547;-80.2997;94323;94323;2230;"polygon";"true";"America/New_York";"33322 33323 33326 33351 33313 33307 33345";1840016000
+"Nobleton";"Nobleton";"FL";"Florida";12053;"Hernando";28.6451;-82.2621;"null";"null";441.4;"polygon";"false";"America/New_York";34661;1840014109
+"Crooked Lake Park";"Crooked Lake Park";"FL";"Florida";12105;"Polk";27.8294;-81.5897;"null";"null";1260.5;"polygon";"false";"America/New_York";33859;1840028657
+"Fort Basinger";"Fort Basinger";"FL";"Florida";12055;"Highlands";27.3623;-81.057;"null";"null";16.6;"point";"false";"America/New_York";33857;1840028878
+"Becker";"Becker";"FL";"Florida";12089;"Nassau";30.6713;-81.6412;"null";"null";14.4;"point";"false";"America/New_York";32097;1840028631
+"Broadview Park";"Broadview Park";"FL";"Florida";12011;"Broward";26.0979;-80.2088;"null";"null";2560.2;"polygon";"false";"America/New_York";33317;1840028918
+"Williston";"Williston";"FL";"Florida";12075;"Levy";29.3736;-82.4576;3176;2710;155;"polygon";"true";"America/New_York";32696;1840015949
+"Dixonville";"Dixonville";"FL";"Florida";12133;"Washington";30.9865;-87.0416;"null";"null";21.5;"polygon";"false";"America/Chicago";32565;1840029113
+"Sanibel";"Sanibel";"FL";"Florida";12071;"Lee";26.4535;-82.1024;7363;7363;176;"polygon";"true";"America/New_York";33957;1840015996
+"Trenton";"Trenton";"FL";"Florida";12041;"Gilchrist";29.6094;-82.8147;2851;2093;236;"polygon";"true";"America/New_York";32693;1840015945
+"Florida Ridge";"Florida Ridge";"FL";"Florida";12061;"Indian River";27.5805;-80.3848;"null";"null";294.2;"polygon";"false";"America/New_York";32962;1840029035
+"Izagora";"Izagora";"FL";"Florida";12059;"Holmes";30.9102;-85.8416;"null";"null";14.6;"point";"false";"America/Chicago";32425;1840028834
+"Fernandina Beach";"Fernandina Beach";"FL";"Florida";12089;"Nassau";30.6588;-81.45;27005;12292;422;"polygon";"true";"America/New_York";"32034 32035";1840013929
+"Groveland";"Groveland";"FL";"Florida";12069;"Lake";28.602;-81.8204;13474;13474;324;"polygon";"true";"America/New_York";"34736 34737";1840014056
+"Lakeside";"Lakeside";"FL";"Florida";12019;"Clay";30.1356;-81.7674;"null";"null";1042.1;"polygon";"false";"America/New_York";"32068 32065 32073 32030";1840029051
+"Beverly Hills";"Beverly Hills";"FL";"Florida";12017;"Citrus";28.9175;-82.4541;"null";"null";1828.9;"polygon";"false";"America/New_York";"34465 34464";1840014061
+"Coral Gables";"Coral Gables";"FL";"Florida";12086;"Miami-Dade";25.7037;-80.2715;51095;51095;1525;"polygon";"true";"America/New_York";"33146 33143 33134 33158 33156 33114 33234";1840015147
+"Lauderhill";"Lauderhill";"FL";"Florida";12011;"Broward";26.1605;-80.2241;71970;71970;3260;"polygon";"true";"America/New_York";"33351 33313 33311 33319 33083 33359";1840015146
+"Wausau";"Wausau";"FL";"Florida";12133;"Washington";30.6334;-85.5874;379;379;126;"polygon";"true";"America/Chicago";"32428 32463";1840017179
+"Callahan";"Callahan";"FL";"Florida";12089;"Nassau";30.5618;-81.832;1342;1342;356;"polygon";"true";"America/New_York";32011;1840015907
+"Lisbon";"Lisbon";"FL";"Florida";12069;"Lake";28.8823;-81.7812;"null";"null";673;"polygon";"false";"America/New_York";34788;1840028935
+"Clewiston";"Clewiston";"FL";"Florida";12051;"Hendry";26.7532;-80.9399;13845;7720;634;"polygon";"true";"America/New_York";33440;1840015128
+"Chumuckla";"Chumuckla";"FL";"Florida";12113;"Santa Rosa";30.7826;-87.2309;"null";"null";10.7;"polygon";"false";"America/Chicago";"32571 32565";1840025111
+"Holden Heights";"Holden Heights";"FL";"Florida";12095;"Orange";28.5011;-81.3877;"null";"null";1073.4;"polygon";"false";"America/New_York";"32805 32839 32855";1840029043
+"Santos";"Santos";"FL";"Florida";12083;"Marion";29.1091;-82.0929;"null";"null";305.6;"point";"false";"America/New_York";34480;1840028772
+"South Ponte Vedra Beach";"South Ponte Vedra Beach";"FL";"Florida";12109;"St. Johns";30.0225;-81.3237;"null";"null";161.4;"point";"false";"America/New_York";32082;1840028960
+"Sharpes";"Sharpes";"FL";"Florida";12009;"Brevard";28.4368;-80.7555;"null";"null";271.2;"polygon";"false";"America/New_York";"32927 32926";1840014075
+"Eridu";"Eridu";"FL";"Florida";12123;"Taylor";30.3019;-83.7471;"null";"null";11;"point";"false";"America/New_York";32331;1840028674
+"Cortez";"Cortez";"FL";"Florida";12081;"Manatee";27.4668;-82.6688;"null";"null";800.2;"polygon";"false";"America/New_York";"34215 34210";1840013125
+"Crescent Beach";"Crescent Beach";"FL";"Florida";12109;"St. Johns";29.7358;-81.2414;"null";"null";717.2;"polygon";"false";"America/New_York";32080;1840013108
+"Osteen";"Osteen";"FL";"Florida";12127;"Volusia";28.8461;-81.1626;"null";"null";176.8;"point";"false";"America/New_York";32764;1840028747
+"Raiford";"Raiford";"FL";"Florida";12125;"Union";30.0636;-82.2391;242;242;163;"polygon";"true";"America/New_York";32083;1840018256
+"Eldridge";"Eldridge";"FL";"Florida";12127;"Volusia";29.2114;-81.4573;"null";"null";92.9;"point";"false";"America/New_York";32180;1840028921
+"Basinger";"Basinger";"FL";"Florida";12093;"Okeechobee";27.4003;-81.0165;"null";"null";4;"point";"false";"America/New_York";34972;1840028814
+"Maytown";"Maytown";"FL";"Florida";12127;"Volusia";28.8072;-80.9601;"null";"null";0.8;"point";"false";"America/New_York";32759;1840023545
+"Powell";"Powell";"FL";"Florida";12053;"Hernando";28.4925;-82.4284;"null";"null";254.8;"point";"false";"America/New_York";34601;1840028763
+"Tavares";"Tavares";"FL";"Florida";12069;"Lake";28.7927;-81.7364;16865;16865;550;"polygon";"true";"America/New_York";32778;1840015953
+"Ridgecrest";"Ridgecrest";"FL";"Florida";12103;"Pinellas";27.8951;-82.8063;"null";"null";1327.1;"polygon";"false";"America/New_York";"33778 33774";1840029000
+"Pinland";"Pinland";"FL";"Florida";12123;"Taylor";30.018;-83.5279;"null";"null";21.7;"point";"false";"America/New_York";32348;1840028897
+"Mims";"Mims";"FL";"Florida";12009;"Brevard";28.6928;-80.8468;"null";"null";449.8;"polygon";"false";"America/New_York";32754;1840014078
+"Southgate";"Southgate";"FL";"Florida";12115;"Sarasota";27.3082;-82.5096;"null";"null";1297;"polygon";"false";"America/New_York";34239;1840029078
+"Vermont Heights";"Vermont Heights";"FL";"Florida";12109;"St. Johns";29.8102;-81.397;"null";"null";390.2;"point";"false";"America/New_York";32033;1840028962
+"Astatula";"Astatula";"FL";"Florida";12069;"Lake";28.7065;-81.7346;2016;2016;251;"polygon";"true";"America/New_York";34705;1840015952
+"Naples Manor";"Naples Manor";"FL";"Florida";12021;"Collier";26.0892;-81.7254;"null";"null";1895.4;"polygon";"false";"America/New_York";34113;1840014232
+"Treasure Island";"Treasure Island";"FL";"Florida";12103;"Pinellas";27.7731;-82.766;6938;6938;1732;"polygon";"true";"America/New_York";"33706 33740";1840015981
+"Azalea Park";"Azalea Park";"FL";"Florida";12095;"Orange";28.5467;-81.2957;"null";"null";2737.1;"polygon";"false";"America/New_York";"32822 32807 32857";1840014082
+"Fern Park";"Fern Park";"FL";"Florida";12117;"Seminole";28.6484;-81.3457;"null";"null";880.3;"polygon";"false";"America/New_York";"32751 32730";1840014068
+"Big Pine Key";"Big Pine Key";"FL";"Florida";12087;"Monroe";24.6893;-81.3676;"null";"null";131.7;"polygon";"false";"America/New_York";33043;1840014251
+"Lake Harbor";"Lake Harbor";"FL";"Florida";12099;"Palm Beach";26.6884;-80.8079;"null";"null";25.8;"polygon";"false";"America/New_York";"33440 33459";1840014204
+"Lecanto";"Lecanto";"FL";"Florida";12017;"Citrus";28.8359;-82.488;"null";"null";48.8;"polygon";"false";"America/New_York";34461;1840014064
+"Navarre";"Navarre";"FL";"Florida";12113;"Santa Rosa";30.4174;-86.8907;"null";"null";420.7;"polygon";"false";"America/Chicago";32566;1840027017
+"Palm Harbor";"Palm Harbor";"FL";"Florida";12103;"Pinellas";28.0846;-82.7481;"null";"null";1345;"polygon";"false";"America/New_York";"34684 34681 34683 34660 34682";1840014143
+"Port Saint Joe";"Port Saint Joe";"FL";"Florida";12045;"Gulf";29.8275;-85.3071;3770;3574;146;"polygon";"true";"America/New_York";"32456 32457";1840015048
+"Oslo";"Oslo";"FL";"Florida";12061;"Indian River";27.5867;-80.3803;"null";"null";302;"point";"false";"America/New_York";32962;1840028893
+"Fruitland Park";"Fruitland Park";"FL";"Florida";12069;"Lake";28.8599;-81.9191;8181;8181;532;"polygon";"true";"America/New_York";34731;1840014055
+"Belleair Bluffs";"Belleair Bluffs";"FL";"Florida";12103;"Pinellas";27.9199;-82.8196;2112;2112;1813;"polygon";"true";"America/New_York";33770;1840014147
+"Miramar Beach";"Miramar Beach";"FL";"Florida";12131;"Walton";30.3854;-86.3443;"null";"null";190.2;"polygon";"false";"America/Chicago";32550;1840013925
+"Doctors Inlet";"Doctors Inlet";"FL";"Florida";12019;"Clay";30.1002;-81.7762;"null";"null";1298;"point";"false";"America/New_York";32068;1840028667
+"Westview";"Westview";"FL";"Florida";12086;"Miami-Dade";25.8825;-80.2415;"null";"null";580.3;"polygon";"false";"America/New_York";33167;1840029098
+"Pembroke";"Pembroke";"FL";"Florida";12105;"Polk";27.7864;-81.8051;"null";"null";0.4;"point";"false";"America/New_York";33841;1840023572
+"Havana";"Havana";"FL";"Florida";12039;"Gadsden";30.6297;-84.4134;2640;1671;234;"polygon";"true";"America/New_York";32333;1840015912
+"Indian Creek Village";"Indian Creek Village";"FL";"Florida";12086;"Miami-Dade";25.8782;-80.1362;"null";"null";82.8;"point";"true";"America/New_York";33154;1840028699
+"Altamonte Springs";"Altamonte Springs";"FL";"Florida";12117;"Seminole";28.6615;-81.3952;44277;44277;1877;"polygon";"true";"America/New_York";"32714 32701 32715 32716";1840014072
+"Southchase";"Southchase";"FL";"Florida";12095;"Orange";28.379;-81.3902;"null";"null";1975.1;"polygon";"false";"America/New_York";"32824 32837";1840029005
+"Montbrook";"Montbrook";"FL";"Florida";12075;"Levy";29.3272;-82.4504;"null";"null";59.3;"point";"false";"America/New_York";32696;1840028732
+"Mary Esther";"Mary Esther";"FL";"Florida";12091;"Okaloosa";30.4127;-86.6588;4291;4291;1125;"polygon";"true";"America/Chicago";"32569 32548";1840015902
+"Roosevelt Gardens";"Roosevelt Gardens";"FL";"Florida";12011;"Broward";26.1407;-80.181;"null";"null";2227.4;"polygon";"false";"America/New_York";33311;1840029108
+"Homosassa Springs";"Homosassa Springs";"FL";"Florida";12017;"Citrus";28.8118;-82.5392;"null";"null";110.8;"polygon";"false";"America/New_York";"34448 34446 34447";1840014060
+"Marianna";"Marianna";"FL";"Florida";12063;"Jackson";30.7907;-85.23;7273;7293;167;"polygon";"true";"America/Chicago";"32447 32446 32448";1840015897
+"Newport";"Newport";"FL";"Florida";12129;"Wakulla";30.1994;-84.1807;"null";"null";4.7;"point";"false";"America/New_York";32327;1840028737
+"Bassville Park";"Bassville Park";"FL";"Florida";12069;"Lake";28.8405;-81.7687;"null";"null";663.9;"point";"false";"America/New_York";34788;1840028628
+"Orange Heights";"Orange Heights";"FL";"Florida";12001;"Alachua";29.7197;-82.1393;"null";"null";95.2;"point";"false";"America/New_York";32640;1840028744
+"Sanborn";"Sanborn";"FL";"Florida";12129;"Wakulla";30.0719;-84.6043;"null";"null";4.4;"point";"false";"America/New_York";32358;1840028942
+"El Portal";"El Portal";"FL";"Florida";12086;"Miami-Dade";25.8556;-80.1954;2491;2491;2314;"polygon";"true";"America/New_York";"33138 33150";1840018332
+"Oak Grove";"Oak Grove";"FL";"Florida";12039;"Gadsden";30.6919;-84.7333;"null";"null";12.7;"point";"false";"America/New_York";32324;1840028740
+"Midway";"Midway";"FL";"Florida";12039;"Gadsden";30.4996;-84.4585;3326;3326;129;"polygon";"true";"America/New_York";32343;1840015021
+"Lockhart";"Lockhart";"FL";"Florida";12095;"Orange";28.6271;-81.4354;"null";"null";691.1;"polygon";"false";"America/New_York";"32703 32810 32860";1840014095
+"Holly Hill";"Holly Hill";"FL";"Florida";12127;"Volusia";29.2443;-81.0463;12218;12218;1191;"polygon";"true";"America/New_York";"32117 32125";1840015078
+"North Key Largo";"North Key Largo";"FL";"Florida";12087;"Monroe";25.2574;-80.3242;"null";"null";0;"polygon";"false";"America/New_York";33037;1840029060
+"Tamarac";"Tamarac";"FL";"Florida";12011;"Broward";26.2058;-80.2547;65669;65669;2181;"polygon";"true";"America/New_York";"33321 33319 33349";1840016001
+"Alliance";"Alliance";"FL";"Florida";12063;"Jackson";30.6099;-85.1135;"null";"null";7.9;"point";"false";"America/Chicago";32448;1840028860
+"Pine Hills";"Pine Hills";"FL";"Florida";12095;"Orange";28.5818;-81.4692;"null";"null";1549.6;"polygon";"false";"America/New_York";"32808 32818 32710 32858 32868 32869";1840014098
+"Browardale";"Browardale";"FL";"Florida";12011;"Broward";26.1287;-80.1925;"null";"null";2585.6;"point";"false";"America/New_York";33311;1840029023
+"Kenneth City";"Kenneth City";"FL";"Florida";12103;"Pinellas";27.8156;-82.7162;5093;5093;2695;"polygon";"true";"America/New_York";33709;1840017244
+"Okeechobee";"Okeechobee";"FL";"Florida";12093;"Okeechobee";27.2412;-80.8298;25846;5725;543;"polygon";"true";"America/New_York";"34972 34974 34973";1840015118
+"Cypress Lake";"Cypress Lake";"FL";"Florida";12071;"Lee";26.5391;-81.9;"null";"null";1071.9;"polygon";"false";"America/New_York";33919;1840029032
+"Bell";"Bell";"FL";"Florida";12041;"Gilchrist";29.7569;-82.8618;483;483;111;"polygon";"true";"America/New_York";32619;1840015944
+"Westlake";"Westlake";"FL";"Florida";12099;"Palm Beach";26.7549;-80.2984;6;6;0;"polygon";"true";"America/New_York";33470;1840029114
+"Sneads";"Sneads";"FL";"Florida";12063;"Jackson";30.7085;-84.9247;1796;1796;157;"polygon";"true";"America/Chicago";32460;1840018207
+"Eureka";"Eureka";"FL";"Florida";12083;"Marion";29.3722;-81.9045;"null";"null";15;"point";"false";"America/New_York";32134;1840028930
+"De Funiak Springs";"De Funiak Springs";"FL";"Florida";12131;"Walton";30.7122;-86.1208;7232;6442;179;"polygon";"true";"America/Chicago";"32433 32435";1840015011
+"Rio";"Rio";"FL";"Florida";12085;"Martin";27.2161;-80.24;"null";"null";841.7;"polygon";"false";"America/New_York";34957;1840014194
+"Oak Ridge";"Oak Ridge";"FL";"Florida";12095;"Orange";28.4727;-81.4169;"null";"null";2725.3;"polygon";"false";"America/New_York";"32809 32839";1840029062
+"Jupiter";"Jupiter";"FL";"Florida";12099;"Palm Beach";26.9199;-80.1127;64976;64976;1160;"polygon";"true";"America/New_York";"33477 33458 33468";1840017255
+"Darlington";"Darlington";"FL";"Florida";12131;"Walton";30.9438;-86.0574;"null";"null";33;"point";"false";"America/Chicago";32464;1840028662
+"Resota Beach";"Resota Beach";"FL";"Florida";12005;"Bay";30.3035;-85.5935;"null";"null";295.9;"point";"false";"America/Chicago";32409;1840028901
+"Bellwood";"Bellwood";"FL";"Florida";12009;"Brevard";28.505;-80.7845;"null";"null";85.6;"point";"false";"America/New_York";32780;1840028634
+"South Beach";"South Beach";"FL";"Florida";12061;"Indian River";27.5883;-80.3435;"null";"null";587.3;"polygon";"false";"America/New_York";32963;1840029075
+"Jerome";"Jerome";"FL";"Florida";12021;"Collier";25.9973;-81.3467;"null";"null";0.1;"point";"false";"America/New_York";34141;1840023541
+"Vineyards";"Vineyards";"FL";"Florida";12021;"Collier";26.2279;-81.728;"null";"null";312.6;"polygon";"false";"America/New_York";34119;1840029014
+"Shalimar";"Shalimar";"FL";"Florida";12091;"Okaloosa";30.4434;-86.5831;808;808;1085;"polygon";"true";"America/Chicago";32579;1840018212
+"Orlovista";"Orlovista";"FL";"Florida";12095;"Orange";28.5441;-81.4629;"null";"null";1107.4;"polygon";"false";"America/New_York";"32808 32835 32811";1840014096
+"Gulfport";"Gulfport";"FL";"Florida";12103;"Pinellas";27.7463;-82.7099;12371;12371;1731;"polygon";"true";"America/New_York";"33707 33711";1840014145
+"Palm River";"Palm River";"FL";"Florida";12021;"Collier";26.2773;-81.7762;"null";"null";1169.3;"point";"false";"America/New_York";34110;1840029064
+"Placida";"Placida";"FL";"Florida";12015;"Charlotte";26.8323;-82.2648;"null";"null";197.6;"point";"false";"America/New_York";33946;1840028758
+"Grant";"Grant";"FL";"Florida";12009;"Brevard";27.9289;-80.5264;"null";"null";163;"point";"false";"America/New_York";32949;1840028686
+"Polk City";"Polk City";"FL";"Florida";12105;"Polk";28.1804;-81.8295;2141;2141;184;"polygon";"true";"America/New_York";33868;1840017242
+"Paradise Beach";"Paradise Beach";"FL";"Florida";12033;"Escambia";30.4008;-87.4205;"null";"null";624.8;"point";"false";"America/Chicago";32506;1840028751
+"High Springs";"High Springs";"FL";"Florida";12001;"Alachua";29.808;-82.5956;3407;6033;106;"polygon";"true";"America/New_York";"32643 32655";1840015060
+"Old Town";"Old Town";"FL";"Florida";12029;"Dixie";29.6013;-82.9818;"null";"null";33.4;"point";"false";"America/New_York";32680;1840028743
+"Yulee";"Yulee";"FL";"Florida";12089;"Nassau";30.635;-81.5678;"null";"null";231.8;"polygon";"false";"America/New_York";"32097 32041";1840013928
+"Gotha";"Gotha";"FL";"Florida";12095;"Orange";28.5308;-81.519;"null";"null";427.1;"polygon";"false";"America/New_York";"34734 34786";1840014081
+"Lynn Haven";"Lynn Haven";"FL";"Florida";12005;"Bay";30.2361;-85.6389;20922;20922;770;"polygon";"true";"America/Chicago";"32404 32405 32444";1840015922
+"Hernando Beach";"Hernando Beach";"FL";"Florida";12053;"Hernando";28.4753;-82.6612;"null";"null";39.2;"polygon";"false";"America/New_York";34607;1840014102
+"Walnut Hill";"Walnut Hill";"FL";"Florida";12033;"Escambia";30.8855;-87.51;"null";"null";121.6;"point";"false";"America/Chicago";32568;1840028792
+"Key West";"Key West";"FL";"Florida";12087;"Monroe";24.5636;-81.7769;32820;25208;1738;"polygon";"true";"America/New_York";"33040 33041 33045";1840015161
+"Auburn";"Auburn";"FL";"Florida";12091;"Okaloosa";30.8202;-86.5377;"null";"null";231.6;"point";"false";"America/Chicago";32536;1840028862
+"South Miami Heights";"South Miami Heights";"FL";"Florida";12086;"Miami-Dade";25.5886;-80.3862;"null";"null";2802.8;"polygon";"false";"America/New_York";"33177 33157";1840014240
+"North Redington Beach";"North Redington Beach";"FL";"Florida";12103;"Pinellas";27.8214;-82.8186;1477;1477;2156;"polygon";"true";"America/New_York";33708;1840017245
+"Clear Springs";"Clear Springs";"FL";"Florida";12131;"Walton";30.9799;-86.3452;"null";"null";37.6;"point";"false";"America/Chicago";32567;1840028866
+"Alcoma";"Alcoma";"FL";"Florida";12105;"Polk";27.895;-81.4823;"null";"null";10.5;"point";"false";"America/New_York";33898;1840028619
+"Country Club";"Country Club";"FL";"Florida";12086;"Miami-Dade";25.9407;-80.3102;"null";"null";1498.1;"polygon";"false";"America/New_York";"33015 33017";1840029029
+"Fern Crest Village";"Fern Crest Village";"FL";"Florida";12011;"Broward";26.0893;-80.2192;"null";"null";1971.6;"point";"false";"America/New_York";33314;1840028678
+"Lake Buena Vista";"Lake Buena Vista";"FL";"Florida";12095;"Orange";28.3793;-81.5266;11;11;1;"polygon";"true";"America/New_York";"32836 32830";1840015100
+"Hillcrest Heights";"Hillcrest Heights";"FL";"Florida";12105;"Polk";27.8083;-81.5695;284;284;687;"polygon";"true";"America/New_York";"33827 33859 33843";1840017239
+"Berrydale";"Berrydale";"FL";"Florida";12113;"Santa Rosa";30.8982;-87.035;"null";"null";14;"polygon";"false";"America/Chicago";"32570 32565";1840025109
+"Ocean Ridge";"Ocean Ridge";"FL";"Florida";12099;"Palm Beach";26.5288;-80.0499;1943;1943;984;"polygon";"true";"America/New_York";33435;1840017266
+"Palmetto Estates";"Palmetto Estates";"FL";"Florida";12086;"Miami-Dade";25.6211;-80.3616;"null";"null";2875.6;"polygon";"false";"America/New_York";33157;1840029063
+"Port Mayaca";"Port Mayaca";"FL";"Florida";12085;"Martin";26.9864;-80.6062;"null";"null";2.3;"point";"false";"America/New_York";33438;1840028809
+"Lake Clarke Shores";"Lake Clarke Shores";"FL";"Florida";12099;"Palm Beach";26.6462;-80.0752;3600;3600;1488;"polygon";"true";"America/New_York";33406;1840017257
+"Summerland Key";"Summerland Key";"FL";"Florida";12087;"Monroe";24.6657;-81.4423;"null";"null";284.4;"point";"false";"America/New_York";33042;1840028969
+"Three Oaks";"Three Oaks";"FL";"Florida";12071;"Lee";26.4738;-81.7959;"null";"null";1350.4;"polygon";"false";"America/New_York";33967;1840029011
+"San Antonio";"San Antonio";"FL";"Florida";12101;"Pasco";28.3394;-82.2787;1409;1409;403;"polygon";"true";"America/New_York";"33525 33576 33574";1840015969
+"Alturas";"Alturas";"FL";"Florida";12105;"Polk";27.8417;-81.6952;"null";"null";138.4;"polygon";"false";"America/New_York";"33841 33830 33859 33820";1840025153
+"Mossy Head";"Mossy Head";"FL";"Florida";12131;"Walton";30.7432;-86.3149;"null";"null";152.8;"point";"false";"America/Chicago";32433;1840028733
+"Lemon Grove";"Lemon Grove";"FL";"Florida";12049;"Hardee";27.5765;-81.636;"null";"null";7;"polygon";"false";"America/New_York";"33890 33873";1840025168
+"Cypress Gardens";"Cypress Gardens";"FL";"Florida";12105;"Polk";28.0036;-81.6856;"null";"null";673;"polygon";"false";"America/New_York";"33884 33882";1840028660
+"Ferry Pass";"Ferry Pass";"FL";"Florida";12033;"Escambia";30.5202;-87.1904;"null";"null";614.7;"polygon";"false";"America/Chicago";"32504 32514 32512 32523";1840013909
+"Cooks Hammock";"Cooks Hammock";"FL";"Florida";12067;"Lafayette";29.9297;-83.2765;"null";"null";2.7;"point";"false";"America/New_York";32066;1840028868
+"South Sarasota";"South Sarasota";"FL";"Florida";12115;"Sarasota";27.2856;-82.5333;"null";"null";1130.5;"polygon";"false";"America/New_York";34231;1840029081
+"Wabasso Beach";"Wabasso Beach";"FL";"Florida";12061;"Indian River";27.757;-80.3992;"null";"null";457.9;"polygon";"false";"America/New_York";32963;1840014161
+"Hunters Creek";"Hunters Creek";"FL";"Florida";12095;"Orange";28.361;-81.4357;"null";"null";2336.9;"polygon";"false";"America/New_York";32837;1840028986
+"Westwood Lake";"Westwood Lake";"FL";"Florida";12086;"Miami-Dade";25.7237;-80.3717;"null";"null";3252.8;"polygon";"false";"America/New_York";33165;1840028796
+"Lochloosa";"Lochloosa";"FL";"Florida";12001;"Alachua";29.5116;-82.1004;"null";"null";22.8;"point";"false";"America/New_York";32640;1840028885
+"Franklin Park";"Franklin Park";"FL";"Florida";12011;"Broward";26.1341;-80.1762;"null";"null";2227.4;"polygon";"false";"America/New_York";33311;1840029104
+"Mount Carmel";"Mount Carmel";"FL";"Florida";12113;"Santa Rosa";30.9868;-87.121;"null";"null";11.9;"polygon";"false";"America/Chicago";32565;1840025114
+"Pinecrest";"Pinecrest";"FL";"Florida";12086;"Miami-Dade";25.665;-80.3042;19651;19651;1018;"polygon";"true";"America/New_York";33156;1840018336
+"Wilma";"Wilma";"FL";"Florida";12077;"Liberty";30.1544;-84.9644;"null";"null";0.3;"point";"false";"America/New_York";32321;1840023583
+"Pompano Beach";"Pompano Beach";"FL";"Florida";12011;"Broward";26.2428;-80.1312;110473;110473;1774;"polygon";"true";"America/New_York";"33069 33060 33062 33064 33061 33072 33074 33097";1840015143
+"Malabar";"Malabar";"FL";"Florida";12009;"Brevard";27.9885;-80.5781;3077;3077;111;"polygon";"true";"America/New_York";32950;1840017232
+"Holopaw";"Holopaw";"FL";"Florida";12097;"Osceola";28.1358;-81.0762;"null";"null";43;"point";"false";"America/New_York";34773;1840028696
+"Umatilla";"Umatilla";"FL";"Florida";12069;"Lake";28.9272;-81.6652;3742;3742;403;"polygon";"true";"America/New_York";32784;1840015954
+"Palm Beach";"Palm Beach";"FL";"Florida";12099;"Palm Beach";26.6852;-80.0403;8751;8751;884;"polygon";"true";"America/New_York";33480;1840017267
+"Sorrento";"Sorrento";"FL";"Florida";12069;"Lake";28.8087;-81.5631;"null";"null";337.7;"polygon";"false";"America/New_York";32776;1840014047
+"Youngstown";"Youngstown";"FL";"Florida";12005;"Bay";30.3644;-85.4383;"null";"null";42.8;"point";"false";"America/Chicago";32466;1840028797
+"Santa Fe";"Santa Fe";"FL";"Florida";12001;"Alachua";29.8836;-82.4304;"null";"null";17.5;"point";"false";"America/New_York";32615;1840028770
+"Rockledge";"Rockledge";"FL";"Florida";12009;"Brevard";28.3199;-80.7318;27476;27476;872;"polygon";"true";"America/New_York";"32955 32956";1840015095
+"Lawtey";"Lawtey";"FL";"Florida";12007;"Bradford";30.0475;-82.0721;723;723;194;"polygon";"true";"America/New_York";32058;1840015051
+"Destin";"Destin";"FL";"Florida";12091;"Okaloosa";30.395;-86.4701;13765;13765;690;"polygon";"true";"America/Chicago";"32541 32540";1840015008
+"Cottage Hill";"Cottage Hill";"FL";"Florida";12033;"Escambia";30.6327;-87.32;"null";"null";157.9;"point";"false";"America/Chicago";32533;1840028656
+"Iona";"Iona";"FL";"Florida";12071;"Lee";26.516;-81.9601;"null";"null";1544;"polygon";"false";"America/New_York";33908;1840028702
+"Plantation Mobile Home Park";"Plantation Mobile Home Park";"FL";"Florida";12099;"Palm Beach";26.7035;-80.1318;"null";"null";1988.8;"polygon";"false";"America/New_York";33417;1840028999
+"Tildenville";"Tildenville";"FL";"Florida";12095;"Orange";28.5384;-81.6025;"null";"null";273.5;"polygon";"false";"America/New_York";34787;1840014089
+"Riviera Beach";"Riviera Beach";"FL";"Florida";12099;"Palm Beach";26.7814;-80.074;34674;34674;1619;"polygon";"true";"America/New_York";"33407 33404 33419";1840015126
+"Virginia Gardens";"Virginia Gardens";"FL";"Florida";12086;"Miami-Dade";25.8095;-80.2974;2472;2472;3241;"polygon";"true";"America/New_York";33166;1840018337
+"Wedgefield";"Wedgefield";"FL";"Florida";12095;"Orange";28.4847;-81.0808;"null";"null";93.9;"polygon";"false";"America/New_York";32833;1840014091
+"Quintette";"Quintette";"FL";"Florida";12033;"Escambia";30.6663;-87.3128;"null";"null";58.7;"point";"false";"America/Chicago";32577;1840028899
+"Tangerine";"Tangerine";"FL";"Florida";12095;"Orange";28.7589;-81.6341;"null";"null";488.4;"polygon";"false";"America/New_York";"32757 32777";1840014088
+"Palm Springs";"Palm Springs";"FL";"Florida";12099;"Palm Beach";26.635;-80.0967;24892;24892;2286;"polygon";"true";"America/New_York";"33406 33461";1840018308
+"Melbourne Beach";"Melbourne Beach";"FL";"Florida";12009;"Brevard";28.0667;-80.561;3278;3278;1289;"polygon";"true";"America/New_York";32951;1840017233
+"Pelican Bay";"Pelican Bay";"FL";"Florida";12021;"Collier";26.2327;-81.8108;"null";"null";780.8;"polygon";"false";"America/New_York";34108;1840028996
+"Monticello";"Monticello";"FL";"Florida";12065;"Jefferson";30.5423;-83.8722;2395;2395;232;"polygon";"true";"America/New_York";"32344 32345";1840015025
+"Fairbanks";"Fairbanks";"FL";"Florida";12001;"Alachua";29.7247;-82.264;"null";"null";211.9;"point";"false";"America/New_York";32609;1840028677
+"Ojus";"Ojus";"FL";"Florida";12086;"Miami-Dade";25.9563;-80.1606;"null";"null";1825.3;"polygon";"false";"America/New_York";"33179 33180";1840028742
+"Tallevast";"Tallevast";"FL";"Florida";12081;"Manatee";27.4017;-82.5429;"null";"null";236.4;"point";"false";"America/New_York";34243;1840028787
+"Grand Ridge";"Grand Ridge";"FL";"Florida";12063;"Jackson";30.7083;-85.0207;876;876;79;"polygon";"true";"America/Chicago";32442;1840017151
+"Frontenac";"Frontenac";"FL";"Florida";12009;"Brevard";28.4617;-80.7634;"null";"null";449.6;"point";"false";"America/New_York";32927;1840028683
+"Fort Green Springs";"Fort Green Springs";"FL";"Florida";12049;"Hardee";27.5876;-81.9402;"null";"null";32.4;"polygon";"false";"America/New_York";33834;1840025165
+"Madeira Beach";"Madeira Beach";"FL";"Florida";12103;"Pinellas";27.7986;-82.7889;4406;4406;1728;"polygon";"true";"America/New_York";"33708 33738";1840015972
+"Viking";"Viking";"FL";"Florida";12111;"St. Lucie";27.5417;-80.362;"null";"null";4.9;"point";"false";"America/New_York";34946;1840028963
+"McDavid";"McDavid";"FL";"Florida";12033;"Escambia";30.8663;-87.3197;"null";"null";19.1;"point";"false";"America/Chicago";32568;1840028728
+"Holiday";"Holiday";"FL";"Florida";12101;"Pasco";28.1864;-82.7429;"null";"null";955.1;"polygon";"false";"America/New_York";"34691 34690 34692";1840014114
+"South Gate Ridge";"South Gate Ridge";"FL";"Florida";12115;"Sarasota";27.2856;-82.497;"null";"null";1501;"polygon";"false";"America/New_York";"34231 34233";1840029079
+"Sirmans";"Sirmans";"FL";"Florida";12079;"Madison";30.3508;-83.6568;"null";"null";29.7;"point";"false";"America/New_York";32331;1840028915
+"Highland Beach";"Highland Beach";"FL";"Florida";12099;"Palm Beach";26.4066;-80.0663;3800;3800;3059;"polygon";"true";"America/New_York";33487;1840015995
+"Lakeview";"Lakeview";"FL";"Florida";12011;"Broward";26.2995;-80.16;"null";"null";2110.7;"point";"false";"America/New_York";33442;1840028884
+"Bagdad";"Bagdad";"FL";"Florida";12113;"Santa Rosa";30.5824;-87.0447;"null";"null";273.3;"polygon";"false";"America/Chicago";"32583 32530";1840013918
+"Inverness";"Inverness";"FL";"Florida";12017;"Citrus";28.8397;-82.3437;7304;7304;370;"polygon";"true";"America/New_York";"34450 34453 34452 34451";1840015085
+"Cornwell";"Cornwell";"FL";"Florida";12055;"Highlands";27.3787;-81.0967;"null";"null";0.3;"point";"false";"America/New_York";33857;1840023551
+"Key Largo";"Key Largo";"FL";"Florida";12087;"Monroe";25.1224;-80.412;"null";"null";409.2;"polygon";"false";"America/New_York";33037;1840014253
+"Cape Coral";"Cape Coral";"FL";"Florida";12071;"Lee";26.6444;-81.9956;630134;183365;670;"polygon";"true";"America/New_York";"33990 33993 33914 33991 33909 33904 33903 33910 33911 33915";1840015130
+"Sebastian";"Sebastian";"FL";"Florida";12061;"Indian River";27.7883;-80.4815;25174;25174;715;"polygon";"true";"America/New_York";"32958 32978";1840015984
+"Moore Haven";"Moore Haven";"FL";"Florida";12043;"Glades";26.8338;-81.0984;3450;1809;655;"polygon";"true";"America/New_York";33471;1840015121
+"Charlotte Harbor";"Charlotte Harbor";"FL";"Florida";12015;"Charlotte";26.9629;-82.0571;"null";"null";463.9;"polygon";"false";"America/New_York";33980;1840014198
+"Gretna";"Gretna";"FL";"Florida";12039;"Gadsden";30.5901;-84.6855;1383;1383;69;"polygon";"true";"America/New_York";"32351 32332";1840013943
+"Zephyrhills";"Zephyrhills";"FL";"Florida";12101;"Pasco";28.2407;-82.1797;76416;15247;626;"polygon";"true";"America/New_York";"33542 33540 33541";1840015968
+"Hobe Sound";"Hobe Sound";"FL";"Florida";12085;"Martin";27.0729;-80.1425;"null";"null";698.5;"polygon";"false";"America/New_York";33455;1840014188
+"Islamorada";"Islamorada";"FL";"Florida";12087;"Monroe";24.9243;-80.6278;"null";"null";414.3;"point";"true";"America/New_York";33036;1840028703
+"Suwannee";"Suwannee";"FL";"Florida";12029;"Dixie";29.3288;-83.1443;"null";"null";148;"point";"false";"America/New_York";32692;1840028786
+"Pensacola";"Pensacola";"FL";"Florida";12033;"Escambia";30.4427;-87.1886;344400;52590;898;"polygon";"true";"America/Chicago";"32504 32501 32503 32502 32513 32522 32524 32591";1840015005
+"Saint Augustine South";"Saint Augustine South";"FL";"Florida";12109;"St. Johns";29.8449;-81.3156;"null";"null";1636.7;"polygon";"false";"America/New_York";32086;1840029110
+"Princeton";"Princeton";"FL";"Florida";12086;"Miami-Dade";25.5396;-80.3971;"null";"null";74;"polygon";"false";"America/New_York";"33032 33092";1840014248
+"New Hope";"New Hope";"FL";"Florida";12059;"Holmes";30.9477;-85.8794;"null";"null";33.9;"point";"false";"America/Chicago";32464;1840028888
+"Clermont";"Clermont";"FL";"Florida";12069;"Lake";28.5403;-81.7296;35211;35211;953;"polygon";"true";"America/New_York";"34711 34712 34713";1840015080
+"Temple Terrace";"Temple Terrace";"FL";"Florida";12057;"Hillsborough";28.0435;-82.3777;26489;26489;1422;"polygon";"true";"America/New_York";"33637 33617 33687";1840015983
+"Belle Glade";"Belle Glade";"FL";"Florida";12099;"Palm Beach";26.6918;-80.6667;27999;19666;1096;"polygon";"true";"America/New_York";33430;1840014206
+"Wellington";"Wellington";"FL";"Florida";12099;"Palm Beach";26.6464;-80.2707;64848;64848;554;"polygon";"true";"America/New_York";"33449 33414 33470";1840018311
+"Maitland";"Maitland";"FL";"Florida";12095;"Orange";28.6293;-81.3716;17554;17554;1283;"polygon";"true";"America/New_York";"32751 32794 32799";1840015964
+"Blanton";"Blanton";"FL";"Florida";12101;"Pasco";28.4117;-82.2465;"null";"null";94.2;"point";"false";"America/New_York";33523;1840028636
+"Bogia";"Bogia";"FL";"Florida";12033;"Escambia";30.8424;-87.3244;"null";"null";31.9;"point";"false";"America/Chicago";32568;1840028864
+"Gulf Breeze";"Gulf Breeze";"FL";"Florida";12113;"Santa Rosa";30.3685;-87.1769;6528;6528;538;"polygon";"true";"America/Chicago";"32561 32562";1840013920
+"Lovett";"Lovett";"FL";"Florida";12079;"Madison";30.6283;-83.5732;"null";"null";5.2;"point";"false";"America/New_York";32331;1840028837
+"Stuart";"Stuart";"FL";"Florida";12085;"Martin";27.1962;-80.2438;16543;16543;960;"polygon";"true";"America/New_York";"34994 34996 34957";1840015990
+"Knights";"Knights";"FL";"Florida";12057;"Hillsborough";28.0764;-82.1376;"null";"null";87.1;"point";"false";"America/New_York";33565;1840028715
+"Vilano Beach";"Vilano Beach";"FL";"Florida";12109;"St. Johns";29.9189;-81.2928;"null";"null";660.1;"point";"false";"America/New_York";32084;1840028964
+"Lakewood Park";"Lakewood Park";"FL";"Florida";12111;"St. Lucie";27.539;-80.3865;"null";"null";1108.2;"polygon";"false";"America/New_York";34951;1840014177
+"Davenport";"Davenport";"FL";"Florida";12105;"Polk";28.1585;-81.6117;4544;4544;535;"polygon";"true";"America/New_York";"33844 33837 33836";1840015104
+"Rerdell";"Rerdell";"FL";"Florida";12053;"Hernando";28.5675;-82.1562;"null";"null";25.8;"point";"false";"America/New_York";33597;1840028900
+"Durbin";"Durbin";"FL";"Florida";12109;"St. Johns";30.0875;-81.4612;"null";"null";34.7;"point";"false";"America/New_York";32095;1840028954
+"Three Lakes";"Three Lakes";"FL";"Florida";12086;"Miami-Dade";25.6415;-80.4;"null";"null";352.2;"polygon";"false";"America/New_York";33186;1840029010
+"Wakulla";"Wakulla";"FL";"Florida";12129;"Wakulla";30.2369;-84.231;"null";"null";125;"point";"false";"America/New_York";32327;1840028791
+"Conway";"Conway";"FL";"Florida";12095;"Orange";28.4968;-81.3316;"null";"null";1817.6;"polygon";"false";"America/New_York";"32806 32812";1840013121
+"Deltona";"Deltona";"FL";"Florida";12127;"Volusia";28.905;-81.2136;194061;90746;939;"polygon";"true";"America/New_York";"32725 32738 32739";1840015072
+"Palmdale";"Palmdale";"FL";"Florida";12043;"Glades";26.9453;-81.3162;"null";"null";95.1;"point";"false";"America/New_York";33944;1840028750
+"Bayonet Point";"Bayonet Point";"FL";"Florida";12101;"Pasco";28.3255;-82.6834;"null";"null";2099.4;"polygon";"false";"America/New_York";"34668 34667";1840014117
+"Stacey Street";"Stacey Street";"FL";"Florida";12099;"Palm Beach";26.6978;-80.1238;"null";"null";2086.3;"polygon";"false";"America/New_York";33417;1840029007
+"Cloud Lake";"Cloud Lake";"FL";"Florida";12099;"Palm Beach";26.6744;-80.0732;146;146;966;"polygon";"true";"America/New_York";33406;1840017263
+"Fisher Island";"Fisher Island";"FL";"Florida";12086;"Miami-Dade";25.7607;-80.1415;"null";"null";1557.8;"polygon";"false";"America/New_York";33109;1840028981
+"Westville";"Westville";"FL";"Florida";12059;"Holmes";30.7697;-85.8465;282;282;15;"polygon";"true";"America/Chicago";32464;1840017162
+"Salem";"Salem";"FL";"Florida";12123;"Taylor";29.8869;-83.4129;"null";"null";13.5;"point";"false";"America/New_York";32356;1840028850
+"Tampa";"Tampa";"FL";"Florida";12057;"Hillsborough";27.9937;-82.4454;2804240;385430;1312;"polygon";"true";"America/New_York";"33637 33629 33621 33620 33619 33616 33613 33617 33614 33610 33611 33612 33605 33604 33647 33609 33607 33606 33603 33602 33608 33622 33623 33630 33631 33633 33646 33650 33655 33663 33664 33672 33673 33674 33677 33679 33681 33684 33686 33689";1840015982
+"Cleveland";"Cleveland";"FL";"Florida";12015;"Charlotte";26.9529;-81.9924;"null";"null";247.8;"polygon";"false";"America/New_York";33982;1840013128
+"Campbell";"Campbell";"FL";"Florida";12097;"Osceola";28.2603;-81.4525;"null";"null";516.4;"polygon";"false";"America/New_York";34746;1840014137
+"Citrus Park";"Citrus Park";"FL";"Florida";12057;"Hillsborough";28.073;-82.5628;"null";"null";826.8;"polygon";"false";"America/New_York";"33625 33556";1840014152
+"Round Lake";"Round Lake";"FL";"Florida";12063;"Jackson";30.6516;-85.3888;"null";"null";46;"point";"false";"America/Chicago";32420;1840028903
+"Hill 'n Dale";"Hill 'n Dale";"FL";"Florida";12053;"Hernando";28.519;-82.2918;"null";"null";520.7;"polygon";"false";"America/New_York";34602;1840028916
+"Saint Augustine";"Saint Augustine";"FL";"Florida";12109;"St. Johns";29.8979;-81.31;75932;14243;583;"polygon";"true";"America/New_York";"32080 32095 32084";1840015935
+"Lealman";"Lealman";"FL";"Florida";12103;"Pinellas";27.8197;-82.6849;"null";"null";1992.2;"polygon";"false";"America/New_York";"33702 33709 33714 33784";1840025161
+"Jacobs";"Jacobs";"FL";"Florida";12063;"Jackson";30.8949;-85.3977;"null";"null";11.9;"point";"true";"America/Chicago";32431;1840028706
+"Kenansville";"Kenansville";"FL";"Florida";12097;"Osceola";27.8764;-80.9878;"null";"null";23.6;"point";"false";"America/New_York";34739;1840028711
+"Micanopy";"Micanopy";"FL";"Florida";12001;"Alachua";29.506;-82.2806;631;631;232;"polygon";"true";"America/New_York";32667;1840017215
+"Forest City";"Forest City";"FL";"Florida";12117;"Seminole";28.6619;-81.4444;"null";"null";934.9;"polygon";"false";"America/New_York";"32714 32703";1840028825
+"Mexico Beach";"Mexico Beach";"FL";"Florida";12005;"Bay";29.9451;-85.4105;1198;1198;260;"polygon";"true";"America/Chicago";"32456 32410";1840015033
+"Tierra Verde";"Tierra Verde";"FL";"Florida";12103;"Pinellas";27.6685;-82.73;"null";"null";1269.6;"polygon";"false";"America/New_York";33715;1840014142
+"Mount Dora";"Mount Dora";"FL";"Florida";12069;"Lake";28.8143;-81.6344;13916;13916;667;"polygon";"true";"America/New_York";"32757 32756";1840015082
+"Lake Lorraine";"Lake Lorraine";"FL";"Florida";12091;"Okaloosa";30.4407;-86.5657;"null";"null";1516.5;"polygon";"false";"America/Chicago";32579;1840029048
+"Pine Castle";"Pine Castle";"FL";"Florida";12095;"Orange";28.4651;-81.374;"null";"null";853.9;"polygon";"false";"America/New_York";"32809 32839";1840014097
+"Lauderdale Lakes";"Lauderdale Lakes";"FL";"Florida";12011;"Broward";26.1683;-80.2017;36069;36069;3777;"polygon";"true";"America/New_York";"33309 33313 33311 33319";1840015145
+"Plantation";"Plantation";"FL";"Florida";12011;"Broward";26.126;-80.2617;93909;93909;1675;"polygon";"true";"America/New_York";"33322 33323 33324 33325 33317 33313 33318 33329 33337 33388";1840015142
+"Rochelle";"Rochelle";"FL";"Florida";12001;"Alachua";29.5966;-82.2176;"null";"null";46.9;"point";"false";"America/New_York";32641;1840028848
+"Cutler Bay";"Cutler Bay";"FL";"Florida";12086;"Miami-Dade";25.5765;-80.3357;45101;45101;1771;"polygon";"true";"America/New_York";"33190 33157 33189";1840017276
+"Page Park";"Page Park";"FL";"Florida";12071;"Lee";26.5782;-81.8615;"null";"null";793.2;"polygon";"false";"America/New_York";33907;1840028749
+"Florida City";"Florida City";"FL";"Florida";12086;"Miami-Dade";25.4418;-80.4685;12155;12155;784;"polygon";"true";"America/New_York";33034;1840014250
+"Athena";"Athena";"FL";"Florida";12123;"Taylor";29.988;-83.4943;"null";"null";17.5;"point";"false";"America/New_York";32348;1840028861
+"Foley";"Foley";"FL";"Florida";12123;"Taylor";30.0694;-83.5307;"null";"null";6.8;"point";"false";"America/New_York";32348;1840028681
+"Lowell";"Lowell";"FL";"Florida";12083;"Marion";29.3305;-82.1915;"null";"null";125.8;"point";"false";"America/New_York";32686;1840028719
+"Norfleet";"Norfleet";"FL";"Florida";12073;"Leon";30.4427;-84.3918;"null";"null";85.6;"point";"false";"America/New_York";32310;1840028938
+"Oak Hill";"Oak Hill";"FL";"Florida";12127;"Volusia";28.8783;-80.8353;2127;2127;121;"polygon";"true";"America/New_York";32759;1840015074
+"Belle Isle";"Belle Isle";"FL";"Florida";12095;"Orange";28.4725;-81.3491;6996;6996;1135;"polygon";"true";"America/New_York";"32809 32812";1840014101
+"Saint Augustine Shores";"Saint Augustine Shores";"FL";"Florida";12109;"St. Johns";29.8039;-81.3086;"null";"null";1615;"polygon";"false";"America/New_York";32086;1840013972
+"North Lauderdale";"North Lauderdale";"FL";"Florida";12011;"Broward";26.2113;-80.2209;44198;44198;3722;"polygon";"true";"America/New_York";33068;1840015138
+"Paradise Heights";"Paradise Heights";"FL";"Florida";12095;"Orange";28.6236;-81.5439;"null";"null";1233.9;"polygon";"false";"America/New_York";32703;1840028994
+"Campbellton";"Campbellton";"FL";"Florida";12063;"Jackson";30.9509;-85.4019;224;224;34;"polygon";"true";"America/Chicago";32426;1840015900
+"Bay Hill";"Bay Hill";"FL";"Florida";12095;"Orange";28.4558;-81.5122;"null";"null";686.2;"polygon";"false";"America/New_York";"32836 32819";1840029020
+"Naranja";"Naranja";"FL";"Florida";12086;"Miami-Dade";25.5165;-80.4219;"null";"null";1925.8;"polygon";"false";"America/New_York";33032;1840014246
+"Apopka";"Apopka";"FL";"Florida";12095;"Orange";28.7015;-81.5308;51564;51564;612;"polygon";"true";"America/New_York";"32712 32703 32768";1840014093
+"Fort Pierce";"Fort Pierce";"FL";"Florida";12111;"St. Lucie";27.4256;-80.3425;45581;45581;756;"polygon";"true";"America/New_York";"34949 34947 34982 34981 34950 34948 34954 34979";1840014178
+"Murdock";"Murdock";"FL";"Florida";12015;"Charlotte";27.0128;-82.1462;"null";"null";12.3;"point";"false";"America/New_York";33948;1840028734
+"Satellite Beach";"Satellite Beach";"FL";"Florida";12009;"Brevard";28.1782;-80.602;11056;11056;1462;"polygon";"true";"America/New_York";32937;1840015961
+"Oxford";"Oxford";"FL";"Florida";12119;"Sumter";28.9275;-82.0373;"null";"null";180;"point";"false";"America/New_York";34484;1840028748
+"Red Head";"Red Head";"FL";"Florida";12133;"Washington";30.4866;-85.8419;"null";"null";2.5;"point";"false";"America/Chicago";32462;1840028847
+"Pine Barren";"Pine Barren";"FL";"Florida";12033;"Escambia";30.7774;-87.3344;"null";"null";15.3;"point";"false";"America/Chicago";32577;1840028754
+"Pineda";"Pineda";"FL";"Florida";12009;"Brevard";28.2372;-80.6784;"null";"null";510.6;"point";"false";"America/New_York";32955;1840028844
+"Combee Settlement";"Combee Settlement";"FL";"Florida";12105;"Polk";28.0597;-81.9053;"null";"null";1625.6;"polygon";"false";"America/New_York";33801;1840029027
+"Dickerson City";"Dickerson City";"FL";"Florida";12113;"Santa Rosa";30.4826;-87.0651;"null";"null";73.3;"polygon";"false";"America/Chicago";32583;1840029112
+"Coconut Creek";"Coconut Creek";"FL";"Florida";12011;"Broward";26.2803;-80.1842;61010;61010;1984;"polygon";"true";"America/New_York";"33073 33063 33066";1840015132
+"Shady";"Shady";"FL";"Florida";12083;"Marion";29.0955;-82.169;"null";"null";305.1;"point";"false";"America/New_York";34476;1840028851
+"Freeport";"Freeport";"FL";"Florida";12131;"Walton";30.5039;-86.1391;2360;2360;48;"polygon";"true";"America/Chicago";32439;1840013926
+"Fountainebleau";"Fountainebleau";"FL";"Florida";12086;"Miami-Dade";25.7721;-80.3454;"null";"null";8827.7;"polygon";"false";"America/New_York";"33172 33174 33126 33144";1840028983
+"Okeelanta";"Okeelanta";"FL";"Florida";12099;"Palm Beach";26.6098;-80.7114;"null";"null";0.2;"point";"false";"America/New_York";33493;1840023557
+"Malone";"Malone";"FL";"Florida";12063;"Jackson";30.9586;-85.1621;2127;2127;262;"polygon";"true";"America/Chicago";32445;1840017149
+"West Lake Wales";"West Lake Wales";"FL";"Florida";12105;"Polk";27.8903;-81.6465;"null";"null";81.1;"point";"false";"America/New_York";33859;1840028795
+"Deerfield Beach";"Deerfield Beach";"FL";"Florida";12011;"Broward";26.305;-80.1278;80571;80571;2069;"polygon";"true";"America/New_York";"33442 33441 33064 33443";1840015136
+"Holmes Beach";"Holmes Beach";"FL";"Florida";12081;"Manatee";27.5109;-82.7153;4261;4261;977;"polygon";"true";"America/New_York";34217;1840015117
+"Raleigh";"Raleigh";"FL";"Florida";12075;"Levy";29.4479;-82.4681;"null";"null";69.5;"polygon";"false";"America/New_York";32696;1840026044
+"Bristol";"Bristol";"FL";"Florida";12077;"Liberty";30.4255;-84.9773;970;970;227;"polygon";"true";"America/New_York";32321;1840013953
+"Glendale";"Glendale";"FL";"Florida";12131;"Walton";30.863;-86.1144;"null";"null";58;"point";"false";"America/Chicago";32433;1840028685
+"Atlantis";"Atlantis";"FL";"Florida";12099;"Palm Beach";26.5961;-80.1031;2133;2133;595;"polygon";"true";"America/New_York";33462;1840014203
+"Salt Springs";"Salt Springs";"FL";"Florida";12083;"Marion";29.3511;-81.7351;"null";"null";291.6;"point";"false";"America/New_York";32134;1840028941
+"Beverly Beach";"Beverly Beach";"FL";"Florida";12035;"Flagler";29.5164;-81.1475;400;400;453;"polygon";"true";"America/New_York";32136;1840015947
+"Buenaventura Lakes";"Buenaventura Lakes";"FL";"Florida";12097;"Osceola";28.3349;-81.3539;"null";"null";2619.3;"polygon";"false";"America/New_York";34743;1840028974
+"Houston";"Houston";"FL";"Florida";12121;"Suwannee";30.2569;-82.9026;"null";"null";65.7;"point";"false";"America/New_York";32060;1840028881
+"Hampton";"Hampton";"FL";"Florida";12007;"Bradford";29.8642;-82.1379;496;496;184;"polygon";"true";"America/New_York";32044;1840014006
+"Lazy Lake";"Lazy Lake";"FL";"Florida";12011;"Broward";26.1563;-80.1452;26;26;431;"polygon";"true";"America/New_York";33305;1840028718
+"Worthington Springs";"Worthington Springs";"FL";"Florida";12125;"Union";29.9331;-82.4152;390;390;146;"polygon";"true";"America/New_York";"32054 32697";1840017213
+"Manatee Road";"Manatee Road";"FL";"Florida";12075;"Levy";29.5144;-82.9182;"null";"null";130.7;"polygon";"false";"America/New_York";"32626 32693";1840028993
+"Lulu";"Lulu";"FL";"Florida";12023;"Columbia";30.1075;-82.4912;"null";"null";10.2;"point";"false";"America/New_York";32061;1840028720
+"Boulevard Gardens";"Boulevard Gardens";"FL";"Florida";12011;"Broward";26.1252;-80.1822;"null";"null";2270.3;"polygon";"false";"America/New_York";33311;1840029103
+"Denaud";"Denaud";"FL";"Florida";12051;"Hendry";26.7423;-81.5101;"null";"null";86.6;"point";"false";"America/New_York";33935;1840028872
+"White Springs";"White Springs";"FL";"Florida";12047;"Hamilton";30.3318;-82.7563;769;769;161;"polygon";"true";"America/New_York";32096;1840017189
+"Matlacha";"Matlacha";"FL";"Florida";12071;"Lee";26.6304;-82.0719;"null";"null";1471;"polygon";"false";"America/New_York";33993;1840014221
+"Palm Beach Gardens";"Palm Beach Gardens";"FL";"Florida";12099;"Palm Beach";26.8488;-80.1656;55036;55036;380;"polygon";"true";"America/New_York";"33418 33410 33412 33403";1840015125
+"Andrews";"Andrews";"FL";"Florida";12075;"Levy";29.5482;-82.888;"null";"null";30.2;"polygon";"false";"America/New_York";"32626 32693";1840028972
+"Portland";"Portland";"FL";"Florida";12131;"Walton";30.5124;-86.1958;"null";"null";143.7;"point";"false";"America/Chicago";32439;1840028762
+"Highpoint";"Highpoint";"FL";"Florida";12103;"Pinellas";27.917;-82.7129;"null";"null";649.1;"point";"false";"America/New_York";33760;1840029042
+"Indian Harbour Beach";"Indian Harbour Beach";"FL";"Florida";12009;"Brevard";28.1528;-80.5974;8566;8566;1567;"polygon";"true";"America/New_York";32937;1840015096
+"Charlotte Park";"Charlotte Park";"FL";"Florida";12015;"Charlotte";26.9031;-82.0485;"null";"null";893.7;"polygon";"false";"America/New_York";33950;1840028650
+"Hinson";"Hinson";"FL";"Florida";12039;"Gadsden";30.6474;-84.4166;"null";"null";60.4;"point";"false";"America/New_York";32333;1840028694
+"Port Charlotte";"Port Charlotte";"FL";"Florida";12015;"Charlotte";26.9918;-82.114;"null";"null";1081;"polygon";"false";"America/New_York";"33954 33948 33980 33952 33949";1840014200
+"Indian Shores";"Indian Shores";"FL";"Florida";12103;"Pinellas";27.8535;-82.8439;1473;1473;1681;"polygon";"true";"America/New_York";33785;1840017243
+"Russell";"Russell";"FL";"Florida";12019;"Clay";30.0564;-81.7473;"null";"null";52.6;"point";"false";"America/New_York";32043;1840028766
+"Jacksonville Beach";"Jacksonville Beach";"FL";"Florida";12031;"Duval";30.2782;-81.4045;23518;23518;1238;"polygon";"true";"America/New_York";"32250 32240";1840015032
+"Parkland";"Parkland";"FL";"Florida";12011;"Broward";26.3218;-80.2532;32202;32202;990;"polygon";"true";"America/New_York";"33076 33067";1840015140
+"Pine Log";"Pine Log";"FL";"Florida";12005;"Bay";30.4038;-85.9116;"null";"null";14.5;"point";"false";"America/Chicago";32437;1840028895
+"Cedar Key";"Cedar Key";"FL";"Florida";12075;"Levy";29.146;-83.0386;690;690;277;"polygon";"true";"America/New_York";32625;1840015065
+"Williamsburg";"Williamsburg";"FL";"Florida";12095;"Orange";28.4015;-81.4461;"null";"null";1610.8;"polygon";"false";"America/New_York";32821;1840029100
+"Lumberton";"Lumberton";"FL";"Florida";12101;"Pasco";28.2661;-82.1365;"null";"null";102.2;"point";"false";"America/New_York";33540;1840028721
+"Titusville";"Titusville";"FL";"Florida";12009;"Brevard";28.5727;-80.8193;57497;46263;613;"polygon";"true";"America/New_York";"32796 32780 32781";1840015962
+"Avalon Beach";"Avalon Beach";"FL";"Florida";12113;"Santa Rosa";30.5302;-87.1016;"null";"null";33.9;"point";"false";"America/Chicago";32583;1840027012
+"Big Coppitt Key";"Big Coppitt Key";"FL";"Florida";12087;"Monroe";24.5915;-81.6574;"null";"null";1629.3;"polygon";"false";"America/New_York";33040;1840029021
+"Panacea";"Panacea";"FL";"Florida";12129;"Wakulla";30.0282;-84.3936;"null";"null";192.4;"polygon";"false";"America/New_York";32346;1840026031
+"Astor Park";"Astor Park";"FL";"Florida";12069;"Lake";29.1536;-81.572;"null";"null";46.6;"point";"false";"America/New_York";32102;1840028924
+"Suncoast Estates";"Suncoast Estates";"FL";"Florida";12071;"Lee";26.7122;-81.8684;"null";"null";953.4;"polygon";"false";"America/New_York";33917;1840029083
+"Candler";"Candler";"FL";"Florida";12083;"Marion";29.0714;-81.9681;"null";"null";189.6;"point";"false";"America/New_York";34472;1840028927
+"Intercession City";"Intercession City";"FL";"Florida";12097;"Osceola";28.2625;-81.5079;"null";"null";515.1;"point";"false";"America/New_York";33848;1840028701
+"Medulla";"Medulla";"FL";"Florida";12105;"Polk";27.957;-81.9866;"null";"null";844.4;"polygon";"false";"America/New_York";"33811 33813 33807";1840014131
+"Pittman";"Pittman";"FL";"Florida";12069;"Lake";28.9967;-81.6462;"null";"null";120.5;"polygon";"false";"America/New_York";32702;1840014053
+"Kensington Park";"Kensington Park";"FL";"Florida";12115;"Sarasota";27.359;-82.4933;"null";"null";1357.3;"polygon";"false";"America/New_York";"34235 34230";1840029046
+"Hilden";"Hilden";"FL";"Florida";12109;"St. Johns";30.0658;-81.4401;"null";"null";31.2;"point";"false";"America/New_York";32081;1840028955
+"East Lake Weir";"East Lake Weir";"FL";"Florida";12083;"Marion";29.02;-81.9083;"null";"null";91.9;"point";"false";"America/New_York";32133;1840028929
+"Barrineau Park";"Barrineau Park";"FL";"Florida";12033;"Escambia";30.6938;-87.4361;"null";"null";8.8;"point";"false";"America/Chicago";32577;1840028801
+"Auburndale";"Auburndale";"FL";"Florida";12105;"Polk";28.0966;-81.8008;15973;15973;457;"polygon";"true";"America/New_York";"33868 33823";1840014127
+"Solana";"Solana";"FL";"Florida";12015;"Charlotte";26.9389;-82.0278;"null";"null";682.7;"polygon";"false";"America/New_York";33950;1840014199
+"Saint Teresa";"Saint Teresa";"FL";"Florida";12037;"Franklin";29.9308;-84.4541;"null";"null";30.2;"point";"false";"America/New_York";32358;1840028967
+"Live Oak";"Live Oak";"FL";"Florida";12121;"Suwannee";30.2956;-82.9846;7040;6896;351;"polygon";"true";"America/New_York";32064;1840015929
+"Poinciana";"Poinciana";"FL";"Florida";12097;"Osceola";28.1217;-81.482;"null";"null";843.3;"polygon";"false";"America/New_York";"34758 34759";1840014132
+"Orangetree";"Orangetree";"FL";"Florida";12021;"Collier";26.2929;-81.5786;"null";"null";831.8;"polygon";"false";"America/New_York";34120;1840014234
+"Opa-locka";"Opa-locka";"FL";"Florida";12086;"Miami-Dade";25.8997;-80.2551;16479;16479;1478;"polygon";"true";"America/New_York";33054;1840015156
+"Berkeley";"Berkeley";"FL";"Florida";12053;"Hernando";28.5028;-82.5887;"null";"null";282.7;"point";"false";"America/New_York";34607;1840028635
+"Goodno";"Goodno";"FL";"Florida";12043;"Glades";26.7687;-81.3117;"null";"null";5.7;"point";"false";"America/New_York";33935;1840028830
+"De Soto City";"De Soto City";"FL";"Florida";12055;"Highlands";27.4425;-81.4051;"null";"null";137.5;"point";"false";"America/New_York";33876;1840028663
+"North Miami Beach";"North Miami Beach";"FL";"Florida";12086;"Miami-Dade";25.9302;-80.1659;44124;44124;3528;"polygon";"true";"America/New_York";"33162 33160 33280";1840015155
+"Westchase";"Westchase";"FL";"Florida";12057;"Hillsborough";28.0597;-82.611;"null";"null";437.7;"polygon";"false";"America/New_York";33626;1840029017
+"Fort White";"Fort White";"FL";"Florida";12023;"Columbia";29.9225;-82.7136;590;590;95;"polygon";"true";"America/New_York";32038;1840017190
+"Greenwood";"Greenwood";"FL";"Florida";12063;"Jackson";30.8729;-85.161;663;663;54;"polygon";"true";"America/Chicago";32443;1840017152
+"Eau Gallie";"Eau Gallie";"FL";"Florida";12009;"Brevard";28.1292;-80.6303;"null";"null";892.6;"point";"false";"America/New_York";32935;1840028806
+"Crystal Beach";"Crystal Beach";"FL";"Florida";12103;"Pinellas";28.0914;-82.7798;"null";"null";1285.1;"point";"false";"America/New_York";34681;1840028799
+"University Park";"University Park";"FL";"Florida";12086;"Miami-Dade";25.7469;-80.3684;"null";"null";1979.5;"polygon";"false";"America/New_York";"33174 33165 33199";1840029013
+"Blountstown";"Blountstown";"FL";"Florida";12013;"Calhoun";30.443;-85.0454;4638;2454;298;"polygon";"true";"America/Chicago";32424;1840013952
+"Honeyville";"Honeyville";"FL";"Florida";12045;"Gulf";30.058;-85.1899;"null";"null";56.5;"point";"false";"America/Chicago";32465;1840028698
+"Sky Lake";"Sky Lake";"FL";"Florida";12095;"Orange";28.4611;-81.3912;"null";"null";2497.9;"polygon";"false";"America/New_York";"32809 32859";1840014085
+"Coconut";"Coconut";"FL";"Florida";12071;"Lee";26.3995;-81.8395;"null";"null";226.2;"point";"false";"America/New_York";34134;1840028867
+"Pebble Creek";"Pebble Creek";"FL";"Florida";12057;"Hillsborough";28.1582;-82.3411;"null";"null";1723.1;"polygon";"false";"America/New_York";33647;1840028995
+"South Venice";"South Venice";"FL";"Florida";12115;"Sarasota";27.0435;-82.4153;"null";"null";1435.4;"polygon";"false";"America/New_York";"34293 34284";1840014180
+"Villano Beach";"Villano Beach";"FL";"Florida";12109;"St. Johns";29.9361;-81.3021;"null";"null";902.2;"polygon";"false";"America/New_York";32084;1840029091
+"Plant City";"Plant City";"FL";"Florida";12057;"Hillsborough";28.0144;-82.12;38714;38714;547;"polygon";"true";"America/New_York";"33563 33565 33566 33564";1840015115
+"Harlem";"Harlem";"FL";"Florida";12051;"Hendry";26.7325;-80.9518;"null";"null";1062.6;"polygon";"false";"America/New_York";33440;1840014209
+"Dunedin";"Dunedin";"FL";"Florida";12103;"Pinellas";28.0328;-82.7866;36545;36545;1357;"polygon";"true";"America/New_York";"34698 34697";1840014144
+"Miami Shores";"Miami Shores";"FL";"Florida";12086;"Miami-Dade";25.867;-80.1779;10649;10649;1653;"polygon";"true";"America/New_York";"33141 33138 33153";1840018334
+"Fort Meade";"Fort Meade";"FL";"Florida";12105;"Polk";27.7642;-81.8055;6775;6115;285;"polygon";"true";"America/New_York";"33847 33841";1840014134
+"Port Richey";"Port Richey";"FL";"Florida";12101;"Pasco";28.2759;-82.7251;2831;2831;492;"polygon";"true";"America/New_York";"34668 34673";1840015103
+"North DeLand";"North DeLand";"FL";"Florida";12127;"Volusia";29.0483;-81.2965;"null";"null";1062.8;"polygon";"false";"America/New_York";32724;1840029059
+"Pine Island";"Pine Island";"FL";"Florida";12053;"Hernando";28.5727;-82.6545;"null";"null";50.6;"polygon";"false";"America/New_York";34607;1840014110
+"Chuluota";"Chuluota";"FL";"Florida";12117;"Seminole";28.638;-81.1158;"null";"null";1118.5;"polygon";"false";"America/New_York";32766;1840014071
+"Fellsmere";"Fellsmere";"FL";"Florida";12061;"Indian River";27.7241;-80.5974;5829;5723;38;"polygon";"true";"America/New_York";"32948 32966";1840014165
+"Vicksburg";"Vicksburg";"FL";"Florida";12005;"Bay";30.3258;-85.6647;"null";"null";0.5;"point";"false";"America/Chicago";32409;1840023576
+"Jasper";"Jasper";"FL";"Florida";12047;"Hamilton";30.5085;-82.954;4705;3959;666;"polygon";"true";"America/New_York";32052;1840015028
+"Williford";"Williford";"FL";"Florida";12041;"Gilchrist";29.7863;-82.7912;"null";"null";0;"point";"false";"America/New_York";32643;1840023577
+"Lake Alfred";"Lake Alfred";"FL";"Florida";12105;"Polk";28.1041;-81.7264;5941;5941;246;"polygon";"true";"America/New_York";33850;1840015106
+"Milton";"Milton";"FL";"Florida";12113;"Santa Rosa";30.6286;-87.0521;9986;9986;692;"polygon";"true";"America/Chicago";"32583 32570 32572";1840015006
+"Naples Park";"Naples Park";"FL";"Florida";12021;"Collier";26.2633;-81.8094;"null";"null";2358.5;"polygon";"false";"America/New_York";34108;1840014233
+"Daytona Beach Shores";"Daytona Beach Shores";"FL";"Florida";12127;"Volusia";29.1722;-80.9808;4514;4514;1892;"polygon";"true";"America/New_York";32118;1840015069
+"Perry";"Perry";"FL";"Florida";12123;"Taylor";30.1092;-83.582;6853;6937;285;"polygon";"true";"America/New_York";"32347 32348";1840015046
+"Coral Terrace";"Coral Terrace";"FL";"Florida";12086;"Miami-Dade";25.7464;-80.3049;"null";"null";3077.8;"polygon";"false";"America/New_York";"33144 33155 33245";1840029028
+"Kendale Lakes";"Kendale Lakes";"FL";"Florida";12086;"Miami-Dade";25.7081;-80.4078;"null";"null";5348.2;"polygon";"false";"America/New_York";"33175 33183";1840029045
+"Gainesville";"Gainesville";"FL";"Florida";12001;"Alachua";29.6808;-82.3455;199695;132249;815;"polygon";"true";"America/New_York";"32608 32612 32653 32609 32603 32601 32607 32605 32604 32610 32611 32614 32627 32635";1840014022
+"Longboat Key";"Longboat Key";"FL";"Florida";12081;"Manatee";27.3926;-82.6341;7292;7292;681;"polygon";"true";"America/New_York";34228;1840017250
+"Saint Lucie";"Saint Lucie";"FL";"Florida";12111;"St. Lucie";27.4967;-80.3417;639;639;279;"polygon";"true";"America/New_York";34946;1840028959
+"Brandon";"Brandon";"FL";"Florida";12057;"Hillsborough";27.9367;-82.3;"null";"null";576.2;"polygon";"false";"America/New_York";"33511 33510 33594 33619 33584 33508 33509 33595";1840014151
+"Lake Belvedere Estates";"Lake Belvedere Estates";"FL";"Florida";12099;"Palm Beach";26.6887;-80.1372;"null";"null";1993.4;"polygon";"false";"America/New_York";33413;1840028988
+"Plains";"Plains";"FL";"Florida";12055;"Highlands";27.4095;-81.1842;"null";"null";1.2;"point";"false";"America/New_York";33857;1840028898
+"Hanson";"Hanson";"FL";"Florida";12079;"Madison";30.5516;-83.3671;"null";"null";20.2;"point";"false";"America/New_York";32340;1840028880
+"Blue Mountain Beach";"Blue Mountain Beach";"FL";"Florida";12131;"Walton";30.3374;-86.1972;"null";"null";135.1;"point";"false";"America/Chicago";32459;1840028637
+"LaBelle";"LaBelle";"FL";"Florida";12051;"Hendry";26.7221;-81.4505;12605;4852;130;"polygon";"true";"America/New_York";"33935 33975";1840015129
+"Cross City";"Cross City";"FL";"Florida";12029;"Dixie";29.6388;-83.1247;3746;1716;352;"polygon";"true";"America/New_York";32628;1840017280
+"Riverview";"Riverview";"FL";"Florida";12057;"Hillsborough";27.8227;-82.3023;"null";"null";735.3;"polygon";"false";"America/New_York";"33503 33578 33569 33579 33568";1840014158
+"Williston Highlands";"Williston Highlands";"FL";"Florida";12075;"Levy";29.3336;-82.5357;"null";"null";48.5;"polygon";"false";"America/New_York";"32696 32668";1840014037
+"Hialeah";"Hialeah";"FL";"Florida";12086;"Miami-Dade";25.8696;-80.3045;239673;239673;4308;"polygon";"true";"America/New_York";"33014 33016 33010 33012 33013 33018";1840015157
+"Santa Rosa Beach";"Santa Rosa Beach";"FL";"Florida";12131;"Walton";30.396;-86.2288;"null";"null";507.4;"point";"false";"America/Chicago";32459;1840028771
+"American Beach";"American Beach";"FL";"Florida";12089;"Nassau";30.575;-81.444;"null";"null";374.7;"point";"false";"America/New_York";32034;1840028621
+"Pahokee";"Pahokee";"FL";"Florida";12099;"Palm Beach";26.8205;-80.6613;7925;6236;434;"polygon";"true";"America/New_York";33476;1840015124
+"Upper Grand Lagoon";"Upper Grand Lagoon";"FL";"Florida";12005;"Bay";30.169;-85.7407;"null";"null";653.4;"polygon";"false";"America/Chicago";"32408 32407 32406 32411";1840029090
+"Ives Estates";"Ives Estates";"FL";"Florida";12086;"Miami-Dade";25.9632;-80.183;"null";"null";3234.9;"polygon";"false";"America/New_York";33179;1840028705
+"Plantation Island";"Plantation Island";"FL";"Florida";12021;"Collier";25.8475;-81.3756;"null";"null";20.9;"polygon";"false";"America/New_York";34139;1840028759
+"Lee";"Lee";"FL";"Florida";12079;"Madison";30.4116;-83.3004;331;331;53;"polygon";"true";"America/New_York";32059;1840017186
+"Roseland";"Roseland";"FL";"Florida";12061;"Indian River";27.8361;-80.4884;"null";"null";530.8;"polygon";"false";"America/New_York";"32958 32957";1840014164
+"Casselberry";"Casselberry";"FL";"Florida";12117;"Seminole";28.6624;-81.3218;28395;28395;1584;"polygon";"true";"America/New_York";"32707 32718";1840015088
+"Woodlawn Beach";"Woodlawn Beach";"FL";"Florida";12113;"Santa Rosa";30.3861;-86.9932;"null";"null";182.2;"polygon";"false";"America/Chicago";32563;1840027011
+"Asbury Lake";"Asbury Lake";"FL";"Florida";12019;"Clay";30.0472;-81.7855;"null";"null";421.3;"polygon";"false";"America/New_York";"32043 32067";1840029019
+"Neptune Beach";"Neptune Beach";"FL";"Florida";12031;"Duval";30.3165;-81.4118;7280;7280;1205;"polygon";"true";"America/New_York";32266;1840015030
+"Lamont";"Lamont";"FL";"Florida";12065;"Jefferson";30.3797;-83.8134;"null";"null";38.5;"polygon";"false";"America/New_York";32336;1840026005
+"Ratliff";"Ratliff";"FL";"Florida";12089;"Nassau";30.5077;-81.8001;"null";"null";114;"point";"false";"America/New_York";32011;1840028846
+"South Pasadena";"South Pasadena";"FL";"Florida";12103;"Pinellas";27.7524;-82.7395;5118;5118;3246;"polygon";"true";"America/New_York";33707;1840015979
+"Frink";"Frink";"FL";"Florida";12013;"Calhoun";30.3685;-85.2141;"null";"null";3.2;"point";"false";"America/Chicago";32430;1840028827
+"Favoretta";"Favoretta";"FL";"Florida";12035;"Flagler";29.3669;-81.1748;"null";"null";21.3;"point";"false";"America/New_York";32110;1840028800
+"Korona";"Korona";"FL";"Florida";12035;"Flagler";29.4069;-81.1965;"null";"null";56.3;"point";"false";"America/New_York";32110;1840028716
+"Laurel Hill";"Laurel Hill";"FL";"Florida";12091;"Okaloosa";30.9633;-86.4567;601;601;73;"polygon";"true";"America/Chicago";32567;1840015010
+"Stock Island";"Stock Island";"FL";"Florida";12087;"Monroe";24.5658;-81.7351;"null";"null";1755.4;"polygon";"false";"America/New_York";33040;1840029082
+"Narcoossee";"Narcoossee";"FL";"Florida";12097;"Osceola";28.2983;-81.239;"null";"null";232.4;"point";"false";"America/New_York";34771;1840028736
+"Armstrong";"Armstrong";"FL";"Florida";12109;"St. Johns";29.7622;-81.4479;"null";"null";50.9;"point";"false";"America/New_York";32033;1840028953
+"Holder";"Holder";"FL";"Florida";12017;"Citrus";28.9669;-82.4207;"null";"null";69.7;"point";"false";"America/New_York";34445;1840028695
+"East Lake";"East Lake";"FL";"Florida";12103;"Pinellas";28.1206;-82.6869;"null";"null";1037.2;"polygon";"false";"America/New_York";"34677 34685 34688";1840028980
+"Duck Key";"Duck Key";"FL";"Florida";12087;"Monroe";24.771;-80.9132;"null";"null";478.3;"polygon";"false";"America/New_York";33050;1840013130
+"Southport";"Southport";"FL";"Florida";12005;"Bay";30.2894;-85.6405;"null";"null";156.3;"point";"false";"America/Chicago";32409;1840028781
+"Ashville";"Ashville";"FL";"Florida";12065;"Jefferson";30.6166;-83.6465;"null";"null";4.4;"point";"false";"America/New_York";32344;1840028813
+"Arcadia";"Arcadia";"FL";"Florida";12027;"DeSoto";27.2213;-81.8587;18376;8025;717;"polygon";"true";"America/New_York";34266;1840014187
+"Cinco Bayou";"Cinco Bayou";"FL";"Florida";12091;"Okaloosa";30.4222;-86.6095;430;430;952;"polygon";"true";"America/Chicago";32548;1840017158
+"Surfside";"Surfside";"FL";"Florida";12086;"Miami-Dade";25.8787;-80.1251;5841;5841;4046;"polygon";"true";"America/New_York";33154;1840017278
+"Saint Marks";"Saint Marks";"FL";"Florida";12129;"Wakulla";30.1653;-84.2079;312;312;62;"polygon";"true";"America/New_York";32355;1840015933
+"Medart";"Medart";"FL";"Florida";12129;"Wakulla";30.0827;-84.3871;"null";"null";19.3;"point";"false";"America/New_York";32327;1840028937
+"Baker";"Baker";"FL";"Florida";12091;"Okaloosa";30.7971;-86.6813;"null";"null";181.6;"point";"false";"America/Chicago";32531;1840028624
+"North Brooksville";"North Brooksville";"FL";"Florida";12053;"Hernando";28.573;-82.3748;"null";"null";18.1;"polygon";"false";"America/New_York";34601;1840029058
+"Goulds";"Goulds";"FL";"Florida";12086;"Miami-Dade";25.5614;-80.388;"null";"null";1618.8;"polygon";"false";"America/New_York";"33170 33177";1840014239
+"Davie";"Davie";"FL";"Florida";12011;"Broward";26.079;-80.287;105149;105149;1165;"polygon";"true";"America/New_York";"33324 33325 33331 33330 33328 33317 33314 33355";1840017272
+"Cantonment";"Cantonment";"FL";"Florida";12033;"Escambia";30.6085;-87.34;"null";"null";160.5;"point";"false";"America/Chicago";32533;1840028645
+"Timber Pines";"Timber Pines";"FL";"Florida";12053;"Hernando";28.469;-82.5999;"null";"null";993.7;"polygon";"false";"America/New_York";34606;1840029088
+"Pace";"Pace";"FL";"Florida";12113;"Santa Rosa";30.6187;-87.1667;"null";"null";496;"polygon";"false";"America/Chicago";32571;1840013919
+"Orange Lake";"Orange Lake";"FL";"Florida";12083;"Marion";29.4236;-82.2168;"null";"null";259.5;"point";"false";"America/New_York";32686;1840028745
+"Bartow";"Bartow";"FL";"Florida";12105;"Polk";27.8862;-81.8212;19597;19597;164;"polygon";"true";"America/New_York";"33830 33880 33831 33863";1840014128
+"Beacon Hill";"Beacon Hill";"FL";"Florida";12045;"Gulf";29.923;-85.3858;"null";"null";413.3;"point";"false";"America/New_York";32456;1840028630
+"Deer Park";"Deer Park";"FL";"Florida";12097;"Osceola";28.0914;-80.8978;"null";"null";4.2;"point";"false";"America/New_York";34773;1840028664
+"Fish Hawk";"Fish Hawk";"FL";"Florida";12057;"Hillsborough";27.8511;-82.2164;"null";"null";413.3;"polygon";"false";"America/New_York";"33547 33569";1840028982
+"Margate";"Margate";"FL";"Florida";12011;"Broward";26.2465;-80.2119;58430;58430;2546;"polygon";"true";"America/New_York";"33063 33068 33093";1840015999
+"Brownsville";"Brownsville";"FL";"Florida";12086;"Miami-Dade";25.8216;-80.2417;"null";"null";3777.2;"polygon";"false";"America/New_York";"33142 33188";1840029024
+"Ludlam";"Ludlam";"FL";"Florida";12086;"Miami-Dade";25.7337;-80.3014;"null";"null";2668.3;"point";"false";"America/New_York";33155;1840028971
+"Kendall";"Kendall";"FL";"Florida";12086;"Miami-Dade";25.6697;-80.3556;"null";"null";2710.9;"polygon";"false";"America/New_York";"33173 33176 33156 33183 33116 33256 33283 33296";1840014244
+"Interlachen";"Interlachen";"FL";"Florida";12107;"Putnam";29.6203;-81.8963;1386;1386;90;"polygon";"true";"America/New_York";"32148 32149";1840017218
+"Madison";"Madison";"FL";"Florida";12079;"Madison";30.4685;-83.4159;3793;2807;424;"polygon";"true";"America/New_York";"32340 32341";1840015917
+"Tennille";"Tennille";"FL";"Florida";12123;"Taylor";29.778;-83.326;"null";"null";15.8;"point";"false";"America/New_York";32359;1840028906
+"Windermere";"Windermere";"FL";"Florida";12095;"Orange";28.5033;-81.5411;3402;3402;692;"polygon";"true";"America/New_York";34786;1840017238
+"Villas";"Villas";"FL";"Florida";12071;"Lee";26.5504;-81.8679;"null";"null";760.2;"polygon";"false";"America/New_York";"33912 33907";1840029092
+"Aucilla";"Aucilla";"FL";"Florida";12065;"Jefferson";30.477;-83.7603;"null";"null";33.1;"polygon";"false";"America/New_York";32344;1840026004
+"Cape Canaveral";"Cape Canaveral";"FL";"Florida";12009;"Brevard";28.3934;-80.605;10413;10413;1799;"polygon";"true";"America/New_York";32920;1840015091
+"Cocoa Beach";"Cocoa Beach";"FL";"Florida";12009;"Brevard";28.3328;-80.6274;11733;11733;972;"polygon";"true";"America/New_York";"32931 32932";1840015093
+"Lake Hamilton";"Lake Hamilton";"FL";"Florida";12105;"Polk";28.0478;-81.627;1393;1393;171;"polygon";"true";"America/New_York";"33851 33844";1840017240
+"Spring Lake";"Spring Lake";"FL";"Florida";12053;"Hernando";28.4952;-82.3017;"null";"null";55.1;"polygon";"false";"America/New_York";"34601 34602";1840014106
+"Cocoa";"Cocoa";"FL";"Florida";12009;"Brevard";28.3821;-80.7675;18532;18532;536;"polygon";"true";"America/New_York";"32922 32926";1840015092
+"Zellwood";"Zellwood";"FL";"Florida";12095;"Orange";28.7294;-81.5894;"null";"null";297.5;"polygon";"false";"America/New_York";"32798 32757";1840014092
+"New River";"New River";"FL";"Florida";12007;"Bradford";29.9611;-82.2654;"null";"null";6.9;"point";"false";"America/New_York";32622;1840028889
+"Ridge Manor";"Ridge Manor";"FL";"Florida";12053;"Hernando";28.4988;-82.1833;"null";"null";232.6;"polygon";"false";"America/New_York";33523;1840014111
+"Brownsdale";"Brownsdale";"FL";"Florida";12113;"Santa Rosa";30.8859;-87.2218;"null";"null";32.9;"polygon";"false";"America/Chicago";32565;1840025110
+"Molino";"Molino";"FL";"Florida";12033;"Escambia";30.7123;-87.324;"null";"null";172.2;"polygon";"false";"America/Chicago";32577;1840013916
+"Gomez";"Gomez";"FL";"Florida";12085;"Martin";27.0848;-80.1434;"null";"null";1062.8;"point";"false";"America/New_York";33455;1840028829
+"Babson Park";"Babson Park";"FL";"Florida";12105;"Polk";27.8342;-81.5281;"null";"null";219.8;"polygon";"false";"America/New_York";33827;1840014124
+"Eastpoint";"Eastpoint";"FL";"Florida";12037;"Franklin";29.7548;-84.8693;"null";"null";519.5;"polygon";"false";"America/New_York";32328;1840013112
+"New Smyrna Beach";"New Smyrna Beach";"FL";"Florida";12127;"Volusia";29.0249;-80.965;26470;26470;272;"polygon";"true";"America/New_York";"32169 32168 32170";1840015073
+"Dania Beach";"Dania Beach";"FL";"Florida";12011;"Broward";26.0594;-80.1641;32030;32030;1577;"polygon";"true";"America/New_York";"33004 33312";1840015135
+"Hatchbend";"Hatchbend";"FL";"Florida";12067;"Lafayette";29.8472;-82.9182;"null";"null";20.2;"point";"false";"America/New_York";32008;1840028831
+"Pasco";"Pasco";"FL";"Florida";12101;"Pasco";28.3247;-82.337;"null";"null";328.2;"point";"false";"America/New_York";33576;1840028843
+"East Palatka";"East Palatka";"FL";"Florida";12107;"Putnam";29.6502;-81.5998;"null";"null";343.7;"polygon";"false";"America/New_York";32131;1840013115
+"Dallas";"Dallas";"FL";"Florida";12083;"Marion";28.9711;-82.0409;"null";"null";842.7;"point";"false";"America/New_York";34491;1840028661
+"Indian River Shores";"Indian River Shores";"FL";"Florida";12061;"Indian River";27.7088;-80.3851;4230;4230;320;"polygon";"true";"America/New_York";32963;1840017246
+"Lake Butler";"Lake Butler";"FL";"Florida";12125;"Union";30.018;-82.3421;4833;1813;309;"polygon";"true";"America/New_York";32054;1840015052
+"Cassadaga";"Cassadaga";"FL";"Florida";12127;"Volusia";28.9664;-81.2359;"null";"null";251.5;"point";"false";"America/New_York";32744;1840028648
+"Penney Farms";"Penney Farms";"FL";"Florida";12019;"Clay";29.9804;-81.8113;811;811;217;"polygon";"true";"America/New_York";"32079 32043";1840017207
+"Greenville";"Greenville";"FL";"Florida";12079;"Madison";30.4668;-83.6352;798;798;235;"polygon";"true";"America/New_York";32331;1840017187
+"Keystone";"Keystone";"FL";"Florida";12057;"Hillsborough";28.1312;-82.5999;"null";"null";27.6;"polygon";"false";"America/New_York";"33626 33558 33556";1840028914
+"Shady Grove";"Shady Grove";"FL";"Florida";12123;"Taylor";30.288;-83.6318;"null";"null";9.4;"point";"false";"America/New_York";32331;1840028776
+"Orange";"Orange";"FL";"Florida";12077;"Liberty";30.2277;-85.0249;"null";"null";0.7;"point";"false";"America/New_York";32321;1840023580
+"Arredondo";"Arredondo";"FL";"Florida";12001;"Alachua";29.605;-82.4093;"null";"null";716.7;"point";"false";"America/New_York";32608;1840028623
+"Whiskey Creek";"Whiskey Creek";"FL";"Florida";12071;"Lee";26.5733;-81.8903;"null";"null";1347.8;"polygon";"false";"America/New_York";33919;1840029099
+"Verna";"Verna";"FL";"Florida";12081;"Manatee";27.3873;-82.2681;"null";"null";80.6;"point";"false";"America/New_York";34251;1840028856
+"Fort Lauderdale";"Fort Lauderdale";"FL";"Florida";12011;"Broward";26.1412;-80.1464;180072;180072;2009;"polygon";"true";"America/New_York";"33301 33304 33305 33306 33308 33309 33334 33316 33315 33312 33311 33320 33336 33338 33339 33340 33346 33348 33394";1840014236
+"Harold";"Harold";"FL";"Florida";12113;"Santa Rosa";30.6772;-86.831;"null";"null";51.2;"polygon";"false";"America/Chicago";"32583 32564";1840025113
+"Bakers Mill";"Bakers Mill";"FL";"Florida";12047;"Hamilton";30.5797;-82.9393;"null";"null";2.2;"point";"false";"America/New_York";32052;1840028625
+"Green Cove Springs";"Green Cove Springs";"FL";"Florida";12019;"Clay";29.99;-81.6809;7966;7966;403;"polygon";"true";"America/New_York";32043;1840013999
+"Oriole Beach";"Oriole Beach";"FL";"Florida";12113;"Santa Rosa";30.3687;-87.0962;"null";"null";1133;"polygon";"false";"America/Chicago";32563;1840027018
+"Lutz";"Lutz";"FL";"Florida";12057;"Hillsborough";28.1396;-82.4462;"null";"null";456.4;"polygon";"false";"America/New_York";"33548 33549 33559 33647 33675";1840014156
+"Valrico";"Valrico";"FL";"Florida";12057;"Hillsborough";27.9193;-82.2293;"null";"null";1335;"polygon";"false";"America/New_York";"33594 33596";1840028790
+"Five Points";"Five Points";"FL";"Florida";12023;"Columbia";30.2225;-82.6463;"null";"null";564.3;"polygon";"false";"America/New_York";32055;1840013954
+"Anthony";"Anthony";"FL";"Florida";12083;"Marion";29.2894;-82.1118;"null";"null";433.7;"point";"false";"America/New_York";32617;1840028622
+"Eva";"Eva";"FL";"Florida";12105;"Polk";28.3264;-81.8334;"null";"null";16.9;"point";"false";"America/New_York";33868;1840028877
+"Fort Ogden";"Fort Ogden";"FL";"Florida";12027;"DeSoto";27.0873;-81.9523;"null";"null";112.1;"point";"false";"America/New_York";34266;1840028803
+"Lake Worth";"Lake Worth";"FL";"Florida";12099;"Palm Beach";26.6194;-80.059;38107;38107;2517;"polygon";"true";"America/New_York";"33460 33461 33466";1840015127
+"Saint Augustine Beach";"Saint Augustine Beach";"FL";"Florida";12109;"St. Johns";29.8413;-81.2713;6998;6998;1275;"polygon";"true";"America/New_York";32080;1840015936
+"Reddick";"Reddick";"FL";"Florida";12083;"Marion";29.3687;-82.1974;538;538;163;"polygon";"true";"America/New_York";32686;1840018275
+"Parrish";"Parrish";"FL";"Florida";12081;"Manatee";27.5875;-82.4251;"null";"null";292.9;"point";"false";"America/New_York";34219;1840028752
+"Pine Island Ridge";"Pine Island Ridge";"FL";"Florida";12011;"Broward";26.0948;-80.2739;"null";"null";3105.6;"point";"false";"America/New_York";33324;1840029065
+"Kissimmee";"Kissimmee";"FL";"Florida";12097;"Osceola";28.3042;-81.4164;374231;71104;1318;"polygon";"true";"America/New_York";"34741 34743 34744 34746 34745";1840015109
+"Sawgrass";"Sawgrass";"FL";"Florida";12109;"St. Johns";30.19;-81.3704;"null";"null";916.2;"polygon";"false";"America/New_York";32082;1840029073
+"Homestead";"Homestead";"FL";"Florida";12086;"Miami-Dade";25.4664;-80.4472;69907;69907;1785;"polygon";"true";"America/New_York";"33035 33030 33033";1840015159
+"Hines";"Hines";"FL";"Florida";12029;"Dixie";29.7394;-83.2365;"null";"null";0;"point";"false";"America/New_York";32680;1840023535
+"Englewood";"Englewood";"FL";"Florida";12115;"Sarasota";26.9604;-82.3535;"null";"null";795.3;"polygon";"false";"America/New_York";"34223 34224";1840013127
+"Brookridge";"Brookridge";"FL";"Florida";12053;"Hernando";28.5484;-82.4897;"null";"null";973.7;"polygon";"false";"America/New_York";34613;1840029022
+"Boca Raton";"Boca Raton";"FL";"Florida";12099;"Palm Beach";26.3749;-80.1077;98150;98150;1308;"polygon";"true";"America/New_York";"33496 33487 33486 33432 33433 33431 33434 33427 33429 33481 33499";1840014207
+"Waldo";"Waldo";"FL";"Florida";12001;"Alachua";29.792;-82.1667;1030;1030;182;"polygon";"true";"America/New_York";32694;1840015943
+"Belleair";"Belleair";"FL";"Florida";12103;"Pinellas";27.9363;-82.8118;4088;4088;916;"polygon";"true";"America/New_York";33756;1840015973
+"Orange Park";"Orange Park";"FL";"Florida";12019;"Clay";30.1706;-81.704;8705;8705;927;"polygon";"true";"America/New_York";"32073 32006";1840017206
+"Samsula";"Samsula";"FL";"Florida";12127;"Volusia";29.0261;-81.0503;"null";"null";52.2;"point";"false";"America/New_York";32168;1840028769
+"Port Saint John";"Port Saint John";"FL";"Florida";12009;"Brevard";28.4771;-80.7874;"null";"null";1489.1;"polygon";"false";"America/New_York";32927;1840014079
+"Ellenton";"Ellenton";"FL";"Florida";12081;"Manatee";27.5266;-82.5261;"null";"null";964.2;"polygon";"false";"America/New_York";"34222 34221";1840013124
+"Haines City";"Haines City";"FL";"Florida";12105;"Polk";28.1097;-81.6158;24304;24304;505;"polygon";"true";"America/New_York";"33844 33845";1840014136
+"Taft";"Taft";"FL";"Florida";12095;"Orange";28.428;-81.3666;"null";"null";1584.7;"polygon";"false";"America/New_York";32824;1840014086
+"Weirsdale";"Weirsdale";"FL";"Florida";12083;"Marion";28.9819;-81.9242;"null";"null";59;"point";"false";"America/New_York";32195;1840028793
+"Winter Park";"Winter Park";"FL";"Florida";12095;"Orange";28.5986;-81.3436;30879;30879;1372;"polygon";"true";"America/New_York";"32792 32789 32790";1840015966
+"Shady Hills";"Shady Hills";"FL";"Florida";12101;"Pasco";28.4043;-82.5468;"null";"null";247.3;"polygon";"false";"America/New_York";34610;1840029004
+"Ocean Breeze Park";"Ocean Breeze Park";"FL";"Florida";12085;"Martin";27.241;-80.2259;377;377;878;"polygon";"true";"America/New_York";34957;1840017252
+"Ruskin";"Ruskin";"FL";"Florida";12057;"Hillsborough";27.7065;-82.4209;"null";"null";539.7;"polygon";"false";"America/New_York";"33570 33571 33575";1840014159
+"Highland";"Highland";"FL";"Florida";12019;"Clay";30.1125;-82.0457;"null";"null";27;"point";"false";"America/New_York";32058;1840028832
+"Bee Ridge";"Bee Ridge";"FL";"Florida";12115;"Sarasota";27.2855;-82.4731;"null";"null";1625.1;"polygon";"false";"America/New_York";34233;1840028632
+"Greensboro";"Greensboro";"FL";"Florida";12039;"Gadsden";30.5704;-84.7327;607;607;102;"polygon";"true";"America/New_York";"32351 32330";1840017183
+"Bascom";"Bascom";"FL";"Florida";12063;"Jackson";30.928;-85.118;117;117;187;"polygon";"true";"America/Chicago";32423;1840015899
+"Sink Creek";"Sink Creek";"FL";"Florida";12063;"Jackson";30.6227;-85.1516;"null";"null";29.1;"point";"false";"America/Chicago";32448;1840028778
+"Crescent City";"Crescent City";"FL";"Florida";12107;"Putnam";29.4374;-81.5172;2753;1544;289;"polygon";"true";"America/New_York";32112;1840015061
+"Golf";"Golf";"FL";"Florida";12099;"Palm Beach";26.5043;-80.1091;282;282;133;"polygon";"true";"America/New_York";33436;1840018306
+"Lundy";"Lundy";"FL";"Florida";12107;"Putnam";29.6183;-81.6476;"null";"null";123.1;"point";"false";"America/New_York";32177;1840028722
+"Punta Gorda";"Punta Gorda";"FL";"Florida";12015;"Charlotte";26.8932;-82.0517;19761;19761;492;"polygon";"true";"America/New_York";33950;1840015122
+"Century";"Century";"FL";"Florida";12033;"Escambia";30.9767;-87.2628;3526;1803;215;"polygon";"true";"America/Chicago";32535;1840017155
+"Hampton Springs";"Hampton Springs";"FL";"Florida";12123;"Taylor";30.0855;-83.6549;"null";"null";7.2;"point";"false";"America/New_York";32347;1840028690
+"Memphis";"Memphis";"FL";"Florida";12081;"Manatee";27.5435;-82.5607;"null";"null";1552.5;"polygon";"false";"America/New_York";34221;1840014172
+"Sun City";"Sun City";"FL";"Florida";12057;"Hillsborough";27.6784;-82.4787;"null";"null";229.7;"point";"false";"America/New_York";33570;1840028785
+"Ensley";"Ensley";"FL";"Florida";12033;"Escambia";30.5261;-87.2735;"null";"null";739.6;"polygon";"false";"America/Chicago";"32514 32534";1840013104
+"Hialeah Gardens";"Hialeah Gardens";"FL";"Florida";12086;"Miami-Dade";25.888;-80.3573;24156;24156;2823;"polygon";"true";"America/New_York";"33016 33018";1840015158
+"Keysville";"Keysville";"FL";"Florida";12057;"Hillsborough";27.8692;-82.0956;"null";"null";152.8;"point";"false";"America/New_York";33547;1840028713
+"Caryville";"Caryville";"FL";"Florida";12133;"Washington";30.7753;-85.812;278;278;35;"polygon";"true";"America/Chicago";32427;1840017177
+"Gulf Hammock";"Gulf Hammock";"FL";"Florida";12075;"Levy";29.253;-82.7309;"null";"null";2.8;"point";"false";"America/New_York";32639;1840028688
+"North Miami";"North Miami";"FL";"Florida";12086;"Miami-Dade";25.9006;-80.1681;62225;62225;2833;"polygon";"true";"America/New_York";"33168 33167 33160 33161 33181 33261";1840015154
+"Italia";"Italia";"FL";"Florida";12089;"Nassau";30.6166;-81.717;"null";"null";19.8;"point";"false";"America/New_York";32097;1840028833
+"Marathon Shores";"Marathon Shores";"FL";"Florida";12087;"Monroe";24.7257;-81.0484;"null";"null";414.5;"point";"false";"America/New_York";33050;1840028723
+"Lehigh Acres";"Lehigh Acres";"FL";"Florida";12071;"Lee";26.612;-81.6388;"null";"null";279.5;"polygon";"false";"America/New_York";"33936 33973 33972 33971 33976 33974 33970";1840014220
+"The Hammocks";"The Hammocks";"FL";"Florida";12086;"Miami-Dade";25.67;-80.4483;"null";"null";6900.5;"polygon";"false";"America/New_York";"33196 33186";1840029009
+"Sweetwater";"Sweetwater";"FL";"Florida";12086;"Miami-Dade";25.7785;-80.3761;21028;21028;3574;"polygon";"true";"America/New_York";"33172 33174";1840016008
+"North Bay Village";"North Bay Village";"FL";"Florida";12086;"Miami-Dade";25.8487;-80.1535;8317;8317;8685;"polygon";"true";"America/New_York";33141;1840015153
+"Howie In The Hills";"Howie In The Hills";"FL";"Florida";12069;"Lake";28.7098;-81.7799;1166;1166;142;"polygon";"true";"America/New_York";34737;1840028859
+"Mangonia Park";"Mangonia Park";"FL";"Florida";12099;"Palm Beach";26.7586;-80.0761;2009;2009;1043;"polygon";"true";"America/New_York";33407;1840017262
+"Pine Ridge";"Pine Ridge";"FL";"Florida";12017;"Citrus";28.933;-82.4761;"null";"null";249.8;"polygon";"false";"America/New_York";"34465 34442 34445 34460";1840028997
+"Hudson";"Hudson";"FL";"Florida";12101;"Pasco";28.3594;-82.6888;"null";"null";631.1;"polygon";"false";"America/New_York";"34667 34674";1840014115
+"Pineland";"Pineland";"FL";"Florida";12071;"Lee";26.6642;-82.1477;"null";"null";157.9;"polygon";"false";"America/New_York";33922;1840014224
+"Flagler Beach";"Flagler Beach";"FL";"Florida";12035;"Flagler";29.4711;-81.13;5068;5068;534;"polygon";"true";"America/New_York";"32136 32143";1840014035
+"Yeehaw Junction";"Yeehaw Junction";"FL";"Florida";12097;"Osceola";27.6993;-80.8871;"null";"null";1.1;"polygon";"false";"America/New_York";34972;1840014139
+"Trilby";"Trilby";"FL";"Florida";12101;"Pasco";28.4565;-82.194;"null";"null";239.1;"polygon";"false";"America/New_York";"33523 33593";1840025152
+"Homeland";"Homeland";"FL";"Florida";12105;"Polk";27.8182;-81.8269;"null";"null";122.8;"polygon";"false";"America/New_York";"33847 33830";1840025157
+"Fidelis";"Fidelis";"FL";"Florida";12113;"Santa Rosa";30.9343;-87.0246;"null";"null";20.3;"polygon";"false";"America/Chicago";32565;1840027008
+"Espanola";"Espanola";"FL";"Florida";12035;"Flagler";29.5072;-81.3095;"null";"null";172.1;"point";"false";"America/New_York";32110;1840028675
+"Indian River City";"Indian River City";"FL";"Florida";12009;"Brevard";28.5597;-80.7992;"null";"null";806.7;"point";"false";"America/New_York";32780;1840028700
+"Springfield";"Springfield";"FL";"Florida";12005;"Bay";30.1689;-85.6092;9437;9437;843;"polygon";"true";"America/Chicago";"32401 32404 32405";1840015923
+"Laurel";"Laurel";"FL";"Florida";12115;"Sarasota";27.1446;-82.4618;"null";"null";699.1;"polygon";"false";"America/New_York";"34275 34272 34274";1840014184
+"South Daytona";"South Daytona";"FL";"Florida";12127;"Volusia";29.1656;-81.0056;12936;12936;1344;"polygon";"true";"America/New_York";32119;1840015950
+"Weston";"Weston";"FL";"Florida";12011;"Broward";26.1006;-80.4057;70944;70944;1098;"polygon";"true";"America/New_York";"33326 33327 33331 33332";1840016003
+"Lochmoor Waterway Estates";"Lochmoor Waterway Estates";"FL";"Florida";12071;"Lee";26.6437;-81.9099;"null";"null";1602.7;"polygon";"false";"America/New_York";33903;1840029053
+"Aripeka";"Aripeka";"FL";"Florida";12101;"Pasco";28.4308;-82.6669;"null";"null";200.8;"polygon";"false";"America/New_York";"34607 34667 34679";1840025149
+"Geneva";"Geneva";"FL";"Florida";12117;"Seminole";28.7377;-81.1143;"null";"null";190.6;"polygon";"false";"America/New_York";32732;1840014069
+"Sun City Center";"Sun City Center";"FL";"Florida";12057;"Hillsborough";27.7149;-82.3569;"null";"null";772.6;"polygon";"false";"America/New_York";"33598 33573";1840001841
+"Mayo";"Mayo";"FL";"Florida";12067;"Lafayette";30.051;-83.1766;1237;1237;530;"polygon";"true";"America/New_York";32066;1840017202
+"Coral Springs";"Coral Springs";"FL";"Florida";12011;"Broward";26.2701;-80.2592;133037;133037;2209;"polygon";"true";"America/New_York";"33071 33076 33065 33067 33075 33077";1840015134
+"West Pensacola";"West Pensacola";"FL";"Florida";12033;"Escambia";30.4263;-87.2679;"null";"null";1566.9;"polygon";"false";"America/Chicago";"32505 32507 32506";1840013915
+"Sarasota Springs";"Sarasota Springs";"FL";"Florida";12115;"Sarasota";27.3092;-82.4788;"null";"null";1921.5;"polygon";"false";"America/New_York";34232;1840029072
+"Southwest Ranches";"Southwest Ranches";"FL";"Florida";12011;"Broward";26.0476;-80.3759;7958;7958;233;"polygon";"true";"America/New_York";"33331 33330 33332";1840018328
+"Pine Lakes";"Pine Lakes";"FL";"Florida";12069;"Lake";28.939;-81.4308;"null";"null";546.2;"polygon";"false";"America/New_York";32736;1840014052
+"Mulberry";"Mulberry";"FL";"Florida";12105;"Polk";27.9057;-81.9871;4118;4118;257;"polygon";"true";"America/New_York";"33830 33860";1840015105
+"Hernando";"Hernando";"FL";"Florida";12017;"Citrus";28.9451;-82.3781;"null";"null";120.5;"polygon";"false";"America/New_York";"34434 34442 34441";1840014058
+"Samoset";"Samoset";"FL";"Florida";12081;"Manatee";27.4765;-82.543;"null";"null";1409.2;"polygon";"false";"America/New_York";34208;1840014169
+"Boulogne";"Boulogne";"FL";"Florida";12089;"Nassau";30.7716;-81.9759;"null";"null";90.7;"point";"false";"America/New_York";32046;1840028640
+"Homosassa";"Homosassa";"FL";"Florida";12017;"Citrus";28.7849;-82.6079;"null";"null";270.7;"polygon";"false";"America/New_York";"34448 34487";1840014059
+"Osprey";"Osprey";"FL";"Florida";12115;"Sarasota";27.1914;-82.48;"null";"null";560.6;"polygon";"false";"America/New_York";34229;1840014186
+"Jacksonville";"Jacksonville";"FL";"Florida";12031;"Duval";30.3322;-81.6749;1156291;892062;460;"polygon";"true";"America/New_York";"32224 32225 32226 32227 32220 32221 32222 32223 32228 32219 32218 32217 32216 32211 32210 32212 32233 32246 32244 32234 32205 32202 32250 32254 32257 32256 32208 32209 32206 32204 32258 32277 32207 32099 32201 32203 32214 32229 32231 32232 32235 32236 32237 32238 32239 32241 32245 32247 32255";1840015031
+"Nocatee";"Nocatee";"FL";"Florida";12027;"DeSoto";30.0918;-81.4097;"null";"null";28.2;"polygon";"false";"America/New_York";32081;1840028805
+"Ferndale";"Ferndale";"FL";"Florida";12069;"Lake";28.622;-81.7014;"null";"null";149.9;"polygon";"false";"America/New_York";"34715 34729";1840014044
+"Bradley Junction";"Bradley Junction";"FL";"Florida";12105;"Polk";27.7941;-81.9785;"null";"null";411.1;"polygon";"false";"America/New_York";33860;1840025154
+"Crestview";"Crestview";"FL";"Florida";12091;"Okaloosa";30.7479;-86.5785;36880;23856;574;"polygon";"true";"America/Chicago";"32539 32536";1840015007
+"Piney Point";"Piney Point";"FL";"Florida";12081;"Manatee";27.6342;-82.5404;"null";"null";742.1;"point";"false";"America/New_York";34221;1840028757
+"Bithlo";"Bithlo";"FL";"Florida";12095;"Orange";28.5644;-81.1067;"null";"null";522.4;"polygon";"false";"America/New_York";"32820 32833";1840014083
+"Feather Sound";"Feather Sound";"FL";"Florida";12103;"Pinellas";27.9062;-82.6804;"null";"null";2.8;"polygon";"false";"America/New_York";33762;1840029034
+"Juno Beach";"Juno Beach";"FL";"Florida";12099;"Palm Beach";26.8755;-80.0589;3617;3617;691;"polygon";"true";"America/New_York";33408;1840017254
+"Parmalee";"Parmalee";"FL";"Florida";12081;"Manatee";27.3712;-82.2181;"null";"null";21.8;"point";"false";"America/New_York";34251;1840028842
+"Palm Shores";"Palm Shores";"FL";"Florida";12009;"Brevard";28.1923;-80.6598;1160;1160;783;"polygon";"true";"America/New_York";"32935 32940";1840017236
+"Melbourne";"Melbourne";"FL";"Florida";12009;"Brevard";28.1084;-80.6628;82011;82011;717;"polygon";"true";"America/New_York";"32935 32901 32903 32934 32904 32912 32919 32941";1840015960
+"Plymouth";"Plymouth";"FL";"Florida";12095;"Orange";28.6922;-81.5473;"null";"null";965.3;"point";"false";"America/New_York";32712;1840028760
+"Longwood";"Longwood";"FL";"Florida";12117;"Seminole";28.7018;-81.3488;15061;15061;1042;"polygon";"true";"America/New_York";32750;1840015957
+"Golden Beach";"Golden Beach";"FL";"Florida";12086;"Miami-Dade";25.966;-80.121;966;966;1147;"polygon";"true";"America/New_York";33160;1840017277
+"Riverland";"Riverland";"FL";"Florida";12011;"Broward";26.094;-80.1867;"null";"null";2199.1;"point";"false";"America/New_York";33312;1840029071
+"Bereah";"Bereah";"FL";"Florida";12105;"Polk";27.6611;-81.6256;"null";"null";2.8;"point";"false";"America/New_York";33841;1840028816
+"Golden Glades";"Golden Glades";"FL";"Florida";12086;"Miami-Dade";25.9129;-80.2013;"null";"null";2603.5;"polygon";"false";"America/New_York";"33168 33162 33161 33169";1840029039
+"Macclenny";"Macclenny";"FL";"Florida";12003;"Baker";30.2816;-82.1249;11231;6518;531;"polygon";"true";"America/New_York";32063;1840015921
+"Bay Harbor Islands";"Bay Harbor Islands";"FL";"Florida";12086;"Miami-Dade";25.8878;-80.1335;6006;6006;5850;"polygon";"true";"America/New_York";33154;1840016005
+"Dover";"Dover";"FL";"Florida";12057;"Hillsborough";27.9927;-82.2198;"null";"null";544.1;"polygon";"false";"America/New_York";33527;1840013123
+"Montverde";"Montverde";"FL";"Florida";12069;"Lake";28.5971;-81.6787;1646;1646;379;"polygon";"true";"America/New_York";34756;1840017230
+"Weeki Wachee Gardens";"Weeki Wachee Gardens";"FL";"Florida";12053;"Hernando";28.5375;-82.6208;"null";"null";326;"polygon";"false";"America/New_York";34607;1840029093
+"Limestone";"Limestone";"FL";"Florida";12049;"Hardee";27.3672;-81.9048;"null";"null";33;"polygon";"false";"America/New_York";33865;1840025169
+"Wellborn";"Wellborn";"FL";"Florida";12121;"Suwannee";30.2311;-82.8196;"null";"null";222.7;"point";"false";"America/New_York";32094;1840028794
+"Gulf Gate Estates";"Gulf Gate Estates";"FL";"Florida";12115;"Sarasota";27.2588;-82.5066;"null";"null";1705;"polygon";"false";"America/New_York";34231;1840029040
+"Palatka";"Palatka";"FL";"Florida";12107;"Putnam";29.6493;-81.6704;23597;10389;416;"polygon";"true";"America/New_York";"32177 32178";1840015062
+"Seffner";"Seffner";"FL";"Florida";12057;"Hillsborough";27.9981;-82.2735;"null";"null";1438.2;"polygon";"false";"America/New_York";"33584 33583";1840014153
+"Cheval";"Cheval";"FL";"Florida";12057;"Hillsborough";28.1459;-82.5184;"null";"null";645.6;"polygon";"false";"America/New_York";33558;1840028977
+"Progress Village";"Progress Village";"FL";"Florida";12057;"Hillsborough";27.8832;-82.3593;"null";"null";1677.5;"polygon";"false";"America/New_York";"33578 33619";1840028917
+"Redington Shores";"Redington Shores";"FL";"Florida";12103;"Pinellas";27.8294;-82.8274;2301;2301;2726;"polygon";"true";"America/New_York";"33708 33730";1840018295
+"Lakeland Highlands";"Lakeland Highlands";"FL";"Florida";12105;"Polk";27.9572;-81.9496;"null";"null";885.7;"polygon";"false";"America/New_York";33813;1840029047
+"Kinard";"Kinard";"FL";"Florida";12013;"Calhoun";30.2808;-85.2638;"null";"null";8.9;"point";"false";"America/Chicago";32449;1840028883
+"Palm Beach Shores";"Palm Beach Shores";"FL";"Florida";12099;"Palm Beach";26.7773;-80.0365;1245;1245;1670;"polygon";"true";"America/New_York";33404;1840017268
+"Graceville";"Graceville";"FL";"Florida";12063;"Jackson";30.9609;-85.5125;3897;2199;197;"polygon";"true";"America/Chicago";32440;1840013906
+"Duette";"Duette";"FL";"Florida";12081;"Manatee";27.5903;-82.1229;"null";"null";0.7;"point";"false";"America/New_York";34219;1840023552
+"West Little River";"West Little River";"FL";"Florida";12086;"Miami-Dade";25.857;-80.2366;"null";"null";2875.4;"polygon";"false";"America/New_York";"33147 33150 33247";1840029096
+"Oakland";"Oakland";"FL";"Florida";12095;"Orange";28.5537;-81.6339;2996;2996;564;"polygon";"true";"America/New_York";"34760 34787 34740";1840015097
+"Gateway";"Gateway";"FL";"Florida";12071;"Lee";26.5804;-81.7453;"null";"null";1060.6;"polygon";"false";"America/New_York";33913;1840014213
+"The Crossings";"The Crossings";"FL";"Florida";12086;"Miami-Dade";25.6708;-80.4018;"null";"null";2225.3;"polygon";"false";"America/New_York";33186;1840029008

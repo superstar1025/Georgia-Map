@@ -1,0 +1,1183 @@
+,Zipcode,Score,City,County,Lat,Long,State,id,CountyScore
+1,34653,2,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+2,33023,2,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+3,34983,3,Port Saint Lucie,St. Lucie County,27.32,-80.35,Florida,12111,24
+8,34286,3,North Port,Sarasota County,27.12,-82.13,Florida,12115,29
+12,33565,3,Plant City,Hillsborough County,28.1,-82.15,Florida,12057,142
+18,32738,3,Deltona,Volusia County,28.91,-81.19,Florida,12127,49
+19,34743,2,Kissimmee,Osceola County,28.33,-81.35,Florida,12097,33
+23,32909,3,Palm Bay,Brevard County,27.92,-80.68,Florida,12009,46
+24,32065,2,Orange Park,Clay County,30.15,-81.81,Florida,12019,22
+27,33903,2,North Fort Myers,Lee County,26.7,-81.91,Florida,12071,27
+28,32159,3,Lady Lake,Lake County,28.92,-81.91,Florida,12069,31
+31,32812,3,Orlando,Orange County,28.49,-81.33,Florida,12095,97
+37,32506,3,Pensacola,Escambia County,30.39,-87.35,Florida,12033,41
+38,33030,3,Homestead,Miami-Dade County,25.48,-80.51,Florida,12086,130
+39,34667,3,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+40,34667,3,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+42,33435,3,Boynton Beach,Palm Beach County,26.52,-80.06,Florida,12099,55
+50,33763,3,Clearwater,Pinellas County,28.01,-82.74,Florida,12103,97
+51,33542,3,Zephyrhills,Pasco County,28.23,-82.18,Florida,12101,73
+53,32738,3,Deltona,Volusia County,28.91,-81.19,Florida,12127,49
+57,33563,3,Plant City,Hillsborough County,28.02,-82.13,Florida,12057,142
+62,34202,3,Bradenton,Manatee County,27.41,-82.38,Florida,12081,34
+68,34234,3,Sarasota,Sarasota County,27.37,-82.53,Florida,12115,29
+75,32506,3,Pensacola,Escambia County,30.39,-87.35,Florida,12033,41
+76,32506,3,Pensacola,Escambia County,30.39,-87.35,Florida,12033,41
+78,34653,3,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+79,32811,3,Orlando,Orange County,28.5,-81.45,Florida,12095,97
+80,34785,3,Wildwood,Sumter County,28.8,-82.1,Florida,12119,12
+82,34786,3,Windermere,Orange County,28.48,-81.56,Florida,12095,97
+85,33165,2,Miami,Miami-Dade County,25.74,-80.36,Florida,12086,130
+88,34683,3,Palm Harbor,Pinellas County,28.09,-82.77,Florida,12103,97
+90,33983,3,Punta Gorda,Charlotte County,27.0,-82.02,Florida,12015,27
+98,33765,3,Clearwater,Pinellas County,27.98,-82.74,Florida,12103,97
+100,33771,3,Largo,Pinellas County,27.91,-82.76,Florida,12103,97
+101,34654,3,New Port Richey,Pasco County,28.3,-82.63,Florida,12101,73
+105,33613,3,Tampa,Hillsborough County,28.09,-82.45,Florida,12057,142
+110,33547,3,Lithia,Hillsborough County,27.8,-82.1,Florida,12057,142
+114,32839,3,Orlando,Orange County,28.49,-81.41,Florida,12095,97
+117,34695,2,Safety Harbor,Pinellas County,28.01,-82.69,Florida,12103,97
+118,33712,3,Saint Petersburg,Pinellas County,27.71,-82.67,Florida,12103,97
+122,33407,2,West Palm Beach,Palm Beach County,26.76,-80.09,Florida,12099,55
+131,32754,3,Mims,Brevard County,28.7,-80.9,Florida,12009,46
+134,33559,2,Lutz,Hillsborough County,28.16,-82.4,Florida,12057,142
+137,34653,1,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+141,34221,1,Palmetto,Manatee County,27.6,-82.5,Florida,12081,34
+143,32322,1,Carrabelle,Franklin County,29.9,-84.6,Florida,12037,1
+144,34602,1,Brooksville,Hernando County,28.5,-82.3,Florida,12053,24
+147,34292,1,Venice,Sarasota County,27.1,-82.3,Florida,12115,29
+148,32712,1,Apopka,Orange County,28.73,-81.51,Florida,12095,97
+152,33417,1,West Palm Beach,Palm Beach County,26.72,-80.13,Florida,12099,55
+153,32822,1,Orlando,Orange County,28.5,-81.29,Florida,12095,97
+156,34677,1,Oldsmar,Pinellas County,28.04,-82.68,Florida,12103,97
+159,33610,1,Tampa,Hillsborough County,28.0,-82.38,Florida,12057,142
+172,34291,1,North Port,Sarasota County,27.14,-82.21,Florida,12115,29
+173,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+174,33904,1,Cape Coral,Lee County,26.57,-81.94,Florida,12071,27
+176,33313,3,Fort Lauderdale,Broward County,26.15,-80.23,Florida,12011,94
+177,33068,1,Pompano Beach,Broward County,26.21,-80.22,Florida,12011,94
+178,33823,1,Auburndale,Polk County,28.09,-81.81,Florida,12105,62
+183,33467,1,Lake Worth,Palm Beach County,26.6,-80.17,Florida,12099,55
+184,33467,1,Lake Worth,Palm Beach County,26.6,-80.17,Florida,12099,55
+185,33025,1,Hollywood,Broward County,25.98,-80.28,Florida,12011,94
+187,34108,1,Naples,Collier County,26.25,-81.81,Florida,12021,23
+188,34287,1,North Port,Sarasota County,27.06,-82.24,Florida,12115,29
+192,34972,1,Okeechobee,Okeechobee County,27.5,-80.9,Florida,12093,2
+206,32257,1,Jacksonville,Duval County,30.19,-81.6,Florida,12031,100
+208,33144,1,Miami,Miami-Dade County,25.76,-80.31,Florida,12086,130
+225,33777,1,Seminole,Pinellas County,27.85,-82.76,Florida,12103,97
+228,34981,1,Fort Pierce,St. Lucie County,27.4,-80.38,Florida,12111,24
+235,34221,1,Palmetto,Manatee County,27.6,-82.5,Florida,12081,34
+239,33033,1,Homestead,Miami-Dade County,25.48,-80.41,Florida,12086,130
+241,33009,1,Hallandale,Broward County,25.99,-80.15,Florida,12011,94
+243,34219,1,Parrish,Manatee County,27.6,-82.3,Florida,12081,34
+244,34223,1,Englewood,Sarasota County,26.98,-82.37,Florida,12115,29
+246,33610,1,Tampa,Hillsborough County,28.0,-82.38,Florida,12057,142
+257,33617,1,Tampa,Hillsborough County,28.04,-82.39,Florida,12057,142
+260,32127,1,Port Orange,Volusia County,29.11,-80.97,Florida,12127,49
+262,33836,1,Davenport,Polk County,,,Florida,12105,62
+264,32922,1,Cocoa,Brevard County,28.38,-80.75,Florida,12009,46
+265,33707,1,Saint Petersburg,Pinellas County,27.75,-82.73,Florida,12103,97
+266,32807,1,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+267,33714,1,Saint Petersburg,Pinellas County,27.82,-82.68,Florida,12103,97
+269,34655,1,New Port Richey,Pasco County,28.23,-82.63,Florida,12101,73
+270,33069,1,Pompano Beach,Broward County,26.24,-80.17,Florida,12011,94
+273,32234,3,Jacksonville,Duval County,30.2,-82.1,Florida,12031,100
+277,32571,1,Milton,Santa Rosa County,30.7,-87.2,Florida,12113,17
+279,34667,1,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+280,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+282,32052,1,Jasper,Hamilton County,30.5,-83.0,Florida,12047,1
+286,32073,1,Orange Park,Clay County,30.16,-81.75,Florida,12019,22
+288,33032,1,Homestead,Miami-Dade County,25.51,-80.39,Florida,12086,130
+295,32578,1,Niceville,Okaloosa County,30.6,-86.4,Florida,12091,20
+296,32162,1,The Villages,Sumter County,28.92,-82.0,Florida,12119,12
+298,32668,1,Morriston,Levy County,29.3,-82.5,Florida,12075,2
+303,32805,1,Orlando,Orange County,28.53,-81.41,Florida,12095,97
+307,32466,1,Youngstown,Bay County,30.4,-85.4,Florida,12005,14
+308,32308,1,Tallahassee,Leon County,30.49,-84.25,Florida,12073,21
+311,32780,1,Titusville,Brevard County,28.54,-80.85,Florida,12009,46
+315,33513,1,Bushnell,Sumter County,28.7,-82.2,Florida,12119,12
+316,33570,1,Ruskin,Hillsborough County,27.7,-82.47,Florida,12057,142
+317,34690,1,Holiday,Pasco County,28.19,-82.72,Florida,12101,73
+318,33563,1,Plant City,Hillsborough County,28.02,-82.13,Florida,12057,142
+319,33004,1,Dania,Broward County,26.06,-80.14,Florida,12011,94
+323,32571,1,Milton,Santa Rosa County,30.7,-87.2,Florida,12113,17
+324,34609,1,Spring Hill,Hernando County,28.48,-82.51,Florida,12053,24
+326,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+329,33311,1,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+330,32950,1,Malabar,Brevard County,27.97,-80.58,Florida,12009,46
+336,32408,1,Panama City,Bay County,30.16,-85.76,Florida,12005,14
+339,32934,1,Melbourne,Brevard County,28.15,-80.73,Florida,12009,46
+341,33150,1,Miami,Miami-Dade County,25.85,-80.21,Florida,12086,130
+342,32707,1,Casselberry,Seminole County,28.66,-81.31,Florida,12117,33
+353,33321,1,Fort Lauderdale,Broward County,26.21,-80.27,Florida,12011,94
+357,32256,1,Jacksonville,Duval County,30.18,-81.52,Florida,12031,100
+358,33056,1,Miami Gardens,Miami-Dade County,25.95,-80.24,Florida,12086,130
+359,33312,1,Fort Lauderdale,Broward County,26.09,-80.17,Florida,12011,94
+360,32071,1,O Brien,Suwannee County,30.0,-83.0,Florida,12121,6
+361,32804,1,Orlando,Orange County,28.58,-81.4,Florida,12095,97
+367,34233,1,Sarasota,Sarasota County,27.28,-82.47,Florida,12115,29
+369,32750,1,Longwood,Seminole County,28.71,-81.35,Florida,12117,33
+376,34601,1,Brooksville,Hernando County,28.6,-82.4,Florida,12053,24
+382,33980,1,Punta Gorda,Charlotte County,26.98,-82.05,Florida,12015,27
+383,34759,1,Kissimmee,Polk County,28.08,-81.44,Florida,12105,62
+384,32208,1,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+386,32066,1,Mayo,Lafayette County,30.0,-83.2,Florida,12067,2
+390,33897,1,Davenport,Polk County,28.28,-81.74,Florida,12105,62
+393,33406,1,West Palm Beach,Palm Beach County,26.66,-80.09,Florida,12099,55
+398,34689,1,Tarpon Springs,Pinellas County,28.15,-82.79,Florida,12103,97
+403,32832,1,Orlando,Orange County,28.4,-81.1,Florida,12095,97
+408,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+412,33183,1,Miami,Miami-Dade County,25.7,-80.41,Florida,12086,130
+415,33463,1,Lake Worth,Palm Beach County,26.59,-80.13,Florida,12099,55
+416,34952,1,Port Saint Lucie,St. Lucie County,27.3,-80.29,Florida,12111,24
+417,32955,1,Rockledge,Brevard County,28.29,-80.75,Florida,12009,46
+420,32784,1,Umatilla,Lake County,28.9,-81.7,Florida,12069,31
+421,34698,1,Dunedin,Pinellas County,28.01,-82.78,Florida,12103,97
+424,33980,1,Punta Gorda,Charlotte County,26.98,-82.05,Florida,12015,27
+431,34952,1,Port Saint Lucie,St. Lucie County,27.3,-80.29,Florida,12111,24
+434,33635,1,Tampa,Hillsborough County,28.02,-82.61,Florida,12057,142
+436,32656,1,Keystone Heights,Clay County,29.9,-82.0,Florida,12019,22
+437,33405,1,West Palm Beach,Palm Beach County,26.68,-80.06,Florida,12099,55
+438,34652,1,New Port Richey,Pasco County,28.22,-82.78,Florida,12101,73
+439,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+447,32216,1,Jacksonville,Duval County,30.27,-81.58,Florida,12031,100
+449,32818,1,Orlando,Orange County,28.59,-81.49,Florida,12095,97
+451,32217,1,Jacksonville,Duval County,30.24,-81.62,Florida,12031,100
+452,32433,1,Defuniak Springs,Walton County,30.9,-86.2,Florida,12131,7
+453,33837,1,Davenport,Polk County,28.19,-81.61,Florida,12105,62
+454,32068,1,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+457,34711,1,Clermont,Lake County,28.5,-81.8,Florida,12069,31
+460,33637,1,Tampa,Hillsborough County,28.05,-82.36,Florida,12057,142
+463,34711,1,Clermont,Lake County,28.5,-81.8,Florida,12069,31
+467,34446,1,Homosassa,Citrus County,28.75,-82.51,Florida,12017,20
+471,32962,1,Vero Beach,Indian River County,27.59,-80.38,Florida,12061,9
+478,33884,1,Winter Haven,Polk County,27.98,-81.68,Florida,12105,62
+479,34736,1,Groveland,Lake County,28.6,-81.9,Florida,12069,31
+480,34705,1,Astatula,Lake County,28.69,-81.72,Florida,12069,31
+481,32833,1,Orlando,Orange County,28.51,-81.07,Florida,12095,97
+482,34223,1,Englewood,Sarasota County,26.98,-82.37,Florida,12115,29
+489,32311,1,Tallahassee,Leon County,30.37,-84.17,Florida,12073,21
+490,33444,1,Delray Beach,Palm Beach County,26.46,-80.08,Florida,12099,55
+491,33185,1,Miami,Miami-Dade County,25.72,-80.45,Florida,12086,130
+493,32607,1,Gainesville,Alachua County,29.65,-82.42,Florida,12001,9
+495,32177,1,Palatka,Putnam County,29.7,-81.7,Florida,12107,4
+501,33573,1,Sun City Center,Hillsborough County,27.73,-82.36,Florida,12057,142
+502,34429,1,Crystal River,Citrus County,28.9,-82.6,Florida,12017,20
+503,34429,1,Crystal River,Citrus County,28.9,-82.6,Florida,12017,20
+507,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+512,34759,3,Kissimmee,Polk County,28.08,-81.44,Florida,12105,62
+513,32955,1,Rockledge,Brevard County,28.29,-80.75,Florida,12009,46
+514,32304,1,Tallahassee,Leon County,30.46,-84.35,Florida,12073,21
+515,32533,1,Cantonment,Escambia County,30.62,-87.32,Florida,12033,41
+518,33441,1,Deerfield Beach,Broward County,26.31,-80.1,Florida,12011,94
+520,33618,1,Tampa,Hillsborough County,28.08,-82.5,Florida,12057,142
+521,32725,1,Deltona,Volusia County,28.9,-81.25,Florida,12127,49
+524,32810,1,Orlando,Orange County,28.62,-81.43,Florida,12095,97
+525,32343,1,Midway,Gadsden County,30.51,-84.45,Florida,12039,8
+528,33130,1,Miami,Miami-Dade County,25.77,-80.2,Florida,12086,130
+530,33165,1,Miami,Miami-Dade County,25.74,-80.36,Florida,12086,130
+535,32025,1,Lake City,Columbia County,30.1,-82.6,Florida,12023,4
+537,33139,1,Miami Beach,Miami-Dade County,25.78,-80.15,Florida,12086,130
+538,33417,1,West Palm Beach,Palm Beach County,26.72,-80.13,Florida,12099,55
+541,33411,1,West Palm Beach,Palm Beach County,26.71,-80.2,Florida,12099,55
+542,32206,1,Jacksonville,Duval County,30.35,-81.64,Florida,12031,100
+544,33177,1,Miami,Miami-Dade County,25.6,-80.4,Florida,12086,130
+551,33023,1,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+559,33156,1,Miami,Miami-Dade County,25.66,-80.29,Florida,12086,130
+561,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+563,32566,1,Navarre,Santa Rosa County,30.5,-86.9,Florida,12113,17
+567,33838,1,Dundee,Polk County,28.02,-81.61,Florida,12105,62
+569,32043,1,Green Cove Springs,Clay County,29.9,-81.8,Florida,12019,22
+575,32177,1,Palatka,Putnam County,29.7,-81.7,Florida,12107,4
+577,33782,1,Pinellas Park,Pinellas County,27.86,-82.71,Florida,12103,97
+578,33830,1,Bartow,Polk County,27.9,-81.8,Florida,12105,62
+579,33126,1,Miami,Miami-Dade County,25.78,-80.3,Florida,12086,130
+584,34994,1,Stuart,Martin County,27.2,-80.26,Florida,12085,4
+587,33542,1,Zephyrhills,Pasco County,28.23,-82.18,Florida,12101,73
+588,32703,1,Apopka,Orange County,28.7,-81.5,Florida,12095,97
+589,32953,1,Merritt Island,Brevard County,28.5,-80.7,Florida,12009,46
+591,33467,1,Lake Worth,Palm Beach County,26.6,-80.17,Florida,12099,55
+594,32905,1,Palm Bay,Brevard County,28.04,-80.61,Florida,12009,46
+595,32763,1,Orange City,Volusia County,28.94,-81.3,Florida,12127,49
+601,33594,1,Valrico,Hillsborough County,27.94,-82.24,Florida,12057,142
+604,33584,1,Seffner,Hillsborough County,28.0,-82.29,Florida,12057,142
+606,33317,1,Fort Lauderdale,Broward County,26.11,-80.23,Florida,12011,94
+607,33860,1,Mulberry,Polk County,27.8,-82.0,Florida,12105,62
+611,33778,1,Largo,Pinellas County,27.88,-82.8,Florida,12103,97
+616,34472,1,Ocala,Marion County,29.12,-81.98,Florida,12083,19
+624,33067,1,Pompano Beach,Broward County,26.31,-80.23,Florida,12011,94
+628,32277,1,Jacksonville,Duval County,30.37,-81.58,Florida,12031,100
+630,34638,1,Land O Lakes,Pasco County,28.26,-82.52,Florida,12101,73
+631,33614,1,Tampa,Hillsborough County,28.01,-82.5,Florida,12057,142
+633,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+634,32060,1,Live Oak,Suwannee County,30.3,-83.0,Florida,12121,6
+639,32583,1,Milton,Santa Rosa County,30.6,-87.0,Florida,12113,17
+642,32825,1,Orlando,Orange County,28.52,-81.24,Florida,12095,97
+645,32211,1,Jacksonville,Duval County,30.33,-81.59,Florida,12031,100
+647,32216,1,Jacksonville,Duval County,30.27,-81.58,Florida,12031,100
+648,32570,1,Milton,Santa Rosa County,30.8,-87.0,Florida,12113,17
+650,32303,1,Tallahassee,Leon County,30.52,-84.33,Florida,12073,21
+653,34488,1,Silver Springs,Marion County,29.2,-81.9,Florida,12083,19
+654,34759,1,Kissimmee,Polk County,28.08,-81.44,Florida,12105,62
+658,32038,1,Fort White,Columbia County,29.9,-82.7,Florida,12023,4
+661,33809,1,Lakeland,Polk County,28.2,-82.0,Florida,12105,62
+662,34420,1,Belleview,Marion County,29.05,-82.03,Florida,12083,19
+665,32696,1,Williston,Levy County,29.4,-82.5,Florida,12075,2
+667,34234,1,Sarasota,Sarasota County,27.37,-82.53,Florida,12115,29
+669,32068,1,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+670,32809,1,Orlando,Orange County,28.47,-81.39,Florida,12095,97
+671,34771,1,Saint Cloud,Osceola County,28.2,-81.2,Florida,12097,33
+675,33982,1,Punta Gorda,Charlotte County,26.9,-81.8,Florida,12015,27
+677,32303,1,Tallahassee,Leon County,30.52,-84.33,Florida,12073,21
+679,33542,1,Zephyrhills,Pasco County,28.23,-82.18,Florida,12101,73
+680,34653,1,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+681,32825,1,Orlando,Orange County,28.52,-81.24,Florida,12095,97
+687,33015,1,Hialeah,Miami-Dade County,25.94,-80.32,Florida,12086,130
+688,33510,1,Brandon,Hillsborough County,27.96,-82.3,Florida,12057,142
+689,32207,1,Jacksonville,Duval County,30.27,-81.64,Florida,12031,100
+690,32246,1,Jacksonville,Duval County,30.29,-81.51,Florida,12031,100
+691,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+694,32805,1,Orlando,Orange County,28.53,-81.41,Florida,12095,97
+697,32424,1,Blountstown,Calhoun County,30.4,-85.1,Florida,12013,2
+699,32536,1,Crestview,Okaloosa County,30.7,-86.7,Florida,12091,20
+700,32277,1,Jacksonville,Duval County,30.37,-81.58,Florida,12031,100
+701,34208,1,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+702,33169,1,Miami,Miami-Dade County,25.94,-80.21,Florida,12086,130
+703,34428,1,Crystal River,Citrus County,29.0,-82.6,Florida,12017,20
+704,32216,1,Jacksonville,Duval County,30.27,-81.58,Florida,12031,100
+706,33446,1,Delray Beach,Palm Beach County,26.45,-80.19,Florida,12099,55
+707,33612,1,Tampa,Hillsborough County,28.05,-82.45,Florida,12057,142
+708,33126,1,Miami,Miami-Dade County,25.78,-80.3,Florida,12086,130
+711,34113,1,Naples,Collier County,26.04,-81.74,Florida,12021,23
+713,34266,1,Arcadia,DeSoto County,27.2,-81.8,Florida,12027,4
+716,33703,1,Saint Petersburg,Pinellas County,27.82,-82.62,Florida,12103,97
+727,32809,1,Orlando,Orange County,28.47,-81.39,Florida,12095,97
+731,33572,1,Apollo Beach,Hillsborough County,27.77,-82.4,Florida,12057,142
+732,33143,1,Miami,Miami-Dade County,25.7,-80.29,Florida,12086,130
+742,33844,1,Haines City,Polk County,28.1,-81.6,Florida,12105,62
+749,33013,1,Hialeah,Miami-Dade County,25.86,-80.27,Florida,12086,130
+751,32754,1,Mims,Brevard County,28.7,-80.9,Florida,12009,46
+756,33405,1,West Palm Beach,Palm Beach County,26.68,-80.06,Florida,12099,55
+759,33774,1,Largo,Pinellas County,27.88,-82.83,Florida,12103,97
+760,32805,1,Orlando,Orange County,28.53,-81.41,Florida,12095,97
+764,33605,1,Tampa,Hillsborough County,27.94,-82.43,Florida,12057,142
+765,33610,1,Tampa,Hillsborough County,28.0,-82.38,Florida,12057,142
+768,32726,1,Eustis,Lake County,28.86,-81.69,Florida,12069,31
+769,32905,1,Palm Bay,Brevard County,28.04,-80.61,Florida,12009,46
+772,34442,1,Hernando,Citrus County,28.92,-82.38,Florida,12017,20
+774,34952,1,Port Saint Lucie,St. Lucie County,27.3,-80.29,Florida,12111,24
+776,32825,1,Orlando,Orange County,28.52,-81.24,Florida,12095,97
+778,33455,1,Hobe Sound,Martin County,27.1,-80.2,Florida,12085,4
+779,33510,1,Brandon,Hillsborough County,27.96,-82.3,Florida,12057,142
+780,32174,1,Ormond Beach,Volusia County,29.3,-81.2,Florida,12127,49
+785,33803,1,Lakeland,Polk County,28.01,-81.93,Florida,12105,62
+788,33056,1,Miami Gardens,Miami-Dade County,25.95,-80.24,Florida,12086,130
+789,32073,1,Orange Park,Clay County,30.16,-81.75,Florida,12019,22
+790,32162,1,The Villages,Sumter County,28.92,-82.0,Florida,12119,12
+791,32060,1,Live Oak,Suwannee County,30.3,-83.0,Florida,12121,6
+796,33463,1,Lake Worth,Palm Beach County,26.59,-80.13,Florida,12099,55
+798,34652,1,New Port Richey,Pasco County,28.22,-82.78,Florida,12101,73
+802,32547,1,Fort Walton Beach,Okaloosa County,30.5,-86.7,Florida,12091,20
+803,32569,1,Mary Esther,Okaloosa County,30.46,-86.72,Florida,12091,20
+807,32118,1,Daytona Beach,Volusia County,29.2,-81.0,Florida,12127,49
+808,33032,1,Homestead,Miami-Dade County,25.51,-80.39,Florida,12086,130
+817,32680,1,Old Town,Dixie County,29.6,-83.1,Florida,12029,4
+818,32068,1,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+819,32433,3,Defuniak Springs,Walton County,30.9,-86.2,Florida,12131,7
+822,33015,1,Hialeah,Miami-Dade County,25.94,-80.32,Florida,12086,130
+823,32114,1,Daytona Beach,Volusia County,29.19,-81.05,Florida,12127,49
+826,33029,1,Hollywood,Broward County,25.99,-80.4,Florida,12011,94
+830,34953,1,Port Saint Lucie,St. Lucie County,27.25,-80.38,Florida,12111,24
+832,32424,1,Blountstown,Calhoun County,30.4,-85.1,Florida,12013,2
+836,33147,1,Miami,Miami-Dade County,25.85,-80.24,Florida,12086,130
+837,32780,1,Titusville,Brevard County,28.54,-80.85,Florida,12009,46
+840,33782,1,Pinellas Park,Pinellas County,27.86,-82.71,Florida,12103,97
+844,32220,1,Jacksonville,Duval County,30.34,-81.85,Florida,12031,100
+845,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+847,33765,1,Clearwater,Pinellas County,27.98,-82.74,Florida,12103,97
+852,32539,1,Crestview,Okaloosa County,30.8,-86.4,Florida,12091,20
+854,33573,1,Sun City Center,Hillsborough County,27.73,-82.36,Florida,12057,142
+862,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+868,33010,1,Hialeah,Miami-Dade County,25.83,-80.29,Florida,12086,130
+871,34953,1,Port Saint Lucie,St. Lucie County,27.25,-80.38,Florida,12111,24
+876,32725,1,Deltona,Volusia County,28.9,-81.25,Florida,12127,49
+879,32805,1,Orlando,Orange County,28.53,-81.41,Florida,12095,97
+880,32780,1,Titusville,Brevard County,28.54,-80.85,Florida,12009,46
+885,32266,1,Neptune Beach,Duval County,30.32,-81.41,Florida,12031,100
+886,34201,1,Bradenton,Manatee County,27.41,-82.47,Florida,12081,34
+887,32119,1,Daytona Beach,Volusia County,29.16,-81.03,Florida,12127,49
+893,33125,1,Miami,Miami-Dade County,25.78,-80.24,Florida,12086,130
+895,32113,1,Citra,Marion County,29.4,-82.1,Florida,12083,19
+896,33778,1,Largo,Pinellas County,27.88,-82.8,Florida,12103,97
+897,33954,1,Port Charlotte,Charlotte County,27.02,-82.12,Florida,12015,27
+900,32174,1,Ormond Beach,Volusia County,29.3,-81.2,Florida,12127,49
+905,34470,1,Ocala,Marion County,29.2,-82.09,Florida,12083,19
+909,33144,1,Miami,Miami-Dade County,25.76,-80.31,Florida,12086,130
+911,33010,1,Hialeah,Miami-Dade County,25.83,-80.29,Florida,12086,130
+912,34234,1,Sarasota,Sarasota County,27.37,-82.53,Florida,12115,29
+916,34695,1,Safety Harbor,Pinellas County,28.01,-82.69,Florida,12103,97
+921,33897,1,Davenport,Polk County,28.28,-81.74,Florida,12105,62
+925,32244,1,Jacksonville,Duval County,30.22,-81.74,Florida,12031,100
+926,32763,1,Orange City,Volusia County,28.94,-81.3,Florida,12127,49
+928,33440,1,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+929,34996,1,Stuart,Martin County,27.2,-80.19,Florida,12085,4
+931,33023,1,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+932,32656,1,Keystone Heights,Clay County,29.9,-82.0,Florida,12019,22
+933,33020,1,Hollywood,Broward County,26.02,-80.15,Florida,12011,94
+940,34772,1,Saint Cloud,Osceola County,28.2,-81.3,Florida,12097,33
+942,33544,1,Wesley Chapel,Pasco County,28.25,-82.37,Florida,12101,73
+946,33983,1,Punta Gorda,Charlotte County,27.0,-82.02,Florida,12015,27
+951,32763,1,Orange City,Volusia County,28.94,-81.3,Florida,12127,49
+954,32960,1,Vero Beach,Indian River County,27.64,-80.4,Florida,12061,9
+956,34761,1,Ocoee,Orange County,28.57,-81.54,Florida,12095,97
+958,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+960,32401,1,Panama City,Bay County,30.16,-85.67,Florida,12005,14
+962,33166,1,Miami,Miami-Dade County,25.82,-80.31,Florida,12086,130
+964,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+967,32209,1,Jacksonville,Duval County,30.36,-81.7,Florida,12031,100
+968,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+969,33884,1,Winter Haven,Polk County,27.98,-81.68,Florida,12105,62
+973,32087,1,Sanderson,Baker County,30.4,-82.3,Florida,12003,5
+976,32129,1,Port Orange,Volusia County,29.13,-81.02,Florida,12127,49
+979,34610,1,Spring Hill,Pasco County,28.4,-82.5,Florida,12101,73
+988,33781,1,Pinellas Park,Pinellas County,27.84,-82.71,Florida,12103,97
+989,34203,1,Bradenton,Manatee County,27.44,-82.51,Florida,12081,34
+991,32725,1,Deltona,Volusia County,28.9,-81.25,Florida,12127,49
+992,32905,1,Palm Bay,Brevard County,28.04,-80.61,Florida,12009,46
+995,32425,1,Bonifay,Holmes County,30.8,-85.7,Florida,12059,3
+996,32456,1,Port Saint Joe,Gulf County,29.8,-85.3,Florida,12045,5
+999,34759,1,Kissimmee,Polk County,28.08,-81.44,Florida,12105,62
+1001,32439,1,Freeport,Walton County,30.5,-86.2,Florida,12131,7
+1002,32063,1,Macclenny,Baker County,30.3,-82.1,Florida,12003,5
+1003,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+1004,34983,1,Port Saint Lucie,St. Lucie County,27.32,-80.35,Florida,12111,24
+1006,32417,1,Panama City,Bay County,,,Florida,12005,14
+1007,34606,1,Spring Hill,Hernando County,28.48,-82.6,Florida,12053,24
+1012,32065,1,Orange Park,Clay County,30.15,-81.81,Florida,12019,22
+1013,32548,1,Fort Walton Beach,Okaloosa County,30.4,-86.7,Florida,12091,20
+1024,33313,1,Fort Lauderdale,Broward County,26.15,-80.23,Florida,12011,94
+1026,32218,3,Jacksonville,Duval County,30.5,-81.7,Florida,12031,100
+1035,34758,1,Kissimmee,Osceola County,28.2,-81.5,Florida,12097,33
+1037,34236,1,Sarasota,Sarasota County,27.33,-82.56,Florida,12115,29
+1039,32220,1,Jacksonville,Duval County,30.34,-81.85,Florida,12031,100
+1046,34431,1,Dunnellon,Marion County,29.1,-82.5,Florida,12083,19
+1047,32068,1,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+1049,32771,1,Sanford,Seminole County,28.8,-81.3,Florida,12117,33
+1052,33523,1,Dade City,Pasco County,28.4,-82.3,Florida,12101,73
+1054,34452,1,Inverness,Citrus County,28.8,-82.4,Florida,12017,20
+1056,32003,1,Fleming Island,Clay County,30.09,-81.73,Florida,12019,22
+1061,33781,1,Pinellas Park,Pinellas County,27.84,-82.71,Florida,12103,97
+1063,33334,1,Fort Lauderdale,Broward County,26.18,-80.13,Florida,12011,94
+1064,32693,1,Trenton,Gilchrist County,29.6,-82.8,Florida,12041,2
+1066,33850,1,Lake Alfred,Polk County,28.13,-81.73,Florida,12105,62
+1072,33484,1,Delray Beach,Palm Beach County,26.45,-80.13,Florida,12099,55
+1075,34758,1,Kissimmee,Osceola County,28.2,-81.5,Florida,12097,33
+1079,32413,1,Panama City Beach,Bay County,30.3,-85.9,Florida,12005,14
+1080,33738,1,Saint Petersburg,Pinellas County,,,Florida,12103,97
+1083,34654,1,New Port Richey,Pasco County,28.3,-82.63,Florida,12101,73
+1087,32526,1,Pensacola,Escambia County,30.5,-87.36,Florida,12033,41
+1090,34957,1,Jensen Beach,Martin County,27.3,-80.2,Florida,12085,4
+1092,32327,1,Crawfordville,Wakulla County,30.2,-84.3,Florida,12129,4
+1094,32256,1,Jacksonville,Duval County,30.18,-81.52,Florida,12031,100
+1095,32206,1,Jacksonville,Duval County,30.35,-81.64,Florida,12031,100
+1099,32068,1,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+1100,33706,1,Saint Petersburg,Pinellas County,27.74,-82.75,Florida,12103,97
+1104,33433,1,Boca Raton,Palm Beach County,26.35,-80.16,Florida,12099,55
+1105,32065,1,Orange Park,Clay County,30.15,-81.81,Florida,12019,22
+1106,34473,1,Ocala,Marion County,29.01,-82.2,Florida,12083,19
+1109,32054,1,Lake Butler,Union County,30.0,-82.4,Florida,12125,1
+1112,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+1113,32073,1,Orange Park,Clay County,30.16,-81.75,Florida,12019,22
+1114,33407,1,West Palm Beach,Palm Beach County,26.76,-80.09,Florida,12099,55
+1116,32305,1,Tallahassee,Leon County,30.3,-84.3,Florida,12073,21
+1117,32444,1,Lynn Haven,Bay County,30.23,-85.64,Florida,12005,14
+1121,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1122,32570,1,Milton,Santa Rosa County,30.8,-87.0,Florida,12113,17
+1123,32566,1,Navarre,Santa Rosa County,30.5,-86.9,Florida,12113,17
+1124,32506,1,Pensacola,Escambia County,30.39,-87.35,Florida,12033,41
+1125,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1128,34772,1,Saint Cloud,Osceola County,28.2,-81.3,Florida,12097,33
+1129,33165,1,Miami,Miami-Dade County,25.74,-80.36,Florida,12086,130
+1132,34491,1,Summerfield,Marion County,29.0,-82.0,Florida,12083,19
+1135,33881,1,Winter Haven,Polk County,28.06,-81.71,Florida,12105,62
+1136,33064,1,Pompano Beach,Broward County,26.28,-80.12,Florida,12011,94
+1138,32905,1,Palm Bay,Brevard County,28.04,-80.61,Florida,12009,46
+1139,33771,1,Largo,Pinellas County,27.91,-82.76,Florida,12103,97
+1141,34237,1,Sarasota,Sarasota County,27.34,-82.51,Florida,12115,29
+1143,32655,1,High Springs,Alachua County,,,Florida,12001,9
+1145,32784,1,Umatilla,Lake County,28.9,-81.7,Florida,12069,31
+1146,33440,1,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+1148,32570,1,Milton,Santa Rosa County,30.8,-87.0,Florida,12113,17
+1153,32738,1,Deltona,Volusia County,28.91,-81.19,Florida,12127,49
+1154,33032,1,Homestead,Miami-Dade County,25.51,-80.39,Florida,12086,130
+1158,32040,1,Glen Saint Mary,Baker County,30.3,-82.2,Florida,12003,5
+1159,33311,1,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+1161,33328,1,Fort Lauderdale,Broward County,26.07,-80.27,Florida,12011,94
+1165,33950,1,Punta Gorda,Charlotte County,26.92,-82.04,Florida,12015,27
+1170,34110,1,Naples,Collier County,26.3,-81.79,Florida,12021,23
+1171,33801,1,Lakeland,Polk County,28.04,-81.91,Florida,12105,62
+1172,34691,1,Holiday,Pasco County,28.19,-82.76,Florida,12101,73
+1173,33311,1,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+1174,32714,1,Altamonte Springs,Seminole County,28.67,-81.42,Florida,12117,33
+1181,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+1190,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1196,34208,1,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+1199,34205,1,Bradenton,Manatee County,27.48,-82.58,Florida,12081,34
+1200,32935,1,Melbourne,Brevard County,28.14,-80.64,Florida,12009,46
+1202,32162,1,The Villages,Sumter County,28.92,-82.0,Florida,12119,12
+1205,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+1209,33313,1,Fort Lauderdale,Broward County,26.15,-80.23,Florida,12011,94
+1214,32538,1,Paxton,Walton County,,,Florida,12131,7
+1219,33716,1,Saint Petersburg,Pinellas County,27.87,-82.64,Florida,12103,97
+1222,32064,1,Live Oak,Suwannee County,30.3,-82.99,Florida,12121,6
+1224,33033,1,Homestead,Miami-Dade County,25.48,-80.41,Florida,12086,130
+1227,33606,1,Tampa,Hillsborough County,27.93,-82.46,Florida,12057,142
+1231,32025,1,Lake City,Columbia County,30.1,-82.6,Florida,12023,4
+1232,32428,1,Chipley,Washington County,30.6,-85.6,Florida,12133,2
+1237,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1241,33880,1,Winter Haven,Polk County,27.98,-81.78,Florida,12105,62
+1243,33702,1,Saint Petersburg,Pinellas County,27.85,-82.63,Florida,12103,97
+1244,32504,1,Pensacola,Escambia County,30.48,-87.2,Florida,12033,41
+1249,32226,1,Jacksonville,Duval County,30.5,-81.5,Florida,12031,100
+1250,34203,1,Bradenton,Manatee County,27.44,-82.51,Florida,12081,34
+1251,34453,1,Inverness,Citrus County,28.89,-82.34,Florida,12017,20
+1253,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+1258,33976,1,Lehigh Acres,Lee County,26.59,-81.69,Florida,12071,27
+1263,33322,1,Fort Lauderdale,Broward County,26.14,-80.27,Florida,12011,94
+1265,32119,1,Daytona Beach,Volusia County,29.16,-81.03,Florida,12127,49
+1273,32218,1,Jacksonville,Duval County,30.5,-81.7,Florida,12031,100
+1277,32547,1,Fort Walton Beach,Okaloosa County,30.5,-86.7,Florida,12091,20
+1313,33598,3,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+1316,33598,1,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+1317,33598,1,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+1319,33598,1,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+1322,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+1323,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+1325,33610,1,Tampa,Hillsborough County,28.0,-82.38,Florida,12057,142
+1327,33573,1,Sun City Center,Hillsborough County,27.73,-82.36,Florida,12057,142
+1328,33547,3,Lithia,Hillsborough County,27.8,-82.1,Florida,12057,142
+1338,33313,1,Fort Lauderdale,Broward County,26.15,-80.23,Florida,12011,94
+1349,32258,1,Jacksonville,Duval County,30.14,-81.56,Florida,12031,100
+1350,33550,1,Mango,Hillsborough County,,,Florida,12057,142
+1351,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+1352,33823,1,Auburndale,Polk County,28.09,-81.81,Florida,12105,62
+1353,33781,1,Pinellas Park,Pinellas County,27.84,-82.71,Florida,12103,97
+1354,33578,1,Riverview,Hillsborough County,27.84,-82.35,Florida,12057,142
+1357,32327,1,Crawfordville,Wakulla County,30.2,-84.3,Florida,12129,4
+1359,33569,1,Riverview,Hillsborough County,27.85,-82.29,Florida,12057,142
+1361,32825,1,Orlando,Orange County,28.52,-81.24,Florida,12095,97
+1367,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+1368,33903,1,North Fort Myers,Lee County,26.7,-81.91,Florida,12071,27
+1369,33523,1,Dade City,Pasco County,28.4,-82.3,Florida,12101,73
+1370,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+1372,33544,1,Wesley Chapel,Pasco County,28.25,-82.37,Florida,12101,73
+1382,34212,1,Bradenton,Manatee County,27.5,-82.4,Florida,12081,34
+1383,33625,1,Tampa,Hillsborough County,28.07,-82.56,Florida,12057,142
+1386,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+1387,34208,1,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+1390,32960,1,Vero Beach,Indian River County,27.64,-80.4,Florida,12061,9
+1391,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+1393,33069,1,Pompano Beach,Broward County,26.24,-80.17,Florida,12011,94
+1399,33584,1,Seffner,Hillsborough County,28.0,-82.29,Florida,12057,142
+1400,33830,1,Bartow,Polk County,27.9,-81.8,Florida,12105,62
+1402,34266,1,Arcadia,DeSoto County,27.2,-81.8,Florida,12027,4
+1404,32807,1,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+1406,33953,1,Port Charlotte,Charlotte County,27.0,-82.2,Florida,12015,27
+1411,34472,1,Ocala,Marion County,29.12,-81.98,Florida,12083,19
+1416,32309,1,Tallahassee,Leon County,30.6,-84.1,Florida,12073,21
+1417,32726,1,Eustis,Lake County,28.86,-81.69,Florida,12069,31
+1418,33534,1,Gibsonton,Hillsborough County,27.83,-82.38,Florida,12057,142
+1419,33128,1,Miami,Miami-Dade County,25.78,-80.2,Florida,12086,130
+1425,34453,1,Inverness,Citrus County,28.89,-82.34,Florida,12017,20
+1427,32703,1,Apopka,Orange County,28.7,-81.5,Florida,12095,97
+1431,34101,3,Naples,Collier County,26.139,-81.796,Florida,12021,23
+1432,32810,1,Orlando,Orange County,28.62,-81.43,Florida,12095,97
+1434,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+1440,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+1442,32771,1,Sanford,Seminole County,28.8,-81.3,Florida,12117,33
+1443,32043,1,Green Cove Springs,Clay County,29.9,-81.8,Florida,12019,22
+1444,34946,1,Fort Pierce,St. Lucie County,27.51,-80.36,Florida,12111,24
+1447,32641,1,Gainesville,Alachua County,29.63,-82.24,Florida,12001,9
+1450,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1453,33909,1,Cape Coral,Lee County,26.71,-81.97,Florida,12071,27
+1456,32233,1,Atlantic Beach,Duval County,30.36,-81.42,Florida,12031,100
+1460,34984,1,Port Saint Lucie,St. Lucie County,27.25,-80.33,Florida,12111,24
+1462,32702,1,Altoona,Lake County,29.1,-81.6,Florida,12069,31
+1476,33544,1,Wesley Chapel,Pasco County,28.25,-82.37,Florida,12101,73
+1477,34223,1,Englewood,Sarasota County,26.98,-82.37,Florida,12115,29
+1479,34669,1,Hudson,Pasco County,28.35,-82.61,Florida,12101,73
+1481,33351,1,Fort Lauderdale,Broward County,26.18,-80.27,Florida,12011,94
+1484,33408,1,North Palm Beach,Palm Beach County,26.85,-80.06,Florida,12099,55
+1492,33559,1,Lutz,Hillsborough County,28.16,-82.4,Florida,12057,142
+1493,33066,1,Pompano Beach,Broward County,26.25,-80.18,Florida,12011,94
+1494,34654,1,New Port Richey,Pasco County,28.3,-82.63,Florida,12101,73
+1495,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1496,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1497,32254,1,Jacksonville,Duval County,30.35,-81.73,Florida,12031,100
+1500,33462,1,Lake Worth,Palm Beach County,26.57,-80.08,Florida,12099,55
+1501,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1502,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1506,34606,1,Spring Hill,Hernando County,28.48,-82.6,Florida,12053,24
+1507,32811,1,Orlando,Orange County,28.5,-81.45,Florida,12095,97
+1509,33993,1,Cape Coral,Lee County,26.7,-82.0,Florida,12071,27
+1510,32358,1,Sopchoppy,Wakulla County,30.1,-84.5,Florida,12129,4
+1511,34221,1,Palmetto,Manatee County,27.6,-82.5,Florida,12081,34
+1513,33403,1,West Palm Beach,Palm Beach County,26.81,-80.07,Florida,12099,55
+1518,32046,1,Hilliard,Nassau County,30.7,-81.9,Florida,12089,5
+1520,34609,1,Spring Hill,Hernando County,28.48,-82.51,Florida,12053,24
+1521,34667,1,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+1522,33411,1,West Palm Beach,Palm Beach County,26.71,-80.2,Florida,12099,55
+1523,34232,1,Sarasota,Sarasota County,27.33,-82.47,Florida,12115,29
+1524,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+1527,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+1532,34491,1,Summerfield,Marion County,29.0,-82.0,Florida,12083,19
+1533,34234,1,Sarasota,Sarasota County,27.37,-82.53,Florida,12115,29
+1541,34974,1,Okeechobee,Okeechobee County,27.1,-80.9,Florida,12093,2
+1547,33815,1,Lakeland,Polk County,28.04,-82.01,Florida,12105,62
+1548,32148,1,Interlachen,Putnam County,29.6,-81.9,Florida,12107,4
+1549,32907,1,Palm Bay,Brevard County,28.02,-80.67,Florida,12009,46
+1551,33624,1,Tampa,Hillsborough County,28.08,-82.52,Florida,12057,142
+1555,32428,1,Chipley,Washington County,30.6,-85.6,Florida,12133,2
+1556,33183,1,Miami,Miami-Dade County,25.7,-80.41,Florida,12086,130
+1562,32456,1,Port Saint Joe,Gulf County,29.8,-85.3,Florida,12045,5
+1565,33592,1,Thonotosassa,Hillsborough County,28.1,-82.28,Florida,12057,142
+1566,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+1571,32563,1,Gulf Breeze,Santa Rosa County,30.4,-87.0,Florida,12113,17
+1572,33635,1,Tampa,Hillsborough County,28.02,-82.61,Florida,12057,142
+1573,34684,1,Palm Harbor,Pinellas County,28.1,-82.73,Florida,12103,97
+1574,33064,1,Pompano Beach,Broward County,26.28,-80.12,Florida,12011,94
+1575,33967,1,Fort Myers,Lee County,26.47,-81.81,Florida,12071,27
+1580,32833,1,Orlando,Orange County,28.51,-81.07,Florida,12095,97
+1581,32259,1,Saint Johns,St. Johns County,30.1,-81.6,Florida,12109,9
+1586,34689,1,Tarpon Springs,Pinellas County,28.15,-82.79,Florida,12103,97
+1587,34986,1,Port Saint Lucie,St. Lucie County,27.33,-80.41,Florida,12111,24
+1588,33912,1,Fort Myers,Lee County,26.55,-81.83,Florida,12071,27
+1590,32206,1,Jacksonville,Duval County,30.35,-81.64,Florida,12031,100
+1591,34207,1,Bradenton,Manatee County,27.44,-82.58,Florida,12081,34
+1596,32940,1,Melbourne,Brevard County,28.2,-80.8,Florida,12009,46
+1601,33025,1,Hollywood,Broward County,25.98,-80.28,Florida,12011,94
+1602,32208,1,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+1605,33771,1,Largo,Pinellas County,27.91,-82.76,Florida,12103,97
+1612,32578,1,Niceville,Okaloosa County,30.6,-86.4,Florida,12091,20
+1613,34950,1,Fort Pierce,St. Lucie County,27.44,-80.33,Florida,12111,24
+1617,32082,1,Ponte Vedra Beach,St. Johns County,30.1,-81.4,Florida,12109,9
+1619,33141,3,Miami Beach,Miami-Dade County,25.86,-80.14,Florida,12086,130
+1627,34736,1,Groveland,Lake County,28.6,-81.9,Florida,12069,31
+1632,34442,1,Hernando,Citrus County,28.92,-82.38,Florida,12017,20
+1633,34741,1,Kissimmee,Osceola County,28.31,-81.43,Florida,12097,33
+1635,33161,1,Miami,Miami-Dade County,25.89,-80.18,Florida,12086,130
+1639,33136,1,Miami,Miami-Dade County,25.79,-80.21,Florida,12086,130
+1649,33020,1,Hollywood,Broward County,26.02,-80.15,Florida,12011,94
+1652,33334,1,Fort Lauderdale,Broward County,26.18,-80.13,Florida,12011,94
+1658,33544,1,Wesley Chapel,Pasco County,28.25,-82.37,Florida,12101,73
+1665,33409,1,West Palm Beach,Palm Beach County,26.72,-80.09,Florida,12099,55
+1670,32413,1,Panama City Beach,Bay County,30.3,-85.9,Florida,12005,14
+1674,33973,1,Lehigh Acres,Lee County,26.6,-81.74,Florida,12071,27
+1676,33471,1,Moore Haven,Glades County,26.9,-81.2,Florida,12043,2
+1680,32784,1,Umatilla,Lake County,28.9,-81.7,Florida,12069,31
+1683,33810,1,Lakeland,Polk County,28.1,-82.1,Florida,12105,62
+1684,32305,1,Tallahassee,Leon County,30.3,-84.3,Florida,12073,21
+1688,33605,1,Tampa,Hillsborough County,27.94,-82.43,Florida,12057,142
+1689,32352,1,Quincy,Gadsden County,30.6,-84.6,Florida,12039,8
+1690,33160,1,North Miami Beach,Miami-Dade County,25.94,-80.14,Florida,12086,130
+1691,32099,1,Jacksonville,Duval County,,,Florida,12031,100
+1693,34715,1,Clermont,Lake County,28.62,-81.74,Florida,12069,31
+1695,32832,1,Orlando,Orange County,28.4,-81.1,Florida,12095,97
+1698,33406,1,West Palm Beach,Palm Beach County,26.66,-80.09,Florida,12099,55
+1701,33012,1,Hialeah,Miami-Dade County,25.87,-80.3,Florida,12086,130
+1703,33971,1,Lehigh Acres,Lee County,26.65,-81.71,Florida,12071,27
+1705,33624,1,Tampa,Hillsborough County,28.08,-82.52,Florida,12057,142
+1709,32839,1,Orlando,Orange County,28.49,-81.41,Florida,12095,97
+1712,33850,1,Lake Alfred,Polk County,28.13,-81.73,Florida,12105,62
+1714,32714,1,Altamonte Springs,Seminole County,28.67,-81.42,Florida,12117,33
+1715,32767,1,Paisley,Lake County,29.01,-81.51,Florida,12069,31
+1716,32217,1,Jacksonville,Duval County,30.24,-81.62,Florida,12031,100
+1721,32708,1,Winter Springs,Seminole County,28.68,-81.27,Florida,12117,33
+1723,32226,1,Jacksonville,Duval County,30.5,-81.5,Florida,12031,100
+1727,32907,1,Palm Bay,Brevard County,28.02,-80.67,Florida,12009,46
+1729,34113,1,Naples,Collier County,26.04,-81.74,Florida,12021,23
+1731,32903,1,Indialantic,Brevard County,28.11,-80.58,Florida,12009,46
+1733,32456,1,Port Saint Joe,Gulf County,29.8,-85.3,Florida,12045,5
+1737,32312,1,Tallahassee,Leon County,30.6,-84.2,Florida,12073,21
+1740,33903,1,North Fort Myers,Lee County,26.7,-81.91,Florida,12071,27
+1741,33012,1,Hialeah,Miami-Dade County,25.87,-80.3,Florida,12086,130
+1745,32955,1,Rockledge,Brevard County,28.29,-80.75,Florida,12009,46
+1747,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+1749,32536,1,Crestview,Okaloosa County,30.7,-86.7,Florida,12091,20
+1750,33144,1,Miami,Miami-Dade County,25.76,-80.31,Florida,12086,130
+1754,33437,1,Boynton Beach,Palm Beach County,26.51,-80.15,Florida,12099,55
+1755,33189,1,Miami,Miami-Dade County,25.57,-80.34,Florida,12086,130
+1761,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+1769,34471,1,Ocala,Marion County,29.15,-82.12,Florida,12083,19
+1770,34116,1,Naples,Collier County,26.19,-81.71,Florida,12021,23
+1771,32958,1,Sebastian,Indian River County,27.8,-80.49,Florida,12061,9
+1772,32925,1,Patrick Afb,Brevard County,28.5,-80.7,Florida,12009,46
+1774,33823,1,Auburndale,Polk County,28.09,-81.81,Florida,12105,62
+1775,32277,1,Jacksonville,Duval County,30.37,-81.58,Florida,12031,100
+1778,34481,1,Ocala,Marion County,29.12,-82.33,Florida,12083,19
+1781,32204,1,Jacksonville,Duval County,30.32,-81.68,Florida,12031,100
+1782,33549,1,Lutz,Hillsborough County,28.14,-82.45,Florida,12057,142
+1785,32003,1,Fleming Island,Clay County,30.09,-81.73,Florida,12019,22
+1787,32548,1,Fort Walton Beach,Okaloosa County,30.4,-86.7,Florida,12091,20
+1796,32807,1,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+1798,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+1799,33037,1,Key Largo,Monroe County,25.2,-80.4,Florida,12087,1
+1800,32541,1,Destin,Okaloosa County,30.4,-86.46,Florida,12091,20
+1802,32765,1,Oviedo,Seminole County,28.67,-81.2,Florida,12117,33
+1805,33714,1,Saint Petersburg,Pinellas County,27.82,-82.68,Florida,12103,97
+1806,32703,1,Apopka,Orange County,28.7,-81.5,Florida,12095,97
+1815,32738,1,Deltona,Volusia County,28.91,-81.19,Florida,12127,49
+1817,33161,1,Miami,Miami-Dade County,25.89,-80.18,Florida,12086,130
+1818,34266,1,Arcadia,DeSoto County,27.2,-81.8,Florida,12027,4
+1820,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+1821,32605,1,Gainesville,Alachua County,29.68,-82.39,Florida,12001,9
+1822,33147,1,Miami,Miami-Dade County,25.85,-80.24,Florida,12086,130
+1825,33825,1,Avon Park,Highlands County,27.6,-81.4,Florida,12055,5
+1828,32073,1,Orange Park,Clay County,30.16,-81.75,Florida,12019,22
+1832,32208,1,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+1844,32316,1,Tallahassee,Leon County,,,Florida,12073,21
+1847,32259,1,Saint Johns,St. Johns County,30.1,-81.6,Florida,12109,9
+1848,34117,1,Naples,Collier County,26.1,-81.5,Florida,12021,23
+1849,33566,1,Plant City,Hillsborough County,27.99,-82.13,Florida,12057,142
+1853,33982,1,Punta Gorda,Charlotte County,26.9,-81.8,Florida,12015,27
+1854,33565,1,Plant City,Hillsborough County,28.1,-82.15,Florida,12057,142
+1855,32117,1,Daytona Beach,Volusia County,29.24,-81.07,Florida,12127,49
+1858,32448,1,Marianna,Jackson County,30.7,-85.2,Florida,12063,7
+1860,34208,1,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+1861,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1863,34609,1,Spring Hill,Hernando County,28.48,-82.51,Florida,12053,24
+1864,32835,1,Orlando,Orange County,28.52,-81.49,Florida,12095,97
+1865,32955,1,Rockledge,Brevard County,28.29,-80.75,Florida,12009,46
+1866,32908,1,Palm Bay,Brevard County,27.97,-80.73,Florida,12009,46
+1869,33476,1,Pahokee,Palm Beach County,26.79,-80.62,Florida,12099,55
+1874,33946,1,Placida,Charlotte County,26.84,-82.26,Florida,12015,27
+1876,34639,1,Land O Lakes,Pasco County,28.3,-82.4,Florida,12101,73
+1878,32526,1,Pensacola,Escambia County,30.5,-87.36,Florida,12033,41
+1881,34448,1,Homosassa,Citrus County,28.78,-82.61,Florida,12017,20
+1882,34420,1,Belleview,Marion County,29.05,-82.03,Florida,12083,19
+1883,33540,1,Zephyrhills,Pasco County,28.22,-82.16,Florida,12101,73
+1888,33603,1,Tampa,Hillsborough County,27.99,-82.46,Florida,12057,142
+1889,34142,1,Immokalee,Collier County,26.2,-81.2,Florida,12021,23
+1890,33030,1,Homestead,Miami-Dade County,25.48,-80.51,Florida,12086,130
+1891,33619,1,Tampa,Hillsborough County,27.9,-82.38,Florida,12057,142
+1895,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+1896,33548,1,Lutz,Hillsborough County,28.15,-82.48,Florida,12057,142
+1897,32566,1,Navarre,Santa Rosa County,30.5,-86.9,Florida,12113,17
+1899,33064,3,Pompano Beach,Broward County,26.28,-80.12,Florida,12011,94
+1901,32909,1,Palm Bay,Brevard County,27.92,-80.68,Florida,12009,46
+1905,32250,1,Jacksonville Beach,Duval County,30.28,-81.42,Florida,12031,100
+1907,32245,1,Jacksonville,Duval County,,,Florida,12031,100
+1908,33311,1,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+1909,34233,1,Sarasota,Sarasota County,27.28,-82.47,Florida,12115,29
+1910,33136,1,Miami,Miami-Dade County,25.79,-80.21,Florida,12086,130
+1911,34120,1,Naples,Collier County,26.3,-81.6,Florida,12021,23
+1912,33801,1,Lakeland,Polk County,28.04,-81.91,Florida,12105,62
+1917,33594,1,Valrico,Hillsborough County,27.94,-82.24,Florida,12057,142
+1922,33613,1,Tampa,Hillsborough County,28.09,-82.45,Florida,12057,142
+1924,33931,1,Fort Myers Beach,Lee County,26.44,-81.91,Florida,12071,27
+1926,34952,1,Port Saint Lucie,St. Lucie County,27.3,-80.29,Florida,12111,24
+1928,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+1929,33462,1,Lake Worth,Palm Beach County,26.57,-80.08,Florida,12099,55
+1931,33810,1,Lakeland,Polk County,28.1,-82.1,Florida,12105,62
+1934,32148,1,Interlachen,Putnam County,29.6,-81.9,Florida,12107,4
+1941,33020,1,Hollywood,Broward County,26.02,-80.15,Florida,12011,94
+1942,32117,1,Daytona Beach,Volusia County,29.24,-81.07,Florida,12127,49
+1943,32539,1,Crestview,Okaloosa County,30.8,-86.4,Florida,12091,20
+1944,33010,1,Hialeah,Miami-Dade County,25.83,-80.29,Florida,12086,130
+1946,33076,1,Pompano Beach,Broward County,26.32,-80.27,Florida,12011,94
+1949,32807,1,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+1950,32034,1,Fernandina Beach,Nassau County,30.6,-81.5,Florida,12089,5
+1954,32713,1,Debary,Volusia County,28.88,-81.32,Florida,12127,49
+1957,33411,1,West Palm Beach,Palm Beach County,26.71,-80.2,Florida,12099,55
+1960,33619,1,Tampa,Hillsborough County,27.9,-82.38,Florida,12057,142
+1962,32780,1,Titusville,Brevard County,28.54,-80.85,Florida,12009,46
+1967,32763,1,Orange City,Volusia County,28.94,-81.3,Florida,12127,49
+1970,33309,1,Fort Lauderdale,Broward County,26.19,-80.17,Florida,12011,94
+1974,33009,1,Hallandale,Broward County,25.99,-80.15,Florida,12011,94
+1976,33004,1,Dania,Broward County,26.06,-80.14,Florida,12011,94
+1977,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+1978,33755,2,Clearwater,Pinellas County,27.98,-82.78,Florida,12103,97
+1979,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+1980,32081,1,Ponte Vedra,St. Johns County,30.2,-81.4,Florida,12109,9
+1983,34947,1,Fort Pierce,St. Lucie County,27.44,-80.39,Florida,12111,24
+1985,33313,1,Fort Lauderdale,Broward County,26.15,-80.23,Florida,12011,94
+1987,32822,1,Orlando,Orange County,28.5,-81.29,Florida,12095,97
+1988,33909,1,Cape Coral,Lee County,26.71,-81.97,Florida,12071,27
+1989,34667,3,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+1991,33055,1,Opa Locka,Miami-Dade County,25.95,-80.28,Florida,12086,130
+1992,34606,1,Spring Hill,Hernando County,28.48,-82.6,Florida,12053,24
+1993,32566,1,Navarre,Santa Rosa County,30.5,-86.9,Florida,12113,17
+1998,34289,1,North Port,Sarasota County,27.08,-82.14,Florida,12115,29
+1999,32303,1,Tallahassee,Leon County,30.52,-84.33,Florida,12073,21
+2000,32233,1,Atlantic Beach,Duval County,30.36,-81.42,Florida,12031,100
+2001,32034,1,Fernandina Beach,Nassau County,30.6,-81.5,Florida,12089,5
+2002,34104,1,Naples,Collier County,26.15,-81.74,Florida,12021,23
+2003,34205,1,Bradenton,Manatee County,27.48,-82.58,Florida,12081,34
+2004,34741,1,Kissimmee,Osceola County,28.31,-81.43,Florida,12097,33
+2006,32533,1,Cantonment,Escambia County,30.62,-87.32,Florida,12033,41
+2008,34983,1,Port Saint Lucie,St. Lucie County,27.32,-80.35,Florida,12111,24
+2010,34986,1,Port Saint Lucie,St. Lucie County,27.33,-80.41,Florida,12111,24
+2016,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2017,33701,1,Saint Petersburg,Pinellas County,27.78,-82.62,Florida,12103,97
+2018,32210,3,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+2030,33604,1,Tampa,Hillsborough County,28.01,-82.45,Florida,12057,142
+2037,33801,1,Lakeland,Polk County,28.04,-81.91,Florida,12105,62
+2039,33707,1,Saint Petersburg,Pinellas County,27.75,-82.73,Florida,12103,97
+2047,33805,1,Lakeland,Polk County,28.1,-81.92,Florida,12105,62
+2057,33565,1,Plant City,Hillsborough County,28.1,-82.15,Florida,12057,142
+2058,32808,1,Orlando,Orange County,28.58,-81.44,Florida,12095,97
+2060,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+2064,34741,1,Kissimmee,Osceola County,28.31,-81.43,Florida,12097,33
+2068,32218,1,Jacksonville,Duval County,30.5,-81.7,Florida,12031,100
+2071,33604,1,Tampa,Hillsborough County,28.01,-82.45,Florida,12057,142
+2073,32084,1,Saint Augustine,St. Johns County,29.9,-81.35,Florida,12109,9
+2074,32713,1,Debary,Volusia County,28.88,-81.32,Florida,12127,49
+2085,32114,3,Daytona Beach,Volusia County,29.19,-81.05,Florida,12127,49
+2086,33436,1,Boynton Beach,Palm Beach County,26.53,-80.11,Florida,12099,55
+2089,33914,3,Cape Coral,Lee County,26.57,-82.02,Florida,12071,27
+2090,32536,1,Crestview,Okaloosa County,30.7,-86.7,Florida,12091,20
+2095,32925,1,Patrick Afb,Brevard County,28.5,-80.7,Florida,12009,46
+2097,32176,1,Ormond Beach,Volusia County,29.34,-81.06,Florida,12127,49
+2102,33993,1,Cape Coral,Lee County,26.7,-82.0,Florida,12071,27
+2105,33559,1,Lutz,Hillsborough County,28.16,-82.4,Florida,12057,142
+2107,32408,1,Panama City,Bay County,30.16,-85.76,Florida,12005,14
+2113,32409,1,Panama City,Bay County,30.3,-85.7,Florida,12005,14
+2119,33948,1,Port Charlotte,Charlotte County,26.97,-82.16,Florida,12015,27
+2120,34759,1,Kissimmee,Polk County,28.08,-81.44,Florida,12105,62
+2124,33311,1,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+2125,33950,1,Punta Gorda,Charlotte County,26.92,-82.04,Florida,12015,27
+2127,32967,1,Vero Beach,Indian River County,27.71,-80.47,Florida,12061,9
+2128,33435,1,Boynton Beach,Palm Beach County,26.52,-80.06,Florida,12099,55
+2129,32114,1,Daytona Beach,Volusia County,29.19,-81.05,Florida,12127,49
+2131,32904,1,Melbourne,Brevard County,28.0,-80.8,Florida,12009,46
+2134,33714,1,Saint Petersburg,Pinellas County,27.82,-82.68,Florida,12103,97
+2135,34429,1,Crystal River,Citrus County,28.9,-82.6,Florida,12017,20
+2136,33705,3,Saint Petersburg,Pinellas County,27.74,-82.64,Florida,12103,97
+2137,32207,1,Jacksonville,Duval County,30.27,-81.64,Florida,12031,100
+2139,32507,1,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+2145,32607,1,Gainesville,Alachua County,29.65,-82.42,Florida,12001,9
+2150,33417,1,West Palm Beach,Palm Beach County,26.72,-80.13,Florida,12099,55
+2153,33563,1,Plant City,Hillsborough County,28.02,-82.13,Florida,12057,142
+2155,32224,1,Jacksonville,Duval County,30.29,-81.47,Florida,12031,100
+2156,32809,1,Orlando,Orange County,28.47,-81.39,Florida,12095,97
+2158,33167,2,Miami,Miami-Dade County,25.89,-80.24,Florida,12086,130
+2159,33566,3,Plant City,Hillsborough County,27.99,-82.13,Florida,12057,142
+2161,33023,1,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+2163,32303,1,Tallahassee,Leon County,30.52,-84.33,Florida,12073,21
+2166,32583,1,Milton,Santa Rosa County,30.6,-87.0,Florida,12113,17
+2170,33445,1,Delray Beach,Palm Beach County,26.45,-80.1,Florida,12099,55
+2172,33054,1,Opa Locka,Miami-Dade County,25.9,-80.26,Florida,12086,130
+2179,32771,1,Sanford,Seminole County,28.8,-81.3,Florida,12117,33
+2180,33778,1,Largo,Pinellas County,27.88,-82.8,Florida,12103,97
+2181,32208,3,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+2183,33812,1,Lakeland,Polk County,27.98,-81.89,Florida,12105,62
+2186,33442,1,Deerfield Beach,Broward County,26.31,-80.14,Florida,12011,94
+2187,33612,1,Tampa,Hillsborough County,28.05,-82.45,Florida,12057,142
+2188,33705,1,Saint Petersburg,Pinellas County,27.74,-82.64,Florida,12103,97
+2198,32828,1,Orlando,Orange County,28.51,-81.16,Florida,12095,97
+2199,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+2202,32547,1,Fort Walton Beach,Okaloosa County,30.5,-86.7,Florida,12091,20
+2206,34266,1,Arcadia,DeSoto County,27.2,-81.8,Florida,12027,4
+2209,33064,1,Pompano Beach,Broward County,26.28,-80.12,Florida,12011,94
+2212,33167,1,Miami,Miami-Dade County,25.89,-80.24,Florida,12086,130
+2213,33703,1,Saint Petersburg,Pinellas County,27.82,-82.62,Florida,12103,97
+2216,33012,1,Hialeah,Miami-Dade County,25.87,-80.3,Florida,12086,130
+2217,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+2218,33020,1,Hollywood,Broward County,26.02,-80.15,Florida,12011,94
+2220,34652,1,New Port Richey,Pasco County,28.22,-82.78,Florida,12101,73
+2223,33068,1,Pompano Beach,Broward County,26.21,-80.22,Florida,12011,94
+2224,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+2230,33150,1,Miami,Miami-Dade County,25.85,-80.21,Florida,12086,130
+2231,34653,1,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+2232,32720,1,Deland,Volusia County,29.0,-81.4,Florida,12127,49
+2235,32693,1,Trenton,Gilchrist County,29.6,-82.8,Florida,12041,2
+2236,33881,1,Winter Haven,Polk County,28.06,-81.71,Florida,12105,62
+2238,33872,1,Sebring,Highlands County,27.51,-81.52,Florida,12055,5
+2239,32792,1,Winter Park,Orange County,28.61,-81.3,Florida,12095,97
+2240,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+2242,33619,1,Tampa,Hillsborough County,27.9,-82.38,Florida,12057,142
+2245,33773,1,Largo,Pinellas County,27.88,-82.75,Florida,12103,97
+2248,33971,1,Lehigh Acres,Lee County,26.65,-81.71,Florida,12071,27
+2249,33948,1,Port Charlotte,Charlotte County,26.97,-82.16,Florida,12015,27
+2253,32811,1,Orlando,Orange County,28.5,-81.45,Florida,12095,97
+2255,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2256,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2259,33020,1,Hollywood,Broward County,26.02,-80.15,Florida,12011,94
+2264,32091,1,Starke,Bradford County,29.9,-82.1,Florida,12007,2
+2268,32703,1,Apopka,Orange County,28.7,-81.5,Florida,12095,97
+2272,32439,1,Freeport,Walton County,30.5,-86.2,Florida,12131,7
+2277,33032,1,Homestead,Miami-Dade County,25.51,-80.39,Florida,12086,130
+2278,34952,1,Port Saint Lucie,St. Lucie County,27.3,-80.29,Florida,12111,24
+2281,34470,1,Ocala,Marion County,29.2,-82.09,Florida,12083,19
+2283,34743,1,Kissimmee,Osceola County,28.33,-81.35,Florida,12097,33
+2286,33309,1,Fort Lauderdale,Broward County,26.19,-80.17,Florida,12011,94
+2288,32960,2,Vero Beach,Indian River County,27.64,-80.4,Florida,12061,9
+2289,33823,1,Auburndale,Polk County,28.09,-81.81,Florida,12105,62
+2290,34787,3,Winter Garden,Orange County,28.5,-81.6,Florida,12095,97
+2291,32771,1,Sanford,Seminole County,28.8,-81.3,Florida,12117,33
+2294,34950,1,Fort Pierce,St. Lucie County,27.44,-80.33,Florida,12111,24
+2295,33440,1,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+2296,32702,1,Altoona,Lake County,29.1,-81.6,Florida,12069,31
+2306,33172,1,Miami,Miami-Dade County,25.79,-80.36,Florida,12086,130
+2312,34472,1,Ocala,Marion County,29.12,-81.98,Florida,12083,19
+2315,33055,1,Opa Locka,Miami-Dade County,25.95,-80.28,Florida,12086,130
+2317,32208,1,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+2323,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+2325,34243,3,Sarasota,Manatee County,27.4,-82.52,Florida,12081,34
+2328,34202,1,Bradenton,Manatee County,27.41,-82.38,Florida,12081,34
+2329,33714,1,Saint Petersburg,Pinellas County,27.82,-82.68,Florida,12103,97
+2331,32168,1,New Smyrna Beach,Volusia County,29.0,-81.1,Florida,12127,49
+2332,32277,1,Jacksonville,Duval County,30.37,-81.58,Florida,12031,100
+2333,34219,2,Parrish,Manatee County,27.6,-82.3,Florida,12081,34
+2338,32505,1,Pensacola,Escambia County,30.45,-87.26,Florida,12033,41
+2339,33142,1,Miami,Miami-Dade County,25.8,-80.23,Florida,12086,130
+2341,33025,1,Hollywood,Broward County,25.98,-80.28,Florida,12011,94
+2342,32222,1,Jacksonville,Duval County,30.22,-81.83,Florida,12031,100
+2353,32168,1,New Smyrna Beach,Volusia County,29.0,-81.1,Florida,12127,49
+2355,33035,1,Homestead,Miami-Dade County,25.4,-80.3,Florida,12086,130
+2358,33013,1,Hialeah,Miami-Dade County,25.86,-80.27,Florida,12086,130
+2359,33069,3,Pompano Beach,Broward County,26.24,-80.17,Florida,12011,94
+2360,33028,1,Pembroke Pines,Broward County,26.02,-80.34,Florida,12011,94
+2362,33334,1,Fort Lauderdale,Broward County,26.18,-80.13,Florida,12011,94
+2363,33897,1,Davenport,Polk County,28.28,-81.74,Florida,12105,62
+2364,33973,1,Lehigh Acres,Lee County,26.6,-81.74,Florida,12071,27
+2370,33707,1,Saint Petersburg,Pinellas County,27.75,-82.73,Florida,12103,97
+2377,34481,1,Ocala,Marion County,29.12,-82.33,Florida,12083,19
+2378,33647,1,Tampa,Hillsborough County,28.12,-82.35,Florida,12057,142
+2382,34601,3,Brooksville,Hernando County,28.6,-82.4,Florida,12053,24
+2384,33316,1,Fort Lauderdale,Broward County,26.09,-80.12,Florida,12011,94
+2385,33781,1,Pinellas Park,Pinellas County,27.84,-82.71,Florida,12103,97
+2386,32505,1,Pensacola,Escambia County,30.45,-87.26,Florida,12033,41
+2388,32641,1,Gainesville,Alachua County,29.63,-82.24,Florida,12001,9
+2391,33056,1,Miami Gardens,Miami-Dade County,25.95,-80.24,Florida,12086,130
+2392,32539,1,Crestview,Okaloosa County,30.8,-86.4,Florida,12091,20
+2394,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+2395,32066,1,Mayo,Lafayette County,30.0,-83.2,Florida,12067,2
+2397,33147,1,Miami,Miami-Dade County,25.85,-80.24,Florida,12086,130
+2398,33898,1,Lake Wales,Polk County,27.8,-81.4,Florida,12105,62
+2401,32225,1,Jacksonville,Duval County,30.35,-81.5,Florida,12031,100
+2402,32064,1,Live Oak,Suwannee County,30.3,-82.99,Florida,12121,6
+2405,33018,1,Hialeah,Miami-Dade County,25.91,-80.38,Florida,12086,130
+2408,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+2410,32058,1,Lawtey,Bradford County,30.07,-82.12,Florida,12007,2
+2411,33880,1,Winter Haven,Polk County,27.98,-81.78,Florida,12105,62
+2414,33763,1,Clearwater,Pinellas County,28.01,-82.74,Florida,12103,97
+2415,33324,1,Fort Lauderdale,Broward County,26.11,-80.27,Florida,12011,94
+2421,32810,1,Orlando,Orange County,28.62,-81.43,Florida,12095,97
+2422,33511,1,Brandon,Hillsborough County,27.9,-82.3,Florida,12057,142
+2428,32750,1,Longwood,Seminole County,28.71,-81.35,Florida,12117,33
+2433,32064,1,Live Oak,Suwannee County,30.3,-82.99,Florida,12121,6
+2434,32205,1,Jacksonville,Duval County,30.3,-81.73,Florida,12031,100
+2436,34758,3,Kissimmee,Osceola County,28.2,-81.5,Florida,12097,33
+2444,33405,1,West Palm Beach,Palm Beach County,26.68,-80.06,Florida,12099,55
+2445,34429,1,Crystal River,Citrus County,28.9,-82.6,Florida,12017,20
+2446,33127,1,Miami,Miami-Dade County,25.81,-80.21,Florida,12086,130
+2450,33168,1,Miami,Miami-Dade County,25.89,-80.21,Florida,12086,130
+2451,32504,1,Pensacola,Escambia County,30.48,-87.2,Florida,12033,41
+2454,33803,1,Lakeland,Polk County,28.01,-81.93,Florida,12105,62
+2455,33781,2,Pinellas Park,Pinellas County,27.84,-82.71,Florida,12103,97
+2457,34691,3,Holiday,Pasco County,28.19,-82.76,Florida,12101,73
+2463,33127,3,Miami,Miami-Dade County,25.81,-80.21,Florida,12086,130
+2467,34653,1,New Port Richey,Pasco County,28.24,-82.69,Florida,12101,73
+2468,33066,1,Pompano Beach,Broward County,26.25,-80.18,Florida,12011,94
+2470,33613,1,Tampa,Hillsborough County,28.09,-82.45,Florida,12057,142
+2472,33605,1,Tampa,Hillsborough County,27.94,-82.43,Florida,12057,142
+2473,32277,1,Jacksonville,Duval County,30.37,-81.58,Florida,12031,100
+2475,33647,1,Tampa,Hillsborough County,28.12,-82.35,Florida,12057,142
+2476,33584,1,Seffner,Hillsborough County,28.0,-82.29,Florida,12057,142
+2479,33603,1,Tampa,Hillsborough County,27.99,-82.46,Florida,12057,142
+2480,34114,1,Naples,Collier County,26.0,-81.5,Florida,12021,23
+2483,34685,3,Palm Harbor,Pinellas County,28.1,-82.69,Florida,12103,97
+2484,34471,1,Ocala,Marion County,29.15,-82.12,Florida,12083,19
+2492,33417,1,West Palm Beach,Palm Beach County,26.72,-80.13,Florida,12099,55
+2493,33065,2,Pompano Beach,Broward County,26.27,-80.26,Florida,12011,94
+2494,33764,1,Clearwater,Pinellas County,27.94,-82.73,Florida,12103,97
+2496,33778,3,Largo,Pinellas County,27.88,-82.8,Florida,12103,97
+2497,32547,2,Fort Walton Beach,Okaloosa County,30.5,-86.7,Florida,12091,20
+2498,32513,1,Pensacola,Escambia County,,,Florida,12033,41
+2499,32117,2,Daytona Beach,Volusia County,29.24,-81.07,Florida,12127,49
+2500,34446,1,Homosassa,Citrus County,28.75,-82.51,Florida,12017,20
+2501,33413,1,West Palm Beach,Palm Beach County,26.67,-80.15,Florida,12099,55
+2502,32259,2,Saint Johns,St. Johns County,30.1,-81.6,Florida,12109,9
+2504,34744,2,Kissimmee,Osceola County,28.29,-81.32,Florida,12097,33
+2506,34744,2,Kissimmee,Osceola County,28.29,-81.32,Florida,12097,33
+2507,32210,1,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+2512,33032,2,Homestead,Miami-Dade County,25.51,-80.39,Florida,12086,130
+2514,32448,2,Marianna,Jackson County,30.7,-85.2,Florida,12063,7
+2515,33033,2,Homestead,Miami-Dade County,25.48,-80.41,Florida,12086,130
+2516,33805,2,Lakeland,Polk County,28.1,-81.92,Florida,12105,62
+2518,33763,2,Clearwater,Pinellas County,28.01,-82.74,Florida,12103,97
+2520,32907,2,Palm Bay,Brevard County,28.02,-80.67,Florida,12009,46
+2522,33606,1,Tampa,Hillsborough County,27.93,-82.46,Florida,12057,142
+2528,32807,1,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+2529,32908,1,Palm Bay,Brevard County,27.97,-80.73,Florida,12009,46
+2530,34668,1,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+2533,32304,3,Tallahassee,Leon County,30.46,-84.35,Florida,12073,21
+2534,33150,1,Miami,Miami-Dade County,25.85,-80.21,Florida,12086,130
+2540,32244,2,Jacksonville,Duval County,30.22,-81.74,Florida,12031,100
+2544,33142,1,Miami,Miami-Dade County,25.8,-80.23,Florida,12086,130
+2549,34772,2,Saint Cloud,Osceola County,28.2,-81.3,Florida,12097,33
+2550,32206,1,Jacksonville,Duval County,30.35,-81.64,Florida,12031,100
+2554,32225,3,Jacksonville,Duval County,30.35,-81.5,Florida,12031,100
+2560,33056,1,Miami Gardens,Miami-Dade County,25.95,-80.24,Florida,12086,130
+2561,33604,3,Tampa,Hillsborough County,28.01,-82.45,Florida,12057,142
+2567,34208,1,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+2568,33950,2,Punta Gorda,Charlotte County,26.92,-82.04,Florida,12015,27
+2570,32763,2,Orange City,Volusia County,28.94,-81.3,Florida,12127,49
+2578,32750,1,Longwood,Seminole County,28.71,-81.35,Florida,12117,33
+2580,34116,1,Naples,Collier County,26.19,-81.71,Florida,12021,23
+2581,32571,1,Milton,Santa Rosa County,30.7,-87.2,Florida,12113,17
+2582,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2583,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2584,33579,2,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2585,33579,1,Riverview,Hillsborough County,27.8,-82.28,Florida,12057,142
+2587,32757,1,Mount Dora,Lake County,28.8,-81.6,Florida,12069,31
+2588,32405,1,Panama City,Bay County,30.2,-85.67,Florida,12005,14
+2590,34293,1,Venice,Sarasota County,27.02,-82.35,Florida,12115,29
+2592,32808,2,Orlando,Orange County,28.58,-81.44,Florida,12095,97
+2593,34698,2,Dunedin,Pinellas County,28.01,-82.78,Florida,12103,97
+2594,32907,3,Palm Bay,Brevard County,28.02,-80.67,Florida,12009,46
+2596,33430,2,Belle Glade,Palm Beach County,26.6,-80.6,Florida,12099,55
+2597,33176,2,Miami,Miami-Dade County,25.66,-80.36,Florida,12086,130
+2600,32440,2,Graceville,Jackson County,30.9,-85.5,Florida,12063,7
+2601,32811,2,Orlando,Orange County,28.5,-81.45,Florida,12095,97
+2606,32535,2,Century,Escambia County,30.9,-87.3,Florida,12033,41
+2607,33167,2,Miami,Miami-Dade County,25.89,-80.24,Florida,12086,130
+2608,33547,2,Lithia,Hillsborough County,27.8,-82.1,Florida,12057,142
+2610,33712,2,Saint Petersburg,Pinellas County,27.71,-82.67,Florida,12103,97
+2611,33126,2,Miami,Miami-Dade County,25.78,-80.3,Florida,12086,130
+2613,34667,1,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+2614,34667,2,Hudson,Pasco County,28.38,-82.65,Florida,12101,73
+2617,33770,2,Largo,Pinellas County,27.92,-82.8,Florida,12103,97
+2618,32448,2,Marianna,Jackson County,30.7,-85.2,Florida,12063,7
+2620,32966,2,Vero Beach,Indian River County,27.7,-80.7,Florida,12061,9
+2622,32210,2,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+2627,34287,2,North Port,Sarasota County,27.06,-82.24,Florida,12115,29
+2629,34758,2,Kissimmee,Osceola County,28.2,-81.5,Florida,12097,33
+2630,32129,2,Port Orange,Volusia County,29.13,-81.02,Florida,12127,49
+2634,32548,2,Fort Walton Beach,Okaloosa County,30.4,-86.7,Florida,12091,20
+2635,32805,2,Orlando,Orange County,28.53,-81.41,Florida,12095,97
+2643,33177,1,Miami,Miami-Dade County,25.6,-80.4,Florida,12086,130
+2644,32680,3,Old Town,Dixie County,29.6,-83.1,Florida,12029,4
+2647,32618,1,Archer,Alachua County,29.5,-82.5,Florida,12001,9
+2648,32304,1,Tallahassee,Leon County,30.46,-84.35,Florida,12073,21
+2653,32703,1,Apopka,Orange County,28.7,-81.5,Florida,12095,97
+2659,33755,1,Clearwater,Pinellas County,27.98,-82.78,Florida,12103,97
+2661,32351,1,Quincy,Gadsden County,30.5,-84.7,Florida,12039,8
+2662,33870,1,Sebring,Highlands County,27.5,-81.4,Florida,12055,5
+2665,33327,1,Fort Lauderdale,Broward County,26.1,-80.6,Florida,12011,94
+2667,32904,2,Melbourne,Brevard County,28.0,-80.8,Florida,12009,46
+2668,34714,1,Clermont,Lake County,28.4,-81.8,Florida,12069,31
+2670,33952,1,Port Charlotte,Charlotte County,26.99,-82.09,Florida,12015,27
+2674,33461,1,Lake Worth,Palm Beach County,26.62,-80.09,Florida,12099,55
+2680,32425,2,Bonifay,Holmes County,30.8,-85.7,Florida,12059,3
+2681,34741,2,Kissimmee,Osceola County,28.31,-81.43,Florida,12097,33
+2682,33764,2,Clearwater,Pinellas County,27.94,-82.73,Florida,12103,97
+2683,33624,3,Tampa,Hillsborough County,28.08,-82.52,Florida,12057,142
+2684,33613,2,Tampa,Hillsborough County,28.09,-82.45,Florida,12057,142
+2687,34746,2,Kissimmee,Osceola County,28.2,-81.4,Florida,12097,33
+2689,32063,2,Macclenny,Baker County,30.3,-82.1,Florida,12003,5
+2690,32789,3,Winter Park,Orange County,28.6,-81.36,Florida,12095,97
+2691,34746,2,Kissimmee,Osceola County,28.2,-81.4,Florida,12097,33
+2692,33615,3,Tampa,Hillsborough County,28.0,-82.58,Florida,12057,142
+2693,33023,1,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+2694,33625,3,Tampa,Hillsborough County,28.07,-82.56,Florida,12057,142
+2695,33063,1,Pompano Beach,Broward County,26.25,-80.21,Florida,12011,94
+2701,32211,1,Jacksonville,Duval County,30.33,-81.59,Florida,12031,100
+2702,33010,2,Hialeah,Miami-Dade County,25.83,-80.29,Florida,12086,130
+2704,33440,2,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+2705,32211,2,Jacksonville,Duval County,30.33,-81.59,Florida,12031,100
+2709,33637,2,Tampa,Hillsborough County,28.05,-82.36,Florida,12057,142
+2710,34698,1,Dunedin,Pinellas County,28.01,-82.78,Florida,12103,97
+2713,33624,2,Tampa,Hillsborough County,28.08,-82.52,Florida,12057,142
+2714,32707,3,Casselberry,Seminole County,28.66,-81.31,Florida,12117,33
+2718,34221,1,Palmetto,Manatee County,27.6,-82.5,Florida,12081,34
+2719,32534,2,Pensacola,Escambia County,30.54,-87.29,Florida,12033,41
+2720,33982,2,Punta Gorda,Charlotte County,26.9,-81.8,Florida,12015,27
+2721,34748,1,Leesburg,Lake County,28.7,-81.9,Florida,12069,31
+2722,34119,2,Naples,Collier County,26.27,-81.72,Florida,12021,23
+2723,32839,2,Orlando,Orange County,28.49,-81.41,Florida,12095,97
+2725,33187,1,Miami,Miami-Dade County,25.6,-80.49,Florida,12086,130
+2726,34142,2,Immokalee,Collier County,26.2,-81.2,Florida,12021,23
+2727,33765,3,Clearwater,Pinellas County,27.98,-82.74,Florida,12103,97
+2728,32771,2,Sanford,Seminole County,28.8,-81.3,Florida,12117,33
+2731,32778,2,Tavares,Lake County,28.78,-81.73,Florida,12069,31
+2736,33025,2,Hollywood,Broward County,25.98,-80.28,Florida,12011,94
+2738,33145,2,Miami,Miami-Dade County,25.75,-80.23,Florida,12086,130
+2743,34207,2,Bradenton,Manatee County,27.44,-82.58,Florida,12081,34
+2744,33064,1,Pompano Beach,Broward County,26.28,-80.12,Florida,12011,94
+2748,33186,3,Miami,Miami-Dade County,25.66,-80.41,Florida,12086,130
+2754,32810,2,Orlando,Orange County,28.62,-81.43,Florida,12095,97
+2755,32465,2,Wewahitchka,Gulf County,30.0,-85.2,Florida,12045,5
+2756,32827,2,Orlando,Orange County,28.41,-81.3,Florida,12095,97
+2759,33805,1,Lakeland,Polk County,28.1,-81.92,Florida,12105,62
+2760,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+2761,34452,2,Inverness,Citrus County,28.8,-82.4,Florida,12017,20
+2762,34224,2,Englewood,Charlotte County,26.91,-82.3,Florida,12015,27
+2764,33881,1,Winter Haven,Polk County,28.06,-81.71,Florida,12105,62
+2765,34433,2,Dunnellon,Citrus County,28.99,-82.52,Florida,12017,20
+2768,32707,3,Casselberry,Seminole County,28.66,-81.31,Florida,12117,33
+2770,33805,2,Lakeland,Polk County,28.1,-81.92,Florida,12105,62
+2773,34981,1,Fort Pierce,St. Lucie County,27.4,-80.38,Florida,12111,24
+2780,33990,2,Cape Coral,Lee County,26.63,-81.94,Florida,12071,27
+2783,33598,2,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+2784,33030,2,Homestead,Miami-Dade County,25.48,-80.51,Florida,12086,130
+2787,32514,2,Pensacola,Escambia County,30.55,-87.21,Florida,12033,41
+2791,33980,1,Punta Gorda,Charlotte County,26.98,-82.05,Florida,12015,27
+2802,33971,1,Lehigh Acres,Lee County,26.65,-81.71,Florida,12071,27
+2803,33023,3,Hollywood,Broward County,25.99,-80.21,Florida,12011,94
+2804,32208,2,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+2808,32839,2,Orlando,Orange County,28.49,-81.41,Florida,12095,97
+2809,32351,2,Quincy,Gadsden County,30.5,-84.7,Florida,12039,8
+2813,33756,2,Clearwater,Pinellas County,27.94,-82.79,Florida,12103,97
+2821,33150,2,Miami,Miami-Dade County,25.85,-80.21,Florida,12086,130
+2823,32224,2,Jacksonville,Duval County,30.29,-81.47,Florida,12031,100
+2824,33017,2,Hialeah,Miami-Dade County,,,Florida,12086,130
+2830,33471,1,Moore Haven,Glades County,26.9,-81.2,Florida,12043,2
+2831,33170,2,Miami,Miami-Dade County,25.55,-80.46,Florida,12086,130
+2833,32807,2,Orlando,Orange County,28.55,-81.3,Florida,12095,97
+2834,33936,2,Lehigh Acres,Lee County,26.6,-81.61,Florida,12071,27
+2835,32607,1,Gainesville,Alachua County,29.65,-82.42,Florida,12001,9
+2836,33071,2,Pompano Beach,Broward County,26.25,-80.27,Florida,12011,94
+2837,34135,2,Bonita Springs,Lee County,26.37,-81.73,Florida,12071,27
+2840,33760,2,Clearwater,Pinellas County,27.9,-82.71,Florida,12103,97
+2841,32720,1,Deland,Volusia County,29.0,-81.4,Florida,12127,49
+2842,32720,3,Deland,Volusia County,29.0,-81.4,Florida,12127,49
+2844,33860,1,Mulberry,Polk County,27.8,-82.0,Florida,12105,62
+2845,34205,2,Bradenton,Manatee County,27.48,-82.58,Florida,12081,34
+2847,33157,2,Miami,Miami-Dade County,25.6,-80.33,Florida,12086,130
+2848,32301,2,Tallahassee,Leon County,30.43,-84.26,Florida,12073,21
+2849,33063,2,Pompano Beach,Broward County,26.25,-80.21,Florida,12011,94
+2851,33440,2,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+2852,33877,2,Waverly,Polk County,28.01,-81.62,Florida,12105,62
+2855,33311,2,Fort Lauderdale,Broward County,26.13,-80.16,Florida,12011,94
+2859,32953,1,Merritt Island,Brevard County,28.5,-80.7,Florida,12009,46
+2860,32256,1,Jacksonville,Duval County,30.18,-81.52,Florida,12031,100
+2865,33875,2,Sebring,Highlands County,27.41,-81.48,Florida,12055,5
+2870,33605,3,Tampa,Hillsborough County,27.94,-82.43,Florida,12057,142
+2878,33162,2,Miami,Miami-Dade County,25.93,-80.18,Florida,12086,130
+2879,32526,3,Pensacola,Escambia County,30.5,-87.36,Florida,12033,41
+2881,32904,1,Melbourne,Brevard County,28.0,-80.8,Florida,12009,46
+2891,32773,3,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+2893,33462,2,Lake Worth,Palm Beach County,26.57,-80.08,Florida,12099,55
+2896,33177,1,Miami,Miami-Dade County,25.6,-80.4,Florida,12086,130
+2901,32351,3,Quincy,Gadsden County,30.5,-84.7,Florida,12039,8
+2903,33157,1,Miami,Miami-Dade County,25.6,-80.33,Florida,12086,130
+2909,33056,1,Miami Gardens,Miami-Dade County,25.95,-80.24,Florida,12086,130
+2911,33542,2,Zephyrhills,Pasco County,28.23,-82.18,Florida,12101,73
+2913,33805,2,Lakeland,Polk County,28.1,-81.92,Florida,12105,62
+2918,32208,2,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+2921,32505,2,Pensacola,Escambia County,30.45,-87.26,Florida,12033,41
+2922,32210,2,Jacksonville,Duval County,30.27,-81.75,Florida,12031,100
+2923,32310,2,Tallahassee,Leon County,30.4,-84.5,Florida,12073,21
+2928,32507,3,Pensacola,Escambia County,30.3,-87.4,Florida,12033,41
+2942,34208,2,Bradenton,Manatee County,27.48,-82.51,Florida,12081,34
+2965,33513,1,Bushnell,Sumter County,28.7,-82.2,Florida,12119,12
+2970,33610,1,Tampa,Hillsborough County,28.0,-82.38,Florida,12057,142
+2975,33598,1,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+2976,33573,1,Sun City Center,Hillsborough County,27.73,-82.36,Florida,12057,142
+2977,33573,1,Sun City Center,Hillsborough County,27.73,-82.36,Florida,12057,142
+2980,33598,1,Wimauma,Hillsborough County,27.7,-82.3,Florida,12057,142
+2988,33534,1,Gibsonton,Hillsborough County,27.83,-82.38,Florida,12057,142
+2998,33534,1,Gibsonton,Hillsborough County,27.83,-82.38,Florida,12057,142
+3001,33584,1,Seffner,Hillsborough County,28.0,-82.29,Florida,12057,142
+3007,32825,2,Orlando,Orange County,28.52,-81.24,Florida,12095,97
+3015,33543,1,Wesley Chapel,Pasco County,28.21,-82.3,Florida,12101,73
+3018,32068,2,Middleburg,Clay County,30.1,-81.9,Florida,12019,22
+3027,33624,3,Tampa,Hillsborough County,28.08,-82.52,Florida,12057,142
+3029,34450,1,Inverness,Citrus County,28.83,-82.26,Florida,12017,20
+3034,33584,1,Seffner,Hillsborough County,28.0,-82.29,Florida,12057,142
+3035,33513,1,Bushnell,Sumter County,28.7,-82.2,Florida,12119,12
+3037,34771,1,Saint Cloud,Osceola County,28.2,-81.2,Florida,12097,33
+3048,33351,3,Fort Lauderdale,Broward County,26.18,-80.27,Florida,12011,94
+3049,33055,1,Opa Locka,Miami-Dade County,25.95,-80.28,Florida,12086,130
+3052,32084,2,Saint Augustine,St. Johns County,29.9,-81.35,Florida,12109,9
+3053,32073,1,Orange Park,Clay County,30.16,-81.75,Florida,12019,22
+3054,32117,2,Daytona Beach,Volusia County,29.24,-81.07,Florida,12127,49
+3060,33138,2,Miami,Miami-Dade County,25.85,-80.18,Florida,12086,130
+3062,32818,2,Orlando,Orange County,28.59,-81.49,Florida,12095,97
+3063,32024,1,Lake City,Columbia County,30.1,-82.7,Florida,12023,4
+3066,32208,2,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+3068,33055,1,Opa Locka,Miami-Dade County,25.95,-80.28,Florida,12086,130
+3070,32503,1,Pensacola,Escambia County,30.46,-87.21,Florida,12033,41
+3071,34608,1,Spring Hill,Hernando County,28.48,-82.55,Florida,12053,24
+3073,34609,2,Spring Hill,Hernando County,28.48,-82.51,Florida,12053,24
+3075,33510,2,Brandon,Hillsborough County,27.96,-82.3,Florida,12057,142
+3078,34104,2,Naples,Collier County,26.15,-81.74,Florida,12021,23
+3080,32811,2,Orlando,Orange County,28.5,-81.45,Florida,12095,97
+3084,33319,2,Fort Lauderdale,Broward County,26.18,-80.23,Florida,12011,94
+3086,33773,2,Largo,Pinellas County,27.88,-82.75,Florida,12103,97
+3087,33777,3,Seminole,Pinellas County,27.85,-82.76,Florida,12103,97
+3090,32810,3,Orlando,Orange County,28.62,-81.43,Florida,12095,97
+3092,33440,3,Clewiston,Hendry County,26.5,-81.2,Florida,12051,10
+3093,34785,2,Wildwood,Sumter County,28.8,-82.1,Florida,12119,12
+3094,33169,2,Miami,Miami-Dade County,25.94,-80.21,Florida,12086,130
+3095,33844,2,Haines City,Polk County,28.1,-81.6,Florida,12105,62
+3100,32820,3,Orlando,Orange County,28.57,-81.1,Florida,12095,97
+3102,34236,2,Sarasota,Sarasota County,27.33,-82.56,Florida,12115,29
+3103,32571,2,Milton,Santa Rosa County,30.7,-87.2,Florida,12113,17
+3106,32124,1,Daytona Beach,Volusia County,29.16,-81.14,Florida,12127,49
+3107,33009,2,Hallandale,Broward County,25.99,-80.15,Florida,12011,94
+3108,32808,2,Orlando,Orange County,28.58,-81.44,Florida,12095,97
+3114,34743,2,Kissimmee,Osceola County,28.33,-81.35,Florida,12097,33
+3116,32209,2,Jacksonville,Duval County,30.36,-81.7,Florida,12031,100
+3117,34205,2,Bradenton,Manatee County,27.48,-82.58,Florida,12081,34
+3119,32208,3,Jacksonville,Duval County,30.39,-81.68,Florida,12031,100
+3122,33712,3,Saint Petersburg,Pinellas County,27.71,-82.67,Florida,12103,97
+3128,33484,2,Delray Beach,Palm Beach County,26.45,-80.13,Florida,12099,55
+3129,33803,1,Lakeland,Polk County,28.01,-81.93,Florida,12105,62
+3132,34786,3,Windermere,Orange County,28.48,-81.56,Florida,12095,97
+3133,33305,3,Fort Lauderdale,Broward County,26.15,-80.12,Florida,12011,94
+3135,33035,2,Homestead,Miami-Dade County,25.4,-80.3,Florida,12086,130
+3137,33179,3,Miami,Miami-Dade County,25.96,-80.18,Florida,12086,130
+3138,34602,2,Brooksville,Hernando County,28.5,-82.3,Florida,12053,24
+3139,32808,1,Orlando,Orange County,28.58,-81.44,Florida,12095,97
+3147,34472,2,Ocala,Marion County,29.12,-81.98,Florida,12083,19
+3152,32955,3,Rockledge,Brevard County,28.29,-80.75,Florida,12009,46
+3160,34983,1,Port Saint Lucie,St. Lucie County,27.32,-80.35,Florida,12111,24
+3164,33626,2,Tampa,Hillsborough County,28.06,-82.61,Florida,12057,142
+3165,34788,1,Leesburg,Lake County,28.89,-81.79,Florida,12069,31
+3171,32822,2,Orlando,Orange County,28.5,-81.29,Florida,12095,97
+3175,33401,3,West Palm Beach,Palm Beach County,26.72,-80.07,Florida,12099,55
+3181,33174,3,Miami,Miami-Dade County,25.76,-80.36,Florida,12086,130
+3182,32046,2,Hilliard,Nassau County,30.7,-81.9,Florida,12089,5
+3185,33629,1,Tampa,Hillsborough County,27.92,-82.51,Florida,12057,142
+3186,34655,3,New Port Richey,Pasco County,28.23,-82.63,Florida,12101,73
+3187,34232,3,Sarasota,Sarasota County,27.33,-82.47,Florida,12115,29
+3189,33611,1,Tampa,Hillsborough County,27.89,-82.51,Florida,12057,142
+3190,32405,2,Panama City,Bay County,30.2,-85.67,Florida,12005,14
+3191,33068,3,Pompano Beach,Broward County,26.21,-80.22,Florida,12011,94
+3192,34668,2,Port Richey,Pasco County,28.31,-82.71,Florida,12101,73
+3193,34452,2,Inverness,Citrus County,28.8,-82.4,Florida,12017,20
+3195,34758,2,Kissimmee,Osceola County,28.2,-81.5,Florida,12097,33
+3196,32207,2,Jacksonville,Duval County,30.27,-81.64,Florida,12031,100
+3201,33897,3,Davenport,Polk County,28.28,-81.74,Florida,12105,62
+3202,33763,2,Clearwater,Pinellas County,28.01,-82.74,Florida,12103,97
+3208,33810,2,Lakeland,Polk County,28.1,-82.1,Florida,12105,62
+3210,32714,2,Altamonte Springs,Seminole County,28.67,-81.42,Florida,12117,33
+3213,34120,3,Naples,Collier County,26.3,-81.6,Florida,12021,23
+3217,32162,1,The Villages,Sumter County,28.92,-82.0,Florida,12119,12
+3219,34606,2,Spring Hill,Hernando County,28.48,-82.6,Florida,12053,24
+3222,32327,1,Crawfordville,Wakulla County,30.2,-84.3,Florida,12129,4
+3224,32218,2,Jacksonville,Duval County,30.5,-81.7,Florida,12031,100
+3226,32132,1,Edgewater,Volusia County,28.97,-80.96,Florida,12127,49
+3227,33881,2,Winter Haven,Polk County,28.06,-81.71,Florida,12105,62
+3229,32583,2,Milton,Santa Rosa County,30.6,-87.0,Florida,12113,17
+3230,33185,2,Miami,Miami-Dade County,25.72,-80.45,Florida,12086,130
+3234,34224,2,Englewood,Charlotte County,26.91,-82.3,Florida,12015,27
+3239,33950,2,Punta Gorda,Charlotte County,26.92,-82.04,Florida,12015,27
+3247,33128,2,Miami,Miami-Dade County,25.78,-80.2,Florida,12086,130
+3248,33024,1,Hollywood,Broward County,26.03,-80.24,Florida,12011,94
+3250,32822,2,Orlando,Orange County,28.5,-81.29,Florida,12095,97
+3252,32641,1,Gainesville,Alachua County,29.63,-82.24,Florida,12001,9
+3256,32305,1,Tallahassee,Leon County,30.3,-84.3,Florida,12073,21
+3264,34983,2,Port Saint Lucie,St. Lucie County,27.32,-80.35,Florida,12111,24
+3274,32444,2,Lynn Haven,Bay County,30.23,-85.64,Florida,12005,14
+3279,32211,2,Jacksonville,Duval County,30.33,-81.59,Florida,12031,100
+3284,33647,2,Tampa,Hillsborough County,28.12,-82.35,Florida,12057,142
+3285,33138,2,Miami,Miami-Dade County,25.85,-80.18,Florida,12086,130
+3287,32539,1,Crestview,Okaloosa County,30.8,-86.4,Florida,12091,20
+3288,32773,1,Sanford,Seminole County,28.75,-81.25,Florida,12117,33
+3290,32219,1,Jacksonville,Duval County,30.4,-81.8,Florida,12031,100
