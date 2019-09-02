@@ -764,10 +764,10 @@ function initStateConfig(state) {
     CENTERED_Y = STATE_CONFIGURATIONS[state].centered_y;
 }
 
-$(document).ready(function() {
-    var route = location.href.toString();
-    var state = route.split('?state=')[1];
-    if (state) {
-        $('.select-state select').val(state);
-    }
-})
+// $(document).ready(function() {
+//     var route = location.href.toString();
+//     var state = route.split('?state=')[1];
+//     if (state) {
+//         $('.select-state select').val(state);
+//     }
+// })
