@@ -2,7 +2,7 @@
 // Specific US state configuration data
 const STATE_CONFIGURATIONS = {
     Georgia: {
-        specific_state_info : './assets/Georgia-data/georgia_March.csv',
+        specific_state_info : './assets/Georgia-data/Georgia_March.csv',
         state_name: 'Georgia',
         state_fips: 13,
         map_ratio: 0.5,
@@ -10,7 +10,7 @@ const STATE_CONFIGURATIONS = {
         centered_y: -5
     },
     Texas: {
-        specific_state_info : './assets/Texas-data/texas_July.csv',
+        specific_state_info : './assets/Texas-data/Texas_July.csv',
         state_name: 'Texas',
         state_fips: 48,
         map_ratio: 1.2,
@@ -18,7 +18,7 @@ const STATE_CONFIGURATIONS = {
         centered_y: 11
     },
     Florida: {
-        specific_state_info : './assets/Florida-data/florida_July.csv',
+        specific_state_info : './assets/Florida-data/Florida_July.csv',
         state_name: 'Florida',
         state_fips: 12,
         map_ratio: 0.7,
@@ -26,7 +26,7 @@ const STATE_CONFIGURATIONS = {
         centered_y: 30
     },
     Michigan: {
-        specific_state_info : './assets/Michigan-data/michigan_July.csv',
+        specific_state_info : './assets/Michigan-data/Michigan_July.csv',
         state_name: 'Michigan',
         state_fips: 26,
         map_ratio: 0.8,
@@ -34,7 +34,7 @@ const STATE_CONFIGURATIONS = {
         centered_y: -2
     }
 }
-var selectedState = getUrlVars()["state"] == undefined ? 'Georgia' : getUrlVars()["state"];
+var selectedState = getUrlVars()["state"] == undefined ? 'Michigan' : getUrlVars()["state"];
 
 // --- config --- //
 const TOPO_JSON = "./assets/us-counties.topojson";
@@ -85,7 +85,6 @@ var margin = {
     , width = width - margin.left - margin.right
     , mapRatio = MAP_RATIO
     , height = width * mapRatio
-    // , height = $(document).height()
     , active = d3.select(null);
 
 var svg = d3.select('.georgia-viz').append('svg')
@@ -150,9 +149,10 @@ var legend_obj = svg.append("g")
 
 $('.import-btn').click(function (e) {
     if (e.target.name === 'NoData') {
-        stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
+        stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
+        // stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
     } else {
-        stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
+        stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
     }
     ready(usMapData, stateInfo);
 })
@@ -181,6 +181,8 @@ function ready(us, stateInfo) {
             d3.csv(stateInfo).then((citydata) => {
                 usCountiesData = data;
                 cityData = citydata;
+                console.log('cityData ======++=======>', cityData)
+                console.log('stateInfo ================>', stateInfo)
                 mainMapDraw(us, cityData, usCountiesData);
                 if (cityData.length == 0) {
                     if(!zoomable) {
@@ -764,10 +766,10 @@ function initStateConfig(state) {
     CENTERED_Y = STATE_CONFIGURATIONS[state].centered_y;
 }
 
-// $(document).ready(function() {
-//     var route = location.href.toString();
-//     var state = route.split('?state=')[1];
-//     if (state) {
-//         $('.select-state select').val(state);
-//     }
-// })
+$(document).ready(function() {
+    var route = location.href.toString();
+    var state = route.split('?state=')[1];
+    if (state) {
+        $('.select-state select').val(state);
+    }
+})
