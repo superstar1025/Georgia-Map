@@ -180,8 +180,6 @@ function ready(us, stateInfo) {
             d3.csv(stateInfo).then((citydata) => {
                 usCountiesData = data;
                 cityData = citydata;
-                console.log('cityData ======++=======>', cityData)
-                console.log('stateInfo ================>', stateInfo)
                 mainMapDraw(us, cityData, usCountiesData);
                 if (cityData.length == 0) {
                     if(!zoomable) {
