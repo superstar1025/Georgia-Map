@@ -34,7 +34,7 @@ const STATE_CONFIGURATIONS = {
         centered_y: -2
     }
 }
-var selectedState = getUrlVars()["state"] == undefined ? 'Michigan' : getUrlVars()["state"];
+var selectedState = getUrlVars()["state"] == undefined ? 'Georgia' : getUrlVars()["state"];
 
 // --- config --- //
 const TOPO_JSON = "./assets/us-counties.topojson";
@@ -150,7 +150,6 @@ var legend_obj = svg.append("g")
 $('.import-btn').click(function (e) {
     if (e.target.name === 'NoData') {
         stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
-        // stateInfo = './assets/Georgia-data/georgia_' + e.target.name + '.csv';
     } else {
         stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
     }
