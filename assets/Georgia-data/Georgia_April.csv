@@ -1,0 +1,773 @@
+"Zipcode","City","County","Lat","Long","State","id","CountyScore"
+30002,"Avondale Estates","DeKalb County",33.77,-84.26,"Georgia",13089,2707
+30004,"Alpharetta","Fulton County",34.14,-84.29,"Georgia",13121,3344
+30005,"Alpharetta","Fulton County",34.09,-84.22,"Georgia",13121,3344
+30008,"Marietta","Cobb County",33.9,-84.59,"Georgia",13067,1490
+30009,"Alpharetta","Fulton County",34.08,-84.3,"Georgia",13121,3344
+30011,"Auburn","Barrow County",34.03,-83.83,"Georgia",13013,215
+30012,"Conyers","Rockdale County",33.72,-84.01,"Georgia",13247,294
+30013,"Conyers","Rockdale County",33.64,-83.97,"Georgia",13247,294
+30014,"Covington","Newton County",33.6,-83.8,"Georgia",13217,619
+30015,"Covington","Newton County","null","null","Georgia",13217,619
+30016,"Covington","Newton County",33.5,-83.9,"Georgia",13217,619
+30017,"Grayson","Gwinnett County",33.89,-83.96,"Georgia",13135,1436
+30019,"Dacula","Gwinnett County",34,-83.9,"Georgia",13135,1436
+30021,"Clarkston","DeKalb County",33.81,-84.24,"Georgia",13089,2707
+30022,"Alpharetta","Fulton County",34.02,-84.25,"Georgia",13121,3344
+30024,"Suwanee","Gwinnett County",34.07,-84.1,"Georgia",13135,1436
+30025,"Social Circle","Walton County",33.6,-83.7,"Georgia",13297,541
+30028,"Cumming","Forsyth County",34.3,-84.2,"Georgia",13117,155
+30030,"Decatur","DeKalb County",33.77,-84.29,"Georgia",13089,2707
+30032,"Decatur","DeKalb County",33.75,-84.27,"Georgia",13089,2707
+30033,"Decatur","DeKalb County",33.82,-84.29,"Georgia",13089,2707
+30034,"Decatur","DeKalb County",33.69,-84.25,"Georgia",13089,2707
+30035,"Decatur","DeKalb County",33.73,-84.2,"Georgia",13089,2707
+30038,"Lithonia","DeKalb County",33.66,-84.14,"Georgia",13089,2707
+30039,"Snellville","Gwinnett County",33.8,-84.03,"Georgia",13135,1436
+30040,"Cumming","Forsyth County",34.2,-84.2,"Georgia",13117,155
+30041,"Cumming","Forsyth County",34.2,-84.1,"Georgia",13117,155
+30043,"Lawrenceville","Gwinnett County",34.01,-84.01,"Georgia",13135,1436
+30044,"Lawrenceville","Gwinnett County",33.92,-84.07,"Georgia",13135,1436
+30045,"Lawrenceville","Gwinnett County",33.93,-83.92,"Georgia",13135,1436
+30046,"Lawrenceville","Gwinnett County",33.95,-84,"Georgia",13135,1436
+30047,"Lilburn","Gwinnett County",33.87,-84.11,"Georgia",13135,1436
+30052,"Loganville","Walton County",33.8,-83.9,"Georgia",13297,541
+30054,"Oxford","Newton County",33.68,-83.86,"Georgia",13217,619
+30055,"Mansfield","Jasper County",33.5,-83.7,"Georgia",13159,36
+30056,"Newborn","Jasper County",33.5,-83.65,"Georgia",13159,36
+30058,"Lithonia","DeKalb County",33.74,-84.1,"Georgia",13089,2707
+30060,"Marietta","Cobb County",33.93,-84.54,"Georgia",13067,1490
+30062,"Marietta","Cobb County",34,-84.47,"Georgia",13067,1490
+30064,"Marietta","Cobb County",33.93,-84.62,"Georgia",13067,1490
+30066,"Marietta","Cobb County",34.02,-84.5,"Georgia",13067,1490
+30067,"Marietta","Cobb County",33.93,-84.46,"Georgia",13067,1490
+30068,"Marietta","Cobb County",33.97,-84.44,"Georgia",13067,1490
+30070,"Porterdale","Newton County",33.6,-83.8,"Georgia",13217,619
+30071,"Norcross","Gwinnett County",33.94,-84.21,"Georgia",13135,1436
+30072,"Pine Lake","DeKalb County",33.78,-84.2,"Georgia",13089,2707
+30075,"Roswell","Fulton County",34.06,-84.38,"Georgia",13121,3344
+30076,"Roswell","Fulton County",34.02,-84.31,"Georgia",13121,3344
+30078,"Snellville","Gwinnett County",33.86,-84.01,"Georgia",13135,1436
+30079,"Scottdale","DeKalb County",33.79,-84.26,"Georgia",13089,2707
+30080,"Smyrna","Cobb County",33.87,-84.5,"Georgia",13067,1490
+30082,"Smyrna","Cobb County",33.86,-84.53,"Georgia",13067,1490
+30083,"Stone Mountain","DeKalb County",33.79,-84.2,"Georgia",13089,2707
+30084,"Tucker","DeKalb County",33.86,-84.21,"Georgia",13089,2707
+30087,"Stone Mountain","DeKalb County",33.82,-84.11,"Georgia",13089,2707
+30088,"Stone Mountain","DeKalb County",33.76,-84.17,"Georgia",13089,2707
+30092,"Norcross","Gwinnett County",33.97,-84.23,"Georgia",13135,1436
+30093,"Norcross","Gwinnett County",33.91,-84.18,"Georgia",13135,1436
+30094,"Conyers","Rockdale County",33.6,-84.1,"Georgia",13247,294
+30096,"Duluth","Gwinnett County",33.98,-84.15,"Georgia",13135,1436
+30097,"Duluth","Fulton County",34.02,-84.14,"Georgia",13121,3344
+30101,"Acworth","Cobb County",34.03,-84.7,"Georgia",13067,1490
+30102,"Acworth","Cherokee County",34.11,-84.63,"Georgia",13057,466
+30103,"Adairsville","Bartow County",34.4,-84.9,"Georgia",13015,295
+30104,"Aragon","Polk County",34.09,-85.06,"Georgia",13233,233
+30105,"Armuchee","Floyd County",34.5,-85.2,"Georgia",13115,379
+30106,"Austell","Cobb County",33.83,-84.64,"Georgia",13067,1490
+30107,"Ball Ground","Cherokee County",34.3,-84.3,"Georgia",13057,466
+30108,"Bowdon","Carroll County",33.5,-85.3,"Georgia",13045,518
+30110,"Bremen","Haralson County",33.7,-85.2,"Georgia",13143,117
+30113,"Buchanan","Haralson County",33.9,-85.2,"Georgia",13143,117
+30114,"Canton","Cherokee County",34.3,-84.5,"Georgia",13057,466
+30115,"Canton","Cherokee County",34.2,-84.4,"Georgia",13057,466
+30116,"Carrollton","Carroll County",33.6,-85,"Georgia",13045,518
+30117,"Carrollton","Carroll County",33.6,-85.1,"Georgia",13045,518
+30118,"Carrollton","Carroll County",33.572,-85.103,"Georgia",13045,518
+30120,"Cartersville","Bartow County",34.2,-84.8,"Georgia",13015,295
+30121,"Cartersville","Bartow County",34.2,-84.8,"Georgia",13015,295
+30122,"Lithia Springs","Douglas County",33.76,-84.65,"Georgia",13097,550
+30124,"Cave Spring","Floyd County",34.14,-85.35,"Georgia",13115,379
+30125,"Cedartown","Polk County",34,-85.3,"Georgia",13233,233
+30126,"Mableton","Cobb County",33.82,-84.55,"Georgia",13067,1490
+30127,"Powder Springs","Cobb County",33.9,-84.7,"Georgia",13067,1490
+30132,"Dallas","Paulding County",34,-84.9,"Georgia",13223,314
+30134,"Douglasville","Douglas County",33.8,-84.8,"Georgia",13097,550
+30135,"Douglasville","Douglas County",33.7,-84.7,"Georgia",13097,550
+30137,"Emerson","Bartow County",34.12,-84.77,"Georgia",13015,295
+30139,"Fairmount","Gordon County",34.4,-84.7,"Georgia",13129,207
+30141,"Hiram","Paulding County",33.86,-84.76,"Georgia",13223,314
+30143,"Jasper","Pickens County",34.5,-84.4,"Georgia",13227,90
+30144,"Kennesaw","Cobb County",34.03,-84.6,"Georgia",13067,1490
+30145,"Kingston","Bartow County",34.2,-85,"Georgia",13015,295
+30147,"Lindale","Floyd County",34.15,-85.22,"Georgia",13115,379
+30148,"Marble Hill","Pickens County",34.44,-84.29,"Georgia",13227,90
+30152,"Kennesaw","Cobb County",33.99,-84.64,"Georgia",13067,1490
+30153,"Rockmart","Polk County",34,-85.1,"Georgia",13233,233
+30157,"Dallas","Paulding County",33.9,-84.9,"Georgia",13223,314
+30161,"Rome","Floyd County",34.3,-85.2,"Georgia",13115,379
+30164,"Rome","Newton County",34.3,-85.2,"Georgia",13217,619
+30165,"Rome","Floyd County",34.3,-85.3,"Georgia",13115,379
+30168,"Austell","Cobb County",33.78,-84.59,"Georgia",13067,1490
+30170,"Roopville","Carroll County",33.4,-85.2,"Georgia",13045,518
+30171,"Rydal","Bartow County",34.36,-84.74,"Georgia",13015,295
+30173,"Silver Creek","Floyd County",34.14,-85.13,"Georgia",13115,379
+30175,"Talking Rock","Pickens County",34.5,-84.5,"Georgia",13227,90
+30176,"Tallapoosa","Haralson County",33.8,-85.3,"Georgia",13143,117
+30178,"Taylorsville","Bartow County",34.1,-85,"Georgia",13015,295
+30179,"Temple","Carroll County",33.8,-85,"Georgia",13045,518
+30180,"Villa Rica","Carroll County",33.7,-84.9,"Georgia",13045,518
+30182,"Waco","Carroll County",33.65,-85.25,"Georgia",13045,518
+30183,"Waleska","Cherokee County",34.34,-84.59,"Georgia",13057,466
+30184,"White","Bartow County",34.3,-84.7,"Georgia",13015,295
+30185,"Whitesburg","Carroll County",33.51,-84.91,"Georgia",13045,518
+30187,"Winston","Douglas County",33.7,-84.8,"Georgia",13097,550
+30188,"Woodstock","Cherokee County",34.12,-84.45,"Georgia",13057,466
+30204,"Barnesville","Lamar County",33.1,-84.1,"Georgia",13171,27
+30206,"Concord","Pike County",33.1,-84.44,"Georgia",13231,34
+30212,"Experiment","Spalding County","null","null","Georgia",13255,262
+30213,"Fairburn","Fulton County",33.6,-84.6,"Georgia",13121,3344
+30214,"Fayetteville","Fayette County",33.49,-84.48,"Georgia",13113,130
+30215,"Fayetteville","Fayette County",33.4,-84.5,"Georgia",13113,130
+30216,"Flovilla","Butts County",33.24,-83.87,"Georgia",13035,55
+30217,"Franklin","Heard County",33.3,-85.1,"Georgia",13149,14
+30218,"Gay","Meriwether County",33.13,-84.59,"Georgia",13199,60
+30220,"Grantville","Coweta County",33.23,-84.84,"Georgia",13077,198
+30222,"Greenville","Meriwether County",33,-84.7,"Georgia",13199,60
+30223,"Griffin","Spalding County",33.3,-84.3,"Georgia",13255,262
+30224,"Griffin","Spalding County",33.2,-84.2,"Georgia",13255,262
+30228,"Hampton","Henry County",33.41,-84.3,"Georgia",13151,847
+30230,"Hogansville","Troup County",33.2,-84.9,"Georgia",13285,422
+30233,"Jackson","Butts County",33.3,-84,"Georgia",13035,55
+30234,"Jenkinsburg","Butts County",33.32,-84.03,"Georgia",13035,55
+30236,"Jonesboro","Clayton County",33.53,-84.33,"Georgia",13063,1509
+30238,"Jonesboro","Clayton County",33.5,-84.38,"Georgia",13063,1509
+30240,"Lagrange","Troup County",33,-85.1,"Georgia",13285,422
+30241,"Lagrange","Troup County",33,-85,"Georgia",13285,422
+30248,"Locust Grove","Henry County",33.3,-84.1,"Georgia",13151,847
+30250,"Lovejoy","Clayton County",33.41,-84.3,"Georgia",13063,1509
+30251,"Luthersville","Meriwether County",33.18,-84.7,"Georgia",13199,60
+30252,"Mcdonough","Henry County",33.5,-84,"Georgia",13151,847
+30253,"Mcdonough","Henry County",33.45,-84.19,"Georgia",13151,847
+30256,"Meansville","Pike County",33.02,-84.32,"Georgia",13231,34
+30257,"Milner","Lamar County",33.1,-84.2,"Georgia",13171,27
+30258,"Molena","Pike County",33,-84.4,"Georgia",13231,34
+30259,"Moreland","Coweta County",33.27,-84.72,"Georgia",13077,198
+30260,"Morrow","Clayton County",33.58,-84.33,"Georgia",13063,1509
+30263,"Newnan","Coweta County",33.4,-84.9,"Georgia",13077,198
+30265,"Newnan","Coweta County",33.42,-84.7,"Georgia",13077,198
+30266,"Orchard Hill","Spalding County","null","null","Georgia",13255,262
+30268,"Palmetto","Fulton County",33.6,-84.7,"Georgia",13121,3344
+30269,"Peachtree City","Fayette County",33.39,-84.57,"Georgia",13113,130
+30271,"Newnan","Coweta County","null","null","Georgia",13077,198
+30272,"Red Oak","Fulton County","null","null","Georgia",13121,3344
+30273,"Rex","Clayton County",33.58,-84.27,"Georgia",13063,1509
+30274,"Riverdale","Clayton County",33.55,-84.4,"Georgia",13063,1509
+30276,"Senoia","Coweta County",33.3,-84.6,"Georgia",13077,198
+30277,"Sharpsburg","Coweta County",33.4,-84.6,"Georgia",13077,198
+30281,"Stockbridge","Henry County",33.6,-84.2,"Georgia",13151,847
+30284,"Sunny Side","Spalding County",33.41,-84.3,"Georgia",13255,262
+30285,"The Rock","Upson County",32.97,-84.25,"Georgia",13293,87
+30286,"Thomaston","Upson County",32.9,-84.3,"Georgia",13293,87
+30288,"Conley","Clayton County",33.65,-84.32,"Georgia",13063,1509
+30290,"Tyrone","Fayette County",33.48,-84.59,"Georgia",13113,130
+30291,"Union City","Fulton County",33.57,-84.54,"Georgia",13121,3344
+30292,"Williamson","Pike County",33.17,-84.41,"Georgia",13231,34
+30293,"Woodbury","Meriwether County",33,-84.6,"Georgia",13199,60
+30294,"Ellenwood","DeKalb County",33.64,-84.25,"Georgia",13089,2707
+30295,"Zebulon","Pike County",33.1,-84.31,"Georgia",13231,34
+30296,"Riverdale","Clayton County",33.56,-84.45,"Georgia",13063,1509
+30297,"Forest Park","Clayton County",33.61,-84.36,"Georgia",13063,1509
+30301,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30303,"Atlanta","Fulton County",33.75,-84.39,"Georgia",13121,3344
+30305,"Atlanta","Fulton County",33.84,-84.38,"Georgia",13121,3344
+30306,"Atlanta","Fulton County",33.79,-84.35,"Georgia",13121,3344
+30307,"Atlanta","DeKalb County",33.77,-84.34,"Georgia",13089,2707
+30308,"Atlanta","Fulton County",33.77,-84.38,"Georgia",13121,3344
+30309,"Atlanta","Fulton County",33.8,-84.39,"Georgia",13121,3344
+30310,"Atlanta","Fulton County",33.73,-84.43,"Georgia",13121,3344
+30311,"Atlanta","Fulton County",33.73,-84.47,"Georgia",13121,3344
+30312,"Atlanta","Fulton County",33.74,-84.38,"Georgia",13121,3344
+30313,"Atlanta","Fulton County",33.76,-84.4,"Georgia",13121,3344
+30314,"Atlanta","Fulton County",33.76,-84.43,"Georgia",13121,3344
+30315,"Atlanta","Fulton County",33.7,-84.38,"Georgia",13121,3344
+30316,"Atlanta","DeKalb County",33.74,-84.34,"Georgia",13089,2707
+30317,"Atlanta","DeKalb County",33.75,-84.32,"Georgia",13089,2707
+30318,"Atlanta","Fulton County",33.79,-84.44,"Georgia",13121,3344
+30319,"Atlanta","DeKalb County",33.86,-84.35,"Georgia",13089,2707
+30324,"Atlanta","Fulton County",33.82,-84.36,"Georgia",13121,3344
+30326,"Atlanta","Fulton County",33.85,-84.36,"Georgia",13121,3344
+30328,"Atlanta","Fulton County",33.93,-84.4,"Georgia",13121,3344
+30329,"Atlanta","DeKalb County",33.83,-84.33,"Georgia",13089,2707
+30331,"Atlanta","Fulton County",33.72,-84.56,"Georgia",13121,3344
+30332,"Atlanta","Fulton County",33.75,-84.39,"Georgia",13121,3344
+30334,"Atlanta","Fulton County",33.749,-84.387,"Georgia",13121,3344
+30336,"Atlanta","Fulton County",33.74,-84.57,"Georgia",13121,3344
+30337,"Atlanta","Fulton County",33.64,-84.44,"Georgia",13121,3344
+30338,"Atlanta","DeKalb County",33.94,-84.32,"Georgia",13089,2707
+30339,"Atlanta","Cobb County",33.87,-84.45,"Georgia",13067,1490
+30340,"Atlanta","DeKalb County",33.89,-84.23,"Georgia",13089,2707
+30341,"Atlanta","DeKalb County",33.89,-84.28,"Georgia",13089,2707
+30342,"Atlanta","Fulton County",33.88,-84.38,"Georgia",13121,3344
+30343,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30344,"Atlanta","Fulton County",33.68,-84.44,"Georgia",13121,3344
+30345,"Atlanta","DeKalb County",33.85,-84.28,"Georgia",13089,2707
+30346,"Atlanta","DeKalb County",33.92,-84.34,"Georgia",13089,2707
+30349,"Atlanta","Fulton County",33.6,-84.5,"Georgia",13121,3344
+30350,"Atlanta","Fulton County",33.98,-84.32,"Georgia",13121,3344
+30354,"Atlanta","Fulton County",33.66,-84.4,"Georgia",13121,3344
+30356,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30360,"Atlanta","DeKalb County",33.93,-84.26,"Georgia",13089,2707
+30363,"Atlanta","Fulton County",33.792,-84.399,"Georgia",13121,3344
+30364,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30366,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30392,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+30401,"Swainsboro","Emanuel County",32.6,-82.4,"Georgia",13107,248
+30404,,,"null","null","Georgia","NA","null"
+30410,"Ailey","Montgomery County",32.2,-82.5,"Georgia",13209,43
+30411,"Alamo","Wheeler County",32.1,-82.8,"Georgia",13309,20
+30413,"Bartow","Jefferson County",32.9,-82.5,"Georgia",13163,58
+30415,"Brooklet","Bulloch County",32.4,-81.6,"Georgia",13031,591
+30417,"Claxton","Evans County",32.2,-81.9,"Georgia",13109,34
+30420,"Cobbtown","Tattnall County",32.26,-82.14,"Georgia",13267,43
+30421,"Collins","Tattnall County",32.2,-82.1,"Georgia",13267,43
+30425,"Garfield","Emanuel County",32.6,-82,"Georgia",13107,248
+30426,"Girard","Burke County",33,-81.7,"Georgia",13033,123
+30427,"Glennville","Tattnall County",31.9,-81.9,"Georgia",13267,43
+30428,"Glenwood","Wheeler County",32.2,-82.7,"Georgia",13309,20
+30429,"Hagan","Evans County",32.2,-81.9,"Georgia",13109,34
+30434,"Louisville","Jefferson County",33,-82.4,"Georgia",13163,58
+30436,"Lyons","Toombs County",32.2,-82.3,"Georgia",13279,192
+30439,"Metter","Candler County",32.4,-82.1,"Georgia",13043,24
+30441,"Midville","Emanuel County",32.8,-82.3,"Georgia",13107,248
+30442,"Millen","Jenkins County",32.8,-82,"Georgia",13165,24
+30445,"Mount Vernon","Montgomery County",32.2,-82.6,"Georgia",13209,43
+30446,"Newington","Screven County",32.6,-81.5,"Georgia",13251,76
+30448,"Nunez","Emanuel County",32.6,-82.3,"Georgia",13107,248
+30449,"Oliver","Screven County",32.6,-81.5,"Georgia",13251,76
+30450,"Portal","Bulloch County",32.56,-81.94,"Georgia",13031,591
+30452,"Register","Bulloch County",32.3,-81.9,"Georgia",13031,591
+30453,"Reidsville","Tattnall County",32,-82.1,"Georgia",13267,43
+30455,"Rocky Ford","Screven County",32.7,-81.8,"Georgia",13251,76
+30456,"Sardis","Burke County",33,-81.8,"Georgia",13033,123
+30457,"Soperton","Treutlen County",32.4,-82.5,"Georgia",13283,24
+30458,"Statesboro","Bulloch County",32.4,-81.9,"Georgia",13031,591
+30459,"Statesboro","Bulloch County","null","null","Georgia",13031,591
+30460,"Statesboro","Bulloch County",32.4,-81.8,"Georgia",13031,591
+30461,"Statesboro","Bulloch County",32.5,-81.7,"Georgia",13031,591
+30463,,,"null","null","Georgia","NA","null"
+30464,"Stillmore","Emanuel County",32.5,-82.1,"Georgia",13107,248
+30467,"Sylvania","Screven County",32.7,-81.6,"Georgia",13251,76
+30470,"Tarrytown","Montgomery County",32.29,-82.51,"Georgia",13209,43
+30471,"Twin City","Emanuel County",32.5,-82.1,"Georgia",13107,248
+30473,"Uvalda","Montgomery County",32,-82.5,"Georgia",13209,43
+30474,"Vidalia","Toombs County",32.2,-82.4,"Georgia",13279,192
+30475,"Vidalia","Toombs County",32.2,-82.4,"Georgia",13279,192
+30477,"Wadley","Jefferson County",32.9,-82.4,"Georgia",13163,58
+30501,"Gainesville","Hall County",34.32,-83.81,"Georgia",13139,386
+30504,"Gainesville","Hall County",34.27,-83.89,"Georgia",13139,386
+30506,"Gainesville","Hall County",34.3,-83.9,"Georgia",13139,386
+30507,"Gainesville","Hall County",34.3,-83.8,"Georgia",13139,386
+30510,"Alto","Habersham County",34.45,-83.57,"Georgia",13137,153
+30511,"Baldwin","Banks County",34.46,-83.47,"Georgia",13011,32
+30512,"Blairsville","Union County",34.9,-84,"Georgia",13291,72
+30513,"Blue Ridge","Fannin County",34.8,-84.3,"Georgia",13111,54
+30514,"Blairsville","Union County","null","null","Georgia",13291,72
+30515,"Buford","Gwinnett County","null","null","Georgia",13135,1436
+30516,"Bowersville","Hart County",34.38,-83.03,"Georgia",13147,83
+30517,"Braselton","Jackson County",34.13,-83.79,"Georgia",13157,116
+30518,"Buford","Gwinnett County",34.12,-84.01,"Georgia",13135,1436
+30519,"Buford","Gwinnett County",34.09,-83.94,"Georgia",13135,1436
+30520,"Canon","Franklin County",34.3,-83.1,"Georgia",13119,60
+30521,"Carnesville","Franklin County",34.4,-83.3,"Georgia",13119,60
+30522,"Cherry Log","Gilmer County",34.8,-84.4,"Georgia",13123,123
+30523,"Clarkesville","Habersham County",34.7,-83.5,"Georgia",13137,153
+30525,"Clayton","Rabun County",34.9,-83.4,"Georgia",13241,69
+30527,"Clermont","Hall County",34.48,-83.77,"Georgia",13139,386
+30528,"Cleveland","White County",34.6,-83.8,"Georgia",13311,132
+30529,"Commerce","Jackson County",34.2,-83.5,"Georgia",13157,116
+30530,"Commerce","Banks County",34.2,-83.4,"Georgia",13011,32
+30531,"Cornelia","Habersham County",34.5,-83.6,"Georgia",13137,153
+30533,"Dahlonega","Lumpkin County",34.5,-84,"Georgia",13187,80
+30534,"Dawsonville","Dawson County",34.5,-84.1,"Georgia",13085,92
+30535,"Demorest","Habersham County",34.59,-83.57,"Georgia",13137,153
+30536,"Ellijay","Gilmer County",34.7,-84.4,"Georgia",13123,123
+30537,"Dillard","Rabun County",34.96,-83.35,"Georgia",13241,69
+30538,"Eastanollee","Stephens County",34.5,-83.27,"Georgia",13257,121
+30539,"East Ellijay","Gilmer County","null","null","Georgia",13123,123
+30540,"Ellijay","Gilmer County",34.7,-84.5,"Georgia",13123,123
+30542,"Flowery Branch","Hall County",34.17,-83.91,"Georgia",13139,386
+30543,"Gillsville","Hall County",34.29,-83.65,"Georgia",13139,386
+30546,"Hiawassee","Towns County",34.9,-83.7,"Georgia",13281,13
+30547,"Homer","Banks County",34.37,-83.47,"Georgia",13011,32
+30548,"Hoschton","Jackson County",34.1,-83.8,"Georgia",13157,116
+30549,"Jefferson","Jackson County",34.1,-83.6,"Georgia",13157,116
+30552,"Lakemont","Rabun County",34.8,-83.4,"Georgia",13241,69
+30553,"Lavonia","Franklin County",34.4,-83.1,"Georgia",13119,60
+30554,"Lula","Hall County",34.4,-83.6,"Georgia",13139,386
+30555,"Mc Caysville","Fannin County",34.97,-84.42,"Georgia",13111,54
+30556,,,"null","null","Georgia","NA","null"
+30557,"Martin","Stephens County",34.5,-83.2,"Georgia",13257,121
+30558,"Maysville","Jackson County",34.3,-83.6,"Georgia",13157,116
+30559,"Mineral Bluff","Fannin County",34.9,-84.2,"Georgia",13111,54
+30560,"Morganton","Fannin County",34.9,-84.2,"Georgia",13111,54
+30562,"Mountain City","Rabun County",34.9,-83.4,"Georgia",13241,69
+30563,"Mount Airy","Habersham County",34.56,-83.46,"Georgia",13137,153
+30564,"Murrayville","Hall County",34.5,-83.9,"Georgia",13139,386
+30565,"Nicholson","Jackson County",34.09,-83.41,"Georgia",13157,116
+30566,"Oakwood","Hall County",34.24,-83.89,"Georgia",13139,386
+30567,"Pendergrass","Jackson County",34.19,-83.68,"Georgia",13157,116
+30568,"Rabun Gap","Rabun County",34.95,-83.42,"Georgia",13241,69
+30571,"Sautee Nacoochee","White County",34.72,-83.7,"Georgia",13311,132
+30572,"Suches","Union County",34.7,-84.1,"Georgia",13291,72
+30575,"Talmo","Jackson County",34.2,-83.72,"Georgia",13157,116
+30576,"Tiger","Rabun County",34.8,-83.4,"Georgia",13241,69
+30577,"Toccoa","Stephens County",34.6,-83.3,"Georgia",13257,121
+30582,"Young Harris","Towns County",34.91,-83.9,"Georgia",13281,13
+30601,"Athens","Clarke County",34,-83.35,"Georgia",13059,490
+30604,"Athens","Clarke County","null","null","Georgia",13059,490
+30605,"Athens","Clarke County",33.9,-83.32,"Georgia",13059,490
+30606,"Athens","Clarke County",33.94,-83.44,"Georgia",13059,490
+30607,"Athens","Clarke County",34.03,-83.45,"Georgia",13059,490
+30608,"Athens","Clarke County","null","null","Georgia",13059,490
+30609,"Athens","Clarke County",33.9,-83.37,"Georgia",13059,490
+30612,"Athens","Clarke County","null","null","Georgia",13059,490
+30619,"Arnoldsville","Oglethorpe County",33.85,-83.25,"Georgia",13221,17
+30620,"Bethlehem","Barrow County",33.93,-83.75,"Georgia",13013,215
+30621,"Bishop","Oconee County",33.8,-83.48,"Georgia",13219,27
+30622,"Bogart","Oconee County",33.9,-83.5,"Georgia",13219,27
+30624,"Bowman","Elbert County",34.2,-83.1,"Georgia",13105,78
+30625,"Buckhead","Morgan County",33.53,-83.36,"Georgia",13211,106
+30628,"Colbert","Madison County",34.03,-83.22,"Georgia",13195,72
+30629,"Comer","Madison County",34.1,-83.1,"Georgia",13195,72
+30630,"Crawford","Oglethorpe County",33.9,-83.15,"Georgia",13221,17
+30631,"Crawfordville","Taliaferro County",33.6,-82.8,"Georgia",13265,2
+30633,"Danielsville","Madison County",34.2,-83.3,"Georgia",13195,72
+30634,"Dewy Rose","Elbert County",34.2,-82.9,"Georgia",13105,78
+30635,"Elberton","Elbert County",34.1,-82.8,"Georgia",13105,78
+30641,"Good Hope","Walton County",33.78,-83.57,"Georgia",13297,541
+30642,"Greensboro","Greene County",33.5,-83.2,"Georgia",13133,55
+30643,"Hartwell","Hart County",34.4,-82.9,"Georgia",13147,83
+30646,"Hull","Madison County",34.08,-83.31,"Georgia",13195,72
+30648,"Lexington","Oglethorpe County",33.9,-83,"Georgia",13221,17
+30650,"Madison","Morgan County",33.6,-83.4,"Georgia",13211,106
+30655,"Monroe","Walton County",33.8,-83.7,"Georgia",13297,541
+30656,"Monroe","Walton County",33.9,-83.7,"Georgia",13297,541
+30658,,,"null","null","Georgia","NA","null"
+30660,"Rayle","Wilkes County",33.8,-82.9,"Georgia",13317,24
+30662,"Royston","Franklin County",34.3,-83.1,"Georgia",13119,60
+30663,"Rutledge","Morgan County",33.6,-83.6,"Georgia",13211,106
+30665,"Siloam","Greene County",33.5,-83.2,"Georgia",13133,55
+30666,"Statham","Barrow County",33.96,-83.58,"Georgia",13013,215
+30667,"Stephens","Oglethorpe County",33.8,-83.2,"Georgia",13221,17
+30668,"Tignall","Wilkes County",33.9,-82.7,"Georgia",13317,24
+30669,"Union Point","Greene County",33.7,-83.1,"Georgia",13133,55
+30673,"Washington","Wilkes County",33.7,-82.7,"Georgia",13317,24
+30677,"Watkinsville","Oconee County",33.8,-83.4,"Georgia",13219,27
+30678,"White Plains","Greene County",33.5,-83.1,"Georgia",13133,55
+30680,"Winder","Barrow County",34,-83.7,"Georgia",13013,215
+30683,"Winterville","Clarke County",33.93,-83.26,"Georgia",13059,490
+30686,,,"null","null","Georgia","NA","null"
+30701,"Calhoun","Gordon County",34.5,-85,"Georgia",13129,207
+30705,"Chatsworth","Murray County",34.7,-84.8,"Georgia",13213,79
+30707,"Chickamauga","Walker County",34.8,-85.3,"Georgia",13295,298
+30708,"Cisco","Murray County",34.96,-84.66,"Georgia",13213,79
+30710,"Cohutta","Whitfield County",34.94,-84.91,"Georgia",13313,286
+30711,"Crandall","Murray County",34.9,-84.7,"Georgia",13213,79
+30715,,,"null","null","Georgia","NA","null"
+30720,"Dalton","Whitfield County",34.8,-85,"Georgia",13313,286
+30721,"Dalton","Whitfield County",34.8,-84.9,"Georgia",13313,286
+30722,"Dalton","Whitfield County","null","null","Georgia",13313,286
+30725,"Flintstone","Walker County",34.93,-85.36,"Georgia",13295,298
+30728,"La Fayette","Walker County",34.7,-85.2,"Georgia",13295,298
+30730,"Lyerly","Chattooga County",34.38,-85.41,"Georgia",13055,124
+30731,"Menlo","Chattooga County",34.6,-85.5,"Georgia",13055,124
+30732,"Oakman","Gordon County","null","null","Georgia",13129,207
+30733,"Plainville","Gordon County",34.42,-85.05,"Georgia",13129,207
+30734,"Ranger","Gordon County",34.5,-84.7,"Georgia",13129,207
+30735,"Resaca","Gordon County",34.6,-84.9,"Georgia",13129,207
+30736,"Ringgold","Catoosa County",34.9,-85.1,"Georgia",13047,93
+30738,"Rising Fawn","Dade County",34.8,-85.5,"Georgia",13083,48
+30739,"Rock Spring","Walker County",34.8,-85.22,"Georgia",13295,298
+30740,"Rocky Face","Whitfield County",34.76,-85.09,"Georgia",13313,286
+30741,"Rossville","Walker County",34.94,-85.27,"Georgia",13295,298
+30742,"Fort Oglethorpe","Catoosa County",34.95,-85.24,"Georgia",13047,93
+30743,,,"null","null","Georgia","NA","null"
+30745,,,"null","null","Georgia","NA","null"
+30746,"Sugar Valley","Gordon County",34.6,-85,"Georgia",13129,207
+30747,"Summerville","Chattooga County",34.5,-85.3,"Georgia",13055,124
+30750,"Lookout Mountain","Walker County",34.94,-85.39,"Georgia",13295,298
+30752,"Trenton","Dade County",34.9,-85.5,"Georgia",13083,48
+30753,"Trion","Chattooga County",34.59,-85.28,"Georgia",13055,124
+30755,"Tunnel Hill","Whitfield County",34.86,-85.04,"Georgia",13313,286
+30757,"Wildwood","Dade County",34.93,-85.44,"Georgia",13083,48
+30802,"Appling","Columbia County",33.6,-82.3,"Georgia",13073,357
+30803,"Avera","Jefferson County",33.2,-82.6,"Georgia",13163,58
+30804,,,"null","null","Georgia","NA","null"
+30805,"Blythe","Richmond County",33.3,-82.2,"Georgia",13245,1156
+30808,"Dearing","McDuffie County",33.39,-82.38,"Georgia",13189,142
+30809,"Evans","Columbia County",33.56,-82.16,"Georgia",13073,357
+30810,"Gibson","Glascock County",33.2,-82.6,"Georgia",13125,3
+30813,"Grovetown","Columbia County",33.47,-82.22,"Georgia",13073,357
+30814,"Harlem","Columbia County",33.43,-82.31,"Georgia",13073,357
+30815,"Hephzibah","Richmond County",33.3,-82.1,"Georgia",13245,1156
+30816,"Keysville","Burke County",33.2,-82.1,"Georgia",13033,123
+30817,"Lincolnton","Lincoln County",33.8,-82.4,"Georgia",13181,11
+30818,"Matthews","Jefferson County",33.26,-82.33,"Georgia",13163,58
+30820,"Mitchell","Glascock County",33.2,-82.7,"Georgia",13125,3
+30821,"Norwood","Warren County",33.5,-82.7,"Georgia",13301,23
+30823,"Stapleton","Jefferson County",33.2,-82.4,"Georgia",13163,58
+30824,"Thomson","McDuffie County",33.5,-82.5,"Georgia",13189,142
+30828,"Warrenton","Warren County",33.4,-82.7,"Georgia",13301,23
+30830,"Waynesboro","Burke County",33.1,-82,"Georgia",13033,123
+30833,"Wrens","Jefferson County",33.2,-82.4,"Georgia",13163,58
+30858,,,"null","null","Georgia","NA","null"
+30860,,,"null","null","Georgia","NA","null"
+30867,,,"null","null","Georgia","NA","null"
+30888,,,"null","null","Georgia","NA","null"
+30891,,,"null","null","Georgia","NA","null"
+30901,"Augusta","Richmond County",33.43,-81.96,"Georgia",13245,1156
+30903,"Augusta","Columbia County",33.43,-81.96,"Georgia",13073,357
+30904,"Augusta","Richmond County",33.48,-82.02,"Georgia",13245,1156
+30905,"Augusta","Richmond County",33.4,-82.17,"Georgia",13245,1156
+30906,"Augusta","Richmond County",33.3,-82,"Georgia",13245,1156
+30907,"Augusta","Columbia County",33.53,-82.09,"Georgia",13073,357
+30909,"Augusta","Richmond County",33.48,-82.1,"Georgia",13245,1156
+30914,"Augusta","Richmond County","null","null","Georgia",13245,1156
+30916,"Augusta","Richmond County","null","null","Georgia",13245,1156
+30919,"Augusta","Richmond County","null","null","Georgia",13245,1156
+30927,,,"null","null","Georgia","NA","null"
+31001,"Abbeville","Wilcox County",32,-83.3,"Georgia",13315,26
+31002,"Adrian","Emanuel County",32.6,-82.6,"Georgia",13107,248
+31005,"Bonaire","Houston County",32.5,-83.6,"Georgia",13153,671
+31007,"Byromville","Dooly County",32.2,-83.9,"Georgia",13093,29
+31008,"Byron","Peach County",32.6,-83.8,"Georgia",13225,85
+31009,"Cadwell","Laurens County",32.3,-83,"Georgia",13175,193
+31011,"Chauncey","Dodge County",32.1,-83.1,"Georgia",13091,181
+31012,"Chester","Dodge County",32.4,-83.2,"Georgia",13091,181
+31014,"Cochran","Bleckley County",32.4,-83.3,"Georgia",13023,81
+31015,"Cordele","Crisp County",31.9,-83.8,"Georgia",13081,169
+31016,"Culloden","Monroe County",32.8,-84.1,"Georgia",13207,88
+31017,"Danville","Twiggs County",32.6,-83.2,"Georgia",13289,22
+31018,"Davisboro","Washington County",33,-82.6,"Georgia",13303,131
+31019,"Dexter","Laurens County",32.42,-83.05,"Georgia",13175,193
+31020,"Dry Branch","Twiggs County",32.6,-83.5,"Georgia",13289,22
+31021,"Dublin","Laurens County",32.5,-82.9,"Georgia",13175,193
+31022,"Dudley","Laurens County",32.5,-83.1,"Georgia",13175,193
+31023,"Eastman","Dodge County",32.2,-83.2,"Georgia",13091,181
+31024,"Eatonton","Putnam County",33.3,-83.3,"Georgia",13237,146
+31025,"Elko","Houston County",32.3,-83.7,"Georgia",13153,671
+31027,"East Dublin","Laurens County",32.6,-82.8,"Georgia",13175,193
+31028,"Centerville","Houston County",32.63,-83.69,"Georgia",13153,671
+31029,"Forsyth","Monroe County",33,-83.9,"Georgia",13207,88
+31030,"Fort Valley","Peach County",32.6,-83.9,"Georgia",13225,85
+31031,"Gordon","Wilkinson County",32.9,-83.3,"Georgia",13319,31
+31032,"Gray","Jones County",33,-83.6,"Georgia",13169,10
+31033,"Haddock","Jones County",33.1,-83.5,"Georgia",13169,10
+31034,"Hardwick","Baldwin County","null","null","Georgia",13009,179
+31035,"Harrison","Washington County",32.86,-82.71,"Georgia",13303,131
+31036,"Hawkinsville","Pulaski County",32.3,-83.5,"Georgia",13235,46
+31037,"Helena","Telfair County",32.1,-82.9,"Georgia",13271,80
+31038,"Hillsboro","Jasper County",33.2,-83.6,"Georgia",13159,36
+31039,"Howard","Taylor County",32.596,-84.382,"Georgia",13269,5
+31040,"Dublin","Laurens County","null","null","Georgia",13175,193
+31042,"Irwinton","Wilkinson County",32.77,-83.18,"Georgia",13319,31
+31044,"Jeffersonville","Twiggs County",32.7,-83.4,"Georgia",13289,22
+31046,"Juliette","Monroe County",33,-83.8,"Georgia",13207,88
+31047,"Kathleen","Houston County",32.48,-83.64,"Georgia",13153,671
+31049,"Kite","Johnson County",32.7,-82.5,"Georgia",13167,29
+31050,"Knoxville","Crawford County",32.74,-83.95,"Georgia",13079,19
+31052,"Lizella","Bibb County",32.78,-83.85,"Georgia",13021,854
+31054,"Mc Intyre","Wilkinson County",32.89,-83.21,"Georgia",13319,31
+31055,"Mc Rae","Telfair County",32,-82.8,"Georgia",13271,80
+31057,"Marshallville","Macon County",32.4,-83.9,"Georgia",13193,34
+31060,"Milan","Telfair County",32,-83.1,"Georgia",13271,80
+31061,"Milledgeville","Baldwin County",33.1,-83.2,"Georgia",13009,179
+31063,"Montezuma","Macon County",32.3,-83.9,"Georgia",13193,34
+31064,"Monticello","Jasper County",33.3,-83.7,"Georgia",13159,36
+31065,"Montrose","Laurens County",32.57,-83.15,"Georgia",13175,193
+31066,"Musella","Crawford County",32.8,-84,"Georgia",13079,19
+31068,"Oglethorpe","Macon County",32.3,-84.1,"Georgia",13193,34
+31069,"Perry","Houston County",32.4,-83.7,"Georgia",13153,671
+31070,"Pinehurst","Dooly County",32.2,-83.8,"Georgia",13093,29
+31071,"Pineview","Wilcox County",32.1,-83.5,"Georgia",13315,26
+31072,"Pitts","Wilcox County",32,-83.6,"Georgia",13315,26
+31075,"Rentz","Laurens County",32.4,-83,"Georgia",13175,193
+31076,"Reynolds","Taylor County",32.6,-84.1,"Georgia",13269,5
+31077,"Rhine","Dodge County",32,-83.2,"Georgia",13091,181
+31078,"Roberta","Crawford County",32.7,-84.1,"Georgia",13079,19
+31079,"Rochelle","Wilcox County",31.9,-83.4,"Georgia",13315,26
+31082,"Sandersville","Washington County",33,-82.9,"Georgia",13303,131
+31085,"Shady Dale","Jasper County",33.42,-83.63,"Georgia",13159,36
+31087,"Sparta","Hancock County",33.3,-83,"Georgia",13141,42
+31088,"Warner Robins","Houston County",32.58,-83.65,"Georgia",13153,671
+31089,"Tennille","Washington County",32.9,-82.8,"Georgia",13303,131
+31090,"Toomsboro","Wilkinson County",32.8,-83.1,"Georgia",13319,31
+31091,"Unadilla","Dooly County",32.2,-83.7,"Georgia",13093,29
+31092,"Vienna","Dooly County",32.1,-83.8,"Georgia",13093,29
+31093,"Warner Robins","Houston County",32.65,-83.65,"Georgia",13153,671
+31094,"Warthen","Washington County",33.1,-82.8,"Georgia",13303,131
+31095,"Warner Robins","Houston County","null","null","Georgia",13153,671
+31096,"Wrightsville","Johnson County",32.7,-82.8,"Georgia",13167,29
+31097,"Yatesville","Upson County",32.9,-84.1,"Georgia",13293,87
+31098,"Warner Robins","Houston County",32.62,-83.57,"Georgia",13153,671
+31147,,,"null","null","Georgia","NA","null"
+31201,"Macon","Bibb County",32.81,-83.62,"Georgia",13021,854
+31204,"Macon","Bibb County",32.86,-83.67,"Georgia",13021,854
+31205,"Macon","Bibb County","null","null","Georgia",13021,854
+31206,"Macon","Bibb County",32.8,-83.69,"Georgia",13021,854
+31207,"Macon","Bibb County",32.829,-83.651,"Georgia",13021,854
+31210,"Macon","Bibb County",32.9,-83.75,"Georgia",13021,854
+31211,"Macon","Bibb County",32.9,-83.6,"Georgia",13021,854
+31216,"Macon","Bibb County",32.73,-83.69,"Georgia",13021,854
+31217,"Macon","Bibb County",32.8,-83.5,"Georgia",13021,854
+31220,"Macon","Bibb County",32.88,-83.81,"Georgia",13021,854
+31221,"Macon","Bibb County","null","null","Georgia",13021,854
+31260,,,"null","null","Georgia","NA","null"
+31301,"Allenhurst","Liberty County",31.77,-81.62,"Georgia",13179,318
+31302,"Bloomingdale","Effingham County",32.11,-81.34,"Georgia",13103,192
+31303,"Clyo","Effingham County",32.5,-81.3,"Georgia",13103,192
+31304,"Crescent","McIntosh County",31.5,-81.33,"Georgia",13191,47
+31305,"Darien","McIntosh County",31.4,-81.4,"Georgia",13191,47
+31307,"Eden","Effingham County",32.174,-81.396,"Georgia",13103,192
+31308,"Ellabell","Bryan County",32.2,-81.5,"Georgia",13029,62
+31309,"Fleming","Liberty County",31.9,-81.45,"Georgia",13179,318
+31310,"Hinesville","Liberty County","null","null","Georgia",13179,318
+31312,"Guyton","Effingham County",32.3,-81.4,"Georgia",13103,192
+31313,"Hinesville","Liberty County",31.9,-81.6,"Georgia",13179,318
+31315,"Fort Stewart","Liberty County",31.89,-81.6,"Georgia",13179,318
+31316,"Ludowici","Long County",31.8,-81.7,"Georgia",13183,50
+31319,"Meridian","McIntosh County","null","null","Georgia",13191,47
+31320,"Midway","Liberty County",31.8,-81.4,"Georgia",13179,318
+31321,"Pembroke","Bryan County",32.2,-81.7,"Georgia",13029,62
+31322,"Pooler","Chatham County",32.11,-81.25,"Georgia",13051,1144
+31323,"Riceboro","Liberty County",31.7,-81.4,"Georgia",13179,318
+31324,"Richmond Hill","Bryan County",31.9,-81.3,"Georgia",13029,62
+31326,"Rincon","Effingham County",32.3,-81.2,"Georgia",13103,192
+31328,"Tybee Island","Chatham County",32.01,-80.88,"Georgia",13051,1144
+31329,"Springfield","Effingham County",32.4,-81.3,"Georgia",13103,192
+31331,"Townsend","McIntosh County",31.5,-81.4,"Georgia",13191,47
+31401,"Savannah","Chatham County",32.07,-81.09,"Georgia",13051,1144
+31403,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31404,"Savannah","Chatham County",32.05,-81.03,"Georgia",13051,1144
+31405,"Savannah","Chatham County",32.04,-81.17,"Georgia",13051,1144
+31406,"Savannah","Chatham County",31.97,-81.08,"Georgia",13051,1144
+31407,"Savannah","Chatham County",32.18,-81.18,"Georgia",13051,1144
+31408,"Savannah","Chatham County",32.12,-81.18,"Georgia",13051,1144
+31409,"Savannah","Chatham County",32.02,-81.15,"Georgia",13051,1144
+31410,"Savannah","Chatham County",32.01,-80.95,"Georgia",13051,1144
+31412,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31414,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31415,"Savannah","Chatham County",32.08,-81.13,"Georgia",13051,1144
+31416,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31417,,,"null","null","Georgia","NA","null"
+31418,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31419,"Savannah","Chatham County",32,-81.2,"Georgia",13051,1144
+31420,"Savannah","Chatham County","null","null","Georgia",13051,1144
+31467,,,"null","null","Georgia","NA","null"
+31501,"Waycross","Ware County",31.24,-82.36,"Georgia",13299,217
+31502,"Waycross","Ware County","null","null","Georgia",13299,217
+31503,"Waycross","Ware County",31.1,-82.4,"Georgia",13299,217
+31510,"Alma","Bacon County",31.6,-82.5,"Georgia",13005,18
+31512,"Ambrose","Coffee County",31.6,-83,"Georgia",13069,440
+31513,"Baxley","Appling County",31.8,-82.3,"Georgia",13001,127
+31516,"Blackshear","Pierce County",31.3,-82.2,"Georgia",13229,57
+31518,"Bristol","Appling County",31.51,-82.17,"Georgia",13001,127
+31519,"Broxton","Coffee County",31.7,-82.9,"Georgia",13069,440
+31520,"Brunswick","Glynn County",31.18,-81.48,"Georgia",13127,338
+31522,"Saint Simons Island","Glynn County",31.2,-81.4,"Georgia",13127,338
+31523,"Brunswick","Glynn County",31.2,-81.6,"Georgia",13127,338
+31525,"Brunswick","Glynn County",31.3,-81.5,"Georgia",13127,338
+31530,,,"null","null","Georgia","NA","null"
+31532,"Denton","Jeff Davis County",31.7,-82.7,"Georgia",13161,141
+31533,"Douglas","Coffee County",31.5,-82.8,"Georgia",13069,440
+31534,"Douglas","Coffee County","null","null","Georgia",13069,440
+31535,"Douglas","Coffee County",31.5,-82.8,"Georgia",13069,440
+31537,"Folkston","Charlton County",30.9,-82,"Georgia",13049,28
+31539,"Hazlehurst","Jeff Davis County",31.8,-82.6,"Georgia",13161,141
+31542,"Hoboken","Brantley County",31.1,-82.2,"Georgia",13025,45
+31543,"Hortense","Brantley County",31.4,-81.8,"Georgia",13025,45
+31544,"Jacksonville","Telfair County",31.9,-82.9,"Georgia",13271,80
+31545,"Jesup","Wayne County",31.7,-82,"Georgia",13305,231
+31546,"Jesup","Wayne County",31.5,-81.8,"Georgia",13305,231
+31548,"Kingsland","Camden County",30.8,-81.7,"Georgia",13039,221
+31549,"Lumber City","Telfair County",31.9,-82.8,"Georgia",13271,80
+31551,"Mershon","Pierce County",31.5,-82.3,"Georgia",13229,57
+31552,"Millwood","Ware County",31.3,-82.6,"Georgia",13299,217
+31553,"Nahunta","Brantley County",31.2,-82,"Georgia",13025,45
+31554,"Nicholls","Coffee County",31.5,-82.6,"Georgia",13069,440
+31555,"Odum","Wayne County",31.7,-82.1,"Georgia",13305,231
+31557,"Patterson","Pierce County",31.4,-82.1,"Georgia",13229,57
+31558,"Saint Marys","Camden County",30.8,-81.5,"Georgia",13039,221
+31560,"Screven","Wayne County",31.5,-82,"Georgia",13305,231
+31562,"Saint George","Charlton County",30.7,-82.2,"Georgia",13049,28
+31563,"Surrency","Appling County",31.7,-82.2,"Georgia",13001,127
+31565,"Waverly","Camden County",31.1,-81.7,"Georgia",13039,221
+31566,"Waynesville","Brantley County",31.2,-81.8,"Georgia",13025,45
+31567,"West Green","Coffee County",31.62,-82.7,"Georgia",13069,440
+31568,"White Oak","Camden County",31,-81.8,"Georgia",13039,221
+31569,"Woodbine","Camden County",30.9,-81.6,"Georgia",13039,221
+31601,"Valdosta","Lowndes County",30.8,-83.4,"Georgia",13185,675
+31602,"Valdosta","Lowndes County",30.9,-83.3,"Georgia",13185,675
+31603,"Valdosta","Lowndes County","null","null","Georgia",13185,675
+31604,"Valdosta","Lowndes County","null","null","Georgia",13185,675
+31605,"Valdosta","Lowndes County",30.95,-83.23,"Georgia",13185,675
+31606,"Valdosta","Lowndes County",30.8,-83.2,"Georgia",13185,675
+31620,"Adel","Cook County",31.1,-83.4,"Georgia",13075,124
+31622,"Alapaha","Berrien County",31.4,-83.2,"Georgia",13019,70
+31624,"Axson","Atkinson County",31.3,-82.7,"Georgia",13003,40
+31625,"Barney","Brooks County",31.01,-83.53,"Georgia",13027,19
+31626,"Boston","Thomas County",30.8,-83.8,"Georgia",13275,198
+31627,"Cecil","Cook County",31.1,-83.4,"Georgia",13075,124
+31632,"Hahira","Lowndes County",31,-83.4,"Georgia",13185,675
+31634,"Homerville","Clinch County",31,-82.7,"Georgia",13065,12
+31635,"Lakeland","Lanier County",31.1,-83.1,"Georgia",13173,17
+31636,"Lake Park","Lowndes County",30.7,-83.1,"Georgia",13185,675
+31637,"Lenox","Cook County",31.3,-83.4,"Georgia",13075,124
+31638,"Morven","Brooks County",30.92,-83.5,"Georgia",13027,19
+31639,"Nashville","Berrien County",31.2,-83.2,"Georgia",13019,70
+31642,"Pearson","Atkinson County",31.3,-82.9,"Georgia",13003,40
+31643,"Quitman","Brooks County",30.8,-83.6,"Georgia",13027,19
+31645,"Ray City","Berrien County",31.06,-83.23,"Georgia",13019,70
+31647,"Sparks","Cook County",31.2,-83.42,"Georgia",13075,124
+31649,"Stockton","Lanier County",30.92,-83,"Georgia",13173,17
+31650,"Willacoochee","Atkinson County",31.3,-83,"Georgia",13003,40
+31698,"Valdosta","Lowndes County",30.866,-83.288,"Georgia",13185,675
+31701,"Albany","Dougherty County",31.58,-84.15,"Georgia",13095,669
+31702,"Albany","Dougherty County","null","null","Georgia",13095,669
+31705,"Albany","Dougherty County",31.5,-84,"Georgia",13095,669
+31706,"Albany","Dougherty County","null","null","Georgia",13095,669
+31707,"Albany","Dougherty County",31.59,-84.21,"Georgia",13095,669
+31708,"Albany","Dougherty County","null","null","Georgia",13095,669
+31709,"Americus","Sumter County",32,-84.1,"Georgia",13261,244
+31711,"Andersonville","Sumter County",32.19,-84.12,"Georgia",13261,244
+31712,"Arabi","Crisp County",31.8,-83.7,"Georgia",13081,169
+31714,"Ashburn","Turner County",31.7,-83.7,"Georgia",13287,55
+31716,"Baconton","Mitchell County",31.4,-84.1,"Georgia",13205,151
+31717,,,"null","null","Georgia","NA","null"
+31719,"Americus","Sumter County",32,-84.3,"Georgia",13261,244
+31721,"Albany","Dougherty County",31.5,-84.3,"Georgia",13095,669
+31722,"Berlin","Colquitt County",31.069,-83.623,"Georgia",13071,205
+31727,"Brookfield","Tift County","null","null","Georgia",13277,244
+31730,"Camilla","Mitchell County",31.2,-84.3,"Georgia",13205,151
+31735,"Cobb","Sumter County",31.97,-83.98,"Georgia",13261,244
+31738,"Coolidge","Thomas County",31.01,-83.87,"Georgia",13275,198
+31744,"Doerun","Colquitt County",31.3,-83.9,"Georgia",13071,205
+31747,"Ellenton","Colquitt County",31.177,-83.587,"Georgia",13071,205
+31749,"Enigma","Berrien County",31.4,-83.33,"Georgia",13019,70
+31750,"Fitzgerald","Ben Hill County",31.7,-83.2,"Georgia",13017,195
+31757,"Thomasville","Thomas County",30.9,-83.9,"Georgia",13275,198
+31763,"Leesburg","Lee County",31.7,-84.1,"Georgia",13177,63
+31764,"Leslie","Sumter County",32,-84.1,"Georgia",13261,244
+31765,"Meigs","Thomas County",31.1,-84,"Georgia",13275,198
+31768,"Moultrie","Colquitt County",31.2,-83.8,"Georgia",13071,205
+31771,"Norman Park","Colquitt County",31.3,-83.6,"Georgia",13071,205
+31773,"Ochlocknee","Thomas County",31,-84.1,"Georgia",13275,198
+31774,"Ocilla","Irwin County",31.6,-83.3,"Georgia",13155,50
+31775,"Omega","Tift County",31.34,-83.61,"Georgia",13277,244
+31778,"Pavo","Thomas County",31,-83.7,"Georgia",13275,198
+31779,"Pelham","Mitchell County",31.1,-84.2,"Georgia",13205,151
+31780,"Plains","Sumter County",32,-84.4,"Georgia",13261,244
+31781,"Poulan","Worth County",31.5,-83.8,"Georgia",13321,129
+31782,"Putney","Dougherty County","null","null","Georgia",13095,669
+31784,"Sale City","Mitchell County",31.25,-84.05,"Georgia",13205,151
+31788,"Moultrie","Colquitt County",31.1,-83.7,"Georgia",13071,205
+31789,"Sumner","Worth County",31.5,-83.7,"Georgia",13321,129
+31790,"Sycamore","Turner County",31.65,-83.56,"Georgia",13287,55
+31791,"Sylvester","Worth County",31.5,-83.9,"Georgia",13321,129
+31792,"Thomasville","Thomas County",30.8,-84.1,"Georgia",13275,198
+31793,"Tifton","Tift County",31.5,-83.6,"Georgia",13277,244
+31794,"Tifton","Tift County",31.4,-83.4,"Georgia",13277,244
+31795,"Ty Ty","Tift County",31.48,-83.68,"Georgia",13277,244
+31796,"Warwick","Worth County",31.8,-83.9,"Georgia",13321,129
+31798,"Wray","Irwin County",31.6,-83.1,"Georgia",13155,50
+31799,"Thomasville","Thomas County","null","null","Georgia",13275,198
+31801,"Box Springs","Marion County",32.5,-84.6,"Georgia",13197,15
+31803,"Buena Vista","Marion County",32.3,-84.5,"Georgia",13197,15
+31804,"Cataula","Harris County",32.65,-84.9,"Georgia",13145,46
+31805,"Cusseta","Chattahoochee County",32.29,-84.75,"Georgia",13053,16
+31806,"Ellaville","Schley County",32.3,-84.3,"Georgia",13249,7
+31807,"Ellerslie","Harris County",32.65,-84.83,"Georgia",13145,46
+31808,"Fortson","Harris County",32.64,-85.01,"Georgia",13145,46
+31811,"Hamilton","Harris County",32.8,-85,"Georgia",13145,46
+31812,"Junction City","Talbot County",32.62,-84.45,"Georgia",13263,19
+31815,"Lumpkin","Stewart County",32,-84.9,"Georgia",13259,11
+31816,"Manchester","Meriwether County",32.88,-84.61,"Georgia",13199,60
+31820,"Midland","Muscogee County",32.55,-84.84,"Georgia",13215,1423
+31822,"Pine Mountain","Harris County",32.8,-84.9,"Georgia",13145,46
+31824,"Preston","Webster County",32.1,-84.5,"Georgia",13307,3
+31825,"Richland","Stewart County",32.1,-84.7,"Georgia",13259,11
+31826,"Shiloh","Harris County",32.79,-84.69,"Georgia",13145,46
+31827,"Talbotton","Talbot County",32.7,-84.5,"Georgia",13263,19
+31830,"Warm Springs","Meriwether County",32.89,-84.73,"Georgia",13199,60
+31831,"Waverly Hall","Harris County",32.7,-84.7,"Georgia",13145,46
+31833,"West Point","Troup County",32.8,-85.1,"Georgia",13285,422
+31836,"Woodland","Talbot County",32.8,-84.5,"Georgia",13263,19
+31847,,,"null","null","Georgia","NA","null"
+31901,"Columbus","Muscogee County",32.47,-84.98,"Georgia",13215,1423
+31902,"Columbus","Muscogee County","null","null","Georgia",13215,1423
+31903,"Columbus","Muscogee County",32.41,-84.95,"Georgia",13215,1423
+31904,"Columbus","Muscogee County",32.54,-85.01,"Georgia",13215,1423
+31905,"Fort Benning","Chattahoochee County",32.4,-84.8,"Georgia",13053,16
+31906,"Columbus","Muscogee County",32.47,-84.95,"Georgia",13215,1423
+31907,"Columbus","Muscogee County",32.48,-84.87,"Georgia",13215,1423
+31909,"Columbus","Muscogee County",32.54,-84.92,"Georgia",13215,1423
+31917,"Columbus","Muscogee County","null","null","Georgia",13215,1423
+31997,"Columbus","Muscogee County","null","null","Georgia",13215,1423
+32114,"Daytona Beach","Volusia County",29.19,-81.05,"Georgia","NA",3
+32117,"Daytona Beach","Volusia County",29.24,-81.07,"Georgia","NA",3
+32244,"Jacksonville","Duval County",30.22,-81.74,"Georgia","NA",1
+32322,"Carrabelle","Franklin County",29.9,-84.6,"Georgia",13119,60
+32425,"Bonifay","Holmes County",30.8,-85.7,"Georgia","NA",1
+32503,"Pensacola","Escambia County",30.46,-87.21,"Georgia","NA",4
+32520,"Pensacola","Escambia County","null","null","Georgia","NA",4
+32578,"Niceville","Okaloosa County",30.6,-86.4,"Georgia","NA",2
+32824,"Orlando","Orange County",28.4,-81.32,"Georgia","NA",2
+32907,"Palm Bay","Brevard County",28.02,-80.67,"Georgia","NA",3
+33067,"Pompano Beach","Broward County",26.31,-80.23,"Georgia","NA",2
+33147,"Miami","Miami-Dade County",25.85,-80.24,"Georgia","NA",1
+34705,"Astatula","Lake County",28.69,-81.72,"Georgia","NA",2
+35234,"Birmingham","Jefferson County",33.54,-86.8,"Georgia",13163,58
+35805,"Huntsville","Madison County",34.69,-86.63,"Georgia",13195,72
+35816,"Huntsville","Madison County",34.74,-86.63,"Georgia",13195,72
+36010,"Brundidge","Pike County",31.7,-85.8,"Georgia",13231,34
+36066,"Prattville","Autauga County",32.48,-86.41,"Georgia","NA",2
+36842,,,"null","null","Georgia","NA","null"
+36869,"Phenix City","Russell County",32.4,-85.1,"Georgia","NA",3
+38133,"Memphis","Shelby County",35.21,-89.79,"Georgia","NA",3
+38173,"Memphis","Shelby County","null","null","Georgia","NA",3
+38236,"Mansfield","Henry County",36.2,-88.3,"Georgia",13151,847
+38248,,,"null","null","Georgia","NA","null"
+38268,,,"null","null","Georgia","NA","null"
+38310,"Adamsville","McNairy County",35.3,-88.4,"Georgia","NA",3
+38315,"Bethel Springs","McNairy County",35.3,-88.6,"Georgia","NA",3
+38331,"Eaton","Gibson County","null","null","Georgia","NA",2
+38344,"Huntingdon","Carroll County",36,-88.5,"Georgia",13045,518
+38349,,,"null","null","Georgia","NA","null"
+38530,,,"null","null","Georgia","NA","null"
+39046,"Canton","Madison County",32.6,-90,"Georgia",13195,72
+39104,,,"null","null","Georgia","NA","null"
+39125,,,"null","null","Georgia","NA","null"
+39296,"Jackson","Hinds County","null","null","Georgia","NA",1
+39318,,,"null","null","Georgia","NA","null"
+39813,"Arlington","Calhoun County",31.46,-84.74,"Georgia",13037,5
+39815,"Attapulgus","Decatur County",30.75,-84.47,"Georgia",13087,175
+39817,"Bainbridge","Decatur County",30.9,-84.6,"Georgia",13087,175
+39818,"Bainbridge","Decatur County","null","null","Georgia",13087,175
+39819,"Bainbridge","Decatur County",30.9,-84.6,"Georgia",13087,175
+39820,,,"null","null","Georgia","NA","null"
+39823,"Blakely","Early County",31.3,-84.9,"Georgia",13099,7
+39825,"Brinson","Decatur County",30.9,-84.7,"Georgia",13087,175
+39827,"Cairo","Grady County",31,-84.2,"Georgia",13131,162
+39828,"Cairo","Grady County",30.8,-84.2,"Georgia",13131,162
+39834,"Climax","Decatur County",30.9,-84.4,"Georgia",13087,175
+39837,"Colquitt","Miller County",31.1,-84.7,"Georgia",13201,14
+39840,"Cuthbert","Randolph County",31.8,-84.8,"Georgia",13243,11
+39842,"Dawson","Terrell County",31.8,-84.4,"Georgia",13273,30
+39845,"Donalsonville","Seminole County",31,-84.9,"Georgia",13253,14
+39846,"Edison","Calhoun County",31.54,-84.75,"Georgia",13037,5
+39851,"Fort Gaines","Clay County",31.7,-85,"Georgia",13061,3
+39854,"Georgetown","Quitman County",31.9,-85,"Georgia",13239,10
+39862,"Leary","Calhoun County",31.5,-84.5,"Georgia",13037,5
+39870,"Newton","Baker County",31.3,-84.4,"Georgia",13007,12
+39885,"Sasser","Terrell County",31.722,-84.348,"Georgia",13273,30
+39897,"Whigham","Grady County",30.9,-84.3,"Georgia",13131,162
+30302,"Atlanta","Fulton County","null","null","Georgia",13121,3344
+31787,"Smithville","Lee County",31.9,-84.2,"Georgia",13177,63
+30189,"Woodstock","Cherokee County",34.13,-84.57,"Georgia",13057,466
+31003,"Allentown","Wilkinson County",32.6,-83.22,"Georgia",13319,31
+30037,"Decatur","Dekalb County","null","null","Georgia","NA",11
+30063,"Marietta","Cobb County","null","null","Georgia",13067,1490
+30237,"Jonesboro","Clayton County","null","null","Georgia",13063,1509
+39861,"Jakin","Early County",31.2,-85,"Georgia",13099,7
