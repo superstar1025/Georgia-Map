@@ -149,9 +149,10 @@ var legend_obj = svg.append("g")
 
 $('.import-btn').click(function (e) {
     if (e.target.name === 'NoData') {
-        stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
+        // stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
+        stateInfo = `./assets/${CURRENT_STATE}-data/${CURRENT_STATE}_${e.target.name}.csv`;
     } else {
-        stateInfo = './assets/Georgia-data/' + CURRENT_STATE + '_' + e.target.name + '.csv';
+        stateInfo = `./assets/${CURRENT_STATE}-data/${CURRENT_STATE}_${e.target.name}.csv`;
     }
     ready(usMapData, stateInfo);
 })
