@@ -647,6 +647,9 @@ function colorRange(score) {
     else if (3600 < score && score <= 4000) {
         color = COLOR_10;
     }
+    else if (score > 4000) {
+        color = COLOR_10;
+    }
 
     return color;
 }
