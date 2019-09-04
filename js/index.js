@@ -48,15 +48,8 @@ const MAP_RATIO = STATE_CONFIGURATIONS[CURRENT_STATE].map_ratio;
 const CENTERED_X = STATE_CONFIGURATIONS[CURRENT_STATE].centered_x;
 const CENTERED_Y = STATE_CONFIGURATIONS[CURRENT_STATE].centered_y;
 
-// var CURRENT_STATE = selectedState;
-// var STATE_NAME = STATE_CONFIGURATIONS[CURRENT_STATE].state_name;
-// var SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[CURRENT_STATE].specific_state_info;
-// var STATE_FIPS = STATE_CONFIGURATIONS[CURRENT_STATE].state_fips;
-// var MAP_RATIO = STATE_CONFIGURATIONS[CURRENT_STATE].map_ratio;
-// var CENTERED_X = STATE_CONFIGURATIONS[CURRENT_STATE].centered_x;
-// var CENTERED_Y = STATE_CONFIGURATIONS[CURRENT_STATE].centered_y;
-
-const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
+// const GEORGIA_WALMART_STORES = "./assets/georgia_stores.json";
+const WALMART_STORES = "./assets/Walmart-data/Master_Alignment.csv";
 const WALMART_ICON = "./assets/icons/walmart-white1.png";
 const COLOR_1 = "#002f45";
 const COLOR_2 = "#12547a";
@@ -481,7 +474,7 @@ function zoomWalmartMark(d) {
 
         getCity.map((item, key) => {
             var walmart = window.lodash.filter(georgiaWalmartData, function (o) {
-                return o.zip == item.Zipcode;
+                return o.Zip == item.Zipcode;
             });
 
             if (walmart.length > 0) {
@@ -492,7 +485,7 @@ function zoomWalmartMark(d) {
 
         $('.city-marked-' + d.id).css("display", "block");
     } else {
-        d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
+        d3.csv(WALMART_STORES).then((georgiaWalmarts) => {
             georgiaWalmartData = georgiaWalmarts;
 
             d3.csv(SPECIFIC_STATE_INFO).then((cityData) => {
@@ -503,7 +496,7 @@ function zoomWalmartMark(d) {
 
                 getCity.map((item, key) => {
                     var walmart = window.lodash.filter(georgiaWalmarts, function (o) {
-                        return o.zip == item.Zipcode;
+                        return o.Zip == item.Zipcode;
                     });
 
                     if (walmart.length > 0) {
@@ -520,13 +513,31 @@ function zoomWalmartMark(d) {
 
 }
 
-function walMartMark() {
+// function walMartMark() {
 
-    d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
+//     d3.json(GEORGIA_WALMART_STORES).then((georgiaWalmarts) => {
+//         g.append("g")
+//             .attr("id", "walmart")
+//             .selectAll(".mark")
+//             .data(georgiaWalmarts)
+//             .enter()
+//             .append("image")
+//             .attr('class', 'mark')
+//             .attr('width', 3)
+//             .attr('height', 3)
+//             .attr("xlink:href", WALMART_ICON)
+//             .attr("transform", function (d) {
+//                 return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
+//             });
+//     })
+// }
+
+function walMartMark() {
+    d3.csv(WALMART_STORES).then((walmartsData) => {
         g.append("g")
             .attr("id", "walmart")
             .selectAll(".mark")
-            .data(georgiaWalmarts)
+            .data(walmartsData)
             .enter()
             .append("image")
             .attr('class', 'mark')
@@ -534,7 +545,11 @@ function walMartMark() {
             .attr('height', 3)
             .attr("xlink:href", WALMART_ICON)
             .attr("transform", function (d) {
-                return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
+                if (d.State_Name === selectedState) {
+                    return "translate(" + projection([d.Longitude, d.Latitude]) + ")";
+                } else {
+                    return;
+                }
             });
     })
 }
@@ -551,7 +566,7 @@ function locationMark(data, d) {
         .attr('height', 1)
         .attr("xlink:href", WALMART_ICON)
         .attr("transform", function (d) {
-            return "translate(" + projection([d.coordinates[0], d.coordinates[1]]) + ")";
+            return "translate(" + projection([d.Longitude, d.Latitude]) + ")";
         })
         .on("click", reset)
         .on("mouseover", function (d) {
@@ -560,24 +575,18 @@ function locationMark(data, d) {
             html += "<span class=\"tooltip_key\">";
             html += "<span class=\"tooltip_walmart\">WalMart Info</span>";
             html += "<br/>";
-            html += "Name: " + d.name;
+            html += "Name: " + d.BusinessSegment;
             html += "<br/>";
-            html += "Country: " + d.country;
+            html += "Market: " + d.Market;
             html += "<br/>";
-            html += "StreetAddress: " + d.streetAddress;
+            html += "StreetAddress: " + d.StreetAddress;
             html += "<br/>";
-            html += "City: " + d.city;
+            html += "City: " + d.City;
             html += "<br/>";
-            html += "StateProvCode: " + d.stateProvCode;
+            html += "State: " + d.State_Name;
             html += "<br/>";
-            html += "Zip: " + d.zip;
+            html += "Zip: " + d.Zip;
             html += "<br/>";
-            html += "PhoneNumber: " + d.phoneNumber;
-            html += "<br/>";
-            html += "SundayOpen: " + d.sundayOpen;
-            html += "<br/>";
-            html += "Timezone: " + d.timezone;
-            html += "</span>";
             html += "<span class=\"tooltip_value\">";
             html += "";
             html += "</span>";
