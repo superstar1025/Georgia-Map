@@ -7,7 +7,8 @@ const STATE_CONFIGURATIONS = {
         state_fips: 13,
         map_ratio: 0.5,
         centered_x: 0,
-        centered_y: -5
+        centered_y: -5,
+        importData: ['NoData', 'March', 'April', 'May', 'June'],
     },
     Texas: {
         specific_state_info : './assets/Texas-data/Texas_July.csv',
@@ -15,7 +16,8 @@ const STATE_CONFIGURATIONS = {
         state_fips: 48,
         map_ratio: 1.2,
         centered_x: 0,
-        centered_y: 11
+        centered_y: 11,
+        importData: ['NoData', 'July'],
     },
     Florida: {
         specific_state_info : './assets/Florida-data/Florida_July.csv',
@@ -23,7 +25,8 @@ const STATE_CONFIGURATIONS = {
         state_fips: 12,
         map_ratio: 0.7,
         centered_x: -20,
-        centered_y: 30
+        centered_y: 30,
+        importData: ['NoData', 'July'],
     },
     Michigan: {
         specific_state_info : './assets/Michigan-data/Michigan_July.csv',
@@ -31,7 +34,8 @@ const STATE_CONFIGURATIONS = {
         state_fips: 26,
         map_ratio: 0.8,
         centered_x: 0,
-        centered_y: -2
+        centered_y: -2,
+        importData: ['NoData', 'July'],
     }
 }
 var selectedState = getUrlVars()["state"] == undefined ? 'Georgia' : getUrlVars()["state"];
@@ -779,7 +783,13 @@ function initStateConfig(state) {
 $(document).ready(function() {
     var route = location.href.toString();
     var state = route.split('?state=')[1];
+    var importData = STATE_CONFIGURATIONS[state];
     if (state) {
         $('.select-state select').val(state);
+    }
+    if (importData) {
+        importData.map(item => {
+            document.getElementById(item).style.display = "inline-block !important";
+        })
     }
 })
