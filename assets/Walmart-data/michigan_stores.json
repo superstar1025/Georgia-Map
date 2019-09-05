@@ -1,0 +1,2364 @@
+[  
+   {  
+      "no":3328,
+      "name":"Greenville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.290091,
+         43.179969
+      ],
+      "streetAddress":"10772 W Carson City Rd",
+      "city":"Greenville",
+      "stateProvCode":"MI",
+      "zip":"48838",
+      "phoneNumber":"616-754-3062",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5376,
+      "name":"Tawas City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.504371,
+         44.27772
+      ],
+      "streetAddress":"621 E Lake St",
+      "city":"Tawas City",
+      "stateProvCode":"MI",
+      "zip":"48763",
+      "phoneNumber":"989-984-0854",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6657,
+      "name":"Novi Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.532963,
+         42.491137
+      ],
+      "streetAddress":"27300 Wixom Rd",
+      "city":"Novi",
+      "stateProvCode":"MI",
+      "zip":"48374",
+      "phoneNumber":"248-349-3057",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6658,
+      "name":"Jackson Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -84.461722,
+         42.267681
+      ],
+      "streetAddress":"3600 Oneil Dr",
+      "city":"Jackson",
+      "stateProvCode":"MI",
+      "zip":"49202",
+      "phoneNumber":"517-788-6075",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6659,
+      "name":"Madison Heights Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.104293,
+         42.521079
+      ],
+      "streetAddress":"31020 John R Rd",
+      "city":"Madison Heights",
+      "stateProvCode":"MI",
+      "zip":"48071",
+      "phoneNumber":"248-589-1208",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1540,
+      "name":"South Haven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.247377,
+         42.406384
+      ],
+      "streetAddress":"201 73rd St",
+      "city":"South Haven",
+      "stateProvCode":"MI",
+      "zip":"49090",
+      "phoneNumber":"269-639-2260",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6660,
+      "name":"Port Huron Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.458065,
+         42.968583
+      ],
+      "streetAddress":"1237 32nd St",
+      "city":"Port Huron",
+      "stateProvCode":"MI",
+      "zip":"48060",
+      "phoneNumber":"810-984-5355",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5893,
+      "name":"Novi Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.4707493,
+         42.482114
+      ],
+      "streetAddress":"26090 Ingersol Dr",
+      "city":"Novi",
+      "stateProvCode":"MI",
+      "zip":"48375",
+      "phoneNumber":"248-277-4092",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6661,
+      "name":"Portage Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.585825,
+         42.214697
+      ],
+      "streetAddress":"7021 S Westnedge Ave",
+      "city":"Portage",
+      "stateProvCode":"MI",
+      "zip":"49002",
+      "phoneNumber":"269-327-0534",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1542,
+      "name":"Gaylord Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.689914,
+         45.022509
+      ],
+      "streetAddress":"950 Edelweiss Parkway",
+      "city":"Gaylord",
+      "stateProvCode":"MI",
+      "zip":"49735",
+      "phoneNumber":"989-732-8090",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1798,
+      "name":"Caro Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.384718,
+         43.500863
+      ],
+      "streetAddress":"1121 E Caro Rd",
+      "city":"Caro",
+      "stateProvCode":"MI",
+      "zip":"48723",
+      "phoneNumber":"989-673-7900",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6662,
+      "name":"Roseville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.912882,
+         42.529415
+      ],
+      "streetAddress":"31720 Gratiot Ave",
+      "city":"Roseville",
+      "stateProvCode":"MI",
+      "zip":"48066",
+      "phoneNumber":"586-415-9987",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2567,
+      "name":"Grandville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.780604,
+         42.88148
+      ],
+      "streetAddress":"4542 Kenowa Ave Sw",
+      "city":"Grandville",
+      "stateProvCode":"MI",
+      "zip":"49418",
+      "phoneNumber":"616-667-9724",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6663,
+      "name":"Saginaw Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.971818,
+         43.489827
+      ],
+      "streetAddress":"5656 Bay Rd",
+      "city":"Saginaw",
+      "stateProvCode":"MI",
+      "zip":"48604",
+      "phoneNumber":"989-790-0954",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3336,
+      "name":"Woodhaven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.227814,
+         42.135539
+      ],
+      "streetAddress":"23800 Allen Rd",
+      "city":"Woodhaven",
+      "stateProvCode":"MI",
+      "zip":"48183",
+      "phoneNumber":"734-675-4360",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6664,
+      "name":"Utica Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.007802,
+         42.631064
+      ],
+      "streetAddress":"45600 Utica Park Blvd",
+      "city":"Utica",
+      "stateProvCode":"MI",
+      "zip":"48315",
+      "phoneNumber":"586-726-9800",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5386,
+      "name":"Grand Haven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.216632,
+         43.035562
+      ],
+      "streetAddress":"14700 Us Highway 31",
+      "city":"Grand Haven",
+      "stateProvCode":"MI",
+      "zip":"49417",
+      "phoneNumber":"616-844-3074",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6666,
+      "name":"Canton Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.432665,
+         42.325442
+      ],
+      "streetAddress":"39800 Ford Rd",
+      "city":"Canton",
+      "stateProvCode":"MI",
+      "zip":"48187",
+      "phoneNumber":"734-981-4460",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6667,
+      "name":"Ypsilanti Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.682824,
+         42.209125
+      ],
+      "streetAddress":"5450 Carpenter Rd",
+      "city":"Ypsilanti",
+      "stateProvCode":"MI",
+      "zip":"48197",
+      "phoneNumber":"734-434-1326",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6412,
+      "name":"Southgate Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.214966,
+         42.216147
+      ],
+      "streetAddress":"15700 Northline Rd",
+      "city":"Southgate",
+      "stateProvCode":"MI",
+      "zip":"48195",
+      "phoneNumber":"734-285-0030",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2061,
+      "name":"Plainwell Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.6726152,
+         42.4479441
+      ],
+      "streetAddress":"412 Oaks Xing",
+      "city":"Plainwell",
+      "stateProvCode":"MI",
+      "zip":"49080",
+      "phoneNumber":"269-685-6191",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2062,
+      "name":"Benton Harbor Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.425321,
+         42.077237
+      ],
+      "streetAddress":"1400 Mall Dr",
+      "city":"Benton Harbor",
+      "stateProvCode":"MI",
+      "zip":"49022",
+      "phoneNumber":"269-927-6025",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1809,
+      "name":"Jonesville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.668345,
+         41.965241
+      ],
+      "streetAddress":"701 Olds St",
+      "city":"Jonesville",
+      "stateProvCode":"MI",
+      "zip":"49250",
+      "phoneNumber":"517-849-7000",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6417,
+      "name":"Holland Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -86.088281,
+         42.807633
+      ],
+      "streetAddress":"2190 N Park Dr",
+      "city":"Holland",
+      "stateProvCode":"MI",
+      "zip":"49424",
+      "phoneNumber":"616-395-3190",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6419,
+      "name":"Traverse City Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.651306,
+         44.720076
+      ],
+      "streetAddress":"2401 N Us Highway 31 S",
+      "city":"Traverse City",
+      "stateProvCode":"MI",
+      "zip":"49684",
+      "phoneNumber":"231-946-8777",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90647,
+      "name":"Plymouth FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.48109,
+         42.37165
+      ],
+      "streetAddress":"44511 Ann Arbor Rd W",
+      "city":"Plymouth",
+      "stateProvCode":"MI",
+      "zip":"48170",
+      "phoneNumber":"734-455-2840",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":6429,
+      "name":"Battle Creek Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.180332,
+         42.257893
+      ],
+      "streetAddress":"12737 6 Mile Rd",
+      "city":"Battle Creek",
+      "stateProvCode":"MI",
+      "zip":"49014",
+      "phoneNumber":"269-979-5327",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":4383,
+      "name":"Dearborn Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.209571,
+         42.33137
+      ],
+      "streetAddress":"5851 Mercury Dr",
+      "city":"Dearborn",
+      "stateProvCode":"MI",
+      "zip":"48126",
+      "phoneNumber":"313-441-0194",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2079,
+      "name":"Marquette Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.459933,
+         46.54749
+      ],
+      "streetAddress":"3225 Us Highway 41 W",
+      "city":"Marquette",
+      "stateProvCode":"MI",
+      "zip":"49855",
+      "phoneNumber":"906-226-7982",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2080,
+      "name":"Battle Creek Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.177153,
+         42.257811
+      ],
+      "streetAddress":"6020 B Dr N",
+      "city":"Battle Creek",
+      "stateProvCode":"MI",
+      "zip":"49014",
+      "phoneNumber":"269-979-1628",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1824,
+      "name":"Ypsilanti Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.650314,
+         42.2282
+      ],
+      "streetAddress":"2515 Ellsworth Rd",
+      "city":"Ypsilanti",
+      "stateProvCode":"MI",
+      "zip":"48197",
+      "phoneNumber":"734-434-5620",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2338,
+      "name":"Traverse City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.632601,
+         44.728126
+      ],
+      "streetAddress":"2640 Crossing Cir",
+      "city":"Traverse City",
+      "stateProvCode":"MI",
+      "zip":"49684",
+      "phoneNumber":"231-933-8800",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5411,
+      "name":"Ionia Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.07852,
+         42.94295
+      ],
+      "streetAddress":"152 W Sprague Rd",
+      "city":"Ionia",
+      "stateProvCode":"MI",
+      "zip":"48846",
+      "phoneNumber":"616-527-1392",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3876,
+      "name":"Muskegon Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.266661,
+         43.192887
+      ],
+      "streetAddress":"3285 Henry St",
+      "city":"Muskegon",
+      "stateProvCode":"MI",
+      "zip":"49441",
+      "phoneNumber":"231-739-4710",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5159,
+      "name":"West Branch Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.229305,
+         44.253651
+      ],
+      "streetAddress":"2750 Cook Rd",
+      "city":"West Branch",
+      "stateProvCode":"MI",
+      "zip":"48661",
+      "phoneNumber":"989-343-1309",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5160,
+      "name":"Jackson Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.4345706,
+         42.249781
+      ],
+      "streetAddress":"1700 W Michigan Ave",
+      "city":"Jackson",
+      "stateProvCode":"MI",
+      "zip":"49202",
+      "phoneNumber":"517-817-0326",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1836,
+      "name":"Adrian Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.031302,
+         41.872722
+      ],
+      "streetAddress":"1601 E Us Highway 223",
+      "city":"Adrian",
+      "stateProvCode":"MI",
+      "zip":"49221",
+      "phoneNumber":"517-265-9771",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3632,
+      "name":"Sandusky Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.856144,
+         43.418184
+      ],
+      "streetAddress":"655 W Sanilac Rd",
+      "city":"Sandusky",
+      "stateProvCode":"MI",
+      "zip":"48471",
+      "phoneNumber":"810-648-2728",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91441,
+      "name":"Royal Oak FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.14409,
+         42.487785
+      ],
+      "streetAddress":"311 S Main St",
+      "city":"Royal Oak",
+      "stateProvCode":"MI",
+      "zip":"48067",
+      "phoneNumber":"248-545-5305",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2866,
+      "name":"Okemos Store",
+      "country":"US",
+      "coordinates":[  
+         -84.407025,
+         42.72877
+      ],
+      "streetAddress":"5110 Times Square Pl",
+      "city":"Okemos",
+      "stateProvCode":"MI",
+      "zip":"48864",
+      "phoneNumber":"517-381-5243",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2354,
+      "name":"Rochester Hills Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.198109,
+         42.643433
+      ],
+      "streetAddress":"2500 S Adams Rd",
+      "city":"Rochester Hills",
+      "stateProvCode":"MI",
+      "zip":"48309",
+      "phoneNumber":"248-853-0433",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2867,
+      "name":"Lansing Store",
+      "country":"US",
+      "coordinates":[  
+         -84.521705,
+         42.765823
+      ],
+      "streetAddress":"3225 Towne Centre Blvd",
+      "city":"Lansing",
+      "stateProvCode":"MI",
+      "zip":"48912",
+      "phoneNumber":"517-487-9150",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4660,
+      "name":"Clinton Township Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.937533,
+         42.626106
+      ],
+      "streetAddress":"18400 Hall Rd",
+      "city":"Clinton Township",
+      "stateProvCode":"MI",
+      "zip":"48038",
+      "phoneNumber":"586-263-7196",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2100,
+      "name":"Cheboygan Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.482416,
+         45.62615
+      ],
+      "streetAddress":"1150 S Main St",
+      "city":"Cheboygan",
+      "stateProvCode":"MI",
+      "zip":"49721",
+      "phoneNumber":"231-627-2769",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2869,
+      "name":"Lansing Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.675623,
+         42.738214
+      ],
+      "streetAddress":"409 N Marketplace Blvd",
+      "city":"Lansing",
+      "stateProvCode":"MI",
+      "zip":"48917",
+      "phoneNumber":"517-622-1431",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2358,
+      "name":"Alpena Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.476707,
+         45.064045
+      ],
+      "streetAddress":"1180 M 32 W",
+      "city":"Alpena",
+      "stateProvCode":"MI",
+      "zip":"49707",
+      "phoneNumber":"989-354-0830",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2102,
+      "name":"Ludington Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.40034,
+         43.957893
+      ],
+      "streetAddress":"4854 W Us Highway 10",
+      "city":"Ludington",
+      "stateProvCode":"MI",
+      "zip":"49431",
+      "phoneNumber":"231-843-1816",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6454,
+      "name":"Southfield Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.263848,
+         42.444848
+      ],
+      "streetAddress":"22500 W 8 Mile Rd",
+      "city":"Southfield",
+      "stateProvCode":"MI",
+      "zip":"48033",
+      "phoneNumber":"248-354-1108",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2872,
+      "name":"Belleville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.488377,
+         42.225518
+      ],
+      "streetAddress":"10562 Belleville Rd",
+      "city":"Belleville",
+      "stateProvCode":"MI",
+      "zip":"48111",
+      "phoneNumber":"734-697-2078",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1592,
+      "name":"Bad Axe Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.005695,
+         43.817639
+      ],
+      "streetAddress":"901 N Van Dyke Rd",
+      "city":"Bad Axe",
+      "stateProvCode":"MI",
+      "zip":"48413",
+      "phoneNumber":"989-269-9506",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90425,
+      "name":"Ann Arbor FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.709816,
+         42.30249
+      ],
+      "streetAddress":"2609 Plymouth Rd",
+      "city":"Ann Arbor",
+      "stateProvCode":"MI",
+      "zip":"48105",
+      "phoneNumber":"734-996-0050",
+      "sundayOpen":true
+   },
+   {  
+      "no":2873,
+      "name":"Troy Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.172576,
+         42.544286
+      ],
+      "streetAddress":"2001 W Maple Rd",
+      "city":"Troy",
+      "stateProvCode":"MI",
+      "zip":"48084",
+      "phoneNumber":"248-435-4035",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1593,
+      "name":"Coldwater Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.967451,
+         41.933638
+      ],
+      "streetAddress":"800 E Chicago St",
+      "city":"Coldwater",
+      "stateProvCode":"MI",
+      "zip":"49036",
+      "phoneNumber":"517-278-2240",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2618,
+      "name":"Commerce Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.4429342,
+         42.5595619
+      ],
+      "streetAddress":"3301 Pontiac Trail Road",
+      "city":"Commerce",
+      "stateProvCode":"MI",
+      "zip":"48390",
+      "phoneNumber":"248-668-0274",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90427,
+      "name":"Ann Arbor FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.743195,
+         42.27943
+      ],
+      "streetAddress":"505 E Liberty St",
+      "city":"Ann Arbor",
+      "stateProvCode":"MI",
+      "zip":"48104",
+      "phoneNumber":"734-761-4539",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2619,
+      "name":"Midland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.238083,
+         43.661521
+      ],
+      "streetAddress":"910 Joe Mann Blvd",
+      "city":"Midland",
+      "stateProvCode":"MI",
+      "zip":"48642",
+      "phoneNumber":"989-835-6069",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2620,
+      "name":"Hastings Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.32049,
+         42.647805
+      ],
+      "streetAddress":"1618 W M 43 Hwy",
+      "city":"Hastings",
+      "stateProvCode":"MI",
+      "zip":"49058",
+      "phoneNumber":"269-948-0470",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90428,
+      "name":"Ann Arbor FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.69334,
+         42.25587
+      ],
+      "streetAddress":"3354 Washtenaw Ave",
+      "city":"Ann Arbor",
+      "stateProvCode":"MI",
+      "zip":"48104",
+      "phoneNumber":"734-975-0496",
+      "sundayOpen":true
+   },
+   {  
+      "no":5444,
+      "name":"Ironwood Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -90.127186,
+         46.470308
+      ],
+      "streetAddress":"10305 Country Club Road",
+      "city":"Ironwood",
+      "stateProvCode":"MI",
+      "zip":"49938",
+      "phoneNumber":"906-932-0713",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":90692,
+      "name":"Kalamazoo FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -85.60648,
+         42.285866
+      ],
+      "streetAddress":"1550 W Michigan Ave",
+      "city":"Kalamazoo",
+      "stateProvCode":"MI",
+      "zip":"49006",
+      "phoneNumber":"269-342-5700",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2631,
+      "name":"Livonia Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.336402,
+         42.36642
+      ],
+      "streetAddress":"29555 Plymouth Rd",
+      "city":"Livonia",
+      "stateProvCode":"MI",
+      "zip":"48150",
+      "phoneNumber":"734-524-0577",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4424,
+      "name":"Warren Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.026662,
+         42.508624
+      ],
+      "streetAddress":"29176 Van Dyke Avenue",
+      "city":"Warren",
+      "stateProvCode":"MI",
+      "zip":"48093",
+      "phoneNumber":"586-467-0258",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1611,
+      "name":"Fort Gratiot Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.460811,
+         43.049135
+      ],
+      "streetAddress":"4845 24th Ave",
+      "city":"Fort Gratiot",
+      "stateProvCode":"MI",
+      "zip":"48059",
+      "phoneNumber":"810-385-7600",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4944,
+      "name":"Grand Blanc Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.647466,
+         42.939951
+      ],
+      "streetAddress":"6160 S Saginaw Rd",
+      "city":"Grand Blanc",
+      "stateProvCode":"MI",
+      "zip":"48439",
+      "phoneNumber":"810-603-9540",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90450,
+      "name":"Farmington Hills FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.360504,
+         42.53752
+      ],
+      "streetAddress":"29306 Orchard Lake Rd",
+      "city":"Farmington Hills",
+      "stateProvCode":"MI",
+      "zip":"48334",
+      "phoneNumber":"248-932-3373",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2644,
+      "name":"Saginaw Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.031192,
+         43.433738
+      ],
+      "streetAddress":"5825 Brockway Rd",
+      "city":"Saginaw",
+      "stateProvCode":"MI",
+      "zip":"48638",
+      "phoneNumber":"989-497-8102",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90711,
+      "name":"Livonia FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.412895,
+         42.411324
+      ],
+      "streetAddress":"37330 6 Mile Rd",
+      "city":"Livonia",
+      "stateProvCode":"MI",
+      "zip":"48152",
+      "phoneNumber":"734-462-1890",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":4439,
+      "name":"Paw Paw Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.879254,
+         42.206278
+      ],
+      "streetAddress":"1013 South Kalamazoo Street",
+      "city":"Paw Paw",
+      "stateProvCode":"MI",
+      "zip":"49079",
+      "phoneNumber":"269-415-6001",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7260,
+      "name":"Saline Pharmacy",
+      "country":"US",
+      "coordinates":[  
+         -83.692272,
+         42.162724
+      ],
+      "streetAddress":"8777 Platt Rd",
+      "city":"Saline",
+      "stateProvCode":"MI",
+      "zip":"48176",
+      "phoneNumber":"855-874-3371",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5472,
+      "name":"Saline Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.734855,
+         42.188782
+      ],
+      "streetAddress":"7000 E Michigan Ave",
+      "city":"Saline",
+      "stateProvCode":"MI",
+      "zip":"48176",
+      "phoneNumber":"734-944-1053",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2912,
+      "name":"Taylor Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.265794,
+         42.2537711
+      ],
+      "streetAddress":"7555 Telegraph Rd",
+      "city":"Taylor",
+      "stateProvCode":"MI",
+      "zip":"48180",
+      "phoneNumber":"313-292-3474",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8291,
+      "name":"Flint Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.766499,
+         42.999723
+      ],
+      "streetAddress":"4373 Corunna Rd",
+      "city":"Flint",
+      "stateProvCode":"MI",
+      "zip":"48532",
+      "phoneNumber":"810-230-6700",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90466,
+      "name":"Auburn Hills FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.30687,
+         42.700977
+      ],
+      "streetAddress":"4193 Baldwin Rd",
+      "city":"Auburn Hills",
+      "stateProvCode":"MI",
+      "zip":"48326",
+      "phoneNumber":"248-253-0719",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90983,
+      "name":"Troy FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.12835,
+         42.57888
+      ],
+      "streetAddress":"4050 Rochester Rd",
+      "city":"Troy",
+      "stateProvCode":"MI",
+      "zip":"48085",
+      "phoneNumber":"248-680-0280",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1642,
+      "name":"Charlotte Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.803637,
+         42.580217
+      ],
+      "streetAddress":"1680 Packard Hwy",
+      "city":"Charlotte",
+      "stateProvCode":"MI",
+      "zip":"48813",
+      "phoneNumber":"517-543-0300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90476,
+      "name":"West Bloomfield FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.4373,
+         42.528652
+      ],
+      "streetAddress":"7318 Haggerty Rd",
+      "city":"West Bloomfield",
+      "stateProvCode":"MI",
+      "zip":"48322",
+      "phoneNumber":"248-788-3987",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2417,
+      "name":"Petoskey Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.974067,
+         45.350211
+      ],
+      "streetAddress":"1850 Anderson Rd",
+      "city":"Petoskey",
+      "stateProvCode":"MI",
+      "zip":"49770",
+      "phoneNumber":"231-439-0200",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91504,
+      "name":"Southfield FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.30655,
+         42.50015
+      ],
+      "streetAddress":"28844 Northwestern Hwy",
+      "city":"Southfield",
+      "stateProvCode":"MI",
+      "zip":"48034",
+      "phoneNumber":"248-355-5670",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90484,
+      "name":"Shelby Township FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.98093,
+         42.628483
+      ],
+      "streetAddress":"45231 Market St",
+      "city":"Shelby Township",
+      "stateProvCode":"MI",
+      "zip":"48315",
+      "phoneNumber":"586-566-0946",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":4982,
+      "name":"Mount Pleasant Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -84.760216,
+         43.570931
+      ],
+      "streetAddress":"4850 Encore Blvd",
+      "city":"Mount Pleasant",
+      "stateProvCode":"MI",
+      "zip":"48858",
+      "phoneNumber":"989-772-0974",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90486,
+      "name":"Sterling Heights FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.02955,
+         42.567215
+      ],
+      "streetAddress":"37160 Van Dyke Ave",
+      "city":"Sterling Heights",
+      "stateProvCode":"MI",
+      "zip":"48312",
+      "phoneNumber":"586-446-9739",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":91005,
+      "name":"Madison Heights FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.10596,
+         42.529095
+      ],
+      "streetAddress":"32150 John R Rd",
+      "city":"Madison Heights",
+      "stateProvCode":"MI",
+      "zip":"48071",
+      "phoneNumber":"248-577-5934",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":3453,
+      "name":"Wyoming Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.67273,
+         42.868442
+      ],
+      "streetAddress":"355 54th Street Sw",
+      "city":"Wyoming",
+      "stateProvCode":"MI",
+      "zip":"49548",
+      "phoneNumber":"616-552-6224",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5761,
+      "name":"Canton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.488859,
+         42.268866
+      ],
+      "streetAddress":"45555 Michigan Ave",
+      "city":"Canton",
+      "stateProvCode":"MI",
+      "zip":"48188",
+      "phoneNumber":"734-985-9413",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2434,
+      "name":"Iron Mountain Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -88.038011,
+         45.807363
+      ],
+      "streetAddress":"1920 S Stephenson Ave",
+      "city":"Iron Mountain",
+      "stateProvCode":"MI",
+      "zip":"49801",
+      "phoneNumber":"906-779-7180",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":3458,
+      "name":"Whitehall Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.310321,
+         43.409163
+      ],
+      "streetAddress":"2755 Holton-whitehall Road",
+      "city":"Whitehall",
+      "stateProvCode":"MI",
+      "zip":"49461",
+      "phoneNumber":"231-893-5477",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1923,
+      "name":"Comstock Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.6943095,
+         43.0363756
+      ],
+      "streetAddress":"3999 Alpine Ave Nw",
+      "city":"Comstock Park",
+      "stateProvCode":"MI",
+      "zip":"49321",
+      "phoneNumber":"616-784-2047",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91266,
+      "name":"Detroit FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.04738,
+         42.33279
+      ],
+      "streetAddress":"1020 Woodward Ave",
+      "city":"Detroit",
+      "stateProvCode":"MI",
+      "zip":"48226",
+      "phoneNumber":"313-963-2446",
+      "sundayOpen":true
+   },
+   {  
+      "no":2692,
+      "name":"Chesterfield Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.85275,
+         42.634814
+      ],
+      "streetAddress":"45400 Marketplace Blvd",
+      "city":"Chesterfield",
+      "stateProvCode":"MI",
+      "zip":"48051",
+      "phoneNumber":"586-421-0451",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2693,
+      "name":"Fenton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.744349,
+         42.792319
+      ],
+      "streetAddress":"3700 Owen Rd",
+      "city":"Fenton",
+      "stateProvCode":"MI",
+      "zip":"48430",
+      "phoneNumber":"810-750-1132",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1928,
+      "name":"Flint Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.76458,
+         42.99963
+      ],
+      "streetAddress":"4313 Corunna Rd",
+      "city":"Flint",
+      "stateProvCode":"MI",
+      "zip":"48532",
+      "phoneNumber":"810-733-5055",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91019,
+      "name":"Lathrup Village FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.22272,
+         42.493057
+      ],
+      "streetAddress":"27661 Southfield Rd",
+      "city":"Lathrup Village",
+      "stateProvCode":"MI",
+      "zip":"48076",
+      "phoneNumber":"248-443-2679",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90506,
+      "name":"Rochester FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.133865,
+         42.67791
+      ],
+      "streetAddress":"133 S Main St",
+      "city":"Rochester",
+      "stateProvCode":"MI",
+      "zip":"48307",
+      "phoneNumber":"248-651-2679",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2700,
+      "name":"White Lake Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.467685,
+         42.660563
+      ],
+      "streetAddress":"9190 Highland Rd",
+      "city":"White Lake",
+      "stateProvCode":"MI",
+      "zip":"48386",
+      "phoneNumber":"248-698-9601",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1422,
+      "name":"Alma Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.6641673,
+         43.4034976
+      ],
+      "streetAddress":"7700 N Alger Rd",
+      "city":"Alma",
+      "stateProvCode":"MI",
+      "zip":"48801",
+      "phoneNumber":"989-463-6770",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3726,
+      "name":"Grand Blanc Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.649424,
+         42.938685
+      ],
+      "streetAddress":"6170 S Saginaw Rd",
+      "city":"Grand Blanc",
+      "stateProvCode":"MI",
+      "zip":"48439",
+      "phoneNumber":"810-603-9739",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2959,
+      "name":"Roseville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.9258292,
+         42.5081981
+      ],
+      "streetAddress":"28804 Gratiot Ave",
+      "city":"Roseville",
+      "stateProvCode":"MI",
+      "zip":"48066",
+      "phoneNumber":"586-777-0221",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1423,
+      "name":"Saint Johns Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.538647,
+         42.978689
+      ],
+      "streetAddress":"1165 Superior Dr",
+      "city":"Saint Johns",
+      "stateProvCode":"MI",
+      "zip":"48879",
+      "phoneNumber":"989-224-8099",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90510,
+      "name":"Bloomfield Hills FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.26502,
+         42.60344
+      ],
+      "streetAddress":"42999 Woodward Ave",
+      "city":"Bloomfield Hills",
+      "stateProvCode":"MI",
+      "zip":"48304",
+      "phoneNumber":"248-332-0330",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2192,
+      "name":"Houghton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -88.588321,
+         47.106535
+      ],
+      "streetAddress":"995 Razorback Dr",
+      "city":"Houghton",
+      "stateProvCode":"MI",
+      "zip":"49931",
+      "phoneNumber":"906-482-0639",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1936,
+      "name":"Sault Sainte Marie Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.365332,
+         46.464518
+      ],
+      "streetAddress":"3763 I-75 Business Spur",
+      "city":"Sault Sainte Marie",
+      "stateProvCode":"MI",
+      "zip":"49783",
+      "phoneNumber":"906-632-0572",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90771,
+      "name":"Dearborn FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.26484,
+         42.30314
+      ],
+      "streetAddress":"23400 Michigan Ave",
+      "city":"Dearborn",
+      "stateProvCode":"MI",
+      "zip":"48124",
+      "phoneNumber":"313-359-3124",
+      "sundayOpen":true
+   },
+   {  
+      "no":4243,
+      "name":"Clio Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.77807,
+         43.174903
+      ],
+      "streetAddress":"11493 N Linden Rd",
+      "city":"Clio",
+      "stateProvCode":"MI",
+      "zip":"48420",
+      "phoneNumber":"810-564-3149",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3476,
+      "name":"Canton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.43034,
+         42.325448
+      ],
+      "streetAddress":"39500 Ford Rd",
+      "city":"Canton",
+      "stateProvCode":"MI",
+      "zip":"48187",
+      "phoneNumber":"734-983-0538",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1428,
+      "name":"Mount Pleasant Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.760321,
+         43.572988
+      ],
+      "streetAddress":"4730 Encore Blvd",
+      "city":"Mount Pleasant",
+      "stateProvCode":"MI",
+      "zip":"48858",
+      "phoneNumber":"989-772-6300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1942,
+      "name":"Holland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.09084,
+         42.808393
+      ],
+      "streetAddress":"2629 N Park Dr",
+      "city":"Holland",
+      "stateProvCode":"MI",
+      "zip":"49424",
+      "phoneNumber":"616-393-2018",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1432,
+      "name":"Cadillac Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.3986136,
+         44.284128
+      ],
+      "streetAddress":"8917 E 34 Rd",
+      "city":"Cadillac",
+      "stateProvCode":"MI",
+      "zip":"49601",
+      "phoneNumber":"231-775-8778",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90779,
+      "name":"Brighton FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.78478,
+         42.53877
+      ],
+      "streetAddress":"8673 W Grand River Ave",
+      "city":"Brighton",
+      "stateProvCode":"MI",
+      "zip":"48116",
+      "phoneNumber":"810-225-4495",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":3487,
+      "name":"Shelby Township Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.010366,
+         42.673076
+      ],
+      "streetAddress":"51450 Shelby Pkwy",
+      "city":"Shelby Township",
+      "stateProvCode":"MI",
+      "zip":"48315",
+      "phoneNumber":"586-997-6905",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5280,
+      "name":"Portage Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.599908,
+         42.194834
+      ],
+      "streetAddress":"8350 Shaver Rd",
+      "city":"Portage",
+      "stateProvCode":"MI",
+      "zip":"49024",
+      "phoneNumber":"269-323-2460",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6562,
+      "name":"Muskegon Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -86.202268,
+         43.202191
+      ],
+      "streetAddress":"1707 E Sherman Blvd",
+      "city":"Muskegon",
+      "stateProvCode":"MI",
+      "zip":"49444",
+      "phoneNumber":"231-733-2575",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":91559,
+      "name":"Oak Park FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.20156,
+         42.4727
+      ],
+      "streetAddress":"24760 Greenfield",
+      "city":"Oak Park",
+      "stateProvCode":"MI",
+      "zip":"48237",
+      "phoneNumber":"248-968-3267",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":91561,
+      "name":"Grosse Pointe FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.91104,
+         42.416927
+      ],
+      "streetAddress":"19049 Mack Ave",
+      "city":"Grosse Pointe",
+      "stateProvCode":"MI",
+      "zip":"48236",
+      "phoneNumber":"313-885-9920",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":4778,
+      "name":"Auburn Hills Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -83.282374,
+         42.706562
+      ],
+      "streetAddress":"4350 Joslyn Rd",
+      "city":"Auburn Hills",
+      "stateProvCode":"MI",
+      "zip":"48326",
+      "phoneNumber":"248-391-6910",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":4781,
+      "name":"Lansing Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -84.520487,
+         42.763724
+      ],
+      "streetAddress":"2925 Towne Centre Blvd",
+      "city":"Lansing",
+      "stateProvCode":"MI",
+      "zip":"48912",
+      "phoneNumber":"517-482-9149",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6319,
+      "name":"Kentwood Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.560511,
+         42.911137
+      ],
+      "streetAddress":"4326 28th St Se",
+      "city":"Kentwood",
+      "stateProvCode":"MI",
+      "zip":"49512",
+      "phoneNumber":"616-942-2656",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":91314,
+      "name":"Detroit FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.05806,
+         42.348003
+      ],
+      "streetAddress":"3670 Woodward Ave",
+      "city":"Detroit",
+      "stateProvCode":"MI",
+      "zip":"48201",
+      "phoneNumber":"313-832-4806",
+      "sundayOpen":true
+   },
+   {  
+      "no":1719,
+      "name":"Big Rapids Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.509212,
+         43.69059
+      ],
+      "streetAddress":"21400 Perry Ave",
+      "city":"Big Rapids",
+      "stateProvCode":"MI",
+      "zip":"49307",
+      "phoneNumber":"231-796-1443",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5048,
+      "name":"New Hudson Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.61331,
+         42.513919
+      ],
+      "streetAddress":"30729 Lyon Center Dr E",
+      "city":"New Hudson",
+      "stateProvCode":"MI",
+      "zip":"48165",
+      "phoneNumber":"248-486-0445",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4540,
+      "name":"Fowlerville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.077745,
+         42.648099
+      ],
+      "streetAddress":"970 Gehringer Dr",
+      "city":"Fowlerville",
+      "stateProvCode":"MI",
+      "zip":"48836",
+      "phoneNumber":"517-223-8605",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2493,
+      "name":"Grand Rapids Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.520857,
+         42.914414
+      ],
+      "streetAddress":"5859 28th St Se",
+      "city":"Grand Rapids",
+      "stateProvCode":"MI",
+      "zip":"49546",
+      "phoneNumber":"616-949-7670",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2238,
+      "name":"Muskegon Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.197655,
+         43.202357
+      ],
+      "streetAddress":"1879 E Sherman Blvd",
+      "city":"Muskegon",
+      "stateProvCode":"MI",
+      "zip":"49444",
+      "phoneNumber":"231-739-6202",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1987,
+      "name":"Lapeer Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.299925,
+         43.053792
+      ],
+      "streetAddress":"555 E Genesee St",
+      "city":"Lapeer",
+      "stateProvCode":"MI",
+      "zip":"48446",
+      "phoneNumber":"810-664-3062",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1733,
+      "name":"Owosso Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.138829,
+         43.000049
+      ],
+      "streetAddress":"1621 E M 21",
+      "city":"Owosso",
+      "stateProvCode":"MI",
+      "zip":"48867",
+      "phoneNumber":"989-723-2552",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91591,
+      "name":"Ann Arbor FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.73994,
+         42.24621
+      ],
+      "streetAddress":"2800 S State St",
+      "city":"Ann Arbor",
+      "stateProvCode":"MI",
+      "zip":"48104",
+      "phoneNumber":"734-665-2400",
+      "sundayOpen":true
+   },
+   {  
+      "no":5064,
+      "name":"Kalamazoo Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.510398,
+         42.33185
+      ],
+      "streetAddress":"6065 Gull Rd",
+      "city":"Kalamazoo",
+      "stateProvCode":"MI",
+      "zip":"49048",
+      "phoneNumber":"269-373-1314",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5065,
+      "name":"Kalamazoo Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.6857848,
+         42.293094
+      ],
+      "streetAddress":"501 N 9th St",
+      "city":"Kalamazoo",
+      "stateProvCode":"MI",
+      "zip":"49009",
+      "phoneNumber":"269-544-0718",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3791,
+      "name":"Three Rivers Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.6565534,
+         41.9417563
+      ],
+      "streetAddress":"101 S Tolbert Dr",
+      "city":"Three Rivers",
+      "stateProvCode":"MI",
+      "zip":"49093",
+      "phoneNumber":"269-273-7820",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5842,
+      "name":"Southgate Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.210725,
+         42.20161
+      ],
+      "streetAddress":"14900 Dix Toledo Rd",
+      "city":"Southgate",
+      "stateProvCode":"MI",
+      "zip":"48195",
+      "phoneNumber":"734-286-9594",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5844,
+      "name":"Livonia Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.339865,
+         42.430649
+      ],
+      "streetAddress":"29574 7 Mile Rd",
+      "city":"Livonia",
+      "stateProvCode":"MI",
+      "zip":"48152",
+      "phoneNumber":"248-957-0106",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91606,
+      "name":"Auburn Hills FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.23352,
+         42.669857
+      ],
+      "streetAddress":"2785 University Dr",
+      "city":"Auburn Hills",
+      "stateProvCode":"MI",
+      "zip":"48326",
+      "phoneNumber":"248-377-2222",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":91350,
+      "name":"Grand Rapids FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -85.674385,
+         42.963356
+      ],
+      "streetAddress":"233 Fulton St W",
+      "city":"Grand Rapids",
+      "stateProvCode":"MI",
+      "zip":"49503",
+      "phoneNumber":"616-336-1900",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":6359,
+      "name":"Comstock Park Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.693001,
+         43.034531
+      ],
+      "streetAddress":"3901 Alpine Ave Nw",
+      "city":"Comstock Park",
+      "stateProvCode":"MI",
+      "zip":"49321",
+      "phoneNumber":"616-785-0001",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90326,
+      "name":"East Lansing FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -84.49192,
+         42.734264
+      ],
+      "streetAddress":"626 Michigan Ave",
+      "city":"East Lansing",
+      "stateProvCode":"MI",
+      "zip":"48823",
+      "phoneNumber":"517-332-5855",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1752,
+      "name":"Bay City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.897044,
+         43.625476
+      ],
+      "streetAddress":"3921 Wilder Rd",
+      "city":"Bay City",
+      "stateProvCode":"MI",
+      "zip":"48706",
+      "phoneNumber":"989-684-0430",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2010,
+      "name":"Niles Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.246497,
+         41.789497
+      ],
+      "streetAddress":"2107 S 11th St",
+      "city":"Niles",
+      "stateProvCode":"MI",
+      "zip":"49120",
+      "phoneNumber":"269-683-2773",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2522,
+      "name":"Escanaba Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.0827258,
+         45.7524691
+      ],
+      "streetAddress":"601 N Lincoln Rd",
+      "city":"Escanaba",
+      "stateProvCode":"MI",
+      "zip":"49829",
+      "phoneNumber":"906-786-7717",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1754,
+      "name":"Howell Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.878052,
+         42.585496
+      ],
+      "streetAddress":"3850 E Grand River Ave",
+      "city":"Howell",
+      "stateProvCode":"MI",
+      "zip":"48843",
+      "phoneNumber":"517-548-9500",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2014,
+      "name":"Houghton Lake Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.679646,
+         44.295983
+      ],
+      "streetAddress":"2129 W Houghton Lake Dr",
+      "city":"Houghton Lake",
+      "stateProvCode":"MI",
+      "zip":"48629",
+      "phoneNumber":"989-366-9766",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2273,
+      "name":"Burton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.600861,
+         43.022948
+      ],
+      "streetAddress":"5323 E Court St N",
+      "city":"Burton",
+      "stateProvCode":"MI",
+      "zip":"48509",
+      "phoneNumber":"810-744-9690",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5097,
+      "name":"Saginaw Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.969334,
+         43.48974
+      ],
+      "streetAddress":"5650 Bay Rd",
+      "city":"Saginaw",
+      "stateProvCode":"MI",
+      "zip":"48604",
+      "phoneNumber":"989-790-3990",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1771,
+      "name":"Sturgis Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.424951,
+         41.78391
+      ],
+      "streetAddress":"1500 S Centerville Rd",
+      "city":"Sturgis",
+      "stateProvCode":"MI",
+      "zip":"49091",
+      "phoneNumber":"269-651-8580",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90617,
+      "name":"Taylor FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.257645,
+         42.19769
+      ],
+      "streetAddress":"23077 Eureka Rd",
+      "city":"Taylor",
+      "stateProvCode":"MI",
+      "zip":"48180",
+      "phoneNumber":"734-374-0225",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2558,
+      "name":"Sterling Heights Store",
+      "country":"US",
+      "coordinates":[  
+         -83.054472,
+         42.621319
+      ],
+      "streetAddress":"44575 Mound Rd",
+      "city":"Sterling Heights",
+      "stateProvCode":"MI",
+      "zip":"48314",
+      "phoneNumber":"586-323-2394",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1790,
+      "name":"Monroe Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.395824,
+         41.951627
+      ],
+      "streetAddress":"2150 N Telegraph Rd",
+      "city":"Monroe",
+      "stateProvCode":"MI",
+      "zip":"48162",
+      "phoneNumber":"734-242-2280",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2559,
+      "name":"Sterling Heights Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.032619,
+         42.538338
+      ],
+      "streetAddress":"33201 Van Dyke Ave",
+      "city":"Sterling Heights",
+      "stateProvCode":"MI",
+      "zip":"48312",
+      "phoneNumber":"586-939-7208",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1791,
+      "name":"Fremont Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.976337,
+         43.470111
+      ],
+      "streetAddress":"7083 W 48th St",
+      "city":"Fremont",
+      "stateProvCode":"MI",
+      "zip":"49412",
+      "phoneNumber":"231-924-5000",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90622,
+      "name":"Westland FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -83.38591,
+         42.343212
+      ],
+      "streetAddress":"7699 N Wayne Rd",
+      "city":"Westland",
+      "stateProvCode":"MI",
+      "zip":"48185",
+      "phoneNumber":"734-522-7322",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   }
+]

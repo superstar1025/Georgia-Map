@@ -1,0 +1,6744 @@
+[  
+   {  
+      "no":3075,
+      "name":"Panama City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.668025,
+         30.18743
+      ],
+      "streetAddress":"513 W 23rd St",
+      "city":"Panama City",
+      "stateProvCode":"FL",
+      "zip":"32405",
+      "phoneNumber":"850-691-0716",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1029,
+      "name":"Homosassa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.549992,
+         28.762864
+      ],
+      "streetAddress":"6885 S Suncoast Blvd",
+      "city":"Homosassa",
+      "stateProvCode":"FL",
+      "zip":"34446",
+      "phoneNumber":"352-628-4161",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6149,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.364767,
+         28.366009
+      ],
+      "streetAddress":"13801 Landstar And Arbor Meadows Blvd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32824",
+      "phoneNumber":"407-723-4435",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1032,
+      "name":"Lynn Haven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.6462476,
+         30.2262571
+      ],
+      "streetAddress":"2101 S Highway 77",
+      "city":"Lynn Haven",
+      "stateProvCode":"FL",
+      "zip":"32444",
+      "phoneNumber":"850-265-2626",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":8201,
+      "name":"Bradenton Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.528363,
+         27.446065
+      ],
+      "streetAddress":"5300 30th St E",
+      "city":"Bradenton",
+      "stateProvCode":"FL",
+      "zip":"34203",
+      "phoneNumber":"941-739-2130",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5132,
+      "name":"Winter Springs Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.278122,
+         28.648609
+      ],
+      "streetAddress":"5216 Red Bug Lake Rd",
+      "city":"Winter Springs",
+      "stateProvCode":"FL",
+      "zip":"32708",
+      "phoneNumber":"407-699-7050",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7191,
+      "name":"Miramar Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.2417356,
+         25.9815562
+      ],
+      "streetAddress":"11700 Miramar Parkway",
+      "city":"Miramar",
+      "stateProvCode":"FL",
+      "zip":"33025",
+      "phoneNumber":"754-260-6077",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3104,
+      "name":"Deerfield Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.132043,
+         26.302947
+      ],
+      "streetAddress":"1101 S. Military Trl",
+      "city":"Deerfield Beach",
+      "stateProvCode":"FL",
+      "zip":"33442",
+      "phoneNumber":"954-281-1426",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2081,
+      "name":"Clearwater Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.732518,
+         27.982801
+      ],
+      "streetAddress":"23106 Us Highway 19 N",
+      "city":"Clearwater",
+      "stateProvCode":"FL",
+      "zip":"33765",
+      "phoneNumber":"727-724-7777",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2091,
+      "name":"Doral Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.335317,
+         25.787081
+      ],
+      "streetAddress":"8651 Nw 13th Ter",
+      "city":"Doral",
+      "stateProvCode":"FL",
+      "zip":"33126",
+      "phoneNumber":"305-470-4510",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1068,
+      "name":"Sebastian Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.481738,
+         27.829339
+      ],
+      "streetAddress":"2001 Us Highway #1",
+      "city":"Sebastian",
+      "stateProvCode":"FL",
+      "zip":"32958",
+      "phoneNumber":"772-589-8528",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4140,
+      "name":"Miami Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.308812,
+         25.76493
+      ],
+      "streetAddress":"6991 Sw 8th St",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33144",
+      "phoneNumber":"786-257-4094",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4141,
+      "name":"Largo Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.764218,
+         27.893098
+      ],
+      "streetAddress":"9020 Ulmerton Road",
+      "city":"Largo",
+      "stateProvCode":"FL",
+      "zip":"33771",
+      "phoneNumber":"727-431-5016",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6189,
+      "name":"Apopka Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.471916,
+         28.653935
+      ],
+      "streetAddress":"1500 S. Orange Blossom Trail",
+      "city":"Apopka",
+      "stateProvCode":"FL",
+      "zip":"32703",
+      "phoneNumber":"407-553-4127",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":4142,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.311925,
+         28.498012
+      ],
+      "streetAddress":"4520 S Semoran Blvd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32822",
+      "phoneNumber":"407-563-9167",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6190,
+      "name":"Labelle Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.465424,
+         26.739973
+      ],
+      "streetAddress":"1951 W Hickpochee Ave",
+      "city":"Labelle",
+      "stateProvCode":"FL",
+      "zip":"33935",
+      "phoneNumber":"863-302-6012",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3119,
+      "name":"Panama City Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.866191,
+         30.217825
+      ],
+      "streetAddress":"15495 Panama City Beach Pkwy",
+      "city":"Panama City Beach",
+      "stateProvCode":"FL",
+      "zip":"32413",
+      "phoneNumber":"850-708-6968",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":5172,
+      "name":"Perry Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -83.580081,
+         30.102035
+      ],
+      "streetAddress":"1900 S Jefferson St",
+      "city":"Perry",
+      "stateProvCode":"FL",
+      "zip":"32348",
+      "phoneNumber":"850-223-4179",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1077,
+      "name":"Tallahassee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.214277,
+         30.425341
+      ],
+      "streetAddress":"3535 Apalachee Pkwy",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32311",
+      "phoneNumber":"850-656-2732",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7221,
+      "name":"North Port Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.206053,
+         27.069375
+      ],
+      "streetAddress":"1100 S Main St",
+      "city":"North Port",
+      "stateProvCode":"FL",
+      "zip":"34287",
+      "phoneNumber":"941-240-3079",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1079,
+      "name":"New Smyrna Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.993665,
+         29.015677
+      ],
+      "streetAddress":"3155 State Rd 44",
+      "city":"New Smyrna Beach",
+      "stateProvCode":"FL",
+      "zip":"32168",
+      "phoneNumber":"386-427-5767",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1081,
+      "name":"Gainesville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.377396,
+         29.625994
+      ],
+      "streetAddress":"2900 Sw 42nd St",
+      "city":"Gainesville",
+      "stateProvCode":"FL",
+      "zip":"32608",
+      "phoneNumber":"352-371-3171",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1082,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.625278,
+         30.177358
+      ],
+      "streetAddress":"10991 San Jose Blvd Ste 1",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32223",
+      "phoneNumber":"904-260-4402",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91195,
+      "name":"Daytona Beach FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.077896,
+         29.184952
+      ],
+      "streetAddress":"2274 W International Speedway",
+      "city":"Daytona Beach",
+      "stateProvCode":"FL",
+      "zip":"32114",
+      "phoneNumber":"386-323-7840",
+      "sundayOpen":true
+   },
+   {  
+      "no":5179,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.275989,
+         28.540478
+      ],
+      "streetAddress":"201 S Chickasaw Trl",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32825",
+      "phoneNumber":"407-380-9971",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1083,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.758379,
+         30.301618
+      ],
+      "streetAddress":"6830 Normandy Blvd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32205",
+      "phoneNumber":"904-786-0390",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90170,
+      "name":"St Petersburg FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.73326,
+         27.796997
+      ],
+      "streetAddress":"2755 Tyrone Blvd N",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33710",
+      "phoneNumber":"727-381-3118",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1084,
+      "name":"Orlando Store",
+      "country":"US",
+      "coordinates":[  
+         -81.31284,
+         28.504964
+      ],
+      "streetAddress":"3838 S Semoran Blvd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32822",
+      "phoneNumber":"407-277-4314",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1085,
+      "name":"Port Richey Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.718394,
+         28.283389
+      ],
+      "streetAddress":"8701 Us Highway 19",
+      "city":"Port Richey",
+      "stateProvCode":"FL",
+      "zip":"34668",
+      "phoneNumber":"727-846-9504",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8253,
+      "name":"Jacksonville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.649669,
+         30.428616
+      ],
+      "streetAddress":"300 Busch Dr",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32218",
+      "phoneNumber":"904-696-8842",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1086,
+      "name":"Saint Cloud Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.315648,
+         28.255445
+      ],
+      "streetAddress":"4400 13th St",
+      "city":"Saint Cloud",
+      "stateProvCode":"FL",
+      "zip":"34769",
+      "phoneNumber":"407-957-1300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1087,
+      "name":"Stuart Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.218683,
+         27.15702
+      ],
+      "streetAddress":"4001 Se Federal Hwy",
+      "city":"Stuart",
+      "stateProvCode":"FL",
+      "zip":"34997",
+      "phoneNumber":"772-288-4749",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6207,
+      "name":"Spring Hill Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.485802,
+         28.476743
+      ],
+      "streetAddress":"14344 Spring Hill Drive",
+      "city":"Spring Hill",
+      "stateProvCode":"FL",
+      "zip":"34609",
+      "phoneNumber":"352-587-6950",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4159,
+      "name":"Kissimmee Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.328774,
+         28.341764
+      ],
+      "streetAddress":"2850 E Osceola Parkway",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34743",
+      "phoneNumber":"407-552-0029",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4160,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.416855,
+         28.527849
+      ],
+      "streetAddress":"1101 S. Goldwyn",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32805",
+      "phoneNumber":"407-563-9069",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4161,
+      "name":"Miami Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.3434775,
+         25.7702714
+      ],
+      "streetAddress":"9191 W. Flagler St",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33174",
+      "phoneNumber":"786-801-5704",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1090,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.75302,
+         30.250666
+      ],
+      "streetAddress":"6767 103rd St",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32210",
+      "phoneNumber":"904-772-0011",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2114,
+      "name":"Chipley Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.54706,
+         30.752617
+      ],
+      "streetAddress":"1621 Main St",
+      "city":"Chipley",
+      "stateProvCode":"FL",
+      "zip":"32428",
+      "phoneNumber":"850-638-2243",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":6212,
+      "name":"Orlando Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.283461,
+         28.569703
+      ],
+      "streetAddress":"7701 E Colonial Dr",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32807",
+      "phoneNumber":"407-384-7570",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6217,
+      "name":"Miami Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.333163,
+         25.786774
+      ],
+      "streetAddress":"8425 Nw 13th Terrace",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33126",
+      "phoneNumber":"305-463-9384",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6218,
+      "name":"Orlando Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.489071,
+         28.549814
+      ],
+      "streetAddress":"7810 W Colonial Dr",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32818",
+      "phoneNumber":"407-532-5212",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1104,
+      "name":"Inverness Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.392881,
+         28.857661
+      ],
+      "streetAddress":"2461 E Gulf To Lake Hwy",
+      "city":"Inverness",
+      "stateProvCode":"FL",
+      "zip":"34453",
+      "phoneNumber":"352-637-2300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91223,
+      "name":"Boca Raton FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.167786,
+         26.368195
+      ],
+      "streetAddress":"7775 Glades Rd",
+      "city":"Boca Raton",
+      "stateProvCode":"FL",
+      "zip":"33434",
+      "phoneNumber":"561-488-5599",
+      "sundayOpen":true
+   },
+   {  
+      "no":90198,
+      "name":"St Petersburg FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.63913,
+         27.819788
+      ],
+      "streetAddress":"5238 4th St N",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33703",
+      "phoneNumber":"727-522-1595",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90201,
+      "name":"St Petersburg FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.63693,
+         27.772367
+      ],
+      "streetAddress":"101 3rd St N",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33701",
+      "phoneNumber":"727-821-1325",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":3161,
+      "name":"Pasadena Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.734284,
+         27.7572296
+      ],
+      "streetAddress":"6850 Gulfport Blvd S",
+      "city":"Pasadena",
+      "stateProvCode":"FL",
+      "zip":"33707",
+      "phoneNumber":"727-202-3106",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91224,
+      "name":"Boca Raton FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.12818,
+         26.368847
+      ],
+      "streetAddress":"2301 Glades Rd",
+      "city":"Boca Raton",
+      "stateProvCode":"FL",
+      "zip":"33431",
+      "phoneNumber":"561-998-8244",
+      "sundayOpen":true
+   },
+   {  
+      "no":3162,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.374947,
+         28.511893
+      ],
+      "streetAddress":"2715 S Orange Ave",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32806",
+      "phoneNumber":"407-241-4080",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3163,
+      "name":"Hollywood Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.204346,
+         26.00765
+      ],
+      "streetAddress":"301 S State Road 7",
+      "city":"Hollywood",
+      "stateProvCode":"FL",
+      "zip":"33023",
+      "phoneNumber":"754-260-6713",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91226,
+      "name":"Boca Raton FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.0894,
+         26.334255
+      ],
+      "streetAddress":"1701 S Federal Hwy",
+      "city":"Boca Raton",
+      "stateProvCode":"FL",
+      "zip":"33432",
+      "phoneNumber":"561-620-2890",
+      "sundayOpen":true
+   },
+   {  
+      "no":5214,
+      "name":"Kissimmee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.588346,
+         28.330027
+      ],
+      "streetAddress":"2855 N Old Lake Wilson Road",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34747",
+      "phoneNumber":"407-606-0109",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1119,
+      "name":"Naples Store",
+      "country":"US",
+      "coordinates":[  
+         -81.762659,
+         26.125185
+      ],
+      "streetAddress":"3451 Tamiami Trl E",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34112",
+      "phoneNumber":"239-793-5517",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90206,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.19475,
+         25.764551
+      ],
+      "streetAddress":"901 S Miami Ave",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33130",
+      "phoneNumber":"305-374-5081",
+      "sundayOpen":true
+   },
+   {  
+      "no":5218,
+      "name":"St Petersburg Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.682331,
+         27.736252
+      ],
+      "streetAddress":"3501 34th St S",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33711",
+      "phoneNumber":"727-906-4647",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8290,
+      "name":"Orlando Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.407369,
+         28.422392
+      ],
+      "streetAddress":"9498 S Orange Blossom Trl",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32837",
+      "phoneNumber":"407-859-9056",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5220,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.506783,
+         28.022623
+      ],
+      "streetAddress":"8220 N Dale Mabry Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33614",
+      "phoneNumber":"813-887-5175",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5221,
+      "name":"Tampa Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.457679,
+         28.032076
+      ],
+      "streetAddress":"8885 N Florida Ave",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33604",
+      "phoneNumber":"813-932-0562",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4197,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.394253,
+         28.604364
+      ],
+      "streetAddress":"902 Lee Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32810",
+      "phoneNumber":"407-204-8740",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2151,
+      "name":"Sunrise Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.317897,
+         26.1478499
+      ],
+      "streetAddress":"12555 W Sunrise Blvd",
+      "city":"Sunrise",
+      "stateProvCode":"FL",
+      "zip":"33323",
+      "phoneNumber":"954-845-0581",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90216,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.14104,
+         25.78967
+      ],
+      "streetAddress":"1617 Alton Rd",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33139",
+      "phoneNumber":"305-532-4241",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90219,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.25843,
+         25.74889
+      ],
+      "streetAddress":"2417 Ponce De Leon Blvd",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33134",
+      "phoneNumber":"305-445-2208",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1134,
+      "name":"De Funiak Springs Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.125068,
+         30.704493
+      ],
+      "streetAddress":"1226 Freeport Hwy",
+      "city":"De Funiak Springs",
+      "stateProvCode":"FL",
+      "zip":"32435",
+      "phoneNumber":"850-892-3138",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":110,
+      "name":"Winter Garden Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.629452,
+         28.476488
+      ],
+      "streetAddress":"16313 New Independence Parkway",
+      "city":"Winter Garden",
+      "stateProvCode":"FL",
+      "zip":"34787",
+      "phoneNumber":"407-554-0182",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3183,
+      "name":"Homestead Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.4594941,
+         25.4840483
+      ],
+      "streetAddress":"1499 South Dixie Hwy",
+      "city":"Homestead",
+      "stateProvCode":"FL",
+      "zip":"33033",
+      "phoneNumber":"305-910-2529",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90222,
+      "name":"Coconut Grove FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.24128,
+         25.728039
+      ],
+      "streetAddress":"2982 Grand Ave",
+      "city":"Coconut Grove",
+      "stateProvCode":"FL",
+      "zip":"33133",
+      "phoneNumber":"305-444-8258",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":4211,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.454305,
+         28.612495
+      ],
+      "streetAddress":"5559 Clarcona Ocoee Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32810",
+      "phoneNumber":"407-294-7276",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3197,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.4532362,
+         28.0903026
+      ],
+      "streetAddress":"15302 N. Nebraska Ave.",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33613",
+      "phoneNumber":"813-371-6612",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2176,
+      "name":"Jupiter Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.128314,
+         26.932745
+      ],
+      "streetAddress":"2144 W Indiantown Rd",
+      "city":"Jupiter",
+      "stateProvCode":"FL",
+      "zip":"33458",
+      "phoneNumber":"561-746-6422",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5250,
+      "name":"Kissimmee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.448001,
+         28.142528
+      ],
+      "streetAddress":"904 Cypress Pkwy",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34759",
+      "phoneNumber":"407-870-1903",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7298,
+      "name":"Sarasota Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.462724,
+         27.266726
+      ],
+      "streetAddress":"5401 Palmer Crossing Cir",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34233",
+      "phoneNumber":"941-554-2353",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7299,
+      "name":"Port St Lucie Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.380818,
+         27.316246
+      ],
+      "streetAddress":"902 Sw Saint Lucie West Blvd",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34986",
+      "phoneNumber":"772-446-8740",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3207,
+      "name":"Sanford Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.32819,
+         28.802576
+      ],
+      "streetAddress":"1601 Rinehart Rd",
+      "city":"Sanford",
+      "stateProvCode":"FL",
+      "zip":"32771",
+      "phoneNumber":"407-321-1540",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5255,
+      "name":"Tampa Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.59856,
+         28.006403
+      ],
+      "streetAddress":"6216 Elliot Dr",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33615",
+      "phoneNumber":"813-249-3145",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90249,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.19519,
+         25.808733
+      ],
+      "streetAddress":"3401 N Miami Ave",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33127",
+      "phoneNumber":"305-576-1984",
+      "sundayOpen":true
+   },
+   {  
+      "no":7307,
+      "name":"Bradenton Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.503907,
+         27.444798
+      ],
+      "streetAddress":"4536 53rd Avenue East",
+      "city":"Bradenton",
+      "stateProvCode":"FL",
+      "zip":"34203",
+      "phoneNumber":"941-213-6911",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5264,
+      "name":"Osprey Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.486076,
+         27.193124
+      ],
+      "streetAddress":"13140 South Tamiami Trail",
+      "city":"Osprey",
+      "stateProvCode":"FL",
+      "zip":"34229",
+      "phoneNumber":"941-918-1247",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5265,
+      "name":"Saint Cloud Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.293856,
+         28.222798
+      ],
+      "streetAddress":"2125 Nolte Rd",
+      "city":"Saint Cloud",
+      "stateProvCode":"FL",
+      "zip":"34772",
+      "phoneNumber":"407-556-0995",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5266,
+      "name":"Hudson Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.69604,
+         28.3406
+      ],
+      "streetAddress":"12610 Us Highway 19",
+      "city":"Hudson",
+      "stateProvCode":"FL",
+      "zip":"34667",
+      "phoneNumber":"727-861-0040",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1171,
+      "name":"Sarasota Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.506923,
+         27.392304
+      ],
+      "streetAddress":"8320 Lockwood Ridge Rd",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34243",
+      "phoneNumber":"941-351-6969",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1172,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.462613,
+         30.284726
+      ],
+      "streetAddress":"13490 Beach Blvd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32224",
+      "phoneNumber":"904-223-0772",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1173,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.562702,
+         30.283485
+      ],
+      "streetAddress":"8808 Beach Blvd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32216",
+      "phoneNumber":"904-642-4999",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1182,
+      "name":"Palm Coast Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.225353,
+         29.549792
+      ],
+      "streetAddress":"174 Cypress Point Pkwy",
+      "city":"Palm Coast",
+      "stateProvCode":"FL",
+      "zip":"32164",
+      "phoneNumber":"386-446-8486",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3235,
+      "name":"North Miami Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.171269,
+         25.928265
+      ],
+      "streetAddress":"1425 Ne 163rd St",
+      "city":"North Miami Beach",
+      "stateProvCode":"FL",
+      "zip":"33162",
+      "phoneNumber":"305-949-5881",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4260,
+      "name":"Port St Lucie Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.40489,
+         27.262039
+      ],
+      "streetAddress":"1850 Sw Gatlin Blvd",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34953",
+      "phoneNumber":"772-336-8212",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4262,
+      "name":"The Villages Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.031165,
+         28.930175
+      ],
+      "streetAddress":"4085 Wedgewood Ln",
+      "city":"The Villages",
+      "stateProvCode":"FL",
+      "zip":"32162",
+      "phoneNumber":"352-259-0128",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":174,
+      "name":"Cocoa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.753116,
+         28.395378
+      ],
+      "streetAddress":"2700 Clearlake Rd",
+      "city":"Cocoa",
+      "stateProvCode":"FL",
+      "zip":"32922",
+      "phoneNumber":"321-639-1610",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5299,
+      "name":"Clermont Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.672532,
+         28.355155
+      ],
+      "streetAddress":"550 Us Highway 27",
+      "city":"Clermont",
+      "stateProvCode":"FL",
+      "zip":"34714",
+      "phoneNumber":"352-536-2750",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1203,
+      "name":"Wimauma Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.332629,
+         27.715137
+      ],
+      "streetAddress":"4928 State Road 674",
+      "city":"Wimauma",
+      "stateProvCode":"FL",
+      "zip":"33598",
+      "phoneNumber":"813-633-1467",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5300,
+      "name":"Gibsonton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.354334,
+         27.847235
+      ],
+      "streetAddress":"9205 Gibsonton Dr",
+      "city":"Gibsonton",
+      "stateProvCode":"FL",
+      "zip":"33534",
+      "phoneNumber":"813-672-0739",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5301,
+      "name":"West Palm Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.109045,
+         26.693816
+      ],
+      "streetAddress":"4375 Belvedere Rd",
+      "city":"West Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33406",
+      "phoneNumber":"561-242-8889",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1205,
+      "name":"Macclenny Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.108869,
+         30.262712
+      ],
+      "streetAddress":"9218 S State Road 228",
+      "city":"Macclenny",
+      "stateProvCode":"FL",
+      "zip":"32063",
+      "phoneNumber":"904-259-4760",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1207,
+      "name":"Callaway Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.593254,
+         30.161539
+      ],
+      "streetAddress":"725 No. Tyndall Pkwy",
+      "city":"Callaway",
+      "stateProvCode":"FL",
+      "zip":"32404",
+      "phoneNumber":"850-785-6011",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":90299,
+      "name":"Jacksonville Beach FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.3897,
+         30.25452
+      ],
+      "streetAddress":"341 Marsh Landing Pkwy",
+      "city":"Jacksonville Beach",
+      "stateProvCode":"FL",
+      "zip":"32250",
+      "phoneNumber":"904-280-9989",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":91325,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.16339,
+         25.890228
+      ],
+      "streetAddress":"12395 Biscayne Blvd",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33181",
+      "phoneNumber":"305-899-9337",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1213,
+      "name":"Brooksville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.505657,
+         28.531095
+      ],
+      "streetAddress":"13300 Cortez Blvd",
+      "city":"Brooksville",
+      "stateProvCode":"FL",
+      "zip":"34613",
+      "phoneNumber":"352-597-3807",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2237,
+      "name":"Lehigh Acres Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.667127,
+         26.614759
+      ],
+      "streetAddress":"2523 Lee Blvd",
+      "city":"Lehigh Acres",
+      "stateProvCode":"FL",
+      "zip":"33971",
+      "phoneNumber":"239-368-5700",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6335,
+      "name":"Ocala Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.190155,
+         29.148456
+      ],
+      "streetAddress":"3921 Sw College Rd",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34474",
+      "phoneNumber":"352-873-0500",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1219,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.7066673,
+         30.4503575
+      ],
+      "streetAddress":"12100 Lem Turner Rd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32218",
+      "phoneNumber":"904-764-2855",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5315,
+      "name":"Orlando Pharmacy",
+      "country":"US",
+      "coordinates":[  
+         -81.41502,
+         28.428101
+      ],
+      "streetAddress":"9600 Parksouth Court Suite 120",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32837",
+      "phoneNumber":"877-453-4566",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1220,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.462791,
+         28.515333
+      ],
+      "streetAddress":"2500 S Kirkman Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32811",
+      "phoneNumber":"407-290-6977",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6341,
+      "name":"Sunrise Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.328604,
+         26.144981
+      ],
+      "streetAddress":"13550 W Sunrise Blvd",
+      "city":"Sunrise",
+      "stateProvCode":"FL",
+      "zip":"33323",
+      "phoneNumber":"954-846-7001",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1222,
+      "name":"Pensacola Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.271985,
+         30.527664
+      ],
+      "streetAddress":"8970 Pensacola Blvd",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32534",
+      "phoneNumber":"850-484-3771",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1223,
+      "name":"Tallahassee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.229234,
+         30.545253
+      ],
+      "streetAddress":"5500 Thomasville Rd",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32312",
+      "phoneNumber":"850-668-2511",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1224,
+      "name":"Pensacola Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.192694,
+         30.497588
+      ],
+      "streetAddress":"2650 Creighton Rd",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32504",
+      "phoneNumber":"850-479-2101",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":5321,
+      "name":"Fort Myers Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.906145,
+         26.555041
+      ],
+      "streetAddress":"9131 College Pkwy Ste 101",
+      "city":"Fort Myers",
+      "stateProvCode":"FL",
+      "zip":"33919",
+      "phoneNumber":"239-267-2860",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1225,
+      "name":"Orange Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.768837,
+         30.137709
+      ],
+      "streetAddress":"899 Blanding Blvd",
+      "city":"Orange Park",
+      "stateProvCode":"FL",
+      "zip":"32065",
+      "phoneNumber":"904-272-0036",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5325,
+      "name":"Margate Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.203077,
+         26.237516
+      ],
+      "streetAddress":"5555 W Atlantic Blvd",
+      "city":"Margate",
+      "stateProvCode":"FL",
+      "zip":"33063",
+      "phoneNumber":"954-975-8682",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91340,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.35861,
+         25.811731
+      ],
+      "streetAddress":"10005 Nw 41st St",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33178",
+      "phoneNumber":"305-591-0393",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":5326,
+      "name":"Ocala Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.276131,
+         29.05658
+      ],
+      "streetAddress":"9570 Sw Highway 200",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34481",
+      "phoneNumber":"352-291-7512",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4303,
+      "name":"Miami Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.251349,
+         25.843304
+      ],
+      "streetAddress":"3200 Nw 79th Street",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33147",
+      "phoneNumber":"305-913-8439",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6361,
+      "name":"Fort Walton Beach Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -86.641223,
+         30.439507
+      ],
+      "streetAddress":"740 Beal Pkwy Nw",
+      "city":"Fort Walton Beach",
+      "stateProvCode":"FL",
+      "zip":"32547",
+      "phoneNumber":"850-862-5330",
+      "sundayOpen":false,
+      "timezone":"CST"
+   },
+   {  
+      "no":6363,
+      "name":"Jacksonville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.746481,
+         30.198133
+      ],
+      "streetAddress":"6373 Youngerman Cir",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32244",
+      "phoneNumber":"904-573-9702",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6364,
+      "name":"Naples Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.768509,
+         26.270046
+      ],
+      "streetAddress":"2550 Immokalee Rd",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34110",
+      "phoneNumber":"239-592-6670",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1245,
+      "name":"Lakeland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.977138,
+         28.119414
+      ],
+      "streetAddress":"5800 Us Highway 98 N",
+      "city":"Lakeland",
+      "stateProvCode":"FL",
+      "zip":"33809",
+      "phoneNumber":"863-859-3626",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5347,
+      "name":"Estero Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.816809,
+         26.450929
+      ],
+      "streetAddress":"19975 S. Tamiami Trail",
+      "city":"Estero",
+      "stateProvCode":"FL",
+      "zip":"33928",
+      "phoneNumber":"239-590-9501",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7396,
+      "name":"Marianna Pharmacy",
+      "country":"US",
+      "coordinates":[  
+         -85.187785,
+         30.727573
+      ],
+      "streetAddress":"2255 Highway 71.",
+      "city":"Marianna",
+      "stateProvCode":"FL",
+      "zip":"32448",
+      "phoneNumber":"000-000-0000",
+      "sundayOpen":false,
+      "timezone":"CST"
+   },
+   {  
+      "no":3307,
+      "name":"Crawfordville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.360259,
+         30.216862
+      ],
+      "streetAddress":"35 Mike Stewart",
+      "city":"Crawfordville",
+      "stateProvCode":"FL",
+      "zip":"32327",
+      "phoneNumber":"850-926-1560",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4332,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.476496,
+         28.43987
+      ],
+      "streetAddress":"8990 Turkey Lake Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32819",
+      "phoneNumber":"407-351-2229",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3308,
+      "name":"Middleburg Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.833799,
+         30.105744
+      ],
+      "streetAddress":"1580 Branan Field Rd",
+      "city":"Middleburg",
+      "stateProvCode":"FL",
+      "zip":"32068",
+      "phoneNumber":"904-214-9411",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3309,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.629059,
+         30.279227
+      ],
+      "streetAddress":"4250 Phillips Hwy",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32207",
+      "phoneNumber":"904-737-7007",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3310,
+      "name":"Deltona Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.164118,
+         28.869772
+      ],
+      "streetAddress":"101 Howland Blvd",
+      "city":"Deltona",
+      "stateProvCode":"FL",
+      "zip":"32738",
+      "phoneNumber":"407-328-8052",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3311,
+      "name":"Miami Gardens Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.243694,
+         25.952899
+      ],
+      "streetAddress":"19501 Nw 27th Ave",
+      "city":"Miami Gardens",
+      "stateProvCode":"FL",
+      "zip":"33056",
+      "phoneNumber":"305-622-6664",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6387,
+      "name":"Pinellas Park Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.734927,
+         27.840737
+      ],
+      "streetAddress":"7001 Park Blvd",
+      "city":"Pinellas Park",
+      "stateProvCode":"FL",
+      "zip":"33781",
+      "phoneNumber":"727-547-8955",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5365,
+      "name":"Melbourne Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.6739212,
+         28.1712898
+      ],
+      "streetAddress":"3950 N Wickham Rd",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32935",
+      "phoneNumber":"321-254-7875",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5366,
+      "name":"Melbourne Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.623237,
+         28.055291
+      ],
+      "streetAddress":"3550 S Babcock St",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32901",
+      "phoneNumber":"321-723-8988",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90358,
+      "name":"Weston FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.36727,
+         26.09974
+      ],
+      "streetAddress":"1548 Weston Rd",
+      "city":"Weston",
+      "stateProvCode":"FL",
+      "zip":"33326",
+      "phoneNumber":"954-349-1682",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90360,
+      "name":"Plantation FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.25014,
+         26.10348
+      ],
+      "streetAddress":"1347 S University Dr",
+      "city":"Plantation",
+      "stateProvCode":"FL",
+      "zip":"33324",
+      "phoneNumber":"954-423-8111",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":6398,
+      "name":"Deltona Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.245296,
+         28.906876
+      ],
+      "streetAddress":"1569 Saxon Boulevard",
+      "city":"Deltona",
+      "stateProvCode":"FL",
+      "zip":"32725",
+      "phoneNumber":"386-457-6185",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6401,
+      "name":"Tampa Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.500109,
+         28.096468
+      ],
+      "streetAddress":"15835 North Dale Mabry",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33618",
+      "phoneNumber":"813-960-2110",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":4354,
+      "name":"Naples Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.766528,
+         26.207268
+      ],
+      "streetAddress":"5010 Airport Pulling Rd N",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34105",
+      "phoneNumber":"239-213-1183",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1283,
+      "name":"Starke Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.130209,
+         29.922285
+      ],
+      "streetAddress":"14500 Us Highway 301 S",
+      "city":"Starke",
+      "stateProvCode":"FL",
+      "zip":"32091",
+      "phoneNumber":"904-964-3286",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6403,
+      "name":"Brandon Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.316816,
+         27.934538
+      ],
+      "streetAddress":"2021 W Brandon Blvd",
+      "city":"Brandon",
+      "stateProvCode":"FL",
+      "zip":"33511",
+      "phoneNumber":"813-685-8223",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":4357,
+      "name":"Pensacola Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -87.308317,
+         30.477863
+      ],
+      "streetAddress":"6670 Mobile Highway",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32526",
+      "phoneNumber":"850-483-6126",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":4365,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.248596,
+         28.389851
+      ],
+      "streetAddress":"11930 Narcoossee Road",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32832",
+      "phoneNumber":"407-204-2039",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5391,
+      "name":"Naples Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.745551,
+         26.270825
+      ],
+      "streetAddress":"5420 Juliet Blvd",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34109",
+      "phoneNumber":"239-254-8310",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4368,
+      "name":"Ocala Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.023515,
+         29.118589
+      ],
+      "streetAddress":"34 Bahia Ave",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34472",
+      "phoneNumber":"352-537-3095",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1297,
+      "name":"Chiefland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.867627,
+         29.502205
+      ],
+      "streetAddress":"2201 N Young Blvd",
+      "city":"Chiefland",
+      "stateProvCode":"FL",
+      "zip":"32626",
+      "phoneNumber":"352-493-0758",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3347,
+      "name":"Winter Haven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.6490412,
+         27.9768421
+      ],
+      "streetAddress":"7450 Cypress Gardens Blvd",
+      "city":"Winter Haven",
+      "stateProvCode":"FL",
+      "zip":"33884",
+      "phoneNumber":"863-318-0752",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3348,
+      "name":"Lake Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.088336,
+         26.795173
+      ],
+      "streetAddress":"101 N Congress Ave",
+      "city":"Lake Park",
+      "stateProvCode":"FL",
+      "zip":"33403",
+      "phoneNumber":"561-842-8113",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6420,
+      "name":"Clearwater Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.731703,
+         27.958771
+      ],
+      "streetAddress":"2575 Gulf To Bay Blvd",
+      "city":"Clearwater",
+      "stateProvCode":"FL",
+      "zip":"33765",
+      "phoneNumber":"727-791-8081",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3349,
+      "name":"Port Charlotte Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.047909,
+         27.02493
+      ],
+      "streetAddress":"375 Kings Hwy",
+      "city":"Port Charlotte",
+      "stateProvCode":"FL",
+      "zip":"33983",
+      "phoneNumber":"941-625-1201",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90391,
+      "name":"Fort Lauderdale FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.12723,
+         26.100904
+      ],
+      "streetAddress":"1501 Se 17th St",
+      "city":"Fort Lauderdale",
+      "stateProvCode":"FL",
+      "zip":"33316",
+      "phoneNumber":"954-522-4989",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":4380,
+      "name":"Coral Springs Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.267383,
+         26.242174
+      ],
+      "streetAddress":"10635 W Atlantic Blvd",
+      "city":"Coral Springs",
+      "stateProvCode":"FL",
+      "zip":"33071",
+      "phoneNumber":"954-345-9513",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90407,
+      "name":"Fort Lauderdale FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.13715,
+         26.125544
+      ],
+      "streetAddress":"300 N Federal Hwy",
+      "city":"Fort Lauderdale",
+      "stateProvCode":"FL",
+      "zip":"33301",
+      "phoneNumber":"954-467-1007",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":90406,
+      "name":"Fort Lauderdale FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.12007,
+         26.148216
+      ],
+      "streetAddress":"1587 N Federal Hwy",
+      "city":"Fort Lauderdale",
+      "stateProvCode":"FL",
+      "zip":"33304",
+      "phoneNumber":"954-563-8101",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":6441,
+      "name":"Lakeland Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.976851,
+         28.101404
+      ],
+      "streetAddress":"4600 Us Highway 98 N",
+      "city":"Lakeland",
+      "stateProvCode":"FL",
+      "zip":"33809",
+      "phoneNumber":"863-853-2654",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3370,
+      "name":"Palmetto Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.559178,
+         27.523773
+      ],
+      "streetAddress":"508 10th St E",
+      "city":"Palmetto",
+      "stateProvCode":"FL",
+      "zip":"34221",
+      "phoneNumber":"941-723-2199",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3372,
+      "name":"Largo Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.727723,
+         27.912974
+      ],
+      "streetAddress":"2677 Roosevelt Boulevard",
+      "city":"Largo",
+      "stateProvCode":"FL",
+      "zip":"33760",
+      "phoneNumber":"727-431-5917",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5420,
+      "name":"Kissimmee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.486378,
+         28.341551
+      ],
+      "streetAddress":"3250 Vineland Rd",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34746",
+      "phoneNumber":"407-397-1125",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6445,
+      "name":"Port Charlotte Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.154528,
+         27.007817
+      ],
+      "streetAddress":"17700 Murdock Cir",
+      "city":"Port Charlotte",
+      "stateProvCode":"FL",
+      "zip":"33948",
+      "phoneNumber":"941-255-5556",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":6448,
+      "name":"New Port Richey Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.732864,
+         28.221638
+      ],
+      "streetAddress":"4330 Us 19",
+      "city":"New Port Richey",
+      "stateProvCode":"FL",
+      "zip":"34652",
+      "phoneNumber":"727-846-7300",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3387,
+      "name":"North Port Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.217003,
+         27.034649
+      ],
+      "streetAddress":"17000 Tamiami Trl",
+      "city":"North Port",
+      "stateProvCode":"FL",
+      "zip":"34287",
+      "phoneNumber":"941-423-5266",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3397,
+      "name":"Miami Gardens Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.207676,
+         25.935725
+      ],
+      "streetAddress":"17650 Nw 2nd Ave",
+      "city":"Miami Gardens",
+      "stateProvCode":"FL",
+      "zip":"33169",
+      "phoneNumber":"305-651-4661",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1349,
+      "name":"Sunrise Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.254227,
+         26.167944
+      ],
+      "streetAddress":"3306 North University Drive",
+      "city":"Sunrise",
+      "stateProvCode":"FL",
+      "zip":"33351",
+      "phoneNumber":"954-749-3111",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4425,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.49085,
+         28.549978
+      ],
+      "streetAddress":"7818 Colonial West Drive",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32818",
+      "phoneNumber":"407-522-4552",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4427,
+      "name":"Tallahassee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.31842,
+         30.488822
+      ],
+      "streetAddress":"3221 N Monroe St",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32303",
+      "phoneNumber":"850-562-8383",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5451,
+      "name":"Cape Coral Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.991899,
+         26.578921
+      ],
+      "streetAddress":"3920 Skyline Blvd",
+      "city":"Cape Coral",
+      "stateProvCode":"FL",
+      "zip":"33914",
+      "phoneNumber":"239-540-2245",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5453,
+      "name":"Cape Coral Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.984658,
+         26.649591
+      ],
+      "streetAddress":"505 Sw Pine Island Rd",
+      "city":"Cape Coral",
+      "stateProvCode":"FL",
+      "zip":"33991",
+      "phoneNumber":"239-458-7530",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5455,
+      "name":"Palm Bay Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.641827,
+         27.996642
+      ],
+      "streetAddress":"1040 Malabar Rd Se",
+      "city":"Palm Bay",
+      "stateProvCode":"FL",
+      "zip":"32907",
+      "phoneNumber":"321-723-2171",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1362,
+      "name":"Destin Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.449696,
+         30.389545
+      ],
+      "streetAddress":"15017 Emerald Coast Pkwy",
+      "city":"Destin",
+      "stateProvCode":"FL",
+      "zip":"32541",
+      "phoneNumber":"850-650-0341",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":4434,
+      "name":"Ocala Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.251193,
+         29.087437
+      ],
+      "streetAddress":"7855 Sw Hwy 200",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34476",
+      "phoneNumber":"352-512-6628",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2387,
+      "name":"Brandon Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.325385,
+         27.925393
+      ],
+      "streetAddress":"11110 Causeway Blvd",
+      "city":"Brandon",
+      "stateProvCode":"FL",
+      "zip":"33511",
+      "phoneNumber":"813-661-4426",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3414,
+      "name":"Palm Harbor Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.7062003,
+         28.0600454
+      ],
+      "streetAddress":"3400 East Lake Rd",
+      "city":"Palm Harbor",
+      "stateProvCode":"FL",
+      "zip":"34685",
+      "phoneNumber":"727-431-1417",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3415,
+      "name":"Tarpon Springs Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.743512,
+         28.147248
+      ],
+      "streetAddress":"41232 Us Hwy 19 N",
+      "city":"Tarpon Springs",
+      "stateProvCode":"FL",
+      "zip":"34689",
+      "phoneNumber":"727-940-9289",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2391,
+      "name":"New Port Richey Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.6767893,
+         28.2836888
+      ],
+      "streetAddress":"8745 Little Road",
+      "city":"New Port Richey",
+      "stateProvCode":"FL",
+      "zip":"34654",
+      "phoneNumber":"727-264-5342",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2392,
+      "name":"Sarasota Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.498089,
+         27.297469
+      ],
+      "streetAddress":"3560 Bee Ridge Rd",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34239",
+      "phoneNumber":"941-702-6237",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3417,
+      "name":"Naples Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.696975,
+         26.057251
+      ],
+      "streetAddress":"6650 Collier Blvd",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34114",
+      "phoneNumber":"239-417-1252",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4441,
+      "name":"Palm Springs Village Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.110786,
+         26.650413
+      ],
+      "streetAddress":"4400 Forest Hill Blvd.",
+      "city":"Palm Springs Village",
+      "stateProvCode":"FL",
+      "zip":"33406",
+      "phoneNumber":"561-530-1237",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3418,
+      "name":"Wesley Chapel Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.344173,
+         28.234793
+      ],
+      "streetAddress":"28500 State Road 54",
+      "city":"Wesley Chapel",
+      "stateProvCode":"FL",
+      "zip":"33543",
+      "phoneNumber":"813-262-2180",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4444,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.555936,
+         30.179113
+      ],
+      "streetAddress":"10251 Shops Ln",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32258",
+      "phoneNumber":"904-288-8211",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2396,
+      "name":"Boynton Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.121275,
+         26.489084
+      ],
+      "streetAddress":"12700 S Military Trl",
+      "city":"Boynton Beach",
+      "stateProvCode":"FL",
+      "zip":"33436",
+      "phoneNumber":"561-808-1090",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91484,
+      "name":"Altamonte Springs FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.38514,
+         28.66297
+      ],
+      "streetAddress":"175 E Altamonte Dr",
+      "city":"Altamonte Springs",
+      "stateProvCode":"FL",
+      "zip":"32701",
+      "phoneNumber":"407-260-8371",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4446,
+      "name":"West Palm Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.103131,
+         26.762254
+      ],
+      "streetAddress":"4225 45th St",
+      "city":"West Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33407",
+      "phoneNumber":"561-683-8300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1374,
+      "name":"Altamonte Springs Store",
+      "country":"US",
+      "coordinates":[  
+         -81.421139,
+         28.659911
+      ],
+      "streetAddress":"200 S State Road 434",
+      "city":"Altamonte Springs",
+      "stateProvCode":"FL",
+      "zip":"32714",
+      "phoneNumber":"407-774-9966",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1375,
+      "name":"Marianna Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.188476,
+         30.727748
+      ],
+      "streetAddress":"2255 Highway 71",
+      "city":"Marianna",
+      "stateProvCode":"FL",
+      "zip":"32448",
+      "phoneNumber":"850-526-5744",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2406,
+      "name":"Delray Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.0716085,
+         26.4258162
+      ],
+      "streetAddress":"3155 South Federal Highway",
+      "city":"Delray Beach",
+      "stateProvCode":"FL",
+      "zip":"33483",
+      "phoneNumber":"561-450-1853",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1387,
+      "name":"Coral Springs Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.203091,
+         26.278423
+      ],
+      "streetAddress":"3801 Turtle Creek Dr",
+      "city":"Coral Springs",
+      "stateProvCode":"FL",
+      "zip":"33067",
+      "phoneNumber":"954-341-4505",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1390,
+      "name":"Pinellas Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.68483,
+         27.845075
+      ],
+      "streetAddress":"8001 Us Highway 19 N",
+      "city":"Pinellas Park",
+      "stateProvCode":"FL",
+      "zip":"33781",
+      "phoneNumber":"727-576-1770",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3439,
+      "name":"Navarre Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.830894,
+         30.412221
+      ],
+      "streetAddress":"9360 Navarre Pkwy",
+      "city":"Navarre",
+      "stateProvCode":"FL",
+      "zip":"32566",
+      "phoneNumber":"850-939-3998",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1391,
+      "name":"Daytona Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.02998,
+         29.17252
+      ],
+      "streetAddress":"1101 Beville Rd",
+      "city":"Daytona Beach",
+      "stateProvCode":"FL",
+      "zip":"32119",
+      "phoneNumber":"386-760-7880",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1398,
+      "name":"Lake Worth Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.11455,
+         26.574994
+      ],
+      "streetAddress":"4545 Hypoluxo Rd",
+      "city":"Lake Worth",
+      "stateProvCode":"FL",
+      "zip":"33463",
+      "phoneNumber":"561-642-6005",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6520,
+      "name":"Vero Beach Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.444785,
+         27.636393
+      ],
+      "streetAddress":"5565 20th St",
+      "city":"Vero Beach",
+      "stateProvCode":"FL",
+      "zip":"32966",
+      "phoneNumber":"772-978-9385",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1408,
+      "name":"Tallahassee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.359237,
+         30.461987
+      ],
+      "streetAddress":"4400 W Tennessee St",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32304",
+      "phoneNumber":"850-574-3588",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6531,
+      "name":"Pensacola Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -87.3145137,
+         30.532744
+      ],
+      "streetAddress":"9301 Pine Forest Road",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32534",
+      "phoneNumber":"850-483-6007",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":3463,
+      "name":"Brandon Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.265018,
+         27.940627
+      ],
+      "streetAddress":"1208 E Brandon Blvd",
+      "city":"Brandon",
+      "stateProvCode":"FL",
+      "zip":"33511",
+      "phoneNumber":"813-651-9040",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3474,
+      "name":"Bradenton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.482406,
+         27.495888
+      ],
+      "streetAddress":"6225 E State Road 64",
+      "city":"Bradenton",
+      "stateProvCode":"FL",
+      "zip":"34208",
+      "phoneNumber":"941-708-2800",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4498,
+      "name":"Coral Springs Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.25242,
+         26.288225
+      ],
+      "streetAddress":"4650 N University Dr",
+      "city":"Coral Springs",
+      "stateProvCode":"FL",
+      "zip":"33067",
+      "phoneNumber":"954-753-7377",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6548,
+      "name":"Tampa Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.5179737,
+         28.0496322
+      ],
+      "streetAddress":"4525 Gunn Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33624",
+      "phoneNumber":"813-261-6086",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2459,
+      "name":"Sarasota Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.450053,
+         27.292104
+      ],
+      "streetAddress":"4381 Cattlemen Rd",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34233",
+      "phoneNumber":"941-379-3550",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1436,
+      "name":"Greenacres Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.142537,
+         26.64949
+      ],
+      "streetAddress":"6294 Forest Hill Blvd",
+      "city":"Greenacres",
+      "stateProvCode":"FL",
+      "zip":"33415",
+      "phoneNumber":"561-966-3101",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3484,
+      "name":"Pensacola Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.361789,
+         30.360589
+      ],
+      "streetAddress":"2951 S Blue Angel Pkwy",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32506",
+      "phoneNumber":"850-458-5550",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1444,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.545443,
+         30.342276
+      ],
+      "streetAddress":"9890 Hutchinson Park Dr",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32225",
+      "phoneNumber":"904-721-4941",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4520,
+      "name":"Tallahassee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.217186,
+         30.460721
+      ],
+      "streetAddress":"4021 Lagniappe Way",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32317",
+      "phoneNumber":"850-656-2151",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2484,
+      "name":"Clewiston Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.948897,
+         26.756423
+      ],
+      "streetAddress":"1005 W Sugarland Hwy",
+      "city":"Clewiston",
+      "stateProvCode":"FL",
+      "zip":"33440",
+      "phoneNumber":"863-983-4844",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4546,
+      "name":"Vero Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.387532,
+         27.633436
+      ],
+      "streetAddress":"1750 Us Highway 1",
+      "city":"Vero Beach",
+      "stateProvCode":"FL",
+      "zip":"32960",
+      "phoneNumber":"772-410-2643",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2499,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.506554,
+         28.495732
+      ],
+      "streetAddress":"8801 Conroy Windermere Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32835",
+      "phoneNumber":"407-605-4001",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3526,
+      "name":"Brooksville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.407398,
+         28.537096
+      ],
+      "streetAddress":"7305 Broad St",
+      "city":"Brooksville",
+      "stateProvCode":"FL",
+      "zip":"34601",
+      "phoneNumber":"352-796-5996",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3527,
+      "name":"Port St Lucie Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.402274,
+         27.315215
+      ],
+      "streetAddress":"1675 Nw Saint Lucie West Blvd",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34986",
+      "phoneNumber":"772-873-2221",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1482,
+      "name":"Tampa Store",
+      "country":"US",
+      "coordinates":[  
+         -82.558895,
+         28.026915
+      ],
+      "streetAddress":"7011 W Waters Ave",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33634",
+      "phoneNumber":"813-881-0402",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4560,
+      "name":"West Palm Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.150281,
+         26.710328
+      ],
+      "streetAddress":"6901 Okeechobee Blvd",
+      "city":"West Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33411",
+      "phoneNumber":"561-683-6909",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91601,
+      "name":"Boca Raton FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.07672,
+         26.373093
+      ],
+      "streetAddress":"2501 N Federal Hwy",
+      "city":"Boca Raton",
+      "stateProvCode":"FL",
+      "zip":"33431",
+      "phoneNumber":"561-367-9577",
+      "sundayOpen":true
+   },
+   {  
+      "no":4561,
+      "name":"Jacksonville Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.559375,
+         30.219351
+      ],
+      "streetAddress":"9550 Baymeadows Rd Suite #18",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32256",
+      "phoneNumber":"904-431-6356",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90576,
+      "name":"Pembroke Pines FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.28493,
+         26.008524
+      ],
+      "streetAddress":"10401 Pines Blvd",
+      "city":"Pembroke Pines",
+      "stateProvCode":"FL",
+      "zip":"33026",
+      "phoneNumber":"954-438-0405",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":3538,
+      "name":"Melbourne Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.724196,
+         28.233106
+      ],
+      "streetAddress":"8500 N Wickham Rd",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32940",
+      "phoneNumber":"321-242-0225",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4563,
+      "name":"Dania Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.136421,
+         26.035061
+      ],
+      "streetAddress":"401 E Sheridan St",
+      "city":"Dania Beach",
+      "stateProvCode":"FL",
+      "zip":"33004",
+      "phoneNumber":"954-988-5211",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4565,
+      "name":"The Villages Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.956291,
+         28.863843
+      ],
+      "streetAddress":"270 Heald Way",
+      "city":"The Villages",
+      "stateProvCode":"FL",
+      "zip":"32163",
+      "phoneNumber":"352-461-5017",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1501,
+      "name":"Tampa Store",
+      "country":"US",
+      "coordinates":[  
+         -82.502642,
+         28.085837
+      ],
+      "streetAddress":"14941 N Dale Mabry Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33618",
+      "phoneNumber":"813-968-3544",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2533,
+      "name":"Gulf Breeze Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.065615,
+         30.387078
+      ],
+      "streetAddress":"3767 Gulf Breeze Pkwy",
+      "city":"Gulf Breeze",
+      "stateProvCode":"FL",
+      "zip":"32563",
+      "phoneNumber":"850-934-0362",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":4582,
+      "name":"Navarre Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -86.914711,
+         30.403135
+      ],
+      "streetAddress":"7360 Navarre Parkway",
+      "city":"Navarre",
+      "stateProvCode":"FL",
+      "zip":"32566",
+      "phoneNumber":"850-684-6042",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1511,
+      "name":"Miramar Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.2504294,
+         25.9935839
+      ],
+      "streetAddress":"1800 South University Drive",
+      "city":"Miramar",
+      "stateProvCode":"FL",
+      "zip":"33025",
+      "phoneNumber":"954-433-9300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":488,
+      "name":"Quincy Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -84.595535,
+         30.556986
+      ],
+      "streetAddress":"1940 Pat Thomas Pkwy",
+      "city":"Quincy",
+      "stateProvCode":"FL",
+      "zip":"32351",
+      "phoneNumber":"850-875-1661",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1513,
+      "name":"Palm Harbor Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.740782,
+         28.095288
+      ],
+      "streetAddress":"35404 Us Highway 19 N",
+      "city":"Palm Harbor",
+      "stateProvCode":"FL",
+      "zip":"34684",
+      "phoneNumber":"727-784-8797",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4588,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.417418,
+         28.571318
+      ],
+      "streetAddress":"3101 W Princeton St",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32808",
+      "phoneNumber":"321-354-2096",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1517,
+      "name":"Pompano Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.09593,
+         26.293245
+      ],
+      "streetAddress":"5001 N Federal Highway",
+      "city":"Pompano Beach",
+      "stateProvCode":"FL",
+      "zip":"33064",
+      "phoneNumber":"954-784-0220",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6637,
+      "name":"Coral Springs Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.255861,
+         26.239471
+      ],
+      "streetAddress":"950 N University Dr",
+      "city":"Coral Springs",
+      "stateProvCode":"FL",
+      "zip":"33071",
+      "phoneNumber":"954-345-3443",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5615,
+      "name":"Hialeah Gardens Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.352333,
+         25.881034
+      ],
+      "streetAddress":"11800 Hialeah Gardens Blvd",
+      "city":"Hialeah Gardens",
+      "stateProvCode":"FL",
+      "zip":"33018",
+      "phoneNumber":"305-913-1168",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4595,
+      "name":"Plantation Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.2701531,
+         26.1493531
+      ],
+      "streetAddress":"1885 N Pine Island Rd",
+      "city":"Plantation",
+      "stateProvCode":"FL",
+      "zip":"33322",
+      "phoneNumber":"954-472-3134",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5622,
+      "name":"Riverview Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.319775,
+         27.891813
+      ],
+      "streetAddress":"10863 Bloomingdale Ave",
+      "city":"Riverview",
+      "stateProvCode":"FL",
+      "zip":"33578",
+      "phoneNumber":"813-261-3596",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5623,
+      "name":"Gulf Breeze Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -87.168541,
+         30.3654145
+      ],
+      "streetAddress":"334 Gulf Breeze Pkwy",
+      "city":"Gulf Breeze",
+      "stateProvCode":"FL",
+      "zip":"32561",
+      "phoneNumber":"850-733-5019",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":1536,
+      "name":"St Petersburg Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.7813795,
+         27.8158476
+      ],
+      "streetAddress":"10237 Bay Pines Blvd",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33708",
+      "phoneNumber":"727-347-1188",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91653,
+      "name":"Coral Gables FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.25777,
+         25.75188
+      ],
+      "streetAddress":"150 Alhambra Circle",
+      "city":"Coral Gables",
+      "stateProvCode":"FL",
+      "zip":"33134",
+      "phoneNumber":"305-443-3025",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":1541,
+      "name":"West Palm Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.199447,
+         26.689142
+      ],
+      "streetAddress":"9990 Belvedere Rd",
+      "city":"West Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33411",
+      "phoneNumber":"561-795-0017",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4617,
+      "name":"Pompano Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.108561,
+         26.216072
+      ],
+      "streetAddress":"1199 S Federal Hwy",
+      "city":"Pompano Beach",
+      "stateProvCode":"FL",
+      "zip":"33062",
+      "phoneNumber":"954-781-8774",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":525,
+      "name":"Lake Mary Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.304091,
+         28.784512
+      ],
+      "streetAddress":"825 Casa Verde Blvd",
+      "city":"Lake Mary",
+      "stateProvCode":"FL",
+      "zip":"32746",
+      "phoneNumber":"407-562-4470",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":528,
+      "name":"Braden River Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.527182,
+         27.449683
+      ],
+      "streetAddress":"2911 53rd Ave E",
+      "city":"Braden River",
+      "stateProvCode":"FL",
+      "zip":"34203",
+      "phoneNumber":"941-753-6751",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5654,
+      "name":"Tampa Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.503047,
+         27.997309
+      ],
+      "streetAddress":"3671 W Hillsborough Ave",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33614",
+      "phoneNumber":"813-498-4095",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3606,
+      "name":"Debary Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.304113,
+         28.897926
+      ],
+      "streetAddress":"185 N Charles Richard Beall Boulevard",
+      "city":"Debary",
+      "stateProvCode":"FL",
+      "zip":"32713",
+      "phoneNumber":"386-601-0037",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":538,
+      "name":"Gainesville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.35647,
+         29.708414
+      ],
+      "streetAddress":"5700 Nw 23rd St",
+      "city":"Gainesville",
+      "stateProvCode":"FL",
+      "zip":"32653",
+      "phoneNumber":"352-378-0619",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90653,
+      "name":"Orlando FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.50627,
+         28.388231
+      ],
+      "streetAddress":"12181 S Apopka Vineland Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32836",
+      "phoneNumber":"407-465-0085",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2591,
+      "name":"Pembroke Pines Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.389542,
+         26.005779
+      ],
+      "streetAddress":"151 Sw 184th Ave",
+      "city":"Pembroke Pines",
+      "stateProvCode":"FL",
+      "zip":"33029",
+      "phoneNumber":"954-442-5822",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3617,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.209074,
+         28.536191
+      ],
+      "streetAddress":"600 S Alafaya Trl",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32828",
+      "phoneNumber":"407-380-0384",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":547,
+      "name":"Plant City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.118861,
+         27.985901
+      ],
+      "streetAddress":"2602 James L Redman Pkwy",
+      "city":"Plant City",
+      "stateProvCode":"FL",
+      "zip":"33566",
+      "phoneNumber":"813-752-1188",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91685,
+      "name":"Tampa FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.50454,
+         28.05465
+      ],
+      "streetAddress":"11640 N Dale Mabry Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33618",
+      "phoneNumber":"813-262-2094",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":5670,
+      "name":"Clearwater Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.748295,
+         27.959261
+      ],
+      "streetAddress":"2171 Gulf To Bay Blvd. Building #10",
+      "city":"Clearwater",
+      "stateProvCode":"FL",
+      "zip":"33765",
+      "phoneNumber":"727-431-4900",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":551,
+      "name":"Palatka Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.6809655,
+         29.6385123
+      ],
+      "streetAddress":"1024 S State Road 19",
+      "city":"Palatka",
+      "stateProvCode":"FL",
+      "zip":"32177",
+      "phoneNumber":"386-328-6733",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5671,
+      "name":"Homestead Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.411158,
+         25.49688
+      ],
+      "streetAddress":"13600 Sw 288th St",
+      "city":"Homestead",
+      "stateProvCode":"FL",
+      "zip":"33033",
+      "phoneNumber":"305-910-2965",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3625,
+      "name":"Lauderdale Lakes Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.20542,
+         26.162388
+      ],
+      "streetAddress":"3001 North State Road #7",
+      "city":"Lauderdale Lakes",
+      "stateProvCode":"FL",
+      "zip":"33313",
+      "phoneNumber":"954-733-7473",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":91688,
+      "name":"Miami FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.18792,
+         25.772282
+      ],
+      "streetAddress":"200 S Biscayne Blvd",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33131",
+      "phoneNumber":"305-372-3780",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":3629,
+      "name":"Port Orange Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.033269,
+         29.142239
+      ],
+      "streetAddress":"3811 Clyde Morris Blvd",
+      "city":"Port Orange",
+      "stateProvCode":"FL",
+      "zip":"32129",
+      "phoneNumber":"386-281-6890",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":563,
+      "name":"Orange City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.2788792,
+         28.913697
+      ],
+      "streetAddress":"2400 Veterans Memorial Pkwy",
+      "city":"Orange City",
+      "stateProvCode":"FL",
+      "zip":"32763",
+      "phoneNumber":"386-775-1500",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1589,
+      "name":"Delray Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.124371,
+         26.436375
+      ],
+      "streetAddress":"16205 S Military Trl",
+      "city":"Delray Beach",
+      "stateProvCode":"FL",
+      "zip":"33484",
+      "phoneNumber":"561-495-8127",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1590,
+      "name":"Hialeah Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.29576,
+         25.935789
+      ],
+      "streetAddress":"5851 Nw 177th St",
+      "city":"Hialeah",
+      "stateProvCode":"FL",
+      "zip":"33015",
+      "phoneNumber":"305-558-6069",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4667,
+      "name":"Clearwater Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.7736996,
+         27.9870445
+      ],
+      "streetAddress":"1803 N Highland Ave",
+      "city":"Clearwater",
+      "stateProvCode":"FL",
+      "zip":"33755",
+      "phoneNumber":"727-441-4320",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4669,
+      "name":"Pinellas Park Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.682197,
+         27.834467
+      ],
+      "streetAddress":"6900 Us Highway 19 N",
+      "city":"Pinellas Park",
+      "stateProvCode":"FL",
+      "zip":"33781",
+      "phoneNumber":"727-527-2063",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2626,
+      "name":"Live Oak Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.963965,
+         30.324465
+      ],
+      "streetAddress":"6868 Us Highway 129",
+      "city":"Live Oak",
+      "stateProvCode":"FL",
+      "zip":"32060",
+      "phoneNumber":"386-330-2488",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2627,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.428195,
+         28.068243
+      ],
+      "streetAddress":"2701 E Fletcher Ave",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33612",
+      "phoneNumber":"813-558-0994",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":579,
+      "name":"St Augustine Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.325575,
+         29.856133
+      ],
+      "streetAddress":"2355 Us Highway 1 S",
+      "city":"St Augustine",
+      "stateProvCode":"FL",
+      "zip":"32086",
+      "phoneNumber":"904-797-3309",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":580,
+      "name":"Bartow Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.8334249,
+         27.9070533
+      ],
+      "streetAddress":"1050 E Van Fleet Dr",
+      "city":"Bartow",
+      "stateProvCode":"FL",
+      "zip":"33830",
+      "phoneNumber":"863-533-5400",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1605,
+      "name":"Pensacola Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.277287,
+         30.438562
+      ],
+      "streetAddress":"4600 Mobile Hwy Ste 122",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32506",
+      "phoneNumber":"850-455-4320",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":582,
+      "name":"Port Orange Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.019502,
+         29.116838
+      ],
+      "streetAddress":"1590 Dunlawton Ave",
+      "city":"Port Orange",
+      "stateProvCode":"FL",
+      "zip":"32127",
+      "phoneNumber":"386-756-2711",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5704,
+      "name":"Port St. Lucie Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.375096,
+         27.252581
+      ],
+      "streetAddress":"3045 Sw Port St Lucie Blvd",
+      "city":"Port St. Lucie",
+      "stateProvCode":"FL",
+      "zip":"34953",
+      "phoneNumber":"772-301-6125",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4681,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.516223,
+         27.8912188
+      ],
+      "streetAddress":"4302 W Gandy Blvd",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33611",
+      "phoneNumber":"813-371-9444",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4690,
+      "name":"St Petersburg Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.677643,
+         27.772752
+      ],
+      "streetAddress":"201 34th St N",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33713",
+      "phoneNumber":"727-803-4961",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":7769,
+      "name":"Daytona Beach Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.098363,
+         29.220165
+      ],
+      "streetAddress":"1460 Cornerstone Blvd.",
+      "city":"Daytona Beach",
+      "stateProvCode":"FL",
+      "zip":"32117",
+      "phoneNumber":"000-000-0000",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5727,
+      "name":"Bradenton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.457053,
+         27.436805
+      ],
+      "streetAddress":"5810 Ranch Lake Blvd",
+      "city":"Bradenton",
+      "stateProvCode":"FL",
+      "zip":"34202",
+      "phoneNumber":"941-799-5538",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":613,
+      "name":"Ormond Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.115002,
+         29.258744
+      ],
+      "streetAddress":"1521 W Granada Blvd",
+      "city":"Ormond Beach",
+      "stateProvCode":"FL",
+      "zip":"32174",
+      "phoneNumber":"386-672-2104",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5741,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.258634,
+         28.511222
+      ],
+      "streetAddress":"9047 Curry Ford Road",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32825",
+      "phoneNumber":"407-845-6531",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90735,
+      "name":"Orlando FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.377975,
+         28.545969
+      ],
+      "streetAddress":"47 E Robinson St",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32801",
+      "phoneNumber":"407-839-5000",
+      "sundayOpen":true
+   },
+   {  
+      "no":623,
+      "name":"North Fort Myers Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.898523,
+         26.679553
+      ],
+      "streetAddress":"545 Pine Island Rd",
+      "city":"North Fort Myers",
+      "stateProvCode":"FL",
+      "zip":"33903",
+      "phoneNumber":"239-997-9991",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3702,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.638694,
+         30.477426
+      ],
+      "streetAddress":"13227 City Square Dr",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32218",
+      "phoneNumber":"904-751-5552",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5758,
+      "name":"Greenacres Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.147642,
+         26.621377
+      ],
+      "streetAddress":"3911 S Jog Rd",
+      "city":"Greenacres",
+      "stateProvCode":"FL",
+      "zip":"33467",
+      "phoneNumber":"561-964-6337",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5759,
+      "name":"Lake Worth Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.148482,
+         26.587507
+      ],
+      "streetAddress":"6177 S Jog Rd",
+      "city":"Lake Worth",
+      "stateProvCode":"FL",
+      "zip":"33467",
+      "phoneNumber":"561-964-5008",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5760,
+      "name":"Tampa Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.476191,
+         27.94564
+      ],
+      "streetAddress":"1601 W Kennedy Blvd",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33606",
+      "phoneNumber":"813-254-6125",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2695,
+      "name":"Clermont Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.731337,
+         28.529979
+      ],
+      "streetAddress":"1450 Johns Lake Rd",
+      "city":"Clermont",
+      "stateProvCode":"FL",
+      "zip":"34711",
+      "phoneNumber":"352-243-6151",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":649,
+      "name":"Titusville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.842668,
+         28.555379
+      ],
+      "streetAddress":"3175 Cheney Hwy",
+      "city":"Titusville",
+      "stateProvCode":"FL",
+      "zip":"32780",
+      "phoneNumber":"321-267-5825",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5771,
+      "name":"Pensacola Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -87.232322,
+         30.531472
+      ],
+      "streetAddress":"1525 E Nine Mile Road",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32514",
+      "phoneNumber":"850-462-6529",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5772,
+      "name":"Lecanto Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.489485,
+         28.891252
+      ],
+      "streetAddress":"1936 N. Lecanto Hwy",
+      "city":"Lecanto",
+      "stateProvCode":"FL",
+      "zip":"34461",
+      "phoneNumber":"352-228-6000",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1680,
+      "name":"Kendall Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.448637,
+         25.685292
+      ],
+      "streetAddress":"15885 Sw 88th St",
+      "city":"Kendall",
+      "stateProvCode":"FL",
+      "zip":"33196",
+      "phoneNumber":"305-383-3611",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":666,
+      "name":"Sebring Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.497158,
+         27.513088
+      ],
+      "streetAddress":"3525 Us Highway 27 N",
+      "city":"Sebring",
+      "stateProvCode":"FL",
+      "zip":"33870",
+      "phoneNumber":"863-471-1200",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4772,
+      "name":"Sarasota Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.453814,
+         27.341357
+      ],
+      "streetAddress":"300 N Cattlemen Rd",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34232",
+      "phoneNumber":"941-341-9274",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1702,
+      "name":"Melbourne Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.674465,
+         28.122779
+      ],
+      "streetAddress":"1000 North Wickham R",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32935",
+      "phoneNumber":"321-242-1601",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2727,
+      "name":"Florida City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.4731368,
+         25.4576229
+      ],
+      "streetAddress":"33501 S Dixie Hwy",
+      "city":"Florida City",
+      "stateProvCode":"FL",
+      "zip":"33034",
+      "phoneNumber":"305-242-4447",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4782,
+      "name":"Kissimmee Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.467867,
+         28.327013
+      ],
+      "streetAddress":"4763 West Irlo Bronson Mem Hwy",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34746",
+      "phoneNumber":"407-397-9910",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1712,
+      "name":"Largo Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.785842,
+         27.926481
+      ],
+      "streetAddress":"990 Missouri Ave N",
+      "city":"Largo",
+      "stateProvCode":"FL",
+      "zip":"33770",
+      "phoneNumber":"727-587-7822",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4785,
+      "name":"Sanford Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.340829,
+         28.791381
+      ],
+      "streetAddress":"1101 Rinehart Rd",
+      "city":"Sanford",
+      "stateProvCode":"FL",
+      "zip":"32771",
+      "phoneNumber":"407-302-8355",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2740,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.356616,
+         28.155373
+      ],
+      "streetAddress":"19910 Bruce B Downs Blvd",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33647",
+      "phoneNumber":"813-994-6543",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5816,
+      "name":"Jacksonville Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.45051,
+         30.318421
+      ],
+      "streetAddress":"1650 San Pablo Rd S",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32224",
+      "phoneNumber":"904-380-3231",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5817,
+      "name":"Jacksonville Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.56233,
+         30.353664
+      ],
+      "streetAddress":"8011 Merrill Rd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32277",
+      "phoneNumber":"904-380-8325",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":697,
+      "name":"Ocala Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.166304,
+         29.157851
+      ],
+      "streetAddress":"2600 Sw 19th Avenue Rd",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34471",
+      "phoneNumber":"352-237-7155",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5818,
+      "name":"Jacksonville Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.609265,
+         30.185352
+      ],
+      "streetAddress":"10550 Old St. Augustine Rd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32257",
+      "phoneNumber":"904-380-8271",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4794,
+      "name":"Lakeland Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.921934,
+         27.998045
+      ],
+      "streetAddress":"3530 Lakeland Highlands Rd",
+      "city":"Lakeland",
+      "stateProvCode":"FL",
+      "zip":"33803",
+      "phoneNumber":"863-644-4730",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5819,
+      "name":"Fruit Cove Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.623988,
+         30.11968
+      ],
+      "streetAddress":"445 State Rd 13",
+      "city":"Fruit Cove",
+      "stateProvCode":"FL",
+      "zip":"32259",
+      "phoneNumber":"904-417-9085",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5820,
+      "name":"Middleburg Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.774022,
+         30.101031
+      ],
+      "streetAddress":"2570 County Road 220",
+      "city":"Middleburg",
+      "stateProvCode":"FL",
+      "zip":"32068",
+      "phoneNumber":"904-406-6013",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":705,
+      "name":"Mount Dora Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.672892,
+         28.817694
+      ],
+      "streetAddress":"17030 Us Highway 441",
+      "city":"Mount Dora",
+      "stateProvCode":"FL",
+      "zip":"32757",
+      "phoneNumber":"352-735-3000",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4801,
+      "name":"Riverview Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.336247,
+         27.789222
+      ],
+      "streetAddress":"10385 Big Bend Rd",
+      "city":"Riverview",
+      "stateProvCode":"FL",
+      "zip":"33578",
+      "phoneNumber":"813-371-2394",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5826,
+      "name":"Brandon Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.270175,
+         27.925454
+      ],
+      "streetAddress":"901 Lithia Pinecrest Rd",
+      "city":"Brandon",
+      "stateProvCode":"FL",
+      "zip":"33511",
+      "phoneNumber":"813-261-0267",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":706,
+      "name":"Zephyrhills Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.191192,
+         28.269612
+      ],
+      "streetAddress":"7631 Gall Blvd",
+      "city":"Zephyrhills",
+      "stateProvCode":"FL",
+      "zip":"33541",
+      "phoneNumber":"813-782-1957",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3782,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.286934,
+         28.473857
+      ],
+      "streetAddress":"5991 S Goldenrod Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32822",
+      "phoneNumber":"407-382-8880",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5831,
+      "name":"Largo Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.830042,
+         27.881763
+      ],
+      "streetAddress":"13817 Walsingham Rd",
+      "city":"Largo",
+      "stateProvCode":"FL",
+      "zip":"33774",
+      "phoneNumber":"727-593-9294",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3785,
+      "name":"Pensacola Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.279811,
+         30.395694
+      ],
+      "streetAddress":"501 N Navy Blvd",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32507",
+      "phoneNumber":"850-453-6311",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":713,
+      "name":"Dade City Store",
+      "country":"US",
+      "coordinates":[  
+         -82.185616,
+         28.342241
+      ],
+      "streetAddress":"12650 Us Highway 301",
+      "city":"Dade City",
+      "stateProvCode":"FL",
+      "zip":"33525",
+      "phoneNumber":"352-567-1551",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":718,
+      "name":"Auburndale Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.816058,
+         28.060008
+      ],
+      "streetAddress":"2120 Us Highway 92 W",
+      "city":"Auburndale",
+      "stateProvCode":"FL",
+      "zip":"33823",
+      "phoneNumber":"863-967-1164",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":721,
+      "name":"Port Charlotte Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.139704,
+         27.013882
+      ],
+      "streetAddress":"19100 Murdock Cir",
+      "city":"Port Charlotte",
+      "stateProvCode":"FL",
+      "zip":"33948",
+      "phoneNumber":"941-625-2399",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4818,
+      "name":"Brooksville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.502617,
+         28.530698
+      ],
+      "streetAddress":"13360 Cortez Blvd",
+      "city":"Brooksville",
+      "stateProvCode":"FL",
+      "zip":"34613",
+      "phoneNumber":"352-592-4737",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5845,
+      "name":"Niceville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.460288,
+         30.517349
+      ],
+      "streetAddress":"1300 John Sims Pkwy E",
+      "city":"Niceville",
+      "stateProvCode":"FL",
+      "zip":"32578",
+      "phoneNumber":"850-389-3013",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":725,
+      "name":"Haines City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.636723,
+         28.125998
+      ],
+      "streetAddress":"36205 Us Highway 27",
+      "city":"Haines City",
+      "stateProvCode":"FL",
+      "zip":"33844",
+      "phoneNumber":"863-422-7537",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5846,
+      "name":"Kissimmee Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.435215,
+         28.306616
+      ],
+      "streetAddress":"3183 W Vine St",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34741",
+      "phoneNumber":"407-452-0224",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4826,
+      "name":"Davie Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.258481,
+         26.043145
+      ],
+      "streetAddress":"8550 Stirling Road",
+      "city":"Davie",
+      "stateProvCode":"FL",
+      "zip":"33024",
+      "phoneNumber":"954-628-1772",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4828,
+      "name":"Orlando Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.248783,
+         28.392886
+      ],
+      "streetAddress":"11920 Narcoossee Rd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32832",
+      "phoneNumber":"407-204-8629",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90844,
+      "name":"North Palm Beach FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -80.05806,
+         26.85344
+      ],
+      "streetAddress":"12050 Us Hwy 1",
+      "city":"North Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33408",
+      "phoneNumber":"561-691-4401",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":5854,
+      "name":"Miami Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.332793,
+         25.745963
+      ],
+      "streetAddress":"8400 Coral Way",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33155",
+      "phoneNumber":"305-351-0725",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2789,
+      "name":"Boynton Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.095769,
+         26.529016
+      ],
+      "streetAddress":"3200 Old Boynton Rd",
+      "city":"Boynton Beach",
+      "stateProvCode":"FL",
+      "zip":"33436",
+      "phoneNumber":"561-742-0718",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3817,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.148939,
+         28.537074
+      ],
+      "streetAddress":"433 Avalon Park South Blvd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32828",
+      "phoneNumber":"407-207-0071",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90858,
+      "name":"Tallahassee FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -84.281075,
+         30.455624
+      ],
+      "streetAddress":"1218 N Monroe St",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32303",
+      "phoneNumber":"850-224-0967",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":2796,
+      "name":"Oldsmar Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.673579,
+         28.043587
+      ],
+      "streetAddress":"3801 Tampa Rd",
+      "city":"Oldsmar",
+      "stateProvCode":"FL",
+      "zip":"34677",
+      "phoneNumber":"813-854-3261",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6894,
+      "name":"Apopka Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.456105,
+         28.671506
+      ],
+      "streetAddress":"820 Balmy Beach Drive",
+      "city":"Apopka",
+      "stateProvCode":"FL",
+      "zip":"32703",
+      "phoneNumber":"407-457-6291",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5871,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.399118,
+         28.474913
+      ],
+      "streetAddress":"5734 S. Orange Blossom Trl",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32839",
+      "phoneNumber":"321-247-4817",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5872,
+      "name":"Santa Rosa Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.288932,
+         30.37713
+      ],
+      "streetAddress":"6712 Us Highway 98 W",
+      "city":"Santa Rosa Beach",
+      "stateProvCode":"FL",
+      "zip":"32459",
+      "phoneNumber":"850-622-6237",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":5875,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.406268,
+         28.382506
+      ],
+      "streetAddress":"12550 S Orange Blossom Trl",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32837",
+      "phoneNumber":"407-541-1273",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5876,
+      "name":"Dunedin Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.750482,
+         28.020537
+      ],
+      "streetAddress":"2102 Main St",
+      "city":"Dunedin",
+      "stateProvCode":"FL",
+      "zip":"34698",
+      "phoneNumber":"727-431-0152",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4852,
+      "name":"Wesley Chapel Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.357411,
+         28.188095
+      ],
+      "streetAddress":"27727 State Road 56",
+      "city":"Wesley Chapel",
+      "stateProvCode":"FL",
+      "zip":"33544",
+      "phoneNumber":"813-929-7010",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90868,
+      "name":"Tallahassee FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -84.249855,
+         30.503231
+      ],
+      "streetAddress":"3425 Thomasville Rd",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32309",
+      "phoneNumber":"850-668-5679",
+      "sundayOpen":true
+   },
+   {  
+      "no":759,
+      "name":"Wauchula Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.813029,
+         27.56845
+      ],
+      "streetAddress":"1480 Us Highway 17 N",
+      "city":"Wauchula",
+      "stateProvCode":"FL",
+      "zip":"33873",
+      "phoneNumber":"863-773-6419",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4857,
+      "name":"Cape Coral Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.979737,
+         26.652491
+      ],
+      "streetAddress":"301 Sw Pine Island Road",
+      "city":"Cape Coral",
+      "stateProvCode":"FL",
+      "zip":"33991",
+      "phoneNumber":"239-800-6028",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90872,
+      "name":"Winter Park FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.35364,
+         28.593147
+      ],
+      "streetAddress":"350 W Fairbanks Ave",
+      "city":"Winter Park",
+      "stateProvCode":"FL",
+      "zip":"32789",
+      "phoneNumber":"407-644-2971",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":5882,
+      "name":"Palm Springs Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.0838658,
+         26.6309088
+      ],
+      "streetAddress":"2765 10th Ave N",
+      "city":"Palm Springs",
+      "stateProvCode":"FL",
+      "zip":"33461",
+      "phoneNumber":"561-223-4357",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4861,
+      "name":"St Petersburg Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.676691,
+         27.788913
+      ],
+      "streetAddress":"1725 34th St N",
+      "city":"St Petersburg",
+      "stateProvCode":"FL",
+      "zip":"33713",
+      "phoneNumber":"727-369-0511",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2814,
+      "name":"Hialeah Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.3255,
+         25.858519
+      ],
+      "streetAddress":"9300 Nw 77th Ave",
+      "city":"Hialeah",
+      "stateProvCode":"FL",
+      "zip":"33016",
+      "phoneNumber":"305-819-0672",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":767,
+      "name":"Lake City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.677537,
+         30.181352
+      ],
+      "streetAddress":"2767 W Us Highway 90",
+      "city":"Lake City",
+      "stateProvCode":"FL",
+      "zip":"32055",
+      "phoneNumber":"386-755-2427",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":769,
+      "name":"Venice Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.395816,
+         27.047596
+      ],
+      "streetAddress":"4150 Tamiami Trl S",
+      "city":"Venice",
+      "stateProvCode":"FL",
+      "zip":"34293",
+      "phoneNumber":"941-497-2523",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":771,
+      "name":"Merritt Island Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.668453,
+         28.359625
+      ],
+      "streetAddress":"1500 E Merritt Island Cswy",
+      "city":"Merritt Island",
+      "stateProvCode":"FL",
+      "zip":"32952",
+      "phoneNumber":"321-452-6058",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5894,
+      "name":"Oviedo Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.260129,
+         28.617165
+      ],
+      "streetAddress":"5511 Deep Lake Rd",
+      "city":"Oviedo",
+      "stateProvCode":"FL",
+      "zip":"32765",
+      "phoneNumber":"407-618-5013",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":778,
+      "name":"Punta Gorda Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.013378,
+         26.893357
+      ],
+      "streetAddress":"5001 Taylor Rd",
+      "city":"Punta Gorda",
+      "stateProvCode":"FL",
+      "zip":"33950",
+      "phoneNumber":"941-637-3800",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":779,
+      "name":"Lakeland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.959531,
+         28.000741
+      ],
+      "streetAddress":"3501 S Florida Ave",
+      "city":"Lakeland",
+      "stateProvCode":"FL",
+      "zip":"33803",
+      "phoneNumber":"863-644-5676",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3858,
+      "name":"Boca Raton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.200616,
+         26.348262
+      ],
+      "streetAddress":"22100 S State Road 7",
+      "city":"Boca Raton",
+      "stateProvCode":"FL",
+      "zip":"33428",
+      "phoneNumber":"561-226-3157",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3862,
+      "name":"Holly Hill Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.067214,
+         29.248897
+      ],
+      "streetAddress":"1905 N Nova Rd",
+      "city":"Holly Hill",
+      "stateProvCode":"FL",
+      "zip":"32117",
+      "phoneNumber":"386-672-3836",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5911,
+      "name":"Boynton Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.063877,
+         26.492794
+      ],
+      "streetAddress":"3625 S Federal Hwy",
+      "city":"Boynton Beach",
+      "stateProvCode":"FL",
+      "zip":"33435",
+      "phoneNumber":"561-600-3088",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5912,
+      "name":"Miami Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.376101,
+         25.570918
+      ],
+      "streetAddress":"21151 S Dixie Hwy",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33189",
+      "phoneNumber":"305-964-4206",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6937,
+      "name":"Port Charlotte Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.1253186,
+         27.0022316
+      ],
+      "streetAddress":"2150 Tamiami Trail",
+      "city":"Port Charlotte",
+      "stateProvCode":"FL",
+      "zip":"33948",
+      "phoneNumber":"941-249-6124",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2843,
+      "name":"Summerfield Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.96487,
+         28.962586
+      ],
+      "streetAddress":"17961 S Us Highway 441",
+      "city":"Summerfield",
+      "stateProvCode":"FL",
+      "zip":"34491",
+      "phoneNumber":"352-307-4400",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6941,
+      "name":"Cape Coral Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.928813,
+         26.671878
+      ],
+      "streetAddress":"2020 Ne Pine Island Road",
+      "city":"Cape Coral",
+      "stateProvCode":"FL",
+      "zip":"33909",
+      "phoneNumber":"239-800-6068",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":800,
+      "name":"Leesburg Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.898976,
+         28.842541
+      ],
+      "streetAddress":"2501 Citrus Blvd",
+      "city":"Leesburg",
+      "stateProvCode":"FL",
+      "zip":"34748",
+      "phoneNumber":"352-326-3900",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3877,
+      "name":"Gainesville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.301116,
+         29.663923
+      ],
+      "streetAddress":"1800 Ne 12th Ave",
+      "city":"Gainesville",
+      "stateProvCode":"FL",
+      "zip":"32641",
+      "phoneNumber":"352-372-3191",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":811,
+      "name":"Arcadia Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.829165,
+         27.206591
+      ],
+      "streetAddress":"2725 Se Highway 70",
+      "city":"Arcadia",
+      "stateProvCode":"FL",
+      "zip":"34266",
+      "phoneNumber":"863-993-1677",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5932,
+      "name":"Pembroke Pines Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.3183,
+         26.0053
+      ],
+      "streetAddress":"12800 Pines Blvd",
+      "city":"Pembroke Pines",
+      "stateProvCode":"FL",
+      "zip":"33027",
+      "phoneNumber":"954-378-1542",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":814,
+      "name":"Okeechobee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.827943,
+         27.221482
+      ],
+      "streetAddress":"2101 S Parrott Ave",
+      "city":"Okeechobee",
+      "stateProvCode":"FL",
+      "zip":"34974",
+      "phoneNumber":"863-763-7070",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3887,
+      "name":"Avon Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.517586,
+         27.608819
+      ],
+      "streetAddress":"1041 Us Highway 27 N",
+      "city":"Avon Park",
+      "stateProvCode":"FL",
+      "zip":"33825",
+      "phoneNumber":"863-453-4177",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":817,
+      "name":"Kissimmee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.458955,
+         28.301788
+      ],
+      "streetAddress":"4444 W Vine St",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34746",
+      "phoneNumber":"407-397-7000",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":818,
+      "name":"Panama City Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -85.804881,
+         30.180329
+      ],
+      "streetAddress":"10270 Front Beach Rd",
+      "city":"Panama City Beach",
+      "stateProvCode":"FL",
+      "zip":"32407",
+      "phoneNumber":"850-234-1989",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":819,
+      "name":"Cape Coral Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.937051,
+         26.62088
+      ],
+      "streetAddress":"1619 Del Prado Blvd S",
+      "city":"Cape Coral",
+      "stateProvCode":"FL",
+      "zip":"33990",
+      "phoneNumber":"239-772-9220",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1845,
+      "name":"Cooper City Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.310563,
+         26.062116
+      ],
+      "streetAddress":"4700 S Flamingo Rd",
+      "city":"Cooper City",
+      "stateProvCode":"FL",
+      "zip":"33330",
+      "phoneNumber":"954-680-7810",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1847,
+      "name":"Ocala Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.063728,
+         29.209128
+      ],
+      "streetAddress":"4980 E Silver Springs Blvd",
+      "city":"Ocala",
+      "stateProvCode":"FL",
+      "zip":"34470",
+      "phoneNumber":"352-236-1188",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6967,
+      "name":"Lake Worth Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.2070155,
+         26.6185102
+      ],
+      "streetAddress":"4105 S State Road 7",
+      "city":"Lake Worth",
+      "stateProvCode":"FL",
+      "zip":"33449",
+      "phoneNumber":"561-207-3474",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6968,
+      "name":"Riverview Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.338427,
+         27.7906233
+      ],
+      "streetAddress":"10327 Big Bend Road",
+      "city":"Riverview",
+      "stateProvCode":"FL",
+      "zip":"33578",
+      "phoneNumber":"813-498-4099",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5945,
+      "name":"Hialeah Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.291605,
+         25.866091
+      ],
+      "streetAddress":"400 W 49th St",
+      "city":"Hialeah",
+      "stateProvCode":"FL",
+      "zip":"33012",
+      "phoneNumber":"305-507-2044",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1851,
+      "name":"North Lauderdale Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.229699,
+         26.205328
+      ],
+      "streetAddress":"7900 W Mcnab Rd",
+      "city":"North Lauderdale",
+      "stateProvCode":"FL",
+      "zip":"33068",
+      "phoneNumber":"954-726-3388",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2881,
+      "name":"Kissimmee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.3860316,
+         28.3438221
+      ],
+      "streetAddress":"1471 E Osceola Pkwy",
+      "city":"Kissimmee",
+      "stateProvCode":"FL",
+      "zip":"34744",
+      "phoneNumber":"407-870-2277",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":6978,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.760143,
+         30.2073
+      ],
+      "streetAddress":"7075 Collins Rd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32244",
+      "phoneNumber":"904-365-2555",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5964,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.439696,
+         27.996875
+      ],
+      "streetAddress":"1720 E Hillsborough Ave",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33610",
+      "phoneNumber":"813-675-1531",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1874,
+      "name":"Englewood Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.310316,
+         26.932272
+      ],
+      "streetAddress":"2931 S Mccall Rd",
+      "city":"Englewood",
+      "stateProvCode":"FL",
+      "zip":"34224",
+      "phoneNumber":"941-475-9220",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":857,
+      "name":"Sanford Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.281708,
+         28.759625
+      ],
+      "streetAddress":"3653 S Orlando Dr",
+      "city":"Sanford",
+      "stateProvCode":"FL",
+      "zip":"32773",
+      "phoneNumber":"407-321-1371",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":859,
+      "name":"Lake Wales Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.552969,
+         27.891997
+      ],
+      "streetAddress":"2000 State Road 60 E",
+      "city":"Lake Wales",
+      "stateProvCode":"FL",
+      "zip":"33898",
+      "phoneNumber":"863-676-9425",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2907,
+      "name":"Miami Gardens Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.262238,
+         25.926748
+      ],
+      "streetAddress":"3791 Nw 167th Street",
+      "city":"Miami Gardens",
+      "stateProvCode":"FL",
+      "zip":"33055",
+      "phoneNumber":"305-914-1867",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":860,
+      "name":"Deland Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.301695,
+         29.061722
+      ],
+      "streetAddress":"1699 N Woodland Blvd",
+      "city":"Deland",
+      "stateProvCode":"FL",
+      "zip":"32720",
+      "phoneNumber":"386-734-4420",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3935,
+      "name":"Miami Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.423859,
+         25.520739
+      ],
+      "streetAddress":"14325 Sw 268th",
+      "city":"Miami",
+      "stateProvCode":"FL",
+      "zip":"33032",
+      "phoneNumber":"305-508-3383",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90979,
+      "name":"Lake Mary FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.36801,
+         28.755745
+      ],
+      "streetAddress":"1210 S International Pky",
+      "city":"Lake Mary",
+      "stateProvCode":"FL",
+      "zip":"32746",
+      "phoneNumber":"407-804-1818",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":5988,
+      "name":"Orlando Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.3086112,
+         28.576341
+      ],
+      "streetAddress":"2271 N. Semoran Blvd",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32807",
+      "phoneNumber":"407-551-5160",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2920,
+      "name":"Orange Park Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.707294,
+         30.098928
+      ],
+      "streetAddress":"1505 County Road 220",
+      "city":"Orange Park",
+      "stateProvCode":"FL",
+      "zip":"32003",
+      "phoneNumber":"904-278-1836",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4972,
+      "name":"Port St Lucie Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.401341,
+         27.262041
+      ],
+      "streetAddress":"1750 Sw Gatlin Blvd",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34953",
+      "phoneNumber":"772-878-4881",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5997,
+      "name":"Orlando Pharmacy",
+      "country":"US",
+      "coordinates":[  
+         -81.414975,
+         28.428206
+      ],
+      "streetAddress":"9600 Parksouth Court",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32837",
+      "phoneNumber":"407-826-6951",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2930,
+      "name":"Tamarac Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.270275,
+         26.208986
+      ],
+      "streetAddress":"6931 Nw 88th Avenue",
+      "city":"Tamarac",
+      "stateProvCode":"FL",
+      "zip":"33321",
+      "phoneNumber":"954-247-6304",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":890,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.217771,
+         28.5659
+      ],
+      "streetAddress":"11250 E Colonial Dr",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32817",
+      "phoneNumber":"407-281-8941",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1916,
+      "name":"Coconut Creek Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.200351,
+         26.318786
+      ],
+      "streetAddress":"5571 W Hillsboro Blvd",
+      "city":"Coconut Creek",
+      "stateProvCode":"FL",
+      "zip":"33073",
+      "phoneNumber":"954-426-6101",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4991,
+      "name":"Cocoa Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.794015,
+         28.362441
+      ],
+      "streetAddress":"450 Townsend Rd",
+      "city":"Cocoa",
+      "stateProvCode":"FL",
+      "zip":"32926",
+      "phoneNumber":"321-639-0124",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":2944,
+      "name":"Deland Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.301391,
+         29.012008
+      ],
+      "streetAddress":"955 S Woodland Boulevard",
+      "city":"Deland",
+      "stateProvCode":"FL",
+      "zip":"32724",
+      "phoneNumber":"386-624-0678",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2946,
+      "name":"Fort Lauderdale Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.175083,
+         26.119082
+      ],
+      "streetAddress":"2500 W. Broward Boulevard",
+      "city":"Fort Lauderdale",
+      "stateProvCode":"FL",
+      "zip":"33312",
+      "phoneNumber":"954-453-6538",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":4998,
+      "name":"Lady Lake Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.931247,
+         28.934497
+      ],
+      "streetAddress":"755 N. Hwy 27/441",
+      "city":"Lady Lake",
+      "stateProvCode":"FL",
+      "zip":"32159",
+      "phoneNumber":"352-751-5150",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":908,
+      "name":"Orlando Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.424513,
+         28.447665
+      ],
+      "streetAddress":"8101 S John Young Pkwy",
+      "city":"Orlando",
+      "stateProvCode":"FL",
+      "zip":"32819",
+      "phoneNumber":"407-354-5665",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5005,
+      "name":"Jacksonville Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.757048,
+         30.271548
+      ],
+      "streetAddress":"6855 Wilson Boulevard",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32210",
+      "phoneNumber":"904-513-6582",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2962,
+      "name":"Pompano Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.155019,
+         26.22791
+      ],
+      "streetAddress":"2300 W Atlantic Blvd",
+      "city":"Pompano Beach",
+      "stateProvCode":"FL",
+      "zip":"33069",
+      "phoneNumber":"954-971-7170",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2963,
+      "name":"Coral Springs Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.276155,
+         26.304308
+      ],
+      "streetAddress":"6001 Coral Ridge Dr",
+      "city":"Coral Springs",
+      "stateProvCode":"FL",
+      "zip":"33076",
+      "phoneNumber":"954-757-0331",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":919,
+      "name":"Fort Walton Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.64161,
+         30.441009
+      ],
+      "streetAddress":"748 Beal Pkwy Nw",
+      "city":"Fort Walton Beach",
+      "stateProvCode":"FL",
+      "zip":"32547",
+      "phoneNumber":"850-862-0700",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":925,
+      "name":"Seffner Store",
+      "country":"US",
+      "coordinates":[  
+         -82.301322,
+         27.984095
+      ],
+      "streetAddress":"11720 E Dr Martin Luther King Jr Blvd",
+      "city":"Seffner",
+      "stateProvCode":"FL",
+      "zip":"33584",
+      "phoneNumber":"813-681-6654",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":928,
+      "name":"St. Johns Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.519294,
+         30.098172
+      ],
+      "streetAddress":"845 Durbin Pavilion Drive",
+      "city":"St. Johns",
+      "stateProvCode":"FL",
+      "zip":"32259",
+      "phoneNumber":"904-417-9688",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":929,
+      "name":"Port St Lucie Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.2875953,
+         27.2655144
+      ],
+      "streetAddress":"10855 So. Us Hwy #1",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34952",
+      "phoneNumber":"772-335-5359",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":931,
+      "name":"Vero Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.442958,
+         27.636631
+      ],
+      "streetAddress":"5555 20th St",
+      "city":"Vero Beach",
+      "stateProvCode":"FL",
+      "zip":"32966",
+      "phoneNumber":"772-778-6677",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1957,
+      "name":"Naples Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.803347,
+         26.274446
+      ],
+      "streetAddress":"11225 Tamiami Trl N",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34110",
+      "phoneNumber":"239-591-4311",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1960,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.502404,
+         27.957315
+      ],
+      "streetAddress":"1505 N Dale Mabry Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33607",
+      "phoneNumber":"813-872-6992",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5034,
+      "name":"Fort Myers Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.814048,
+         26.610823
+      ],
+      "streetAddress":"4770 Colonial Blvd",
+      "city":"Fort Myers",
+      "stateProvCode":"FL",
+      "zip":"33966",
+      "phoneNumber":"239-274-2920",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5035,
+      "name":"Mulberry Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.9703485,
+         27.9334039
+      ],
+      "streetAddress":"6745 N Church Ave",
+      "city":"Mulberry",
+      "stateProvCode":"FL",
+      "zip":"33860",
+      "phoneNumber":"863-701-2232",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":2987,
+      "name":"Davie Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.254149,
+         26.066616
+      ],
+      "streetAddress":"4301 S University Dr",
+      "city":"Davie",
+      "stateProvCode":"FL",
+      "zip":"33328",
+      "phoneNumber":"954-331-3612",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5036,
+      "name":"Tampa Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.5521633,
+         28.0617993
+      ],
+      "streetAddress":"6192 Gunn Hwy",
+      "city":"Tampa",
+      "stateProvCode":"FL",
+      "zip":"33625",
+      "phoneNumber":"813-968-6477",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5037,
+      "name":"Yulee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.5345,
+         30.619619
+      ],
+      "streetAddress":"464016 State Road 200",
+      "city":"Yulee",
+      "stateProvCode":"FL",
+      "zip":"32097",
+      "phoneNumber":"904-261-9410",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":941,
+      "name":"Valrico Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.248155,
+         27.896262
+      ],
+      "streetAddress":"2140 Bloomingdale Avenue",
+      "city":"Valrico",
+      "stateProvCode":"FL",
+      "zip":"33596",
+      "phoneNumber":"813-681-8136",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":942,
+      "name":"Ocoee Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.532397,
+         28.549548
+      ],
+      "streetAddress":"10500 W Colonial Dr",
+      "city":"Ocoee",
+      "stateProvCode":"FL",
+      "zip":"34761",
+      "phoneNumber":"407-877-6900",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":943,
+      "name":"Casselberry Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.323329,
+         28.635005
+      ],
+      "streetAddress":"1239 State Road 436 Ste 101",
+      "city":"Casselberry",
+      "stateProvCode":"FL",
+      "zip":"32707",
+      "phoneNumber":"407-679-0377",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":944,
+      "name":"Crestview Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -86.564528,
+         30.727818
+      ],
+      "streetAddress":"3351 S Ferdon Blvd",
+      "city":"Crestview",
+      "stateProvCode":"FL",
+      "zip":"32536",
+      "phoneNumber":"850-682-8001",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":8116,
+      "name":"Jacksonville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.539953,
+         30.284122
+      ],
+      "streetAddress":"10690 Beach Blvd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32246",
+      "phoneNumber":"904-928-0017",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":90039,
+      "name":"Jacksonville FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -81.66083,
+         30.327797
+      ],
+      "streetAddress":"221 W Forsyth St",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32202",
+      "phoneNumber":"904-353-1100",
+      "sundayOpen":true,
+      "timezone":"EDT"
+   },
+   {  
+      "no":8119,
+      "name":"Pensacola Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -87.214898,
+         30.483359
+      ],
+      "streetAddress":"1250 Airport Blvd",
+      "city":"Pensacola",
+      "stateProvCode":"FL",
+      "zip":"32504",
+      "phoneNumber":"850-484-7508",
+      "sundayOpen":false,
+      "timezone":"CST"
+   },
+   {  
+      "no":8120,
+      "name":"Tallahassee Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -84.223688,
+         30.431993
+      ],
+      "streetAddress":"3122 Dick Wilson Blvd",
+      "city":"Tallahassee",
+      "stateProvCode":"FL",
+      "zip":"32301",
+      "phoneNumber":"850-671-5959",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":955,
+      "name":"Apopka Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.4692986,
+         28.6495856
+      ],
+      "streetAddress":"1700 S Org Blsmtrail",
+      "city":"Apopka",
+      "stateProvCode":"FL",
+      "zip":"32703",
+      "phoneNumber":"407-889-8668",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":956,
+      "name":"Melbourne Store",
+      "country":"US",
+      "coordinates":[  
+         -80.581834,
+         28.136798
+      ],
+      "streetAddress":"1001 E Eau Gallie Blvd",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32937",
+      "phoneNumber":"321-777-5504",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5054,
+      "name":"Jacksonville Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.49188,
+         30.317168
+      ],
+      "streetAddress":"11900 Atlantic Blvd",
+      "city":"Jacksonville",
+      "stateProvCode":"FL",
+      "zip":"32225",
+      "phoneNumber":"904-641-8088",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":5055,
+      "name":"Naples Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.689142,
+         26.148953
+      ],
+      "streetAddress":"9885 Collier Blvd",
+      "city":"Naples",
+      "stateProvCode":"FL",
+      "zip":"34114",
+      "phoneNumber":"239-455-1131",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":959,
+      "name":"Bushnell Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.139288,
+         28.66579
+      ],
+      "streetAddress":"2163 W C 48",
+      "city":"Bushnell",
+      "stateProvCode":"FL",
+      "zip":"33513",
+      "phoneNumber":"352-793-1300",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":960,
+      "name":"Dunnellon Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.455801,
+         29.063306
+      ],
+      "streetAddress":"11012 No. Williams St",
+      "city":"Dunnellon",
+      "stateProvCode":"FL",
+      "zip":"34432",
+      "phoneNumber":"352-489-4210",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8130,
+      "name":"Fort Myers Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.874927,
+         26.585268
+      ],
+      "streetAddress":"5170 S Cleveland Ave",
+      "city":"Fort Myers",
+      "stateProvCode":"FL",
+      "zip":"33907",
+      "phoneNumber":"239-939-2442",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":3011,
+      "name":"Boynton Beach Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -80.1202028,
+         26.529275
+      ],
+      "streetAddress":"9840 S Military Trl Ste G-1",
+      "city":"Boynton Beach",
+      "stateProvCode":"FL",
+      "zip":"33436",
+      "phoneNumber":"561-509-2138",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3013,
+      "name":"Pinellas Park Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.730111,
+         27.839946
+      ],
+      "streetAddress":"7500 66th St",
+      "city":"Pinellas Park",
+      "stateProvCode":"FL",
+      "zip":"33781",
+      "phoneNumber":"727-202-3101",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":967,
+      "name":"Spring Hill Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.631272,
+         28.458334
+      ],
+      "streetAddress":"1485 Commercial Way",
+      "city":"Spring Hill",
+      "stateProvCode":"FL",
+      "zip":"34606",
+      "phoneNumber":"352-686-0744",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":968,
+      "name":"Winter Haven Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.722118,
+         28.006751
+      ],
+      "streetAddress":"355 Cypress Gardens Blvd",
+      "city":"Winter Haven",
+      "stateProvCode":"FL",
+      "zip":"33880",
+      "phoneNumber":"863-299-5527",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8138,
+      "name":"Daytona Beach Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -81.032172,
+         29.171649
+      ],
+      "streetAddress":"1175 Beville Rd",
+      "city":"Daytona Beach",
+      "stateProvCode":"FL",
+      "zip":"32119",
+      "phoneNumber":"386-760-3330",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":1996,
+      "name":"Hallandale Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.123894,
+         25.987873
+      ],
+      "streetAddress":"2551 E Hallandale Beach Blvd",
+      "city":"Hallandale Beach",
+      "stateProvCode":"FL",
+      "zip":"33009",
+      "phoneNumber":"954-455-4700",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":973,
+      "name":"Fort Pierce Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.377918,
+         27.421425
+      ],
+      "streetAddress":"5100 Okeechobee Rd",
+      "city":"Fort Pierce",
+      "stateProvCode":"FL",
+      "zip":"34947",
+      "phoneNumber":"772-468-0880",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8141,
+      "name":"Melbourne Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.696166,
+         28.077123
+      ],
+      "streetAddress":"4255 W New Haven Ave",
+      "city":"Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32904",
+      "phoneNumber":"321-768-8190",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":974,
+      "name":"West Melbourne Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -80.647952,
+         28.037986
+      ],
+      "streetAddress":"845 Palm Bay Rd Ne",
+      "city":"West Melbourne",
+      "stateProvCode":"FL",
+      "zip":"32904",
+      "phoneNumber":"321-984-2715",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":977,
+      "name":"Fernandina Beach Store",
+      "country":"US",
+      "coordinates":[  
+         -81.456183,
+         30.64744
+      ],
+      "streetAddress":"1385 Amelia Plz",
+      "city":"Fernandina Beach",
+      "stateProvCode":"FL",
+      "zip":"32034",
+      "phoneNumber":"904-261-5306",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":90067,
+      "name":"Clearwater FedEx Pickup Location",
+      "country":"US",
+      "coordinates":[  
+         -82.68908,
+         27.893164
+      ],
+      "streetAddress":"4008 Ulmerton Rd",
+      "city":"Clearwater",
+      "stateProvCode":"FL",
+      "zip":"33762",
+      "phoneNumber":"727-573-1638",
+      "sundayOpen":true
+   },
+   {  
+      "no":8150,
+      "name":"Port St Lucie Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.283756,
+         27.267556
+      ],
+      "streetAddress":"10900 S Us Highway 1",
+      "city":"Port St Lucie",
+      "stateProvCode":"FL",
+      "zip":"34952",
+      "phoneNumber":"772-335-3225",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":8151,
+      "name":"Panama City Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -85.688325,
+         30.188109
+      ],
+      "streetAddress":"1707 W 23rd St",
+      "city":"Panama City",
+      "stateProvCode":"FL",
+      "zip":"32405",
+      "phoneNumber":"850-769-2222",
+      "sundayOpen":false,
+      "timezone":"CST"
+   },
+   {  
+      "no":987,
+      "name":"Fort Myers Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.868597,
+         26.525299
+      ],
+      "streetAddress":"14821 Ben C Pratt/6 Mile Cypress Pkwy",
+      "city":"Fort Myers",
+      "stateProvCode":"FL",
+      "zip":"33912",
+      "phoneNumber":"239-437-1880",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8155,
+      "name":"Gainesville Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -82.384615,
+         29.623954
+      ],
+      "streetAddress":"4001 Sw 30th Pl",
+      "city":"Gainesville",
+      "stateProvCode":"FL",
+      "zip":"32608",
+      "phoneNumber":"352-375-8853",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":988,
+      "name":"Lutz Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.467126,
+         28.180178
+      ],
+      "streetAddress":"1575 Land O Lakes Blvd",
+      "city":"Lutz",
+      "stateProvCode":"FL",
+      "zip":"33549",
+      "phoneNumber":"813-949-4238",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8157,
+      "name":"West Palm Beach Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.105144,
+         26.762542
+      ],
+      "streetAddress":"4295 45th St",
+      "city":"West Palm Beach",
+      "stateProvCode":"FL",
+      "zip":"33407",
+      "phoneNumber":"561-687-0098",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":990,
+      "name":"Milton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -87.11688,
+         30.600827
+      ],
+      "streetAddress":"4965 Highway 90",
+      "city":"Milton",
+      "stateProvCode":"FL",
+      "zip":"32571",
+      "phoneNumber":"850-995-0542",
+      "sundayOpen":true,
+      "timezone":"CST"
+   },
+   {  
+      "no":4063,
+      "name":"Fort Myers Beach Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -81.940449,
+         26.491939
+      ],
+      "streetAddress":"17105 San Carlos Blvd",
+      "city":"Fort Myers Beach",
+      "stateProvCode":"FL",
+      "zip":"33931",
+      "phoneNumber":"239-340-7074",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":994,
+      "name":"New Port Richey Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.668333,
+         28.207804
+      ],
+      "streetAddress":"8745 State Road 54",
+      "city":"New Port Richey",
+      "stateProvCode":"FL",
+      "zip":"34655",
+      "phoneNumber":"727-376-3811",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":1004,
+      "name":"Bradenton Supercenter",
+      "country":"US",
+      "coordinates":[  
+         -82.615299,
+         27.460293
+      ],
+      "streetAddress":"5315 Cortez Rd W",
+      "city":"Bradenton",
+      "stateProvCode":"FL",
+      "zip":"34210",
+      "phoneNumber":"941-798-9341",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":8173,
+      "name":"Miramar Sam's Club",
+      "country":"US",
+      "coordinates":[  
+         -80.250215,
+         25.992051
+      ],
+      "streetAddress":"1900 S University Dr",
+      "city":"Miramar",
+      "stateProvCode":"FL",
+      "zip":"33025",
+      "phoneNumber":"954-433-8867",
+      "sundayOpen":false,
+      "timezone":"EST"
+   },
+   {  
+      "no":5106,
+      "name":"Oviedo Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -81.209065,
+         28.613388
+      ],
+      "streetAddress":"4255 Alafaya Trl",
+      "city":"Oviedo",
+      "stateProvCode":"FL",
+      "zip":"32765",
+      "phoneNumber":"407-359-6707",
+      "sundayOpen":true,
+      "timezone":"EST"
+   },
+   {  
+      "no":3066,
+      "name":"Sarasota Neighborhood Market",
+      "country":"US",
+      "coordinates":[  
+         -82.550241,
+         27.366727
+      ],
+      "streetAddress":"3500 N Tamiami Trail",
+      "city":"Sarasota",
+      "stateProvCode":"FL",
+      "zip":"34234",
+      "phoneNumber":"941-444-8410",
+      "sundayOpen":true,
+      "timezone":"EST"
+   }
+]
