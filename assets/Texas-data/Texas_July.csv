@@ -2,126 +2,1075 @@
 64129,73301,1,Austin,Travis County,,,Texas,48453,1053
 64131,75001,2,Addison,Dallas County,32.96,-96.84,Texas,48113,7368
 64152,75002,1,Allen,Collin County,33.08,-96.61,Texas,48085,1447
+64202,75006,2,Carrollton,Dallas County,32.95,-96.89,Texas,48113,7368
 64249,75007,1,Carrollton,Denton County,33.0,-96.9,Texas,48121,2102
+64307,75009,3,Celina,Collin County,33.3,-96.8,Texas,48085,1447
+64316,75010,1,Carrollton,Denton County,33.03,-96.9,Texas,48121,2102
+64331,75011,2,Carrollton,Dallas County,,,Texas,48113,7368
+64332,75013,1,Allen,Collin County,33.12,-96.69,Texas,48085,1447
+64348,75014,1,Irving,Dallas County,,,Texas,48113,7368
+64352,75019,2,Coppell,Dallas County,32.96,-96.98,Texas,48113,7368
 64365,75020,1,Denison,Grayson County,33.76,-96.6,Texas,48181,494
+64443,75021,2,Denison,Grayson County,33.74,-96.47,Texas,48181,494
+64460,75022,1,Flower Mound,Denton County,33.03,-97.12,Texas,48121,2102
+64463,75023,3,Plano,Collin County,33.05,-96.73,Texas,48085,1447
+64524,75024,2,Plano,Collin County,33.08,-96.81,Texas,48085,1447
+64537,75025,2,Plano,Collin County,33.1,-96.73,Texas,48085,1447
+64569,75028,1,Flower Mound,Denton County,33.03,-97.07,Texas,48121,2102
 64586,75032,2,Rockwall,Rockwall County,32.9,-96.4,Texas,48397,165
 64600,75033,1,Frisco,,,,Texas,NA,47
+64624,75034,2,Frisco,Denton County,33.12,-96.88,Texas,48121,2102
+64674,75035,1,Frisco,Collin County,33.16,-96.77,Texas,48085,1447
+64709,75038,2,Irving,Dallas County,32.88,-96.98,Texas,48113,7368
+64759,75039,2,Irving,Dallas County,32.88,-96.95,Texas,48113,7368
+64763,75040,1,Garland,Dallas County,32.93,-96.62,Texas,48113,7368
+64840,75041,1,Garland,Dallas County,32.88,-96.65,Texas,48113,7368
+64899,75042,2,Garland,Dallas County,32.92,-96.68,Texas,48113,7368
+64940,75043,1,Garland,Dallas County,32.86,-96.59,Texas,48113,7368
+65075,75044,1,Garland,Dallas County,32.96,-96.65,Texas,48113,7368
+65122,75046,2,Garland,Dallas County,,,Texas,48113,7368
+65123,75048,2,Sachse,Dallas County,32.97,-96.58,Texas,48113,7368
+65139,75049,2,Garland,Dallas County,,,Texas,48113,7368
+65141,75050,1,Grand Prairie,Dallas County,32.78,-96.99,Texas,48113,7368
+65210,75051,1,Grand Prairie,Dallas County,32.73,-96.99,Texas,48113,7368
+65284,75052,2,Grand Prairie,Dallas County,32.65,-97.02,Texas,48113,7368
 65428,75054,1,Grand Prairie,Tarrant County,32.6,-97.04,Texas,48439,6798
+65437,75056,1,The Colony,Denton County,33.07,-96.9,Texas,48121,2102
+65497,75057,2,Lewisville,Denton County,33.05,-96.98,Texas,48121,2102
+65533,75058,1,Gunter,Grayson County,33.45,-96.73,Texas,48181,494
+65536,75060,1,Irving,Dallas County,32.79,-96.95,Texas,48113,7368
+65562,75061,1,Irving,Dallas County,32.83,-97.01,Texas,48113,7368
+65643,75062,3,Irving,Dallas County,32.85,-96.96,Texas,48113,7368
+65695,75063,1,Irving,Dallas County,32.92,-96.98,Texas,48113,7368
+65721,75064,2,Irving,,,,Texas,NA,47
+65722,75065,2,Lake Dallas,Denton County,33.12,-97.03,Texas,48121,2102
+65745,75067,2,Lewisville,Denton County,33.02,-96.99,Texas,48121,2102
+65877,75068,1,Little Elm,Denton County,33.15,-96.95,Texas,48121,2102
+65974,75069,2,Mckinney,Collin County,33.18,-96.59,Texas,48085,1447
+66023,75070,1,Mckinney,Collin County,33.16,-96.72,Texas,48085,1447
+66099,75071,3,Mckinney,Collin County,33.3,-96.6,Texas,48085,1447
+66171,75074,1,Plano,Collin County,33.04,-96.67,Texas,48085,1447
+66217,75075,1,Plano,Collin County,33.02,-96.75,Texas,48085,1447
+66250,75076,2,Pottsboro,Grayson County,33.8,-96.7,Texas,48181,494
+66258,75077,2,Lewisville,Denton County,33.08,-97.07,Texas,48121,2102
+66280,75078,1,Prosper,Collin County,33.26,-96.82,Texas,48085,1447
+66302,75080,1,Richardson,Dallas County,32.97,-96.74,Texas,48113,7368
+66329,75081,1,Richardson,Dallas County,32.95,-96.72,Texas,48113,7368
+66343,75082,1,Richardson,Collin County,32.99,-96.66,Texas,48085,1447
+66347,75086,3,Plano,Collin County,,,Texas,48085,1447
+66348,75087,1,Rockwall,Rockwall County,32.94,-96.44,Texas,48397,165
+66353,75088,3,Rowlett,Dallas County,32.89,-96.55,Texas,48113,7368
+66379,75089,2,Rowlett,Dallas County,32.94,-96.55,Texas,48113,7368
+66397,75090,1,Sherman,Grayson County,33.6,-96.5,Texas,48181,494
+66457,75091,1,Sherman,Grayson County,,,Texas,48181,494
+66458,75092,2,Sherman,Grayson County,33.6,-96.7,Texas,48181,494
+66521,75093,2,Plano,Collin County,33.04,-96.81,Texas,48085,1447
+66547,75094,2,Plano,Collin County,33.01,-96.62,Texas,48085,1447
+66555,75097,1,Weston,Collin County,,,Texas,48085,1447
+66557,75098,1,Wylie,Collin County,33.02,-96.52,Texas,48085,1447
 66659,75101,1,Bardwell,Ellis County,32.3,-96.6,Texas,48139,683
 66662,75102,1,Barry,Navarro County,32.1,-96.6,Texas,48349,221
 66665,75103,1,Canton,Van Zandt County,32.5,-95.9,Texas,48467,233
+66701,75104,1,Cedar Hill,Dallas County,32.59,-96.96,Texas,48113,7368
+66829,75106,1,Cedar Hill,Dallas County,,,Texas,48113,7368
+66831,75109,3,Corsicana,Navarro County,32.1,-96.3,Texas,48349,221
+66836,75110,3,Corsicana,Navarro County,32.1,-96.5,Texas,48349,221
 66911,75114,1,Crandall,Kaufman County,32.6,-96.4,Texas,48257,425
+66923,75115,1,Desoto,Dallas County,32.61,-96.87,Texas,48113,7368
+67091,75116,3,Duncanville,Dallas County,32.66,-96.92,Texas,48113,7368
+67124,75117,2,Edgewood,Van Zandt County,32.7,-95.9,Texas,48467,233
+67133,75118,3,Elmo,Kaufman County,,,Texas,48257,425
+67134,75119,3,Ennis,Ellis County,32.4,-96.6,Texas,48139,683
+67238,75120,3,Ennis,Ellis County,,,Texas,48139,683
+67241,75121,2,Copeville,Collin County,,,Texas,48085,1447
+67243,75123,1,Desoto,Dallas County,,,Texas,48113,7368
 67245,75124,1,Eustace,Henderson County,32.3,-96.0,Texas,48213,481
+67252,75125,1,Ferris,Ellis County,32.5,-96.6,Texas,48139,683
+67262,75126,3,Forney,Kaufman County,32.7,-96.4,Texas,48257,425
+67324,75127,1,Fruitvale,Van Zandt County,32.66,-95.8,Texas,48467,233
+67333,75132,1,Fate,Rockwall County,32.9,-96.3,Texas,48397,165
+67334,75134,1,Lancaster,Dallas County,32.63,-96.76,Texas,48113,7368
 67420,75135,1,Caddo Mills,Hunt County,33.1,-96.2,Texas,48231,547
+67433,75137,2,Duncanville,Dallas County,32.63,-96.91,Texas,48113,7368
+67469,75140,2,Grand Saline,Van Zandt County,32.7,-95.7,Texas,48467,233
+67482,75141,3,Hutchins,Dallas County,32.64,-96.7,Texas,48113,7368
+67493,75142,2,Kaufman,Kaufman County,32.6,-96.3,Texas,48257,425
+67548,75143,2,Kemp,Henderson County,32.4,-96.3,Texas,48213,481
+67597,75144,1,Kerens,Navarro County,32.1,-96.2,Texas,48349,221
+67606,75146,3,Lancaster,Dallas County,32.57,-96.74,Texas,48113,7368
+67710,75147,1,Mabank,Kaufman County,32.4,-96.0,Texas,48257,425
+67737,75148,1,Malakoff,Henderson County,32.1,-96.0,Texas,48213,481
+67750,75149,1,Mesquite,Dallas County,32.77,-96.62,Texas,48113,7368
+67905,75150,1,Mesquite,Dallas County,32.82,-96.63,Texas,48113,7368
+68029,75152,2,Palmer,Ellis County,32.43,-96.67,Texas,48139,683
+68037,75153,3,Powell,Navarro County,32.17,-96.36,Texas,48349,221
+68040,75154,1,Red Oak,Ellis County,32.5,-96.8,Texas,48139,683
+68139,75155,3,Rice,Navarro County,32.22,-96.49,Texas,48349,221
+68146,75156,3,Mabank,Henderson County,32.28,-96.1,Texas,48213,481
+68219,75157,1,Rosser,Kaufman County,32.46,-96.44,Texas,48257,425
+68222,75158,2,Scurry,Kaufman County,32.5,-96.4,Texas,48257,425
+68229,75159,1,Seagoville,Dallas County,32.6,-96.6,Texas,48113,7368
+68312,75160,1,Terrell,Kaufman County,32.8,-96.3,Texas,48257,425
+68377,75161,1,Terrell,Kaufman County,32.7,-96.2,Texas,48257,425
+68389,75163,2,Trinidad,Henderson County,32.2,-96.1,Texas,48213,481
+68394,75165,3,Waxahachie,Ellis County,32.4,-96.8,Texas,48139,683
+68484,75166,1,Lavon,Collin County,33.02,-96.45,Texas,48085,1447
+68488,75167,1,Waxahachie,Ellis County,32.4,-96.9,Texas,48139,683
+68491,75168,2,Waxahachie,Ellis County,,,Texas,48139,683
+68492,75169,3,Wills Point,Van Zandt County,32.7,-96.0,Texas,48467,233
+68532,75172,1,Wilmer,Dallas County,32.61,-96.67,Texas,48113,7368
+68543,75173,1,Nevada,Collin County,33.06,-96.38,Texas,48085,1447
+68551,75180,2,Balch Springs,Dallas County,32.72,-96.61,Texas,48113,7368
+68638,75181,2,Mesquite,Dallas County,32.74,-96.55,Texas,48113,7368
+68681,75182,1,Sunnyvale,Dallas County,32.79,-96.56,Texas,48113,7368
+68686,75189,2,Royse City,Rockwall County,32.9,-96.3,Texas,48397,165
+68761,75201,1,Dallas,Dallas County,32.79,-96.8,Texas,48113,7368
+68765,75203,2,Dallas,Dallas County,32.74,-96.79,Texas,48113,7368
+68789,75204,1,Dallas,Dallas County,32.8,-96.79,Texas,48113,7368
+68800,75205,3,Dallas,Dallas County,32.83,-96.79,Texas,48113,7368
+68801,75206,2,Dallas,Dallas County,32.83,-96.77,Texas,48113,7368
+68807,75208,2,Dallas,Dallas County,32.75,-96.84,Texas,48113,7368
+68813,75209,1,Dallas,Dallas County,32.84,-96.83,Texas,48113,7368
+68821,75210,3,Dallas,Dallas County,32.76,-96.74,Texas,48113,7368
+68850,75211,3,Dallas,Dallas County,32.74,-96.92,Texas,48113,7368
+68922,75212,2,Dallas,Dallas County,32.78,-96.87,Texas,48113,7368
+68992,75214,2,Dallas,Dallas County,32.83,-96.74,Texas,48113,7368
+69005,75215,1,Dallas,Dallas County,32.75,-96.77,Texas,48113,7368
+69061,75216,3,Dallas,Dallas County,32.71,-96.77,Texas,48113,7368
+69252,75217,2,Dallas,Dallas County,32.7,-96.68,Texas,48113,7368
+69426,75218,3,Dallas,Dallas County,32.84,-96.7,Texas,48113,7368
+69437,75219,3,Dallas,Dallas County,32.81,-96.82,Texas,48113,7368
+69453,75220,2,Dallas,Dallas County,32.86,-96.87,Texas,48113,7368
+69507,75221,1,Dallas,Dallas County,,,Texas,48113,7368
+69508,75223,2,Dallas,Dallas County,32.79,-96.75,Texas,48113,7368
+69519,75224,1,Dallas,Dallas County,32.71,-96.84,Texas,48113,7368
+69561,75225,2,Dallas,Dallas County,32.87,-96.79,Texas,48113,7368
+69562,75227,2,Dallas,Dallas County,32.77,-96.69,Texas,48113,7368
+69711,75228,1,Dallas,Dallas County,32.83,-96.68,Texas,48113,7368
+69877,75229,1,Dallas,Dallas County,32.9,-96.89,Texas,48113,7368
+69881,75230,1,Dallas,Dallas County,32.9,-96.79,Texas,48113,7368
+69889,75231,1,Dallas,Dallas County,32.88,-96.75,Texas,48113,7368
+69998,75232,1,Dallas,Dallas County,32.66,-96.84,Texas,48113,7368
+70104,75233,1,Dallas,Dallas County,32.71,-96.87,Texas,48113,7368
+70136,75234,1,Dallas,Dallas County,32.92,-96.9,Texas,48113,7368
+70156,75235,2,Dallas,Dallas County,32.83,-96.85,Texas,48113,7368
+70170,75236,2,Dallas,Dallas County,32.69,-96.94,Texas,48113,7368
+70230,75237,1,Dallas,Dallas County,32.66,-96.87,Texas,48113,7368
+70366,75238,1,Dallas,Dallas County,32.88,-96.71,Texas,48113,7368
+70416,75240,2,Dallas,Dallas County,32.93,-96.79,Texas,48113,7368
+70455,75241,3,Dallas,Dallas County,32.67,-96.76,Texas,48113,7368
+70611,75242,2,Dallas,Dallas County,,,Texas,48113,7368
+70612,75243,1,Dallas,Dallas County,32.91,-96.74,Texas,48113,7368
+70769,75244,2,Dallas,Dallas County,32.93,-96.84,Texas,48113,7368
+70778,75246,2,Dallas,Dallas County,32.793,-96.773,Texas,48113,7368
+70781,75247,3,Dallas,Dallas County,32.83,-96.88,Texas,48113,7368
+70784,75248,3,Dallas,Dallas County,32.97,-96.8,Texas,48113,7368
+70804,75249,1,Dallas,Dallas County,32.64,-96.97,Texas,48113,7368
+70843,75250,3,Dallas,Dallas County,,,Texas,48113,7368
+70845,75251,2,Dallas,Dallas County,32.917,-96.773,Texas,48113,7368
+70848,75252,2,Dallas,Collin County,33.0,-96.79,Texas,48085,1447
+70871,75253,1,Dallas,Dallas County,32.67,-96.61,Texas,48113,7368
+70941,75254,1,Dallas,Dallas County,32.95,-96.8,Texas,48113,7368
+70970,75285,2,Dallas,Dallas County,,,Texas,48113,7368
+70971,75287,2,Dallas,Denton County,33.0,-96.84,Texas,48121,2102
+71133,75343,2,Dallas,Dallas County,,,Texas,48113,7368
+71134,75354,1,Dallas,Dallas County,,,Texas,48113,7368
+71136,75367,1,Dallas,Dallas County,,,Texas,48113,7368
+71137,75370,2,Dallas,Dallas County,,,Texas,48113,7368
+71138,75389,2,Dallas,Dallas County,,,Texas,48113,7368
+71139,75401,3,Greenville,Hunt County,33.2,-96.1,Texas,48231,547
+71247,75402,1,Greenville,Hunt County,33.1,-96.1,Texas,48231,547
+71298,75403,1,Greenville,Hunt County,,,Texas,48231,547
+71300,75407,1,Princeton,Collin County,33.1,-96.5,Texas,48085,1447
+71369,75409,2,Anna,Collin County,33.3,-96.5,Texas,48085,1447
 71460,75410,2,Alba,Wood County,32.8,-95.6,Texas,48499,110
 71470,75413,1,Bailey,Fannin County,33.433,-96.165,Texas,48147,142
+71471,75414,2,Bells,Grayson County,33.6,-96.5,Texas,48181,494
 71473,75416,2,Blossom,Lamar County,33.7,-95.4,Texas,48277,205
 71476,75417,3,Bogata,Red River County,33.5,-95.1,Texas,48387,32
+71478,75418,1,Bonham,Fannin County,33.6,-96.2,Texas,48147,142
+71525,75421,1,Brookston,Lamar County,33.63,-95.72,Texas,48277,205
+71527,75422,2,Campbell,Hunt County,33.1,-95.9,Texas,48231,547
+71530,75423,1,Celeste,Hunt County,33.3,-96.2,Texas,48231,547
+71535,75424,2,Blue Ridge,Collin County,33.31,-96.39,Texas,48085,1447
+71540,75426,2,Clarksville,Red River County,33.7,-95.0,Texas,48387,32
+71545,75428,2,Commerce,Hunt County,33.3,-95.9,Texas,48231,547
+71586,75429,2,Commerce,Hunt County,,,Texas,48231,547
 71587,75431,2,Como,Hopkins County,33.0,-95.5,Texas,48223,122
 71590,75432,2,Cooper,Delta County,33.4,-95.5,Texas,48119,11
+71594,75433,2,Cumby,Hopkins County,33.1,-95.8,Texas,48223,122
+71602,75435,2,Deport,Lamar County,33.48,-95.35,Texas,48277,205
+71603,75436,2,Detroit,Red River County,33.7,-95.2,Texas,48387,32
+71608,75437,2,Dike,Hopkins County,33.3,-95.5,Texas,48223,122
+71610,75438,1,Dodd City,Fannin County,33.6,-96.09,Texas,48147,142
+71611,75439,3,Ector,Fannin County,33.55,-96.27,Texas,48147,142
 71615,75440,1,Emory,Rains County,32.9,-95.8,Texas,48379,29
+71623,75442,1,Farmersville,Collin County,33.2,-96.3,Texas,48085,1447
+71644,75444,1,Golden,Wood County,,,Texas,48499,110
+71645,75446,2,Honey Grove,Fannin County,33.6,-95.9,Texas,48147,142
+71659,75449,2,Ladonia,Fannin County,33.4,-96.0,Texas,48147,142
 71661,75451,3,Leesburg,Camp County,32.96,-95.12,Texas,48063,35
+71662,75452,1,Leonard,Fannin County,33.4,-96.2,Texas,48147,142
+71669,75453,2,Lone Oak,Hunt County,33.0,-95.9,Texas,48231,547
+71677,75454,2,Melissa,Collin County,33.28,-96.56,Texas,48085,1447
 71686,75455,1,Mount Pleasant,Titus County,33.2,-95.0,Texas,48449,72
+71722,75456,2,Mount Pleasant,Titus County,,,Texas,48449,72
 71723,75457,2,Mount Vernon,Franklin County,33.2,-95.2,Texas,48159,15
+71730,75459,3,Howe,Grayson County,33.5,-96.7,Texas,48181,494
+71743,75460,1,Paris,Lamar County,33.6,-95.6,Texas,48277,205
+71816,75462,1,Paris,Lamar County,33.6,-95.5,Texas,48277,205
+71834,75468,1,Pattonville,Lamar County,33.5,-95.4,Texas,48277,205
+71835,75469,3,Pecan Gap,Delta County,33.41,-95.82,Texas,48119,11
+71836,75471,3,Pickton,Hopkins County,33.0,-95.4,Texas,48223,122
+71839,75472,1,Point,Rains County,32.9,-95.9,Texas,48379,29
+71851,75473,1,Powderly,Lamar County,33.8,-95.5,Texas,48277,205
+71858,75474,2,Quinlan,Hunt County,32.9,-96.1,Texas,48231,547
+71934,75475,1,Randolph,Fannin County,33.48,-96.24,Texas,48147,142
+71936,75476,2,Ravenna,Fannin County,33.7,-96.2,Texas,48147,142
+71939,75478,2,Saltillo,Hopkins County,33.2,-95.4,Texas,48223,122
+71940,75480,1,Scroggins,Franklin County,33.02,-95.19,Texas,48159,15
+71941,75481,2,Sulphur Bluff,Hopkins County,33.31,-95.39,Texas,48223,122
+71942,75482,1,Sulphur Springs,Hopkins County,33.2,-95.6,Texas,48223,122
+71991,75486,1,Sumner,Lamar County,33.7,-95.7,Texas,48277,205
+71992,75487,1,Talco,Titus County,33.3,-95.2,Texas,48449,72
+71994,75489,3,Tom Bean,Grayson County,33.519,-96.484,Texas,48181,494
+71995,75490,1,Trenton,Fannin County,33.44,-96.32,Texas,48147,142
+71998,75491,2,Whitewright,Grayson County,33.5,-96.4,Texas,48181,494
+72011,75492,3,Windom,Fannin County,33.6,-96.0,Texas,48147,142
+72012,75493,2,Winfield,Titus County,33.16,-95.11,Texas,48449,72
+72013,75494,1,Winnsboro,Wood County,32.9,-95.3,Texas,48499,110
+72017,75495,3,Van Alstyne,Grayson County,33.4,-96.6,Texas,48181,494
+72026,75496,2,Wolfe City,Hunt County,33.4,-96.1,Texas,48231,547
+72033,75497,2,Yantis,Wood County,32.9,-95.6,Texas,48499,110
 72038,75501,1,Texarkana,Bowie County,33.4,-94.2,Texas,48037,665
+72235,75503,2,Texarkana,Bowie County,33.52,-94.14,Texas,48037,665
+72303,75504,2,Texarkana,Bowie County,,,Texas,48037,665
+72305,75505,1,Texarkana,Bowie County,,,Texas,48037,665
+72310,75550,3,Annona,Red River County,33.5,-94.9,Texas,48387,32
 72312,75551,1,Atlanta,Cass County,33.1,-94.2,Texas,48067,148
+72357,75554,2,Avery,Red River County,33.6,-94.8,Texas,48387,32
+72359,75555,2,Bivins,Cass County,33.0,-94.2,Texas,48067,148
+72363,75556,2,Bloomburg,Cass County,33.13,-94.08,Texas,48067,148
+72366,75558,3,Cookville,Titus County,33.3,-94.9,Texas,48449,72
+72367,75559,2,De Kalb,Bowie County,33.5,-94.6,Texas,48037,665
+72375,75560,2,Douglassville,Cass County,33.2,-94.4,Texas,48067,148
+72377,75561,2,Hooks,Bowie County,33.51,-94.28,Texas,48037,665
+72389,75563,1,Linden,Cass County,33.0,-94.4,Texas,48067,148
+72391,75565,1,Mc Leod,Cass County,33.0,-94.2,Texas,48067,148
+72393,75567,2,Maud,Bowie County,33.3,-94.3,Texas,48037,665
 72408,75568,2,Naples,Morris County,33.2,-94.6,Texas,48343,35
+72412,75569,3,Nash,Bowie County,33.44,-94.13,Texas,48037,665
+72430,75570,2,New Boston,Bowie County,33.5,-94.4,Texas,48037,665
+72462,75571,1,Omaha,Morris County,33.2,-94.7,Texas,48343,35
+72469,75572,3,Queen City,Cass County,33.2,-94.1,Texas,48067,148
+72488,75573,2,Redwater,Bowie County,33.4,-94.4,Texas,48037,665
+72489,75574,1,Simms,Bowie County,33.3,-94.5,Texas,48037,665
 72497,75601,1,Longview,Gregg County,32.5,-94.71,Texas,48183,677
+72546,75602,1,Longview,Gregg County,32.45,-94.67,Texas,48183,677
+72608,75603,2,Longview,Gregg County,32.4,-94.7,Texas,48183,677
+72622,75604,1,Longview,Gregg County,32.52,-94.84,Texas,48183,677
+72733,75605,2,Longview,Gregg County,32.6,-94.7,Texas,48183,677
+72796,75607,1,Longview,Gregg County,,,Texas,48183,677
 72799,75630,3,Avinger,Marion County,32.9,-94.6,Texas,48315,34
 72803,75631,1,Beckville,Panola County,32.3,-94.5,Texas,48365,99
+72808,75633,1,Carthage,Panola County,32.1,-94.3,Texas,48365,99
+72855,75638,2,Daingerfield,Morris County,33.0,-94.7,Texas,48343,35
+72864,75639,3,De Berry,Panola County,32.3,-94.2,Texas,48365,99
 72869,75640,1,Diana,Upshur County,32.7,-94.7,Texas,48459,150
+72876,75641,1,Easton,Gregg County,32.38,-94.58,Texas,48183,677
 72877,75642,2,Elysian Fields,Harrison County,32.5,-94.3,Texas,48203,230
+72878,75643,1,Gary,Panola County,32.0,-94.3,Texas,48365,99
+72882,75644,2,Gilmer,Upshur County,32.8,-95.0,Texas,48459,150
+72917,75645,2,Gilmer,Upshur County,32.7,-94.9,Texas,48459,150
+72938,75647,2,Gladewater,Gregg County,32.5,-95.0,Texas,48183,677
+72964,75650,2,Hallsville,Harrison County,32.5,-94.6,Texas,48203,230
+72976,75651,2,Harleton,Harrison County,32.67,-94.53,Texas,48203,230
 72980,75652,2,Henderson,Rusk County,32.3,-94.7,Texas,48401,269
+73034,75653,1,Henderson,Rusk County,,,Texas,48401,269
+73035,75654,3,Henderson,Rusk County,32.1,-94.8,Texas,48401,269
+73081,75656,1,Hughes Springs,Cass County,33.0,-94.6,Texas,48067,148
+73083,75657,2,Jefferson,Marion County,32.8,-94.4,Texas,48315,34
+73096,75659,3,Jonesville,Harrison County,,,Texas,48203,230
+73098,75661,1,Karnack,Harrison County,32.6,-94.2,Texas,48203,230
+73102,75662,2,Kilgore,Gregg County,32.4,-94.9,Texas,48183,677
+73160,75667,1,Laneville,Rusk County,32.0,-94.8,Texas,48401,269
+73161,75668,1,Lone Star,Morris County,32.92,-94.7,Texas,48343,35
+73166,75670,2,Marshall,Harrison County,32.5,-94.4,Texas,48203,230
+73234,75672,2,Marshall,Harrison County,32.5,-94.3,Texas,48203,230
+73263,75681,2,Mount Enterprise,Rusk County,32.0,-94.7,Texas,48401,269
+73277,75682,2,New London,Rusk County,32.3,-94.9,Texas,48401,269
+73281,75683,2,Ore City,Upshur County,32.8,-94.7,Texas,48459,150
+73289,75684,2,Overton,Rusk County,32.3,-94.9,Texas,48401,269
+73304,75686,2,Pittsburg,Camp County,33.0,-94.9,Texas,48063,35
+73321,75691,3,Tatum,Rusk County,32.3,-94.6,Texas,48401,269
+73333,75692,1,Waskom,Harrison County,32.5,-94.1,Texas,48203,230
+73341,75693,1,White Oak,Gregg County,32.54,-94.86,Texas,48183,677
+73349,75694,2,Woodlawn,Harrison County,,,Texas,48203,230
 73350,75701,3,Tyler,Smith County,32.32,-95.29,Texas,48423,1189
+73486,75702,1,Tyler,Smith County,32.37,-95.31,Texas,48423,1189
+73595,75703,1,Tyler,Smith County,32.2,-95.3,Texas,48423,1189
+73765,75704,1,Tyler,Smith County,32.4,-95.4,Texas,48423,1189
+73799,75705,1,Tyler,Smith County,32.3,-95.1,Texas,48423,1189
+73807,75706,1,Tyler,Smith County,32.5,-95.3,Texas,48423,1189
+73842,75707,1,Tyler,Smith County,32.3,-95.2,Texas,48423,1189
+73866,75708,2,Tyler,Smith County,32.42,-95.21,Texas,48423,1189
+73900,75709,1,Tyler,Smith County,32.3,-95.4,Texas,48423,1189
+73913,75711,1,Tyler,Smith County,,,Texas,48423,1189
+73917,75712,2,Tyler,Smith County,,,Texas,48423,1189
+73920,75750,1,Arp,Smith County,32.27,-95.06,Texas,48423,1189
+73928,75751,3,Athens,Henderson County,32.1,-95.9,Texas,48213,481
+73980,75752,1,Athens,Henderson County,32.2,-95.8,Texas,48213,481
+73990,75754,2,Ben Wheeler,Van Zandt County,32.4,-95.7,Texas,48467,233
+74000,75755,2,Big Sandy,Upshur County,32.6,-95.1,Texas,48459,150
+74010,75756,2,Brownsboro,Henderson County,32.3,-95.6,Texas,48213,481
+74018,75757,1,Bullard,Smith County,32.1,-95.3,Texas,48423,1189
+74031,75758,2,Chandler,Henderson County,32.3,-95.5,Texas,48213,481
 74050,75759,2,Cuney,Cherokee County,32.04,-95.42,Texas,48073,259
 74051,75760,2,Cushing,Nacogdoches County,31.8,-94.9,Texas,48347,291
+74054,75762,1,Flint,Smith County,32.23,-95.39,Texas,48423,1189
 74071,75763,2,Frankston,Anderson County,32.0,-95.5,Texas,48001,493
+74080,75764,1,Gallatin,Cherokee County,31.923,-95.145,Texas,48073,259
+74081,75765,1,Hawkins,Wood County,32.6,-95.2,Texas,48499,110
+74091,75766,1,Jacksonville,Cherokee County,31.9,-95.2,Texas,48073,259
+74224,75770,2,Larue,Henderson County,32.1,-95.6,Texas,48213,481
+74228,75771,3,Lindale,Smith County,32.5,-95.4,Texas,48423,1189
+74280,75772,1,Maydelle,Cherokee County,,,Texas,48073,259
+74281,75773,1,Mineola,Wood County,32.7,-95.4,Texas,48499,110
+74310,75778,2,Murchison,Henderson County,32.3,-95.72,Texas,48213,481
+74323,75782,1,Poynor,Henderson County,,,Texas,48213,481
+74325,75783,2,Quitman,Wood County,32.8,-95.4,Texas,48499,110
+74335,75784,1,Reklaw,Cherokee County,31.89,-94.97,Texas,48073,259
+74338,75785,1,Rusk,Cherokee County,31.8,-95.2,Texas,48073,259
+74361,75789,2,Troup,Smith County,32.1,-95.1,Texas,48423,1189
+74375,75790,2,Van,Van Zandt County,32.55,-95.66,Texas,48467,233
+74389,75791,2,Whitehouse,Smith County,32.22,-95.22,Texas,48423,1189
+74409,75792,2,Winona,Smith County,32.5,-95.1,Texas,48423,1189
+74420,75801,2,Palestine,Anderson County,31.7,-95.6,Texas,48001,493
+74551,75802,2,Palestine,Anderson County,,,Texas,48001,493
+74554,75803,1,Palestine,Anderson County,31.9,-95.7,Texas,48001,493
 74653,75831,1,Buffalo,Leon County,31.4,-96.0,Texas,48289,40
+74662,75833,1,Centerville,Leon County,31.3,-95.9,Texas,48289,40
 74664,75835,3,Crockett,Houston County,31.3,-95.5,Texas,48225,180
 74731,75838,2,Donie,Freestone County,31.48,-96.25,Texas,48161,65
+74732,75839,2,Elkhart,Anderson County,31.6,-95.6,Texas,48001,493
+74764,75840,2,Fairfield,Freestone County,31.8,-96.0,Texas,48161,65
+74782,75844,1,Grapeland,Houston County,31.6,-95.4,Texas,48225,180
 74806,75845,2,Groveton,Trinity County,31.1,-95.1,Texas,48455,24
+74808,75849,3,Latexo,Houston County,31.37,-95.47,Texas,48225,180
+74809,75850,2,Leona,Leon County,31.1,-95.9,Texas,48289,40
+74811,75851,1,Lovelady,Houston County,31.1,-95.5,Texas,48225,180
 74816,75852,2,Midway,Madison County,31.0,-95.8,Texas,48313,31
+74819,75853,1,Montalba,Anderson County,31.9,-95.8,Texas,48001,493
+74821,75855,2,Oakwood,Leon County,31.5,-95.9,Texas,48289,40
+74831,75858,2,Ratcliff,Houston County,31.392,-95.137,Texas,48225,180
+74832,75859,2,Streetman,Freestone County,31.9,-96.3,Texas,48161,65
+74835,75860,1,Teague,Freestone County,31.6,-96.2,Texas,48161,65
+74849,75861,2,Tennessee Colony,Anderson County,31.9,-95.9,Texas,48001,493
+74857,75862,2,Trinity,Trinity County,31.0,-95.4,Texas,48455,24
 74866,75901,1,Lufkin,Angelina County,31.3,-94.6,Texas,48005,295
+74933,75904,1,Lufkin,Angelina County,31.4,-94.8,Texas,48005,295
+75000,75926,1,Apple Springs,Trinity County,31.3,-95.0,Texas,48455,24
 75002,75928,1,Bon Wier,Newton County,30.7,-93.7,Texas,48351,47
 75012,75929,1,Broaddus,San Augustine County,31.2,-94.2,Texas,48405,24
 75014,75931,2,Brookeland,Jasper County,31.11,-93.98,Texas,48241,203
+75016,75932,1,Burkeville,Newton County,31.0,-93.6,Texas,48351,47
+75017,75933,1,Call,Newton County,30.5,-93.8,Texas,48351,47
 75018,75935,2,Center,Shelby County,31.8,-94.2,Texas,48419,138
 75064,75936,1,Chester,Tyler County,30.9,-94.6,Texas,48457,147
+75065,75937,2,Chireno,Nacogdoches County,31.5,-94.4,Texas,48347,291
+75068,75938,1,Colmesneil,Tyler County,30.9,-94.4,Texas,48457,147
 75078,75939,2,Corrigan,Polk County,31.0,-94.8,Texas,48373,271
+75083,75941,1,Diboll,Angelina County,31.2,-94.8,Texas,48005,295
+75097,75942,2,Doucette,Tyler County,30.825,-94.426,Texas,48457,147
+75098,75944,2,Etoile,Nacogdoches County,31.34,-94.39,Texas,48347,291
+75100,75946,3,Garrison,Nacogdoches County,31.8,-94.5,Texas,48347,291
+75103,75949,2,Huntington,Angelina County,31.2,-94.6,Texas,48005,295
+75113,75951,1,Jasper,Jasper County,30.9,-94.2,Texas,48241,203
+75190,75954,2,Joaquin,Shelby County,31.9,-94.1,Texas,48419,138
+75195,75956,1,Kirbyville,Jasper County,30.7,-94.0,Texas,48241,203
+75212,75960,1,Moscow,Polk County,30.9,-94.8,Texas,48373,271
+75214,75961,1,Nacogdoches,Nacogdoches County,31.6,-94.5,Texas,48347,291
+75265,75962,2,Nacogdoches,Nacogdoches County,31.62,-94.647,Texas,48347,291
+75269,75964,2,Nacogdoches,Nacogdoches County,31.6,-94.8,Texas,48347,291
+75298,75965,1,Nacogdoches,Nacogdoches County,31.7,-94.6,Texas,48347,291
+75352,75966,2,Newton,Newton County,30.8,-93.7,Texas,48351,47
+75362,75969,1,Pollok,Angelina County,31.4,-94.9,Texas,48005,295
+75368,75972,1,San Augustine,San Augustine County,31.5,-94.1,Texas,48405,24
+75381,75973,2,Shelbyville,Shelby County,31.7,-94.0,Texas,48419,138
+75391,75974,1,Tenaha,Shelby County,31.9,-94.2,Texas,48419,138
+75392,75975,2,Timpson,Shelby County,31.9,-94.4,Texas,48419,138
+75399,75976,3,Wells,Cherokee County,31.49,-94.94,Texas,48073,259
+75400,75977,1,Wiergate,Newton County,31.0,-93.8,Texas,48351,47
+75403,75979,3,Woodville,Tyler County,30.8,-94.4,Texas,48457,147
+75462,75980,3,Zavalla,Angelina County,31.1,-94.3,Texas,48005,295
+75463,76001,1,Arlington,Tarrant County,32.63,-97.15,Texas,48439,6798
+75522,76002,1,Arlington,Tarrant County,32.62,-97.09,Texas,48439,6798
+75561,76006,1,Arlington,Tarrant County,32.78,-97.1,Texas,48439,6798
+75630,76007,1,Arlington,Tarrant County,,,Texas,48439,6798
 75631,76008,1,Aledo,Parker County,32.7,-97.6,Texas,48367,316
 75635,76009,2,Alvarado,Johnson County,32.4,-97.2,Texas,48251,672
+75681,76010,2,Arlington,Tarrant County,32.72,-97.08,Texas,48439,6798
+75790,76011,2,Arlington,Tarrant County,32.76,-97.08,Texas,48439,6798
+75889,76012,2,Arlington,Tarrant County,32.76,-97.15,Texas,48439,6798
+75928,76013,2,Arlington,Tarrant County,32.72,-97.16,Texas,48439,6798
+75983,76014,2,Arlington,Tarrant County,32.69,-97.09,Texas,48439,6798
+76075,76015,1,Arlington,Tarrant County,32.69,-97.13,Texas,48439,6798
+76109,76016,1,Arlington,Tarrant County,32.69,-97.19,Texas,48439,6798
+76132,76017,2,Arlington,Tarrant County,32.66,-97.17,Texas,48439,6798
+76210,76018,1,Arlington,Tarrant County,32.66,-97.09,Texas,48439,6798
+76251,76019,2,Arlington,Tarrant County,,,Texas,48439,6798
+76254,76020,1,Azle,Tarrant County,32.9,-97.6,Texas,48439,6798
+76341,76021,1,Bedford,Tarrant County,32.85,-97.13,Texas,48439,6798
+76402,76022,1,Bedford,Tarrant County,32.83,-97.14,Texas,48439,6798
 76431,76023,2,Boyd,Wise County,33.06,-97.61,Texas,48497,198
+76444,76028,2,Burleson,Johnson County,32.5,-97.3,Texas,48251,672
+76519,76031,1,Cleburne,Johnson County,32.4,-97.3,Texas,48251,672
+76570,76033,2,Cleburne,Johnson County,32.3,-97.5,Texas,48251,672
+76673,76034,2,Colleyville,Tarrant County,32.89,-97.14,Texas,48439,6798
+76675,76035,2,Cresson,Parker County,32.57,-97.65,Texas,48367,316
+76686,76036,3,Crowley,Tarrant County,32.58,-97.41,Texas,48439,6798
+76767,76039,2,Euless,Tarrant County,32.86,-97.09,Texas,48439,6798
+76794,76040,1,Euless,Tarrant County,32.81,-97.1,Texas,48439,6798
 76856,76043,1,Glen Rose,Somervell County,32.2,-97.8,Texas,48425,25
+76862,76044,2,Godley,Johnson County,32.4,-97.5,Texas,48251,672
 76863,76048,2,Granbury,Hood County,32.4,-97.8,Texas,48221,158
+76920,76049,2,Granbury,Hood County,32.5,-97.7,Texas,48221,158
+76947,76050,3,Grandview,Johnson County,32.3,-97.2,Texas,48251,672
+76953,76051,1,Grapevine,Tarrant County,32.94,-97.07,Texas,48439,6798
+77000,76052,2,Haslet,Tarrant County,32.98,-97.39,Texas,48439,6798
+77032,76053,1,Hurst,Tarrant County,32.82,-97.17,Texas,48439,6798
+77096,76054,2,Hurst,Tarrant County,32.86,-97.18,Texas,48439,6798
 77098,76055,1,Itasca,Hill County,32.2,-97.1,Texas,48217,129
+77110,76058,1,Joshua,Johnson County,32.48,-97.41,Texas,48251,672
+77157,76059,2,Keene,Johnson County,32.39,-97.32,Texas,48251,672
+77188,76060,1,Kennedale,Tarrant County,32.64,-97.21,Texas,48439,6798
+77204,76061,1,Lillian,Johnson County,32.5031,-97.1881,Texas,48251,672
+77205,76063,2,Mansfield,Tarrant County,32.57,-97.13,Texas,48439,6798
+77291,76064,1,Maypearl,Ellis County,32.28,-97.02,Texas,48139,683
+77293,76065,2,Midlothian,Ellis County,32.5,-97.0,Texas,48139,683
+77353,76066,2,Millsap,Parker County,32.7,-98.0,Texas,48367,316
 77357,76067,1,Mineral Wells,Palo Pinto County,32.8,-98.2,Texas,48363,183
+77453,76071,1,Newark,Wise County,33.01,-97.48,Texas,48497,198
+77464,76073,2,Paradise,Wise County,33.1,-97.7,Texas,48497,198
+77474,76077,1,Rainbow,Somervell County,32.28,-97.7,Texas,48425,25
+77480,76078,2,Rhome,Wise County,33.1,-97.5,Texas,48497,198
+77498,76082,1,Springtown,Parker County,33.0,-97.7,Texas,48367,316
+77533,76084,1,Venus,Johnson County,32.4,-97.1,Texas,48251,672
+77555,76085,1,Weatherford,Parker County,32.8,-97.7,Texas,48367,316
+77572,76086,1,Weatherford,Parker County,32.76,-97.79,Texas,48367,316
+77628,76087,1,Weatherford,Parker County,32.7,-97.8,Texas,48367,316
+77668,76088,1,Weatherford,Parker County,32.9,-97.9,Texas,48367,316
+77680,76092,1,Southlake,Tarrant County,32.96,-97.15,Texas,48439,6798
+77685,76093,2,Rio Vista,Johnson County,32.23,-97.4,Texas,48251,672
+77690,76101,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+77691,76102,1,Fort Worth,Tarrant County,32.76,-97.33,Texas,48439,6798
+77701,76103,1,Fort Worth,Tarrant County,32.75,-97.27,Texas,48439,6798
+77739,76104,3,Fort Worth,Tarrant County,32.73,-97.32,Texas,48439,6798
+77818,76105,1,Fort Worth,Tarrant County,32.72,-97.27,Texas,48439,6798
+77907,76106,1,Fort Worth,Tarrant County,32.81,-97.36,Texas,48439,6798
+77998,76107,1,Fort Worth,Tarrant County,32.74,-97.38,Texas,48439,6798
+78038,76108,3,Fort Worth,Tarrant County,32.78,-97.51,Texas,48439,6798
+78152,76109,3,Fort Worth,Tarrant County,32.7,-97.39,Texas,48439,6798
+78170,76110,1,Fort Worth,Tarrant County,32.71,-97.34,Texas,48439,6798
+78207,76111,3,Fort Worth,Tarrant County,32.78,-97.3,Texas,48439,6798
+78237,76112,2,Fort Worth,Tarrant County,32.75,-97.23,Texas,48439,6798
+78420,76113,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+78421,76114,2,Fort Worth,Tarrant County,32.78,-97.39,Texas,48439,6798
+78485,76115,1,Fort Worth,Tarrant County,32.68,-97.33,Texas,48439,6798
+78517,76116,1,Fort Worth,Tarrant County,32.72,-97.46,Texas,48439,6798
+78741,76117,1,Haltom City,Tarrant County,32.8,-97.26,Texas,48439,6798
+78850,76118,1,Fort Worth,Tarrant County,32.8,-97.19,Texas,48439,6798
+78872,76119,2,Fort Worth,Tarrant County,32.7,-97.26,Texas,48439,6798
+79086,76120,1,Fort Worth,Tarrant County,32.76,-97.17,Texas,48439,6798
+79177,76123,1,Fort Worth,Tarrant County,32.62,-97.39,Texas,48439,6798
+79267,76124,2,Fort Worth,Tarrant County,,,Texas,48439,6798
+79269,76126,2,Fort Worth,Tarrant County,32.6,-97.5,Texas,48439,6798
+79301,76131,2,Fort Worth,Tarrant County,32.88,-97.35,Texas,48439,6798
+79353,76132,1,Fort Worth,Tarrant County,32.66,-97.42,Texas,48439,6798
+79437,76133,2,Fort Worth,Tarrant County,32.66,-97.38,Texas,48439,6798
+79577,76134,2,Fort Worth,Tarrant County,32.64,-97.33,Texas,48439,6798
+79653,76135,1,Fort Worth,Tarrant County,32.84,-97.47,Texas,48439,6798
+79692,76136,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+79694,76137,1,Fort Worth,Tarrant County,32.85,-97.29,Texas,48439,6798
+79809,76140,1,Fort Worth,Tarrant County,32.62,-97.27,Texas,48439,6798
+79901,76148,1,Fort Worth,Tarrant County,32.87,-97.25,Texas,48439,6798
+79956,76155,3,Fort Worth,Tarrant County,32.81,-97.05,Texas,48439,6798
+79969,76161,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+79970,76162,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+79971,76164,2,Fort Worth,Tarrant County,32.78,-97.36,Texas,48439,6798
+80006,76166,2,Fort Worth,Tarrant County,,,Texas,48439,6798
+80008,76177,2,Fort Worth,Tarrant County,32.97,-97.29,Texas,48439,6798
+80023,76179,3,Fort Worth,Tarrant County,32.9,-97.4,Texas,48439,6798
+80103,76180,1,North Richland Hills,Tarrant County,32.84,-97.22,Texas,48439,6798
+80186,76182,2,North Richland Hills,Tarrant County,32.89,-97.21,Texas,48439,6798
+80208,76199,1,Fort Worth,Tarrant County,,,Texas,48439,6798
+80209,76201,2,Denton,Denton County,33.22,-97.15,Texas,48121,2102
+80284,76202,1,Denton,Denton County,,,Texas,48121,2102
+80285,76203,1,Denton,Denton County,,,Texas,48121,2102
+80288,76205,3,Denton,Denton County,33.19,-97.13,Texas,48121,2102
+80366,76206,1,Denton,Denton County,,,Texas,48121,2102
+80368,76207,1,Denton,Denton County,33.2,-97.2,Texas,48121,2102
+80392,76208,3,Denton,Denton County,33.21,-97.07,Texas,48121,2102
+80440,76209,1,Denton,Denton County,33.23,-97.11,Texas,48121,2102
+80533,76210,1,Denton,Denton County,33.15,-97.1,Texas,48121,2102
+80597,76225,1,Alvord,Wise County,33.4,-97.7,Texas,48497,198
+80602,76226,2,Argyle,Denton County,33.12,-97.17,Texas,48121,2102
+80611,76227,2,Aubrey,Denton County,33.3,-97.0,Texas,48121,2102
 80678,76230,1,Bowie,Montague County,33.6,-98.0,Texas,48337,136
+80732,76233,1,Collinsville,Grayson County,33.5,-96.9,Texas,48181,494
+80735,76234,2,Decatur,Wise County,33.3,-97.5,Texas,48497,198
+80760,76239,1,Forestburg,Montague County,33.5,-97.6,Texas,48337,136
 80761,76240,1,Gainesville,Cooke County,33.7,-97.2,Texas,48097,231
+80866,76241,2,Gainesville,Cooke County,,,Texas,48097,231
+80867,76244,1,Keller,Tarrant County,32.93,-97.28,Texas,48439,6798
+80978,76245,2,Gordonville,Grayson County,33.82,-96.86,Texas,48181,494
+80980,76247,3,Justin,Denton County,33.1,-97.3,Texas,48121,2102
+81007,76248,3,Keller,Tarrant County,32.93,-97.22,Texas,48439,6798
+81023,76249,1,Krum,Denton County,33.3,-97.3,Texas,48121,2102
+81043,76251,2,Montague,Montague County,33.7,-97.7,Texas,48337,136
+81046,76255,3,Nocona,Montague County,33.8,-97.7,Texas,48337,136
+81051,76258,2,Pilot Point,Denton County,33.4,-96.9,Texas,48121,2102
+81055,76259,3,Ponder,Denton County,33.21,-97.3,Texas,48121,2102
+81062,76261,2,Ringgold,Montague County,33.8,-98.0,Texas,48337,136
+81063,76262,2,Roanoke,Denton County,33.01,-97.23,Texas,48121,2102
+81092,76263,1,Rosston,Cooke County,33.49,-97.4,Texas,48097,231
+81093,76264,2,Sadler,Grayson County,33.74,-96.82,Texas,48181,494
+81095,76265,3,Saint Jo,Montague County,33.7,-97.6,Texas,48337,136
+81096,76266,1,Sanger,Denton County,33.4,-97.2,Texas,48121,2102
+81145,76270,2,Sunset,Montague County,33.5,-97.8,Texas,48337,136
+81149,76271,3,Tioga,Grayson County,33.5,-96.9,Texas,48181,494
+81150,76272,2,Valley View,Cooke County,33.5,-97.1,Texas,48097,231
+81166,76273,1,Whitesboro,Grayson County,33.8,-96.9,Texas,48181,494
 81180,76301,1,Wichita Falls,Wichita County,33.91,-98.48,Texas,48485,721
+81259,76302,2,Wichita Falls,Wichita County,33.87,-98.47,Texas,48485,721
+81327,76305,2,Wichita Falls,Wichita County,34.0,-98.4,Texas,48485,721
+81337,76306,2,Wichita Falls,Wichita County,33.95,-98.52,Texas,48485,721
+81405,76308,1,Wichita Falls,Wichita County,33.86,-98.55,Texas,48485,721
+81461,76309,3,Wichita Falls,Wichita County,33.9,-98.54,Texas,48485,721
+81511,76310,1,Wichita Falls,Wichita County,33.8,-98.5,Texas,48485,721
+81545,76311,1,Sheppard Afb,Wichita County,33.97,-98.51,Texas,48485,721
 81548,76351,3,Archer City,Archer County,33.6,-98.65,Texas,48009,9
+81551,76354,1,Burkburnett,Wichita County,34.1,-98.61,Texas,48485,721
+81579,76360,1,Electra,Wichita County,34.0,-99.0,Texas,48485,721
 81585,76365,2,Henrietta,Clay County,33.7,-98.2,Texas,48077,14
+81589,76366,1,Holliday,Archer County,33.6,-98.7,Texas,48009,9
+81590,76367,2,Iowa Park,Wichita County,34.0,-98.7,Texas,48485,721
 81608,76372,2,Newcastle,Young County,33.2,-98.9,Texas,48503,95
+81610,76374,2,Olney,Young County,33.3,-98.7,Texas,48503,95
+81616,76377,3,Petrolia,Clay County,34.04,-98.27,Texas,48077,14
 81618,76384,1,Vernon,Wilbarger County,34.1,-99.3,Texas,48487,99
 81675,76401,1,Stephenville,Erath County,32.3,-98.1,Texas,48143,115
 81727,76424,3,Breckenridge,Stephens County,32.8,-98.9,Texas,48429,121
+81795,76426,1,Bridgeport,Wise County,33.2,-97.8,Texas,48497,198
 81812,76427,1,Bryson,Jack County,33.1,-98.4,Texas,48237,16
+81814,76431,2,Chico,Wise County,33.3,-97.9,Texas,48497,198
 81824,76432,2,Blanket,Brown County,31.8,-98.8,Texas,48049,174
+81825,76433,2,Bluff Dale,Erath County,32.3,-98.0,Texas,48143,115
 81826,76435,1,Carbon,Eastland County,32.2,-98.8,Texas,48133,99
+81829,76437,3,Cisco,Eastland County,32.4,-99.0,Texas,48133,99
+81848,76439,1,Dennis,Parker County,,,Texas,48367,316
 81849,76442,1,Comanche,Comanche County,31.9,-98.6,Texas,48093,16
 81854,76443,1,Cross Plains,Callahan County,32.1,-99.2,Texas,48059,37
+81855,76444,3,De Leon,Comanche County,32.1,-98.6,Texas,48093,16
+81856,76446,1,Dublin,Erath County,32.1,-98.3,Texas,48143,115
+81865,76448,1,Eastland,Eastland County,32.4,-98.8,Texas,48133,99
+81890,76449,1,Graford,Palo Pinto County,32.9,-98.3,Texas,48363,183
+81893,76450,2,Graham,Young County,33.1,-98.7,Texas,48503,95
+81943,76454,3,Gorman,Eastland County,32.2,-98.7,Texas,48133,99
 81949,76457,2,Hico,Hamilton County,32.0,-98.0,Texas,48193,6
+81952,76458,2,Jacksboro,Jack County,33.2,-98.2,Texas,48237,16
+81959,76460,2,Loving,Young County,33.3,-98.5,Texas,48503,95
+81960,76462,2,Lipan,Hood County,32.5,-98.1,Texas,48221,158
+81961,76467,2,Paluxy,Hood County,,,Texas,48221,158
+81962,76470,1,Ranger,Eastland County,32.5,-98.7,Texas,48133,99
+81969,76474,2,Sidney,Comanche County,31.98,-98.78,Texas,48093,16
+81970,76475,2,Strawn,Palo Pinto County,32.6,-98.5,Texas,48363,183
+81971,76476,2,Tolar,Hood County,32.4,-97.9,Texas,48221,158
+81976,76484,1,Palo Pinto,Palo Pinto County,32.7,-98.3,Texas,48363,183
+81977,76486,1,Perrin,Jack County,33.0,-98.0,Texas,48237,16
+81980,76487,2,Poolville,Parker County,33.0,-97.9,Texas,48367,316
+81981,76490,2,Whitt,Parker County,32.957,-98.02,Texas,48367,316
 81982,76491,1,Woodson,Throckmorton County,33.1,-99.1,Texas,48447,1
 81983,76501,2,Temple,Bell County,31.1,-97.2,Texas,48027,1697
+82031,76502,1,Temple,Bell County,31.1,-97.4,Texas,48027,1697
+82131,76503,1,Temple,Bell County,,,Texas,48027,1697
+82133,76504,1,Temple,Bell County,31.13,-97.38,Texas,48027,1697
+82237,76505,2,Temple,Bell County,,,Texas,48027,1697
 82239,76511,1,Bartlett,Williamson County,30.8,-97.4,Texas,48491,741
+82244,76513,1,Belton,Bell County,31.1,-97.6,Texas,48027,1697
 82332,76518,2,Buckholts,Milam County,30.9,-97.1,Texas,48331,166
+82334,76520,3,Cameron,Milam County,30.9,-96.9,Texas,48331,166
 82349,76522,1,Copperas Cove,Coryell County,31.2,-98.0,Texas,48099,372
 82469,76524,1,Eddy,McLennan County,31.28,-97.21,Texas,48309,1014
+82476,76525,1,Evant,Coryell County,31.5,-98.1,Texas,48099,372
+82477,76526,2,Flat,Coryell County,,,Texas,48099,372
+82479,76527,1,Florence,Williamson County,30.8,-97.8,Texas,48491,741
+82482,76528,2,Gatesville,Coryell County,31.4,-97.8,Texas,48099,372
+82570,76534,1,Holland,Bell County,30.9,-97.4,Texas,48027,1697
+82576,76537,3,Jarrell,Williamson County,30.82,-97.6,Texas,48491,741
+82584,76538,1,Jonesboro,Coryell County,31.6,-97.9,Texas,48099,372
 82585,76539,1,Kempner,Lampasas County,31.1,-98.0,Texas,48281,75
+82593,76540,1,Killeen,Bell County,,,Texas,48027,1697
+82594,76541,1,Killeen,Bell County,31.11,-97.73,Texas,48027,1697
+82665,76542,3,Killeen,Bell County,31.0,-97.7,Texas,48027,1697
+82784,76543,1,Killeen,Bell County,31.12,-97.67,Texas,48027,1697
+82898,76544,1,Fort Hood,Bell County,31.2,-97.7,Texas,48027,1697
+82910,76547,2,Killeen,Bell County,,,Texas,48027,1697
+82911,76548,3,Harker Heights,Bell County,31.06,-97.65,Texas,48027,1697
+82986,76549,1,Killeen,Bell County,31.0,-97.8,Texas,48027,1697
+83159,76550,2,Lampasas,Lampasas County,31.1,-98.2,Texas,48281,75
+83187,76554,2,Little River Academy,Bell County,30.98,-97.37,Texas,48027,1697
+83188,76556,1,Milano,Milam County,30.7,-96.8,Texas,48331,166
+83194,76557,2,Moody,McLennan County,31.3,-97.4,Texas,48309,1014
+83208,76559,2,Nolanville,Bell County,31.08,-97.61,Texas,48027,1697
+83223,76561,1,Oglesby,Coryell County,31.4,-97.6,Texas,48099,372
+83224,76567,2,Rockdale,Milam County,30.6,-97.0,Texas,48331,166
+83278,76569,2,Rogers,Bell County,30.9,-97.2,Texas,48027,1697
 83287,76570,2,Rosebud,Falls County,31.1,-97.0,Texas,48145,72
+83289,76571,1,Salado,Bell County,30.9,-97.6,Texas,48027,1697
+83291,76574,1,Taylor,Williamson County,30.6,-97.4,Texas,48491,741
+83346,76577,2,Thorndale,Milam County,30.6,-97.2,Texas,48331,166
+83349,76578,2,Thrall,Williamson County,30.5,-97.2,Texas,48491,741
+83354,76579,1,Troy,Bell County,31.2,-97.2,Texas,48027,1697
+83363,76622,2,Aquilla,Hill County,31.83,-97.26,Texas,48217,129
+83364,76623,1,Avalon,Ellis County,32.3,-96.8,Texas,48139,683
+83365,76624,2,Axtell,McLennan County,31.67,-96.95,Texas,48309,1014
+83367,76626,2,Blooming Grove,Navarro County,32.1,-96.72,Texas,48349,221
+83368,76627,2,Blum,Hill County,32.1,-97.4,Texas,48217,129
 83369,76629,1,Bremond,Robertson County,31.2,-96.7,Texas,48395,19
+83373,76630,2,Bruceville,McLennan County,31.34,-97.21,Texas,48309,1014
+83379,76632,3,Chilton,Falls County,31.3,-97.05,Texas,48145,72
+83386,76633,1,China Spring,McLennan County,31.7,-97.3,Texas,48309,1014
 83388,76634,3,Clifton,Bosque County,31.8,-97.6,Texas,48035,26
 83389,76635,2,Coolidge,Limestone County,31.7,-96.7,Texas,48293,101
+83393,76638,1,Crawford,McLennan County,31.6,-97.4,Texas,48309,1014
+83395,76639,1,Dawson,Navarro County,31.9,-96.6,Texas,48349,221
+83399,76640,3,Elm Mott,McLennan County,31.69,-97.07,Texas,48309,1014
+83407,76641,1,Frost,Navarro County,32.0,-96.8,Texas,48349,221
+83410,76642,2,Groesbeck,Limestone County,31.5,-96.5,Texas,48293,101
+83422,76643,1,Hewitt,McLennan County,31.45,-97.19,Texas,48309,1014
+83454,76645,2,Hillsboro,Hill County,32.0,-97.1,Texas,48217,129
+83498,76648,1,Hubbard,Hill County,31.9,-96.8,Texas,48217,129
+83503,76651,1,Italy,Ellis County,32.2,-96.9,Texas,48139,683
+83511,76653,2,Kosse,Limestone County,31.3,-96.6,Texas,48293,101
+83513,76655,1,Lorena,McLennan County,31.4,-97.2,Texas,48309,1014
+83526,76656,3,Lott,Falls County,31.2,-97.1,Texas,48145,72
+83530,76657,3,Mc Gregor,McLennan County,31.4,-97.4,Texas,48309,1014
+83534,76660,1,Malone,Hill County,31.93,-96.92,Texas,48217,129
+83535,76661,1,Marlin,Falls County,31.3,-96.8,Texas,48145,72
+83561,76664,1,Mart,McLennan County,31.5,-96.8,Texas,48309,1014
+83568,76667,2,Mexia,Limestone County,31.7,-96.5,Texas,48293,101
+83605,76670,2,Milford,Ellis County,32.1,-97.0,Texas,48139,683
+83606,76671,3,Morgan,Bosque County,32.0,-97.6,Texas,48035,26
+83607,76679,2,Purdon,Navarro County,31.9,-96.6,Texas,48349,221
+83613,76680,1,Reagan,Falls County,31.18,-96.83,Texas,48145,72
+83614,76682,2,Riesel,McLennan County,31.5,-96.9,Texas,48309,1014
+83616,76686,1,Tehuacana,Limestone County,31.74,-96.54,Texas,48293,101
+83619,76687,1,Thornton,Limestone County,31.4,-96.5,Texas,48293,101
+83623,76689,2,Valley Mills,Bosque County,31.7,-97.5,Texas,48035,26
+83628,76690,3,Walnut Springs,Bosque County,32.1,-97.8,Texas,48035,26
+83632,76691,2,West,McLennan County,31.8,-97.1,Texas,48309,1014
+83635,76692,3,Whitney,Hill County,32.0,-97.4,Texas,48217,129
+83641,76693,3,Wortham,Freestone County,31.78,-96.41,Texas,48161,65
+83643,76701,2,Waco,McLennan County,31.55,-97.14,Texas,48309,1014
 83647,76702,2,Waco,Mclennan County,,,Texas,NA,5
+83648,76703,2,Waco,Mclennan County,,,Texas,NA,5
+83649,76704,2,Waco,McLennan County,31.57,-97.11,Texas,48309,1014
+83686,76705,3,Waco,McLennan County,31.6,-97.1,Texas,48309,1014
+83789,76706,1,Waco,McLennan County,31.5,-97.1,Texas,48309,1014
+83861,76707,1,Waco,McLennan County,31.56,-97.16,Texas,48309,1014
+83917,76708,1,Waco,McLennan County,31.62,-97.21,Texas,48309,1014
+83974,76710,2,Waco,McLennan County,31.54,-97.19,Texas,48309,1014
+84047,76711,2,Waco,McLennan County,31.52,-97.15,Texas,48309,1014
+84088,76712,2,Woodway,McLennan County,31.53,-97.24,Texas,48309,1014
+84119,76715,1,Waco,Mclennan County,,,Texas,NA,5
+84123,76801,1,Brownwood,Brown County,31.7,-99.0,Texas,48049,174
+84199,76802,1,Early,Brown County,31.7,-98.9,Texas,48049,174
 84211,76821,1,Ballinger,Runnels County,31.7,-99.9,Texas,48399,59
+84235,76823,2,Bangs,Brown County,31.7,-99.2,Texas,48049,174
 84239,76825,1,Brady,McCulloch County,31.1,-99.3,Texas,48307,73
 84281,76831,1,Castell,Llano County,30.74,-98.94,Texas,48299,37
 84282,76834,1,Coleman,Coleman County,31.8,-99.4,Texas,48083,5
+84284,76853,2,Lometa,Lampasas County,31.2,-98.4,Texas,48281,75
 84285,76854,1,London,Kimble County,30.6,-99.6,Texas,48267,1
 84286,76856,1,Mason,Mason County,30.7,-99.3,Texas,48319,1
+84287,76857,1,May,Brown County,32.0,-98.9,Texas,48049,174
+84290,76858,3,Melvin,McCulloch County,31.2,-99.6,Texas,48307,73
+84291,76861,1,Miles,Runnels County,31.6,-100.2,Texas,48399,59
 84295,76864,2,Mullin,Mills County,31.5,-98.7,Texas,48333,2
+84296,76872,3,Rochelle,McCulloch County,31.3,-99.2,Texas,48307,73
 84297,76877,2,San Saba,San Saba County,31.2,-98.8,Texas,48411,2
+84298,76884,1,Valera,Coleman County,31.69,-99.59,Texas,48083,5
+84299,76890,3,Zephyr,Brown County,31.7,-98.8,Texas,48049,174
 84300,76901,1,San Angelo,Tom Green County,31.6,-100.6,Texas,48451,504
+84376,76902,1,San Angelo,Tom Green County,,,Texas,48451,504
+84379,76903,2,San Angelo,Tom Green County,31.47,-100.43,Texas,48451,504
+84490,76904,1,San Angelo,Tom Green County,31.3,-100.5,Texas,48451,504
+84553,76905,2,San Angelo,Tom Green County,31.5,-100.3,Texas,48451,504
+84575,76906,1,San Angelo,Tom Green County,,,Texas,48451,504
+84576,76909,2,San Angelo,Tom Green County,,,Texas,48451,504
+84578,76940,1,Mereta,Tom Green County,31.44,-100.13,Texas,48451,504
 84579,76945,1,Robert Lee,Coke County,31.9,-100.6,Texas,48081,2
 84580,76950,1,Sonora,Sutton County,30.5,-100.5,Texas,48435,1
 84583,77002,2,Houston,Harris County,29.75,-95.37,Texas,48201,10209
+84586,77003,1,Houston,Harris County,29.75,-95.35,Texas,48201,10209
+84587,77004,1,Houston,Harris County,29.72,-95.38,Texas,48201,10209
+84612,77006,1,Houston,Harris County,29.74,-95.39,Texas,48201,10209
+84616,77007,1,Houston,Harris County,29.77,-95.41,Texas,48201,10209
+84623,77008,1,Houston,Harris County,29.8,-95.42,Texas,48201,10209
+84629,77009,1,Houston,Harris County,29.79,-95.37,Texas,48201,10209
+84652,77011,2,Houston,Harris County,29.74,-95.3,Texas,48201,10209
+84667,77012,1,Houston,Harris County,29.72,-95.27,Texas,48201,10209
+84678,77013,2,Houston,Harris County,29.8,-95.24,Texas,48201,10209
+84697,77014,1,Houston,Harris County,29.99,-95.46,Texas,48201,10209
+84783,77015,1,Houston,Harris County,29.77,-95.16,Texas,48201,10209
+84918,77016,2,Houston,Harris County,29.86,-95.3,Texas,48201,10209
+84987,77017,2,Houston,Harris County,29.68,-95.26,Texas,48201,10209
+85035,77018,1,Houston,Harris County,29.83,-95.43,Texas,48201,10209
+85042,77019,1,Houston,Harris County,29.75,-95.41,Texas,48201,10209
+85048,77020,2,Houston,Harris County,29.77,-95.32,Texas,48201,10209
+85093,77021,2,Houston,Harris County,29.7,-95.36,Texas,48201,10209
+85143,77022,1,Houston,Harris County,29.83,-95.38,Texas,48201,10209
+85176,77023,1,Houston,Harris County,29.72,-95.31,Texas,48201,10209
+85210,77024,2,Houston,Harris County,29.77,-95.5,Texas,48201,10209
+85216,77025,1,Houston,Harris County,29.68,-95.43,Texas,48201,10209
+85233,77026,1,Houston,Harris County,29.8,-95.32,Texas,48201,10209
+85274,77028,2,Houston,Harris County,29.83,-95.29,Texas,48201,10209
+85324,77029,1,Houston,Harris County,29.76,-95.25,Texas,48201,10209
+85350,77030,1,Houston,Harris County,29.71,-95.41,Texas,48201,10209
+85351,77031,1,Houston,Harris County,29.66,-95.55,Texas,48201,10209
+85369,77032,1,Houston,Harris County,29.97,-95.34,Texas,48201,10209
+85404,77033,1,Houston,Harris County,29.67,-95.34,Texas,48201,10209
+85483,77034,3,Houston,Harris County,29.62,-95.2,Texas,48201,10209
+85545,77035,3,Houston,Harris County,29.65,-95.48,Texas,48201,10209
+85605,77036,1,Houston,Harris County,29.69,-95.53,Texas,48201,10209
+85662,77037,2,Houston,Harris County,29.9,-95.39,Texas,48201,10209
+85675,77038,1,Houston,Harris County,29.92,-95.45,Texas,48201,10209
+85716,77039,1,Houston,Harris County,29.91,-95.34,Texas,48201,10209
+85747,77040,2,Houston,Harris County,29.87,-95.54,Texas,48201,10209
+85817,77041,1,Houston,Harris County,29.87,-95.57,Texas,48201,10209
+85829,77042,1,Houston,Harris County,29.74,-95.56,Texas,48201,10209
+85893,77043,1,Houston,Harris County,29.81,-95.58,Texas,48201,10209
+85921,77044,1,Houston,Harris County,29.9,-95.17,Texas,48201,10209
+85982,77045,2,Houston,Harris County,29.64,-95.43,Texas,48201,10209
+86037,77047,1,Houston,Harris County,29.61,-95.38,Texas,48201,10209
+86093,77048,1,Houston,Harris County,29.62,-95.33,Texas,48201,10209
+86150,77049,3,Houston,Harris County,29.84,-95.15,Texas,48201,10209
+86225,77050,2,Houston,Harris County,29.9,-95.27,Texas,48201,10209
+86231,77051,1,Houston,Harris County,29.66,-95.37,Texas,48201,10209
+86285,77052,2,Houston,Harris County,,,Texas,48201,10209
 86286,77053,1,Houston,Fort Bend County,29.58,-95.46,Texas,48157,1017
+86357,77054,2,Houston,Harris County,29.68,-95.41,Texas,48201,10209
+86378,77055,2,Houston,Harris County,29.8,-95.5,Texas,48201,10209
+86416,77056,2,Houston,Harris County,29.75,-95.47,Texas,48201,10209
+86420,77057,2,Houston,Harris County,29.75,-95.49,Texas,48201,10209
+86434,77058,2,Houston,Harris County,29.56,-95.1,Texas,48201,10209
+86454,77059,2,Houston,Harris County,29.61,-95.12,Texas,48201,10209
+86456,77060,1,Houston,Harris County,29.93,-95.4,Texas,48201,10209
+86532,77061,1,Houston,Harris County,29.65,-95.28,Texas,48201,10209
+86576,77062,1,Houston,Harris County,29.57,-95.14,Texas,48201,10209
+86592,77063,1,Houston,Harris County,29.74,-95.52,Texas,48201,10209
+86636,77064,2,Houston,Harris County,29.93,-95.54,Texas,48201,10209
+86680,77065,2,Houston,Harris County,29.92,-95.61,Texas,48201,10209
+86757,77066,2,Houston,Harris County,29.96,-95.5,Texas,48201,10209
+86789,77067,1,Houston,Harris County,29.95,-95.45,Texas,48201,10209
+86843,77068,1,Houston,Harris County,30.01,-95.49,Texas,48201,10209
+86866,77069,2,Houston,Harris County,29.99,-95.52,Texas,48201,10209
+86886,77070,1,Houston,Harris County,29.98,-95.58,Texas,48201,10209
+86947,77071,1,Houston,Harris County,29.65,-95.52,Texas,48201,10209
+86987,77072,1,Houston,Harris County,29.69,-95.59,Texas,48201,10209
+87088,77073,3,Houston,Harris County,30.0,-95.4,Texas,48201,10209
+87189,77074,2,Houston,Harris County,29.69,-95.53,Texas,48201,10209
+87209,77075,1,Houston,Harris County,29.62,-95.26,Texas,48201,10209
+87287,77076,3,Houston,Harris County,29.85,-95.38,Texas,48201,10209
+87320,77077,2,Houston,Harris County,29.75,-95.63,Texas,48201,10209
+87390,77078,1,Houston,Harris County,29.85,-95.26,Texas,48201,10209
+87423,77079,1,Houston,Harris County,29.79,-95.6,Texas,48201,10209
+87434,77080,1,Houston,Harris County,29.81,-95.52,Texas,48201,10209
+87461,77081,2,Houston,Harris County,29.71,-95.48,Texas,48201,10209
+87491,77082,1,Houston,Harris County,29.74,-95.64,Texas,48201,10209
+87574,77083,1,Houston,Harris County,29.69,-95.65,Texas,48201,10209
+87657,77084,2,Houston,Harris County,29.83,-95.66,Texas,48201,10209
+87802,77085,2,Houston,Harris County,29.62,-95.49,Texas,48201,10209
+87818,77086,1,Houston,Harris County,29.92,-95.49,Texas,48201,10209
+87870,77087,1,Houston,Harris County,29.69,-95.3,Texas,48201,10209
+87903,77088,2,Houston,Harris County,29.88,-95.45,Texas,48201,10209
+88018,77089,1,Houston,Harris County,29.59,-95.22,Texas,48201,10209
+88075,77090,3,Houston,Harris County,30.0,-95.45,Texas,48201,10209
+88220,77091,2,Houston,Harris County,29.86,-95.44,Texas,48201,10209
+88287,77092,3,Houston,Harris County,29.83,-95.47,Texas,48201,10209
+88332,77093,1,Houston,Harris County,29.86,-95.34,Texas,48201,10209
+88389,77094,1,Houston,Harris County,29.76,-95.69,Texas,48201,10209
+88390,77095,2,Houston,Harris County,29.91,-95.64,Texas,48201,10209
+88460,77096,3,Houston,Harris County,29.67,-95.48,Texas,48201,10209
+88498,77099,3,Houston,Harris County,29.67,-95.59,Texas,48201,10209
+88582,77217,3,Houston,Harris County,,,Texas,48201,10209
+88583,77221,2,Houston,Harris County,,,Texas,48201,10209
+88584,77242,1,Houston,Harris County,,,Texas,48201,10209
+88585,77262,1,Houston,Harris County,,,Texas,48201,10209
+88586,77267,2,Houston,Harris County,,,Texas,48201,10209
+88587,77272,3,Houston,Harris County,,,Texas,48201,10209
+88588,77290,1,Houston,Harris County,,,Texas,48201,10209
 88589,77301,1,Conroe,Montgomery County,30.3,-95.43,Texas,48339,1133
+88637,77302,2,Conroe,Montgomery County,30.23,-95.36,Texas,48339,1133
+88665,77303,2,Conroe,Montgomery County,30.4,-95.4,Texas,48339,1133
+88687,77304,3,Conroe,Montgomery County,30.33,-95.52,Texas,48339,1133
+88730,77305,1,Conroe,Montgomery County,,,Texas,48339,1133
+88731,77306,3,Conroe,Montgomery County,30.27,-95.31,Texas,48339,1133
+88749,77316,1,Montgomery,Montgomery County,30.3,-95.7,Texas,48339,1133
+88772,77318,1,Willis,Montgomery County,30.44,-95.54,Texas,48339,1133
 88788,77320,3,Huntsville,Walker County,30.8,-95.5,Texas,48471,161
+88812,77326,1,Ace,Polk County,30.7,-94.8,Texas,48373,271
 88813,77327,2,Cleveland,Liberty County,30.3,-94.9,Texas,48291,392
 88889,77328,1,Cleveland,San Jacinto County,30.4,-95.2,Texas,48407,151
+88925,77331,2,Coldspring,San Jacinto County,30.6,-95.2,Texas,48407,151
+88930,77333,2,Dobbin,Montgomery County,,,Texas,48339,1133
+88932,77335,2,Goodrich,Polk County,30.6,-94.95,Texas,48373,271
+88940,77336,1,Huffman,Harris County,30.06,-95.1,Texas,48201,10209
+88954,77337,1,Hufsmith,Harris County,,,Texas,48201,10209
+88955,77338,1,Humble,Harris County,30.01,-95.29,Texas,48201,10209
+89077,77339,2,Kingwood,Harris County,30.05,-95.22,Texas,48201,10209
+89100,77340,3,Huntsville,Walker County,30.6,-95.6,Texas,48471,161
+89156,77342,2,Huntsville,Walker County,30.7,-95.6,Texas,48471,161
+89158,77345,1,Kingwood,Harris County,30.06,-95.16,Texas,48201,10209
+89161,77346,1,Humble,Harris County,29.98,-95.18,Texas,48201,10209
+89233,77347,3,Humble,Harris County,,,Texas,48201,10209
+89234,77350,1,Leggett,Polk County,30.7,-94.8,Texas,48373,271
+89235,77351,3,Livingston,Polk County,30.7,-94.8,Texas,48373,271
+89343,77354,2,Magnolia,Montgomery County,30.2,-95.7,Texas,48339,1133
+89383,77355,1,Magnolia,Montgomery County,30.16,-95.75,Texas,48339,1133
+89405,77356,1,Montgomery,Montgomery County,30.4,-95.7,Texas,48339,1133
+89426,77357,2,New Caney,Montgomery County,30.2,-95.2,Texas,48339,1133
+89505,77358,1,New Waverly,Walker County,30.6,-95.4,Texas,48471,161
+89508,77359,3,Oakhurst,San Jacinto County,30.8,-95.3,Texas,48407,151
+89511,77360,2,Onalaska,Polk County,30.85,-95.12,Texas,48373,271
+89529,77362,1,Pinehurst,Montgomery County,30.16,-95.66,Texas,48339,1133
 89533,77363,1,Plantersville,Grimes County,30.3,-95.9,Texas,48185,95
+89539,77364,2,Pointblank,San Jacinto County,30.77,-95.23,Texas,48407,151
+89545,77365,1,Porter,Montgomery County,30.11,-95.27,Texas,48339,1133
+89622,77368,1,Romayor,Liberty County,30.3,-94.9,Texas,48291,392
+89623,77369,1,Rye,Liberty County,30.3,-94.9,Texas,48291,392
+89628,77371,2,Shepherd,San Jacinto County,30.5,-95.0,Texas,48407,151
+89657,77372,3,Splendora,Montgomery County,30.25,-95.17,Texas,48339,1133
+89699,77373,1,Spring,Harris County,30.07,-95.37,Texas,48201,10209
 89817,77374,3,Thicket,Hardin County,30.41,-94.64,Texas,48199,240
+89818,77375,2,Tomball,Harris County,30.09,-95.59,Texas,48201,10209
+89892,77377,1,Tomball,Harris County,30.06,-95.68,Texas,48201,10209
+89919,77378,2,Willis,Montgomery County,30.5,-95.4,Texas,48339,1133
+89932,77379,1,Spring,Harris County,30.04,-95.53,Texas,48201,10209
+89984,77380,2,Spring,Montgomery County,30.14,-95.47,Texas,48339,1133
+90009,77381,1,Spring,Montgomery County,30.18,-95.5,Texas,48339,1133
+90017,77382,1,Spring,Montgomery County,30.2,-95.54,Texas,48339,1133
+90018,77383,2,Spring,Harris County,,,Texas,48201,10209
+90020,77384,3,Conroe,Montgomery County,30.23,-95.5,Texas,48339,1133
+90027,77385,3,Conroe,Montgomery County,30.18,-95.4,Texas,48339,1133
+90059,77386,1,Spring,Montgomery County,30.09,-95.36,Texas,48339,1133
+90120,77387,1,Spring,Harris County,,,Texas,48201,10209
+90121,77388,2,Spring,Harris County,30.05,-95.47,Texas,48201,10209
+90166,77389,2,Spring,Harris County,30.13,-95.49,Texas,48201,10209
+90192,77396,1,Humble,Harris County,29.94,-95.25,Texas,48201,10209
+90293,77401,3,Bellaire,Harris County,29.71,-95.47,Texas,48201,10209
 90295,77404,2,Bay City,Matagorda County,,,Texas,48321,223
+90296,77406,1,Richmond,Fort Bend County,29.6,-95.8,Texas,48157,1017
+90327,77407,1,Richmond,Fort Bend County,29.66,-95.73,Texas,48157,1017
+90361,77411,2,Alief,Harris County,,,Texas,48201,10209
+90363,77414,3,Bay City,Matagorda County,28.9,-95.9,Texas,48321,223
+90461,77415,3,Cedar Lane,Matagorda County,28.9,-95.8,Texas,48321,223
+90463,77417,2,Beasley,Fort Bend County,29.48,-95.98,Texas,48157,1017
 90468,77418,1,Bellville,Austin County,30.0,-96.3,Texas,48015,161
+90479,77419,3,Blessing,Matagorda County,28.9,-96.25,Texas,48321,223
 90481,77420,2,Boling,Wharton County,29.2,-95.9,Texas,48481,254
 90489,77422,1,Brazoria,Brazoria County,29.0,-95.6,Texas,48039,693
 90508,77423,2,Brookshire,Waller County,29.8,-96.0,Texas,48473,133
+90534,77429,2,Cypress,Harris County,29.98,-95.66,Texas,48201,10209
+90583,77430,1,Damon,Brazoria County,29.3,-95.7,Texas,48039,693
+90586,77431,2,Danciger,Brazoria County,,,Texas,48039,693
+90587,77433,1,Cypress,Harris County,29.96,-95.74,Texas,48201,10209
 90663,77434,1,Eagle Lake,Colorado County,29.6,-96.3,Texas,48089,140
+90697,77435,2,East Bernard,Wharton County,29.5,-96.1,Texas,48481,254
+90708,77437,3,El Campo,Wharton County,29.2,-96.3,Texas,48481,254
+90777,77441,2,Fulshear,Fort Bend County,29.7,-95.9,Texas,48157,1017
+90779,77442,3,Garwood,Colorado County,29.4,-96.5,Texas,48089,140
+90782,77445,3,Hempstead,Waller County,30.1,-96.1,Texas,48473,133
+90814,77446,2,Prairie View,Waller County,30.1,-95.9,Texas,48473,133
+90822,77447,2,Hockley,Harris County,30.1,-95.8,Texas,48201,10209
+90832,77448,2,Hungerford,Wharton County,29.397,-96.079,Texas,48481,254
+90834,77449,2,Katy,Harris County,29.83,-95.73,Texas,48201,10209
+91068,77450,1,Katy,Harris County,29.74,-95.74,Texas,48201,10209
+91132,77451,1,Kendleton,Fort Bend County,29.445,-96.006,Texas,48157,1017
+91133,77453,3,Lane City,Wharton County,29.3,-96.1,Texas,48481,254
+91134,77454,1,Lissie,Wharton County,29.55,-96.223,Texas,48481,254
+91135,77455,2,Louise,Wharton County,29.1,-96.4,Texas,48481,254
+91136,77456,1,Markham,Matagorda County,28.96,-96.06,Texas,48321,223
+91140,77459,2,Missouri City,Fort Bend County,29.53,-95.52,Texas,48157,1017
+91168,77461,2,Needville,Fort Bend County,29.4,-95.8,Texas,48157,1017
+91181,77464,2,Orchard,Fort Bend County,29.52,-96.03,Texas,48157,1017
+91183,77465,2,Palacios,Matagorda County,28.6,-96.2,Texas,48321,223
+91190,77469,1,Richmond,Fort Bend County,29.5,-95.7,Texas,48157,1017
+91232,77471,1,Rosenberg,Fort Bend County,29.5,-95.9,Texas,48157,1017
+91291,77473,2,San Felipe,Austin County,29.8,-96.2,Texas,48015,161
+91292,77474,2,Sealy,Austin County,29.8,-96.2,Texas,48015,161
+91360,77475,1,Sheridan,Colorado County,29.493,-96.675,Texas,48089,140
+91364,77476,2,Simonton,Fort Bend County,29.6804,-95.9779,Texas,48157,1017
+91365,77477,2,Stafford,Fort Bend County,29.63,-95.56,Texas,48157,1017
+91405,77478,1,Sugar Land,Fort Bend County,29.62,-95.61,Texas,48157,1017
+91413,77479,3,Sugar Land,Fort Bend County,29.56,-95.64,Texas,48157,1017
+91418,77480,1,Sweeny,Brazoria County,29.1,-95.7,Texas,48039,693
+91435,77482,1,Van Vleck,Matagorda County,29.1,-95.9,Texas,48321,223
+91439,77484,2,Waller,Waller County,30.1,-95.9,Texas,48473,133
+91446,77485,2,Wallis,Austin County,29.6,-96.0,Texas,48015,161
+91458,77486,2,West Columbia,Brazoria County,29.1,-95.7,Texas,48039,693
+91472,77487,2,Sugar Land,Fort Bend County,,,Texas,48157,1017
+91473,77488,2,Wharton,Wharton County,29.3,-96.1,Texas,48481,254
+91524,77489,1,Missouri City,Fort Bend County,29.61,-95.51,Texas,48157,1017
+91610,77491,2,Katy,Waller County,,,Texas,48473,133
+91611,77493,1,Katy,Harris County,29.85,-95.84,Texas,48201,10209
+91653,77494,2,Katy,Fort Bend County,29.74,-95.84,Texas,48157,1017
+91708,77498,2,Sugar Land,Fort Bend County,29.64,-95.65,Texas,48157,1017
+91742,77502,1,Pasadena,Harris County,29.68,-95.2,Texas,48201,10209
+91795,77503,3,Pasadena,Harris County,29.71,-95.16,Texas,48201,10209
+91828,77504,2,Pasadena,Harris County,29.65,-95.19,Texas,48201,10209
+91857,77505,1,Pasadena,Harris County,29.65,-95.14,Texas,48201,10209
+91884,77506,1,Pasadena,Harris County,29.71,-95.21,Texas,48201,10209
+91950,77507,1,Pasadena,Harris County,29.62,-95.08,Texas,48201,10209
+91951,77508,3,Pasadena,Harris County,,,Texas,48201,10209
 91953,77510,2,Santa Fe,Galveston County,29.34,-95.09,Texas,48167,818
+91963,77511,1,Alvin,Brazoria County,29.3,-95.2,Texas,48039,693
+92039,77512,3,Alvin,Brazoria County,,,Texas,48039,693
 92042,77514,1,Anahuac,Chambers County,29.7,-94.6,Texas,48071,67
+92050,77515,1,Angleton,Brazoria County,29.2,-95.4,Texas,48039,693
+92110,77517,3,Santa Fe,Galveston County,29.36,-95.14,Texas,48167,818
+92112,77518,3,Bacliff,Galveston County,29.51,-94.98,Texas,48167,818
+92142,77519,2,Batson,Hardin County,30.2,-94.6,Texas,48199,240
+92144,77520,2,Baytown,Harris County,29.75,-95.0,Texas,48201,10209
+92262,77521,3,Baytown,Harris County,29.82,-94.97,Texas,48201,10209
+92413,77522,3,Baytown,Harris County,,,Texas,48201,10209
+92414,77523,2,Baytown,Chambers County,29.8,-94.9,Texas,48071,67
+92429,77530,1,Channelview,Harris County,29.78,-95.11,Texas,48201,10209
+92465,77531,1,Clute,Brazoria County,29.06,-95.39,Texas,48039,693
+92490,77532,2,Crosby,Harris County,29.9,-95.0,Texas,48201,10209
+92561,77533,2,Daisetta,Liberty County,30.11,-94.64,Texas,48291,392
+92564,77534,1,Danbury,Brazoria County,29.22,-95.29,Texas,48039,693
+92567,77535,1,Dayton,Liberty County,30.1,-94.9,Texas,48291,392
+92641,77536,1,Deer Park,Harris County,29.71,-95.12,Texas,48201,10209
+92667,77538,2,Devers,Liberty County,30.0,-94.5,Texas,48291,392
+92669,77539,1,Dickinson,Galveston County,29.5,-95.0,Texas,48167,818
+92721,77541,2,Freeport,Brazoria County,29.0,-95.3,Texas,48039,693
+92738,77545,1,Fresno,Fort Bend County,29.54,-95.47,Texas,48157,1017
+92802,77546,2,Friendswood,Galveston County,29.52,-95.19,Texas,48167,818
+92815,77547,1,Galena Park,Harris County,29.74,-95.23,Texas,48201,10209
+92825,77550,1,Galveston,Galveston County,29.31,-94.77,Texas,48167,818
+92869,77551,2,Galveston,Galveston County,29.28,-94.84,Texas,48167,818
+92927,77554,1,Galveston,Galveston County,29.2,-95.0,Texas,48167,818
+92932,77560,1,Hankamer,Chambers County,29.861,-94.629,Texas,48071,67
+92938,77561,2,Hardin,Liberty County,30.1,-94.7,Texas,48291,392
+92943,77562,2,Highlands,Harris County,29.83,-95.05,Texas,48201,10209
+92963,77563,2,Hitchcock,Galveston County,29.3,-95.0,Texas,48167,818
+92981,77564,3,Hull,Liberty County,30.2,-94.7,Texas,48291,392
+92985,77566,2,Lake Jackson,Brazoria County,29.05,-95.48,Texas,48039,693
+93022,77568,2,La Marque,Galveston County,29.4,-95.0,Texas,48167,818
+93068,77571,3,La Porte,Harris County,29.69,-95.04,Texas,48201,10209
+93106,77573,2,League City,Galveston County,29.5,-95.09,Texas,48167,818
+93159,77575,1,Liberty,Liberty County,30.1,-94.7,Texas,48291,392
+93212,77577,3,Liverpool,Brazoria County,29.27,-95.27,Texas,48039,693
+93213,77578,2,Manvel,Brazoria County,29.47,-95.37,Texas,48039,693
+93224,77581,2,Pearland,Brazoria County,29.56,-95.28,Texas,48039,693
+93257,77583,1,Rosharon,Brazoria County,29.4,-95.4,Texas,48039,693
+93279,77584,1,Pearland,Brazoria County,29.54,-95.35,Texas,48039,693
+93339,77585,1,Saratoga,Hardin County,30.3,-94.6,Texas,48199,240
+93344,77586,2,Seabrook,Harris County,29.58,-95.03,Texas,48201,10209
+93356,77587,1,South Houston,Harris County,29.66,-95.23,Texas,48201,10209
+93376,77588,1,Pearland,Brazoria County,,,Texas,48039,693
+93377,77590,1,Texas City,Galveston County,29.4,-94.89,Texas,48167,818
+93445,77591,1,Texas City,Galveston County,29.41,-95.0,Texas,48167,818
+93503,77597,3,Wallisville,Chambers County,29.85,-94.66,Texas,48071,67
+93504,77598,2,Webster,Harris County,29.55,-95.14,Texas,48201,10209
 93570,77611,1,Bridge City,Orange County,30.0,-93.9,Texas,48361,587
+93601,77612,1,Buna,Jasper County,30.5,-94.0,Texas,48241,203
 93622,77613,1,China,Jefferson County,30.054,-94.343,Texas,48245,644
+93623,77614,2,Deweyville,Newton County,30.35,-93.84,Texas,48351,47
+93624,77615,2,Evadale,Jasper County,30.4,-94.0,Texas,48241,203
+93629,77616,1,Fred,Tyler County,30.6,-94.2,Texas,48457,147
+93630,77619,1,Groves,Jefferson County,29.95,-93.92,Texas,48245,644
+93642,77624,1,Hillister,Tyler County,30.66,-94.29,Texas,48457,147
+93643,77625,1,Kountze,Hardin County,30.4,-94.4,Texas,48199,240
+93661,77627,1,Nederland,Jefferson County,29.98,-94.0,Texas,48245,644
+93676,77630,2,Orange,Orange County,30.1,-93.9,Texas,48361,587
+93830,77632,1,Orange,Orange County,30.2,-93.8,Texas,48361,587
+93880,77639,1,Orangefield,Orange County,,,Texas,48361,587
+93881,77640,2,Port Arthur,Jefferson County,29.8,-94.1,Texas,48245,644
+93925,77641,1,Port Arthur,Jefferson County,,,Texas,48245,644
+93926,77642,1,Port Arthur,Jefferson County,29.9,-93.93,Texas,48245,644
+94002,77651,1,Port Neches,Jefferson County,29.98,-93.96,Texas,48245,644
+94013,77655,2,Sabine Pass,Jefferson County,29.734,-93.894,Texas,48245,644
+94015,77656,1,Silsbee,Hardin County,30.3,-94.2,Texas,48199,240
+94103,77657,1,Lumberton,Hardin County,30.23,-94.2,Texas,48199,240
+94134,77659,1,Sour Lake,Hardin County,30.2,-94.4,Texas,48199,240
+94137,77660,2,Spurger,Tyler County,30.64,-94.16,Texas,48457,147
+94143,77662,1,Vidor,Orange County,30.2,-94.0,Texas,48361,587
+94248,77663,2,Village Mills,Hardin County,30.495,-94.398,Texas,48199,240
+94250,77664,1,Warren,Tyler County,30.6,-94.4,Texas,48457,147
+94261,77665,1,Winnie,Chambers County,29.8,-94.3,Texas,48071,67
+94265,77701,2,Beaumont,Jefferson County,30.05,-94.07,Texas,48245,644
+94289,77702,3,Beaumont,Jefferson County,30.09,-94.13,Texas,48245,644
+94296,77703,1,Beaumont,Jefferson County,30.13,-94.11,Texas,48245,644
+94331,77704,2,Beaumont,Jefferson County,,,Texas,48245,644
+94332,77705,1,Beaumont,Jefferson County,29.9,-94.2,Texas,48245,644
+94396,77706,1,Beaumont,Jefferson County,30.1,-94.17,Texas,48245,644
+94423,77707,2,Beaumont,Jefferson County,30.05,-94.17,Texas,48245,644
+94444,77708,1,Beaumont,Jefferson County,30.15,-94.16,Texas,48245,644
+94464,77713,2,Beaumont,Jefferson County,30.1,-94.3,Texas,48245,644
+94479,77726,2,Beaumont,Jefferson County,,,Texas,48245,644
 94482,77801,3,Bryan,Brazos County,30.64,-96.36,Texas,48041,533
+94519,77802,1,Bryan,Brazos County,30.66,-96.32,Texas,48041,533
+94553,77803,1,Bryan,Brazos County,30.68,-96.39,Texas,48041,533
+94643,77805,1,Bryan,Brazos County,,,Texas,48041,533
+94647,77806,1,Bryan,Brazos County,,,Texas,48041,533
+94650,77807,1,Bryan,Brazos County,30.7,-96.5,Texas,48041,533
+94686,77808,1,Bryan,Brazos County,30.8,-96.4,Texas,48041,533
+94696,77830,2,Anderson,Grimes County,30.5,-96.0,Texas,48185,95
+94700,77831,2,Bedias,Grimes County,30.7,-95.9,Texas,48185,95
 94703,77833,1,Brenham,Washington County,30.2,-96.4,Texas,48477,113
+94760,77834,2,Brenham,Washington County,,,Texas,48477,113
+94762,77835,1,Burton,Washington County,30.2,-96.6,Texas,48477,113
 94765,77836,2,Caldwell,Burleson County,30.5,-96.7,Texas,48051,44
+94782,77837,1,Calvert,Robertson County,31.0,-96.7,Texas,48395,19
+94783,77838,2,Chriesman,Burleson County,,,Texas,48051,44
+94784,77840,2,College Station,Brazos County,30.61,-96.32,Texas,48041,533
+94857,77842,2,College Station,Brazos County,,,Texas,48041,533
+94858,77845,3,College Station,Brazos County,30.5,-96.3,Texas,48041,533
 94899,77853,2,Dime Box,Lee County,30.4,-96.8,Texas,48287,69
+94901,77856,3,Franklin,Robertson County,31.1,-96.4,Texas,48395,19
+94902,77859,1,Hearne,Robertson County,30.8,-96.4,Texas,48395,19
+94908,77861,2,Iola,Grimes County,30.7,-96.1,Texas,48185,95
+94911,77863,1,Lyons,Burleson County,,,Texas,48051,44
+94913,77864,1,Madisonville,Madison County,31.0,-95.9,Texas,48313,31
+94930,77866,1,Millican,Brazos County,,,Texas,48041,533
+94932,77868,1,Navasota,Grimes County,30.4,-96.1,Texas,48185,95
+94973,77871,3,Normangee,Leon County,31.1,-96.1,Texas,48289,40
+94974,77872,1,North Zulch,Madison County,30.9,-96.1,Texas,48313,31
+94975,77873,1,Richards,Grimes County,30.6,-95.8,Texas,48185,95
+94976,77879,1,Somerville,Burleson County,30.4,-96.5,Texas,48051,44
+94979,77880,1,Washington,Washington County,30.3,-96.2,Texas,48477,113
 94982,77901,1,Victoria,Victoria County,28.81,-96.98,Texas,48469,298
+95097,77904,1,Victoria,Victoria County,28.9,-97.0,Texas,48469,298
+95143,77905,2,Victoria,Victoria County,28.7,-97.0,Texas,48469,298
 95159,77950,2,Austwell,Refugio County,28.392,-96.843,Texas,48391,20
+95160,77951,2,Bloomington,Victoria County,28.64,-96.9,Texas,48469,298
 95163,77954,2,Cuero,DeWitt County,29.1,-97.3,Texas,48123,67
 95195,77957,1,Edna,Jackson County,29.0,-96.7,Texas,48239,20
+95205,77962,1,Ganado,Jackson County,29.1,-96.5,Texas,48239,20
 95207,77963,1,Goliad,Goliad County,28.6,-97.5,Texas,48175,1
 95208,77964,2,Hallettsville,Lavaca County,29.4,-96.8,Texas,48285,55
+95223,77968,1,Inez,Victoria County,28.9,-96.8,Texas,48469,298
+95225,77971,1,Lolita,Jackson County,28.8,-96.5,Texas,48239,20
+95226,77977,1,Placedo,Victoria County,28.691,-96.828,Texas,48469,298
 95227,77978,2,Point Comfort,Calhoun County,28.683,-96.553,Texas,48057,81
+95228,77979,2,Port Lavaca,Calhoun County,28.6,-96.7,Texas,48057,81
+95271,77984,3,Shiner,Lavaca County,29.5,-97.2,Texas,48285,55
+95273,77987,2,Sweet Home,Lavaca County,29.2,-97.1,Texas,48285,55
+95274,77994,1,Westhoff,DeWitt County,29.16,-97.5,Texas,48123,67
+95275,77995,1,Yoakum,Lavaca County,29.2,-97.1,Texas,48285,55
 95289,78002,2,Atascosa,Bexar County,29.28,-98.74,Texas,48029,4514
 95301,78003,1,Bandera,Bandera County,29.8,-99.2,Texas,48019,16
 95305,78005,3,Bigfoot,Frio County,28.9,-98.9,Texas,48163,111
@@ -129,89 +1078,514 @@
 95335,78009,1,Castroville,Medina County,29.36,-98.89,Texas,48325,301
 95363,78010,2,Center Point,Kerr County,29.9,-99.1,Texas,48265,95
 95368,78011,2,Charlotte,Atascosa County,28.8,-98.7,Texas,48013,141
+95371,78012,2,Christine,Atascosa County,28.7,-98.4,Texas,48013,141
+95373,78013,2,Comfort,Kendall County,30.0,-98.9,Texas,48259,61
 95375,78014,2,Cotulla,La Salle County,28.3,-99.1,Texas,48283,6
+95377,78015,2,Boerne,Bexar County,29.7,-98.6,Texas,48029,4514
+95382,78016,1,Devine,Medina County,29.2,-99.0,Texas,48325,301
+95426,78017,2,Dilley,Frio County,28.7,-99.2,Texas,48163,111
+95430,78019,2,Encinal,La Salle County,28.2,-99.3,Texas,48283,6
+95434,78023,1,Helotes,Bexar County,29.6,-98.8,Texas,48029,4514
+95440,78025,2,Ingram,Kerr County,30.08,-99.29,Texas,48265,95
+95443,78026,2,Jourdanton,Atascosa County,28.8,-98.5,Texas,48013,141
+95454,78027,2,Kendalia,Kendall County,30.0,-98.5,Texas,48259,61
+95455,78028,1,Kerrville,Kerr County,30.1,-99.2,Texas,48265,95
+95499,78039,1,La Coste,Medina County,29.32,-98.82,Texas,48325,301
 95503,78040,3,Laredo,Webb County,27.51,-99.5,Texas,48479,584
+95555,78041,2,Laredo,Webb County,27.8,-99.5,Texas,48479,584
+95600,78042,1,Laredo,Webb County,,,Texas,48479,584
+95602,78043,2,Laredo,Webb County,27.4,-99.3,Texas,48479,584
+95654,78045,2,Laredo,Webb County,27.8,-99.6,Texas,48479,584
+95680,78046,2,Laredo,Webb County,27.4,-99.5,Texas,48479,584
+95818,78050,2,Leming,Atascosa County,29.072,-98.486,Texas,48013,141
+95819,78052,3,Lytle,Atascosa County,29.19,-98.78,Texas,48013,141
+95830,78054,1,Macdona,Bexar County,,,Texas,48029,4514
+95831,78057,1,Moore,Frio County,29.0,-99.0,Texas,48163,111
+95834,78058,1,Mountain Home,Kerr County,30.1,-99.5,Texas,48265,95
+95835,78059,2,Natalia,Medina County,29.2,-98.8,Texas,48325,301
+95851,78061,1,Pearsall,Frio County,28.9,-99.1,Texas,48163,111
+95908,78063,2,Pipe Creek,Bandera County,29.7,-98.9,Texas,48019,16
+95912,78064,1,Pleasanton,Atascosa County,29.0,-98.4,Texas,48013,141
+95938,78065,1,Poteet,Atascosa County,29.1,-98.6,Texas,48013,141
+95954,78066,2,Rio Medina,Medina County,29.47,-98.88,Texas,48325,301
+95955,78069,1,Somerset,Atascosa County,29.19,-98.68,Texas,48013,141
 95965,78070,2,Spring Branch,Comal County,29.9,-98.4,Texas,48091,275
 95979,78071,2,Three Rivers,Live Oak County,28.5,-98.1,Texas,48297,6
+95981,78073,1,Von Ormy,Bexar County,29.24,-98.63,Texas,48029,4514
+96000,78101,1,Adkins,Bexar County,29.35,-98.24,Texas,48029,4514
 96005,78102,1,Beeville,Bee County,28.4,-97.7,Texas,48025,180
+96096,78104,1,Beeville,Bee County,28.4,-97.7,Texas,48025,180
 96100,78108,2,Cibolo,Guadalupe County,29.57,-98.22,Texas,48187,280
+96140,78109,1,Converse,Bexar County,29.48,-98.28,Texas,48029,4514
+96244,78112,3,Elmendorf,Bexar County,29.2,-98.4,Texas,48029,4514
 96253,78114,1,Floresville,Wilson County,29.1,-98.2,Texas,48493,95
 96297,78117,3,Hobson,Karnes County,28.96,-97.93,Texas,48255,52
+96299,78118,1,Karnes City,Karnes County,28.9,-98.0,Texas,48255,52
+96309,78119,1,Kenedy,Karnes County,28.7,-97.9,Texas,48255,52
+96325,78121,2,La Vernia,Wilson County,29.4,-98.1,Texas,48493,95
+96330,78123,2,Mc Queeney,Guadalupe County,29.6,-98.05,Texas,48187,280
+96332,78124,1,Marion,Guadalupe County,29.5,-98.1,Texas,48187,280
+96340,78130,1,New Braunfels,Comal County,29.7,-98.1,Texas,48091,275
+96438,78131,1,New Braunfels,Comal County,,,Texas,48091,275
+96440,78132,2,New Braunfels,Comal County,29.8,-98.2,Texas,48091,275
+96461,78133,1,Canyon Lake,Comal County,29.9,-98.2,Texas,48091,275
 96473,78140,1,Nixon,Gonzales County,29.3,-97.7,Texas,48177,90
+96478,78141,1,Nordheim,DeWitt County,28.9,-97.6,Texas,48123,67
+96479,78142,2,Normanna,Bee County,28.528,-97.784,Texas,48025,180
+96481,78145,2,Pawnee,Bee County,28.651,-98.001,Texas,48025,180
+96483,78146,2,Pettus,Bee County,28.62,-97.81,Texas,48025,180
+96486,78147,1,Poth,Wilson County,29.08,-98.08,Texas,48493,95
+96490,78148,2,Universal City,Bexar County,29.55,-98.3,Texas,48029,4514
+96546,78151,2,Runge,Karnes County,28.9,-97.7,Texas,48255,52
+96548,78154,1,Schertz,Guadalupe County,29.56,-98.27,Texas,48187,280
+96587,78155,2,Seguin,Guadalupe County,29.6,-97.9,Texas,48187,280
+96653,78159,2,Smiley,Gonzales County,29.2,-97.6,Texas,48177,90
+96654,78160,2,Stockdale,Wilson County,29.2,-97.9,Texas,48493,95
+96657,78161,1,Sutherland Springs,Wilson County,29.26,-98.07,Texas,48493,95
+96659,78163,1,Bulverde,Comal County,29.8,-98.5,Texas,48091,275
+96662,78164,2,Yorktown,DeWitt County,29.0,-97.5,Texas,48123,67
+96668,78201,1,San Antonio,Bexar County,29.48,-98.53,Texas,48029,4514
+96722,78202,2,San Antonio,Bexar County,29.43,-98.46,Texas,48029,4514
+96737,78203,1,San Antonio,Bexar County,29.41,-98.46,Texas,48029,4514
+96746,78204,2,San Antonio,Bexar County,29.41,-98.51,Texas,48029,4514
+96752,78207,2,San Antonio,Bexar County,29.42,-98.52,Texas,48029,4514
+96811,78208,1,San Antonio,Bexar County,29.44,-98.46,Texas,48029,4514
+96817,78209,2,San Antonio,Bexar County,29.49,-98.46,Texas,48029,4514
+96850,78210,1,San Antonio,Bexar County,29.4,-98.46,Texas,48029,4514
+96886,78211,1,San Antonio,Bexar County,29.34,-98.57,Texas,48029,4514
+96940,78212,3,San Antonio,Bexar County,29.46,-98.49,Texas,48029,4514
+96949,78213,2,San Antonio,Bexar County,29.52,-98.53,Texas,48029,4514
+97007,78214,2,San Antonio,Bexar County,29.33,-98.48,Texas,48029,4514
+97047,78216,2,San Antonio,Bexar County,29.53,-98.48,Texas,48029,4514
+97145,78217,1,San Antonio,Bexar County,29.55,-98.43,Texas,48029,4514
+97244,78218,2,San Antonio,Bexar County,29.49,-98.4,Texas,48029,4514
+97341,78219,2,San Antonio,Bexar County,29.45,-98.38,Texas,48029,4514
+97378,78220,1,San Antonio,Bexar County,29.41,-98.39,Texas,48029,4514
+97420,78221,2,San Antonio,Bexar County,29.29,-98.47,Texas,48029,4514
+97490,78222,1,San Antonio,Bexar County,29.37,-98.39,Texas,48029,4514
+97564,78223,2,San Antonio,Bexar County,29.3,-98.4,Texas,48029,4514
+97647,78224,3,San Antonio,Bexar County,29.31,-98.54,Texas,48029,4514
+97688,78225,1,San Antonio,Bexar County,29.38,-98.53,Texas,48029,4514
+97700,78226,1,San Antonio,Bexar County,29.38,-98.56,Texas,48029,4514
+97703,78227,1,San Antonio,Bexar County,29.39,-98.64,Texas,48029,4514
+97772,78228,2,San Antonio,Bexar County,29.46,-98.57,Texas,48029,4514
+97870,78229,2,San Antonio,Bexar County,29.51,-98.57,Texas,48029,4514
+97933,78230,1,San Antonio,Bexar County,29.54,-98.56,Texas,48029,4514
+97964,78231,2,San Antonio,Bexar County,29.57,-98.55,Texas,48029,4514
+97973,78232,1,San Antonio,Bexar County,29.58,-98.48,Texas,48029,4514
+97995,78233,2,San Antonio,Bexar County,29.56,-98.37,Texas,48029,4514
+98080,78234,2,San Antonio,Bexar County,29.46,-98.44,Texas,48029,4514
+98082,78235,1,San Antonio,Bexar County,29.34,-98.44,Texas,48029,4514
+98085,78237,2,San Antonio,Bexar County,29.42,-98.57,Texas,48029,4514
+98133,78238,1,San Antonio,Bexar County,29.47,-98.61,Texas,48029,4514
+98175,78239,1,San Antonio,Bexar County,29.52,-98.36,Texas,48029,4514
+98255,78240,1,San Antonio,Bexar County,29.52,-98.61,Texas,48029,4514
+98307,78242,3,San Antonio,Bexar County,29.35,-98.6,Texas,48029,4514
+98379,78244,2,San Antonio,Bexar County,29.48,-98.34,Texas,48029,4514
+98451,78245,1,San Antonio,Bexar County,29.41,-98.72,Texas,48029,4514
+98579,78247,1,San Antonio,Bexar County,29.57,-98.41,Texas,48029,4514
+98616,78248,2,San Antonio,Bexar County,29.59,-98.53,Texas,48029,4514
+98621,78249,2,San Antonio,Bexar County,29.57,-98.62,Texas,48029,4514
+98670,78250,3,San Antonio,Bexar County,29.5,-98.67,Texas,48029,4514
+98746,78251,1,San Antonio,Bexar County,29.46,-98.67,Texas,48029,4514
+98820,78252,1,San Antonio,Bexar County,29.34,-98.71,Texas,48029,4514
+98847,78253,2,San Antonio,Bexar County,29.47,-98.8,Texas,48029,4514
+98906,78254,2,San Antonio,Bexar County,29.54,-98.72,Texas,48029,4514
+98961,78255,2,San Antonio,Bexar County,29.64,-98.67,Texas,48029,4514
+98969,78256,1,San Antonio,Bexar County,29.63,-98.62,Texas,48029,4514
+98975,78257,2,San Antonio,Bexar County,29.64,-98.58,Texas,48029,4514
+98985,78258,2,San Antonio,Bexar County,29.65,-98.51,Texas,48029,4514
+99003,78259,2,San Antonio,Bexar County,29.63,-98.41,Texas,48029,4514
+99013,78260,1,San Antonio,Bexar County,29.69,-98.52,Texas,48029,4514
+99017,78261,1,San Antonio,Bexar County,29.68,-98.4,Texas,48029,4514
+99025,78263,3,San Antonio,Bexar County,29.35,-98.31,Texas,48029,4514
+99029,78264,2,San Antonio,Bexar County,29.21,-98.5,Texas,48029,4514
+99041,78265,2,San Antonio,Bexar County,,,Texas,48029,4514
+99042,78266,2,San Antonio,Comal County,29.66,-98.32,Texas,48091,275
+99048,78275,1,San Antonio,Bexar County,,,Texas,48029,4514
+99049,78278,1,San Antonio,Bexar County,,,Texas,48029,4514
+99051,78283,1,San Antonio,Bexar County,,,Texas,48029,4514
+99053,78288,1,San Antonio,Bexar County,,,Texas,48029,4514
 99054,78330,2,Agua Dulce,Nueces County,27.782,-97.909,Texas,48355,1094
 99056,78332,1,Alice,Jim Wells County,27.7,-98.1,Texas,48249,125
+99118,78335,1,Aransas Pass,Nueces County,27.904,-97.149,Texas,48355,1094
 99121,78336,1,Aransas Pass,San Patricio County,27.9,-97.1,Texas,48409,289
+99147,78339,1,Banquete,Nueces County,27.806,-97.801,Texas,48355,1094
+99152,78340,2,Bayside,Refugio County,28.11,-97.21,Texas,48391,20
 99155,78341,2,Benavides,Duval County,27.6,-98.41,Texas,48131,21
+99158,78343,1,Bishop,Nueces County,27.7,-97.7,Texas,48355,1094
+99161,78352,1,Edroy,San Patricio County,27.976,-97.674,Texas,48409,289
 99163,78355,2,Falfurrias,Brooks County,27.2,-98.2,Texas,48047,7
 99166,78358,1,Fulton,Aransas County,28.065,-97.041,Texas,48007,87
+99169,78359,2,Gregory,San Patricio County,27.92,-97.3,Texas,48409,289
+99181,78362,3,Ingleside,San Patricio County,27.87,-97.21,Texas,48409,289
 99207,78363,1,Kingsville,Kleberg County,27.5,-97.7,Texas,48273,170
+99305,78364,2,Kingsville,Kleberg County,,,Texas,48273,170
+99307,78368,2,Mathis,San Patricio County,28.1,-97.9,Texas,48409,289
+99319,78370,1,Odem,San Patricio County,28.0,-97.6,Texas,48409,289
+99325,78372,2,Orange Grove,Jim Wells County,28.0,-98.1,Texas,48249,125
+99331,78374,1,Portland,San Patricio County,27.91,-97.31,Texas,48409,289
+99376,78375,2,Premont,Jim Wells County,27.4,-98.1,Texas,48249,125
+99377,78377,2,Refugio,Refugio County,28.3,-97.2,Texas,48391,20
+99381,78380,1,Robstown,Nueces County,27.8,-97.7,Texas,48355,1094
+99414,78381,2,Rockport,Aransas County,,,Texas,48007,87
+99415,78382,1,Rockport,Aransas County,28.1,-96.8,Texas,48007,87
+99454,78384,1,San Diego,Duval County,27.8,-98.4,Texas,48131,21
+99462,78387,2,Sinton,San Patricio County,28.1,-97.6,Texas,48409,289
+99483,78389,2,Skidmore,Bee County,28.2,-97.7,Texas,48025,180
+99486,78390,1,Taft,San Patricio County,28.0,-97.3,Texas,48409,289
+99504,78391,1,Tynan,Bee County,28.17,-97.75,Texas,48025,180
+99505,78393,3,Woodsboro,Refugio County,28.2,-97.4,Texas,48391,20
+99507,78401,1,Corpus Christi,Nueces County,27.8,-97.4,Texas,48355,1094
+99513,78402,3,Corpus Christi,Nueces County,27.84,-97.47,Texas,48355,1094
+99514,78404,2,Corpus Christi,Nueces County,27.77,-97.4,Texas,48355,1094
+99539,78405,1,Corpus Christi,Nueces County,27.77,-97.45,Texas,48355,1094
+99566,78406,3,Corpus Christi,Nueces County,27.77,-97.52,Texas,48355,1094
+99568,78407,1,Corpus Christi,Nueces County,27.81,-97.44,Texas,48355,1094
+99571,78408,1,Corpus Christi,Nueces County,27.8,-97.45,Texas,48355,1094
+99585,78409,2,Corpus Christi,Nueces County,27.81,-97.51,Texas,48355,1094
+99589,78410,3,Corpus Christi,Nueces County,27.84,-97.6,Texas,48355,1094
+99623,78411,2,Corpus Christi,Nueces County,27.73,-97.39,Texas,48355,1094
+99695,78412,1,Corpus Christi,Nueces County,27.72,-97.35,Texas,48355,1094
+99767,78413,2,Corpus Christi,Nueces County,27.68,-97.4,Texas,48355,1094
+99831,78414,1,Corpus Christi,Nueces County,27.63,-97.37,Texas,48355,1094
+99884,78415,1,Corpus Christi,Nueces County,27.7,-97.5,Texas,48355,1094
+99965,78416,1,Corpus Christi,Nueces County,27.75,-97.44,Texas,48355,1094
+100003,78417,1,Corpus Christi,Nueces County,27.73,-97.47,Texas,48355,1094
+100012,78418,2,Corpus Christi,Nueces County,27.5,-97.3,Texas,48355,1094
+100081,78427,2,Corpus Christi,Nueces County,,,Texas,48355,1094
+100085,78467,2,Corpus Christi,Nueces County,,,Texas,48355,1094
+100086,78477,2,Corpus Christi,Nueces County,,,Texas,48355,1094
 100087,78501,2,Mcallen,Hidalgo County,26.22,-98.24,Texas,48215,1784
+100157,78502,1,Mcallen,Hidalgo County,,,Texas,48215,1784
+100158,78503,1,Mcallen,Hidalgo County,26.15,-98.25,Texas,48215,1784
+100176,78504,2,Mcallen,Hidalgo County,26.28,-98.23,Texas,48215,1784
+100219,78505,2,Mcallen,Hidalgo County,,,Texas,48215,1784
+100220,78516,3,Alamo,Hidalgo County,26.18,-98.12,Texas,48215,1784
 100253,78520,3,Brownsville,Cameron County,26.0,-97.5,Texas,48061,855
+100314,78521,2,Brownsville,Cameron County,26.0,-97.3,Texas,48061,855
+100422,78523,1,Brownsville,Cameron County,,,Texas,48061,855
+100424,78526,3,Brownsville,Cameron County,25.98,-97.46,Texas,48061,855
+100472,78535,2,Combes,Cameron County,26.248,-97.731,Texas,48061,855
+100473,78537,3,Donna,Hidalgo County,26.2,-98.1,Texas,48215,1784
+100559,78538,2,Edcouch,Hidalgo County,26.4,-98.0,Texas,48215,1784
+100579,78539,2,Edinburg,Hidalgo County,26.28,-98.18,Texas,48215,1784
+100629,78540,1,Edinburg,Hidalgo County,,,Texas,48215,1784
+100630,78541,3,Edinburg,Hidalgo County,26.5,-98.3,Texas,48215,1784
+100691,78542,2,Edinburg,Hidalgo County,26.4,-98.1,Texas,48215,1784
+100768,78543,1,Elsa,Hidalgo County,26.29,-97.986,Texas,48215,1784
 100785,78547,3,Garciasville,Starr County,,,Texas,48427,54
+100787,78548,1,Grulla,Starr County,26.27,-98.65,Texas,48427,54
+100788,78550,2,Harlingen,Cameron County,26.2,-97.7,Texas,48061,855
+100845,78552,2,Harlingen,Cameron County,26.2,-97.8,Texas,48061,855
+100868,78557,3,Hidalgo,Hidalgo County,26.1,-98.25,Texas,48215,1784
+100884,78558,2,La Blanca,Hidalgo County,26.297,-98.031,Texas,48215,1784
+100887,78559,1,La Feria,Cameron County,26.13,-97.82,Texas,48061,855
+100897,78560,3,La Joya,Hidalgo County,26.25,-98.51,Texas,48215,1784
+100905,78562,3,La Villa,Hidalgo County,26.297,-97.929,Texas,48215,1784
+100907,78566,1,Los Fresnos,Cameron County,26.2,-97.4,Texas,48061,855
+100953,78567,1,Los Indios,Cameron County,26.051,-97.746,Texas,48061,855
+100954,78568,2,Lozano,Cameron County,,,Texas,48061,855
+100955,78570,1,Mercedes,Hidalgo County,26.2,-97.9,Texas,48215,1784
+100986,78572,2,Mission,Hidalgo County,26.2,-98.4,Texas,48215,1784
+101043,78573,1,Mission,Hidalgo County,26.3,-98.3,Texas,48215,1784
+101100,78574,1,Mission,Hidalgo County,26.3,-98.4,Texas,48215,1784
+101175,78575,1,Olmito,Cameron County,26.03,-97.55,Texas,48061,855
+101177,78576,1,Penitas,Hidalgo County,26.3,-98.5,Texas,48215,1784
+101203,78577,2,Pharr,Hidalgo County,26.2,-98.2,Texas,48215,1784
+101299,78578,1,Port Isabel,Cameron County,26.1,-97.3,Texas,48061,855
+101311,78579,2,Progreso,Hidalgo County,26.094,-97.959,Texas,48215,1784
 101315,78580,1,Raymondville,Willacy County,26.5,-97.7,Texas,48489,28
+101325,78582,1,Rio Grande City,Starr County,26.5,-98.7,Texas,48427,54
+101347,78583,2,Rio Hondo,Cameron County,26.3,-97.5,Texas,48061,855
+101354,78584,2,Roma,Starr County,26.6,-99.0,Texas,48427,54
+101356,78586,1,San Benito,Cameron County,26.1,-97.6,Texas,48061,855
+101425,78589,1,San Juan,Hidalgo County,26.17,-98.14,Texas,48215,1784
+101470,78590,1,San Perlita,Willacy County,26.4,-97.5,Texas,48489,28
+101471,78593,3,Santa Rosa,Cameron County,26.26,-97.81,Texas,48061,855
+101473,78594,3,Sebastian,Willacy County,26.4,-97.7,Texas,48489,28
+101474,78595,1,Sullivan City,Hidalgo County,26.3,-98.53,Texas,48215,1784
+101483,78596,2,Weslaco,Hidalgo County,26.2,-98.0,Texas,48215,1784
+101529,78599,1,Weslaco,Hidalgo County,,,Texas,48215,1784
 101559,78602,2,Bastrop,Bastrop County,30.1,-97.3,Texas,48021,281
 101610,78605,2,Bertram,Burnet County,30.7,-98.0,Texas,48053,74
 101614,78606,3,Blanco,Blanco County,30.1,-98.4,Texas,48031,10
+101617,78608,2,Briggs,Burnet County,30.94,-97.93,Texas,48053,74
 101618,78610,1,Buda,Hays County,30.1,-97.8,Texas,48209,464
+101658,78611,2,Burnet,Burnet County,30.8,-98.3,Texas,48053,74
+101674,78612,1,Cedar Creek,Bastrop County,30.1,-97.5,Texas,48021,281
+101690,78613,1,Cedar Park,Williamson County,30.5,-97.82,Texas,48491,741
+101739,78614,1,Cost,Gonzales County,29.41,-97.61,Texas,48177,90
 101741,78616,1,Dale,Caldwell County,29.9,-97.6,Texas,48055,132
+101754,78617,1,Del Valle,Travis County,30.15,-97.58,Texas,48453,1053
+101775,78619,1,Driftwood,Hays County,30.1,-98.04,Texas,48209,464
+101776,78620,1,Dripping Springs,Hays County,30.2,-98.1,Texas,48209,464
+101778,78621,2,Elgin,Bastrop County,30.3,-97.4,Texas,48021,281
 101843,78624,3,Fredericksburg,Gillespie County,30.3,-98.9,Texas,48171,66
+101877,78626,2,Georgetown,Williamson County,30.7,-97.6,Texas,48491,741
+101896,78627,2,Georgetown,Williamson County,,,Texas,48491,741
+101897,78628,2,Georgetown,Williamson County,30.6,-97.8,Texas,48491,741
+101922,78629,3,Gonzales,Gonzales County,29.4,-97.5,Texas,48177,90
+101963,78631,2,Harper,Gillespie County,30.3,-99.2,Texas,48171,66
+101964,78632,1,Harwood,Gonzales County,29.7,-97.5,Texas,48177,90
+101965,78633,2,Georgetown,Williamson County,30.7,-97.8,Texas,48491,741
+101968,78634,2,Hutto,Williamson County,30.55,-97.55,Texas,48491,741
+102004,78635,3,Hye,Blanco County,30.22,-98.54,Texas,48031,10
+102005,78636,1,Johnson City,Blanco County,30.3,-98.4,Texas,48031,10
+102006,78638,2,Kingsbury,Guadalupe County,29.7,-97.8,Texas,48187,280
+102011,78639,3,Kingsland,Llano County,30.68,-98.45,Texas,48299,37
+102016,78640,1,Kyle,Hays County,30.0,-97.8,Texas,48209,464
+102099,78641,3,Leander,Williamson County,30.5,-97.9,Texas,48491,741
+102146,78642,2,Liberty Hill,Williamson County,30.7,-97.9,Texas,48491,741
+102155,78643,1,Llano,Llano County,30.7,-98.7,Texas,48299,37
+102158,78644,1,Lockhart,Caldwell County,29.9,-97.7,Texas,48055,132
+102209,78645,2,Leander,Travis County,30.44,-97.95,Texas,48453,1053
+102214,78646,2,Leander,Williamson County,,,Texas,48491,741
+102215,78648,1,Luling,Caldwell County,29.7,-97.6,Texas,48055,132
+102224,78650,2,Mc Dade,Bastrop County,30.3,-97.2,Texas,48021,281
+102226,78653,2,Manor,Travis County,30.3,-97.5,Texas,48453,1053
+102265,78654,1,Marble Falls,Burnet County,30.6,-98.2,Texas,48053,74
+102288,78655,1,Martindale,Caldwell County,29.8,-97.84,Texas,48055,132
+102290,78656,2,Maxwell,Caldwell County,29.9,-97.81,Texas,48055,132
+102295,78657,1,Horseshoe Bay,Llano County,30.53,-98.37,Texas,48299,37
+102303,78659,3,Paige,Bastrop County,30.2,-97.1,Texas,48021,281
+102307,78660,3,Pflugerville,Travis County,30.43,-97.6,Texas,48453,1053
+102357,78664,1,Round Rock,Williamson County,30.5,-97.64,Texas,48491,741
+102410,78665,1,Round Rock,Williamson County,30.54,-97.65,Texas,48491,741
+102449,78666,1,San Marcos,Hays County,29.9,-98.0,Texas,48209,464
+102600,78669,1,Spicewood,Travis County,30.4,-98.1,Texas,48453,1053
+102601,78671,2,Stonewall,Gillespie County,30.21,-98.62,Texas,48171,66
+102602,78674,1,Weir,Williamson County,,,Texas,48491,741
+102603,78680,2,Round Rock,Williamson County,,,Texas,48491,741
+102604,78681,2,Round Rock,Williamson County,30.53,-97.72,Texas,48491,741
+102619,78682,3,Round Rock,Williamson County,,,Texas,48491,741
+102623,78702,1,Austin,Travis County,30.26,-97.71,Texas,48453,1053
+102633,78703,2,Austin,Travis County,30.29,-97.77,Texas,48453,1053
+102634,78704,1,Austin,Travis County,30.24,-97.75,Texas,48453,1053
+102643,78705,2,Austin,Travis County,30.29,-97.74,Texas,48453,1053
+102645,78715,2,Austin,Travis County,,,Texas,48453,1053
+102647,78717,2,Austin,Williamson County,30.49,-97.77,Texas,48491,741
+102667,78719,2,Austin,Travis County,30.15,-97.67,Texas,48453,1053
+102668,78720,2,Austin,Travis County,,,Texas,48453,1053
+102671,78721,1,Austin,Travis County,30.27,-97.68,Texas,48453,1053
+102675,78722,1,Austin,Travis County,30.29,-97.72,Texas,48453,1053
+102676,78723,2,Austin,Travis County,30.3,-97.69,Texas,48453,1053
+102694,78724,2,Austin,Travis County,30.29,-97.61,Texas,48453,1053
+102718,78726,2,Austin,Travis County,30.43,-97.84,Texas,48453,1053
+102737,78727,1,Austin,Travis County,30.43,-97.72,Texas,48453,1053
+102742,78728,1,Austin,Travis County,30.45,-97.69,Texas,48453,1053
+102765,78729,2,Austin,Williamson County,30.45,-97.76,Texas,48491,741
+102810,78730,2,Austin,Travis County,30.37,-97.84,Texas,48453,1053
+102811,78731,2,Austin,Travis County,30.35,-97.77,Texas,48453,1053
+102813,78732,1,Austin,Travis County,30.38,-97.89,Texas,48453,1053
+102814,78735,2,Austin,Travis County,30.27,-97.87,Texas,48453,1053
+102819,78737,1,Austin,Hays County,30.2,-97.99,Texas,48209,464
+102821,78741,1,Austin,Travis County,30.23,-97.72,Texas,48453,1053
+102858,78742,2,Austin,Travis County,30.24,-97.66,Texas,48453,1053
+102859,78744,1,Austin,Travis County,30.18,-97.74,Texas,48453,1053
+102918,78745,2,Austin,Travis County,30.21,-97.8,Texas,48453,1053
+102958,78747,1,Austin,Travis County,30.12,-97.75,Texas,48453,1053
+102980,78748,2,Austin,Travis County,30.16,-97.82,Texas,48453,1053
+103021,78749,1,Austin,Travis County,30.21,-97.86,Texas,48453,1053
+103030,78750,1,Austin,Travis County,30.41,-97.8,Texas,48453,1053
+103045,78751,2,Austin,Travis County,30.31,-97.72,Texas,48453,1053
+103046,78752,2,Austin,Travis County,30.34,-97.7,Texas,48453,1053
+103060,78753,3,Austin,Travis County,30.38,-97.67,Texas,48453,1053
+103117,78754,3,Austin,Travis County,30.37,-97.64,Texas,48453,1053
+103134,78756,2,Austin,Travis County,30.32,-97.74,Texas,48453,1053
+103137,78757,1,Austin,Travis County,30.35,-97.73,Texas,48453,1053
+103141,78758,1,Austin,Travis County,30.38,-97.71,Texas,48453,1053
+103172,78759,2,Austin,Travis County,30.4,-97.75,Texas,48453,1053
+103179,78766,1,Austin,Travis County,,,Texas,48453,1053
 103180,78801,1,Uvalde,Uvalde County,29.4,-99.8,Texas,48463,74
+103216,78802,2,Uvalde,Uvalde County,29.4,-99.8,Texas,48463,74
 103217,78827,1,Asherton,Dimmit County,28.4,-99.6,Texas,48127,20
 103219,78829,2,Batesville,Zavala County,28.9,-99.8,Texas,48507,22
 103220,78832,2,Brackettville,Kinney County,29.4,-100.5,Texas,48271,4
 103222,78833,1,Camp Wood,Real County,29.7,-100.0,Texas,48385,1
+103223,78834,2,Carrizo Springs,Dimmit County,28.4,-99.9,Texas,48127,20
+103233,78839,3,Crystal City,Zavala County,28.8,-99.9,Texas,48507,22
 103239,78840,2,Del Rio,Val Verde County,29.8,-100.9,Texas,48465,126
+103309,78841,2,Del Rio,Val Verde County,,,Texas,48465,126
+103310,78850,1,D Hanis,Medina County,29.4,-99.3,Texas,48325,301
 103313,78852,1,Eagle Pass,Maverick County,28.6,-100.3,Texas,48323,104
+103366,78853,2,Eagle Pass,Maverick County,,,Texas,48323,104
+103368,78860,1,El Indio,Maverick County,28.6,-100.3,Texas,48323,104
+103369,78861,2,Hondo,Medina County,29.4,-99.2,Texas,48325,301
+103436,78870,1,Knippa,Uvalde County,29.3,-99.6,Texas,48463,74
+103438,78872,1,La Pryor,Zavala County,28.94,-99.84,Texas,48507,22
+103442,78877,2,Quemado,Maverick County,29.0,-100.4,Texas,48323,104
+103443,78883,1,Tarpley,Bandera County,29.67,-99.35,Texas,48019,16
+103444,78886,1,Yancey,Medina County,29.14,-99.13,Texas,48325,301
+103445,78933,1,Cat Spring,Colorado County,29.8,-96.4,Texas,48089,140
+103447,78934,1,Columbus,Colorado County,29.7,-96.6,Texas,48089,140
+103469,78935,2,Alleyton,Colorado County,29.7,-96.4,Texas,48089,140
 103470,78941,2,Flatonia,Fayette County,29.8,-97.1,Texas,48149,95
+103475,78942,3,Giddings,Lee County,30.2,-96.9,Texas,48287,69
+103508,78943,3,Glidden,Colorado County,29.7,-96.6,Texas,48089,140
+103517,78945,1,La Grange,Fayette County,29.9,-96.9,Texas,48149,95
+103550,78946,1,Ledbetter,Lee County,30.2,-96.8,Texas,48287,69
+103552,78947,2,Lexington,Lee County,30.4,-97.1,Texas,48287,69
+103555,78952,2,Plum,Fayette County,,,Texas,48149,95
+103556,78954,2,Round Top,Fayette County,30.0,-96.7,Texas,48149,95
+103557,78956,2,Schulenburg,Fayette County,29.7,-96.9,Texas,48149,95
+103568,78957,1,Smithville,Bastrop County,30.0,-97.2,Texas,48021,281
+103590,78960,2,Warda,Fayette County,,,Texas,48149,95
+103591,78962,1,Weimar,Colorado County,29.6,-96.7,Texas,48089,140
+103595,78963,3,West Point,Fayette County,29.92,-97.03,Texas,48149,95
 103597,79001,2,Adrian,Oldham County,35.3,-102.8,Texas,48359,2
 103598,79007,2,Borger,Hutchinson County,35.8,-101.3,Texas,48233,186
 103680,79009,1,Bovina,Parmer County,34.5,-102.9,Texas,48369,6
 103681,79013,2,Cactus,Moore County,36.05,-102.0,Texas,48341,139
 103686,79015,1,Canyon,Randall County,34.9,-101.9,Texas,48381,526
+103753,79016,1,Canyon,Randall County,34.984,-101.914,Texas,48381,526
 103755,79018,2,Channing,Hartley County,35.8,-102.3,Texas,48205,4
 103756,79019,2,Claude,Armstrong County,35.0,-101.4,Texas,48011,6
 103760,79021,1,Cotton Center,Hale County,34.0,-102.0,Texas,48189,447
 103761,79022,2,Dalhart,Dallam County,36.1,-102.6,Texas,48111,2
 103762,79027,2,Dimmitt,Castro County,34.5,-102.3,Texas,48069,16
+103767,79029,1,Dumas,Moore County,35.8,-102.0,Texas,48341,139
 103848,79031,2,Earth,Lamb County,34.2,-102.5,Texas,48279,58
+103849,79036,2,Fritch,Hutchinson County,35.68,-101.57,Texas,48233,186
+103866,79041,2,Hale Center,Hale County,34.1,-101.9,Texas,48189,447
 103880,79042,1,Happy,Swisher County,34.8,-101.8,Texas,48437,35
+103884,79043,3,Hart,Castro County,34.4,-102.2,Texas,48069,16
+103888,79044,2,Hartley,Hartley County,35.9,-102.4,Texas,48205,4
 103889,79045,1,Hereford,Deaf Smith County,34.9,-102.6,Texas,48117,58
+103920,79052,2,Kress,Swisher County,34.4,-101.7,Texas,48437,35
+103926,79053,3,Lazbuddie,Parmer County,34.387,-102.609,Texas,48369,6
 103927,79054,2,Lefors,Gray County,35.439,-100.805,Texas,48179,174
+103930,79057,2,Mclean,Gray County,35.3,-100.6,Texas,48179,174
+103932,79064,2,Olton,Lamb County,34.2,-102.2,Texas,48279,58
+103944,79065,2,Pampa,Gray County,35.6,-100.8,Texas,48179,174
 104032,79068,1,Panhandle,Carson County,35.4,-101.4,Texas,48065,6
+104033,79072,2,Plainview,Hale County,34.1,-101.8,Texas,48189,447
+104251,79073,2,Plainview,Hale County,,,Texas,48189,447
+104255,79078,1,Sanford,Hutchinson County,35.71,-101.52,Texas,48233,186
 104257,79079,1,Shamrock,Wheeler County,35.2,-100.3,Texas,48483,1
+104258,79080,3,Skellytown,Carson County,35.6,-101.2,Texas,48065,6
+104259,79082,3,Springlake,Lamb County,34.2,-102.3,Texas,48279,58
+104260,79083,1,Stinnett,Hutchinson County,35.9,-101.4,Texas,48233,186
 104265,79084,1,Stratford,Sherman County,36.3,-101.9,Texas,48421,1
+104266,79088,3,Tulia,Swisher County,34.6,-101.7,Texas,48437,35
 104277,79095,2,Wellington,Collingsworth County,35.0,-100.3,Texas,48087,2
+104278,79097,2,White Deer,Carson County,35.4,-101.2,Texas,48065,6
 104279,79101,2,Amarillo,Potter County,35.2,-101.84,Texas,48375,584
+104287,79102,2,Amarillo,Potter County,35.2,-101.85,Texas,48375,584
+104313,79103,3,Amarillo,Potter County,35.17,-101.81,Texas,48375,584
+104341,79104,3,Amarillo,Potter County,35.2,-101.79,Texas,48375,584
+104361,79105,2,Amarillo,Moore County,35.21,-101.84,Texas,48341,139
+104362,79106,1,Amarillo,Potter County,35.21,-101.89,Texas,48375,584
+104470,79107,2,Amarillo,Potter County,35.23,-101.8,Texas,48375,584
+104569,79108,3,Amarillo,Potter County,35.4,-101.9,Texas,48375,584
+104588,79109,2,Amarillo,Randall County,35.16,-101.88,Texas,48381,526
+104698,79110,2,Amarillo,Randall County,35.15,-101.87,Texas,48381,526
+104756,79111,2,Amarillo,Potter County,35.22,-101.69,Texas,48375,584
+104761,79116,1,Amarillo,Potter County,,,Texas,48375,584
+104763,79118,2,Amarillo,Randall County,35.1,-101.8,Texas,48381,526
+104810,79119,1,Amarillo,Randall County,35.1,-102.0,Texas,48381,526
+104825,79120,2,Amarillo,Potter County,,,Texas,48375,584
+104826,79121,3,Amarillo,Randall County,35.17,-101.93,Texas,48381,526
+104835,79124,2,Amarillo,Potter County,35.3,-102.0,Texas,48375,584
 104845,79201,1,Childress,Childress County,34.5,-100.4,Texas,48075,83
 104893,79225,1,Chillicothe,Hardeman County,34.2,-99.5,Texas,48197,5
 104895,79227,2,Crowell,Foard County,33.9,-99.8,Texas,48155,2
 104896,79235,1,Floydada,Floyd County,33.9,-101.3,Texas,48153,18
+104900,79241,3,Lockney,Floyd County,34.2,-101.3,Texas,48153,18
 104904,79245,1,Memphis,Hall County,34.6,-100.5,Texas,48191,2
 104906,79248,2,Paducah,Cottle County,33.8,-100.3,Texas,48101,2
+104907,79250,3,Petersburg,Hale County,33.9,-101.6,Texas,48189,447
+104908,79252,2,Quanah,Hardeman County,34.3,-99.9,Texas,48197,5
 104909,79255,1,Quitaque,Briscoe County,34.5,-101.1,Texas,48045,1
+104911,79311,2,Abernathy,Hale County,33.9,-101.9,Texas,48189,447
+104917,79312,1,Amherst,Lamb County,34.0,-102.5,Texas,48279,58
 104920,79313,1,Anton,Hockley County,33.8,-102.2,Texas,48219,100
 104923,79314,1,Bledsoe,Cochran County,33.62,-103.018,Texas,48079,4
 104924,79316,1,Brownfield,Terry County,33.1,-102.3,Texas,48445,14
 104931,79322,1,Crosbyton,Crosby County,33.6,-101.2,Texas,48107,9
 104934,79323,1,Denver City,Yoakum County,33.0,-102.8,Texas,48501,6
+104938,79325,2,Farwell,Parmer County,34.4,-102.9,Texas,48369,6
 104939,79329,2,Idalou,Lubbock County,33.7,-101.7,Texas,48303,1127
 104941,79331,2,Lamesa,Dawson County,32.7,-101.9,Texas,48115,16
+104949,79336,1,Levelland,Hockley County,33.6,-102.4,Texas,48219,100
+104992,79339,1,Littlefield,Lamb County,33.9,-102.3,Texas,48279,58
 105004,79342,2,Loop,Gaines County,32.9,-102.3,Texas,48165,61
+105005,79343,2,Lorenzo,Crosby County,33.6,-101.6,Texas,48107,9
+105009,79345,1,Meadow,Terry County,33.3,-102.3,Texas,48445,14
 105010,79347,2,Muleshoe,Bailey County,34.2,-102.8,Texas,48017,4
+105013,79350,3,New Deal,Lubbock County,33.7,-101.8,Texas,48303,1127
 105014,79356,1,Post,Garza County,33.2,-101.3,Texas,48169,1
+105015,79357,1,Ralls,Crosby County,33.6,-101.4,Texas,48107,9
+105016,79358,2,Ropesville,Hockley County,33.4,-102.2,Texas,48219,100
+105020,79359,1,Seagraves,Gaines County,32.8,-102.5,Texas,48165,61
+105028,79360,3,Seminole,Gaines County,32.7,-102.6,Texas,48165,61
+105055,79363,2,Shallowater,Lubbock County,33.7,-102.1,Texas,48303,1127
+105068,79364,2,Slaton,Lubbock County,33.5,-101.7,Texas,48303,1127
+105081,79369,2,Spade,Lamb County,33.9,-102.3,Texas,48279,58
 105082,79370,2,Spur,Dickens County,33.4,-100.8,Texas,48125,4
+105083,79372,1,Sundown,Hockley County,33.46,-102.49,Texas,48219,100
 105085,79373,2,Tahoka,Lynn County,33.2,-101.8,Texas,48305,15
+105093,79377,2,Welch,Dawson County,32.9,-102.16,Texas,48115,16
+105095,79379,3,Whiteface,Cochran County,33.5,-102.7,Texas,48079,4
+105096,79382,1,Wolfforth,Lubbock County,33.46,-102.02,Texas,48303,1127
+105102,79401,3,Lubbock,Lubbock County,33.59,-101.85,Texas,48303,1127
+105120,79402,2,Lubbock,Lubbock County,,,Texas,48303,1127
+105121,79403,3,Lubbock,Lubbock County,33.7,-101.7,Texas,48303,1127
+105168,79404,2,Lubbock,Lubbock County,33.52,-101.77,Texas,48303,1127
+105203,79407,3,Lubbock,Lubbock County,33.6,-102.1,Texas,48303,1127
+105261,79408,2,Lubbock,Lubbock County,,,Texas,48303,1127
+105263,79410,1,Lubbock,Lubbock County,33.57,-101.89,Texas,48303,1127
+105272,79411,2,Lubbock,Lubbock County,33.57,-101.86,Texas,48303,1127
+105315,79412,3,Lubbock,Lubbock County,33.55,-101.86,Texas,48303,1127
+105375,79413,1,Lubbock,Lubbock County,33.56,-101.88,Texas,48303,1127
+105406,79414,1,Lubbock,Lubbock County,33.55,-101.92,Texas,48303,1127
+105467,79415,1,Lubbock,Lubbock County,33.7,-101.9,Texas,48303,1127
+105523,79416,2,Lubbock,Lubbock County,33.61,-101.97,Texas,48303,1127
+105605,79423,1,Lubbock,Lubbock County,33.4,-101.9,Texas,48303,1127
+105678,79424,3,Lubbock,Lubbock County,33.47,-101.94,Texas,48303,1127
+105733,79493,2,Lubbock,Lubbock County,,,Texas,48303,1127
+105734,79499,2,Lubbock,Lubbock County,,,Texas,48303,1127
 105735,79501,1,Anson,Jones County,32.8,-99.9,Texas,48253,101
 105740,79502,2,Aspermont,Stonewall County,33.2,-100.2,Texas,48433,3
+105741,79503,2,Avoca,Jones County,32.9,-99.7,Texas,48253,101
+105745,79504,1,Baird,Callahan County,32.4,-99.3,Texas,48059,37
+105746,79510,1,Clyde,Callahan County,32.3,-99.5,Texas,48059,37
 105763,79511,1,Coahoma,Howard County,32.5,-101.3,Texas,48227,151
 105764,79512,1,Colorado City,Mitchell County,32.3,-100.9,Texas,48335,8
+105769,79520,1,Hamlin,Jones County,32.9,-100.2,Texas,48253,101
 105775,79521,3,Haskell,Haskell County,33.1,-99.7,Texas,48207,24
+105783,79525,3,Hawley,Jones County,32.6,-99.8,Texas,48253,101
+105786,79532,2,Loraine,Mitchell County,32.4,-100.7,Texas,48335,8
+105787,79533,1,Lueders,Jones County,32.8,-99.5,Texas,48253,101
 105789,79535,1,Maryneal,Nolan County,32.2,-100.4,Texas,48353,141
 105792,79536,2,Merkel,Taylor County,32.5,-100.0,Texas,48441,468
 105802,79543,3,Roby,Fisher County,32.7,-100.4,Texas,48151,17
+105805,79544,2,Rochester,Haskell County,33.3,-99.9,Texas,48207,24
+105806,79545,1,Roscoe,Nolan County,32.4,-100.6,Texas,48353,141
+105811,79546,3,Rotan,Fisher County,32.9,-100.5,Texas,48151,17
+105817,79547,2,Rule,Haskell County,33.2,-99.9,Texas,48207,24
 105821,79549,2,Snyder,Scurry County,32.9,-100.9,Texas,48415,104
+105881,79550,2,Snyder,Scurry County,,,Texas,48415,104
+105883,79553,2,Stamford,Jones County,32.9,-99.9,Texas,48253,101
+105920,79556,2,Sweetwater,Nolan County,32.4,-100.4,Texas,48353,141
+105993,79562,2,Tuscola,Taylor County,32.3,-99.9,Texas,48441,468
+105996,79563,1,Tye,Taylor County,32.42,-99.91,Texas,48441,468
+105998,79567,2,Winters,Runnels County,32.0,-100.0,Texas,48399,59
+106000,79601,2,Abilene,Taylor County,32.6,-99.6,Texas,48441,468
+106043,79602,2,Abilene,Taylor County,32.3,-99.7,Texas,48441,468
+106074,79603,1,Abilene,Taylor County,32.4,-99.9,Texas,48441,468
+106131,79605,3,Abilene,Taylor County,32.43,-99.8,Texas,48441,468
+106211,79606,2,Abilene,Taylor County,32.36,-99.83,Texas,48441,468
+106251,79607,2,Dyess Afb,Taylor County,32.42,-99.83,Texas,48441,468
 106255,79701,2,Midland,Midland County,31.99,-102.08,Texas,48329,331
+106310,79703,2,Midland,Midland County,31.98,-102.13,Texas,48329,331
+106342,79705,3,Midland,Midland County,32.0,-102.0,Texas,48329,331
+106385,79706,1,Midland,Midland County,31.9,-102.0,Texas,48329,331
+106424,79707,1,Midland,Midland County,32.01,-102.2,Texas,48329,331
+106454,79708,2,Midland,Midland County,,,Texas,48329,331
+106456,79712,3,Midland,Midland County,,,Texas,48329,331
 106457,79718,2,Balmorhea,Reeves County,31.0,-103.7,Texas,48389,74
+106458,79720,1,Big Spring,Howard County,32.3,-101.4,Texas,48227,151
 106544,79731,3,Crane,Crane County,31.4,-102.5,Texas,48103,3
 106545,79734,3,Fort Davis,Jeff Davis County,30.8,-103.9,Texas,48243,3
 106546,79735,2,Fort Stockton,Pecos County,30.6,-102.7,Texas,48371,111
@@ -221,10 +1595,81 @@
 106613,79742,2,Grandfalls,Ward County,31.341,-102.854,Texas,48475,4
 106614,79745,1,Kermit,Winkler County,31.9,-103.1,Texas,48495,1
 106615,79752,2,Mc Camey,Upton County,31.3,-102.2,Texas,48461,2
+106616,79756,1,Monahans,Ward County,31.5,-103.0,Texas,48475,4
+106617,79758,2,Gardendale,Ector County,32.0,-102.37,Texas,48135,347
+106619,79761,1,Odessa,Ector County,31.85,-102.35,Texas,48135,347
+106655,79762,1,Odessa,Ector County,31.9,-102.34,Texas,48135,347
+106698,79763,2,Odessa,Ector County,31.8,-102.6,Texas,48135,347
+106764,79764,1,Odessa,Ector County,31.9,-102.5,Texas,48135,347
+106800,79765,1,Odessa,Ector County,31.9,-102.3,Texas,48135,347
+106815,79766,3,Odessa,Ector County,31.7,-102.4,Texas,48135,347
+106820,79769,2,Odessa,Ector County,,,Texas,48135,347
+106821,79772,1,Pecos,Reeves County,31.5,-103.6,Texas,48389,74
 106860,79782,2,Stanton,Martin County,32.2,-101.9,Texas,48317,13
 106868,79821,1,Anthony,El Paso County,31.97,-106.6,Texas,48141,2097
+106878,79835,1,Canutillo,El Paso County,31.94,-106.59,Texas,48141,2097
+106901,79836,1,Clint,El Paso County,31.55,-106.18,Texas,48141,2097
+106909,79838,2,Fabens,El Paso County,31.51,-106.17,Texas,48141,2097
+106921,79849,1,San Elizario,El Paso County,31.5,-106.2,Texas,48141,2097
+106940,79853,1,Tornillo,El Paso County,31.43,-106.07,Texas,48141,2097
+106942,79901,3,El Paso,El Paso County,31.76,-106.48,Texas,48141,2097
+106951,79902,2,El Paso,El Paso County,31.78,-106.5,Texas,48141,2097
+106975,79903,1,El Paso,El Paso County,31.79,-106.45,Texas,48141,2097
+106990,79904,2,El Paso,El Paso County,31.86,-106.45,Texas,48141,2097
+107051,79905,1,El Paso,El Paso County,31.76,-106.43,Texas,48141,2097
+107090,79906,3,El Paso,El Paso County,31.81,-106.4,Texas,48141,2097
+107091,79907,1,El Paso,El Paso County,31.72,-106.36,Texas,48141,2097
+107165,79908,1,El Paso,El Paso County,31.83,-106.37,Texas,48141,2097
+107167,79911,1,El Paso,El Paso County,31.882,-106.544,Texas,48141,2097
+107168,79912,2,El Paso,El Paso County,31.85,-106.54,Texas,48141,2097
+107245,79913,1,El Paso,El Paso County,,,Texas,48141,2097
+107246,79915,1,El Paso,El Paso County,31.75,-106.38,Texas,48141,2097
+107291,79922,1,El Paso,El Paso County,31.8,-106.54,Texas,48141,2097
+107297,79924,2,El Paso,El Paso County,31.89,-106.43,Texas,48141,2097
+107457,79925,2,El Paso,El Paso County,31.79,-106.38,Texas,48141,2097
+107508,79927,1,El Paso,El Paso County,31.65,-106.27,Texas,48141,2097
+107545,79928,2,El Paso,El Paso County,31.6,-106.1,Texas,48141,2097
+107639,79930,2,El Paso,El Paso County,31.82,-106.46,Texas,48141,2097
+107687,79932,1,El Paso,El Paso County,31.88,-106.61,Texas,48141,2097
+107736,79934,1,El Paso,El Paso County,31.9,-106.5,Texas,48141,2097
+107774,79935,1,El Paso,El Paso County,31.79,-106.33,Texas,48141,2097
+107804,79936,1,El Paso,El Paso County,31.78,-106.31,Texas,48141,2097
+107931,79938,2,El Paso,El Paso County,31.8,-106.1,Texas,48141,2097
+108047,79949,1,El Paso,El Paso County,,,Texas,48141,2097
+108048,79996,2,El Paso,El Paso County,,,Texas,48141,2097
+108066,78701,3,Austin,Travis County,30.27,-97.74,Texas,48453,1053
+108114,76873,3,Rockwood,Coleman County,31.49,-99.39,Texas,48083,5
+108195,77661,1,Stowell,Chambers County,29.7872,-94.3833,Texas,48071,67
+108280,78205,1,San Antonio,Bexar County,29.43,-98.49,Texas,48029,4514
+108325,75606,1,Longview,Gregg County,,,Texas,48183,677
+108351,78734,1,Austin,Travis County,30.38,-97.96,Texas,48453,1053
 108382,79226,1,Clarendon,Donley County,35.0,-100.8,Texas,48129,1
+108390,75053,1,Grand Prairie,Dallas County,,,Texas,48113,7368
+108468,77629,1,Nome,Jefferson County,30.02,-94.43,Texas,48245,644
 108709,75948,1,Hemphill,Sabine County,31.3,-93.8,Texas,48403,1
+108710,77903,1,Victoria,Victoria County,,,Texas,48469,298
+109009,77399,1,Livingston,Polk County,,,Texas,48373,271
+109024,78373,1,Port Aransas,Nueces County,27.8,-97.2,Texas,48355,1094
+109247,79086,1,Sunray,Moore County,35.8,-101.8,Texas,48341,139
+109302,76531,1,Hamilton,Hamilton County,31.7,-98.2,Texas,48193,6
+109580,75599,1,Texarkana,Bowie County,,,Texas,48037,665
+109729,75470,1,Petty,Lamar County,33.6,-95.81,Texas,48277,205
+109840,78480,1,Corpus Christi,Nueces County,,,Texas,48355,1094
+109935,76681,1,Richland,Navarro County,31.9,-96.4,Texas,48349,221
+109950,75017,1,Irving,Dallas County,,,Texas,48113,7368
+109952,79367,1,Smyer,Hockley County,33.6,-102.3,Texas,48219,100
 110034,79830,1,Alpine,Brewster County,30.0,-103.4,Texas,48043,1
+110182,77005,1,Houston,Harris County,29.72,-95.42,Texas,48201,10209
+110320,78959,1,Waelder,Gonzales County,29.7,-97.3,Texas,48177,90
+110454,77206,1,Houston,Harris County,,,Texas,48201,10209
+110457,76530,1,Granger,Williamson County,30.7,-97.4,Texas,48491,741
 110654,78076,2,Zapata,Zapata County,26.9,-99.2,Texas,48505,2
+110666,79918,1,Fort Bliss,El Paso County,,,Texas,48141,2097
+110747,76803,2,Brownwood,Brown County,,,Texas,48049,174
+110795,77983,2,Seadrift,Calhoun County,28.4,-96.6,Texas,48057,81
+110827,76472,3,Santo,Palo Pinto County,32.6,-98.2,Texas,48363,183
 110868,76380,3,Seymour,Baylor County,33.6,-99.3,Texas,48023,3
+111070,88562,1,El Paso,El Paso County,,,Texas,48141,2097
+111234,77565,1,Kemah,Galveston County,29.53,-95.03,Texas,48167,818
+111247,79025,2,Dawn,Deaf Smith County,35.0,-102.6,Texas,48117,58
+111249,78383,2,Sandia,Jim Wells County,28.1,-98.0,Texas,48249,125

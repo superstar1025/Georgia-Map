@@ -3,78 +3,741 @@
 55306,48003,3,Almont,Lapeer County,42.94,-83.05,Michigan,26087,66
 55307,48009,3,Birmingham,Oakland County,42.55,-83.22,Michigan,26125,737
 55309,48015,1,Center Line,Macomb County,42.48,-83.03,Michigan,26099,980
+55312,48017,1,Clawson,Oakland County,42.54,-83.15,Michigan,26125,737
+55314,48021,1,Eastpointe,Macomb County,42.47,-82.94,Michigan,26099,980
+55362,48022,1,Emmett,St. Clair County,43.03,-82.81,Michigan,26147,204
+55363,48023,1,Fair Haven,St. Clair County,42.69,-82.67,Michigan,26147,204
+55364,48026,1,Fraser,Macomb County,42.54,-82.95,Michigan,26099,980
+55367,48030,1,Hazel Park,Oakland County,42.46,-83.1,Michigan,26125,737
+55375,48032,2,Jeddo,St. Clair County,43.14,-82.59,Michigan,26147,204
+55376,48033,2,Southfield,Oakland County,42.47,-83.29,Michigan,26125,737
+55392,48034,1,Southfield,Oakland County,42.5,-83.29,Michigan,26125,737
+55398,48035,1,Clinton Township,Macomb County,42.55,-82.92,Michigan,26099,980
+55433,48036,3,Clinton Township,Macomb County,42.6,-82.91,Michigan,26099,980
+55465,48037,2,Southfield,Oakland County,,,Michigan,26125,737
+55466,48038,1,Clinton Township,Macomb County,42.6,-82.93,Michigan,26099,980
+55490,48040,1,Marysville,St. Clair County,42.91,-82.48,Michigan,26147,204
+55492,48042,1,Macomb,Macomb County,42.67,-82.92,Michigan,26099,980
+55498,48043,1,Mount Clemens,Macomb County,42.6,-82.88,Michigan,26099,980
+55516,48044,2,Macomb,Macomb County,42.65,-82.93,Michigan,26099,980
+55537,48045,2,Harrison Township,Macomb County,42.59,-82.82,Michigan,26099,980
+55549,48047,1,New Baltimore,Macomb County,42.68,-82.78,Michigan,26099,980
+55560,48048,1,New Haven,Macomb County,42.74,-82.8,Michigan,26099,980
+55569,48049,3,North Street,St. Clair County,43.04,-82.58,Michigan,26147,204
+55571,48051,1,New Baltimore,Macomb County,42.68,-82.81,Michigan,26099,980
+55581,48054,3,East China,St. Clair County,42.77,-82.54,Michigan,26147,204
+55583,48059,1,Fort Gratiot,St. Clair County,43.1,-82.5,Michigan,26147,204
+55608,48060,2,Port Huron,St. Clair County,42.99,-82.47,Michigan,26147,204
+55677,48062,1,Richmond,Macomb County,42.85,-82.8,Michigan,26099,980
+55678,48065,1,Romeo,Macomb County,42.84,-83.04,Michigan,26099,980
+55679,48066,2,Roseville,Macomb County,42.51,-82.94,Michigan,26099,980
+55741,48067,1,Royal Oak,Oakland County,42.49,-83.14,Michigan,26125,737
+55743,48071,3,Madison Heights,Oakland County,42.51,-83.11,Michigan,26125,737
+55750,48073,1,Royal Oak,Oakland County,42.52,-83.16,Michigan,26125,737
+55752,48074,1,Smiths Creek,St. Clair County,42.95,-82.56,Michigan,26147,204
+55759,48075,2,Southfield,Oakland County,42.46,-83.23,Michigan,26125,737
+55772,48076,3,Southfield,Oakland County,42.5,-83.23,Michigan,26125,737
+55781,48079,1,Saint Clair,St. Clair County,42.86,-82.55,Michigan,26147,204
+55785,48080,2,Saint Clair Shores,Macomb County,42.47,-82.9,Michigan,26099,980
+55791,48081,2,Saint Clair Shores,Macomb County,42.49,-82.9,Michigan,26099,980
+55792,48082,3,Saint Clair Shores,Macomb County,42.52,-82.88,Michigan,26099,980
+55795,48083,1,Troy,Oakland County,42.56,-83.12,Michigan,26125,737
+55799,48084,3,Troy,Oakland County,42.56,-83.18,Michigan,26125,737
+55802,48088,1,Warren,Macomb County,42.52,-82.98,Michigan,26099,980
+55813,48089,1,Warren,Macomb County,42.47,-83.0,Michigan,26099,980
+55889,48091,1,Warren,Macomb County,42.47,-83.05,Michigan,26099,980
+55926,48092,3,Warren,Macomb County,42.51,-83.06,Michigan,26099,980
+55943,48093,2,Warren,Macomb County,42.51,-83.02,Michigan,26099,980
+55980,48094,1,Washington,Macomb County,42.74,-83.04,Michigan,26099,980
+55986,48096,2,Ray,Macomb County,42.76,-82.92,Michigan,26099,980
+55987,48097,1,Yale,St. Clair County,43.1,-82.8,Michigan,26147,204
+55988,48098,1,Troy,Oakland County,42.6,-83.18,Michigan,26125,737
 55991,48101,1,Allen Park,Wayne County,42.26,-83.21,Michigan,26163,3601
 56005,48103,2,Ann Arbor,Washtenaw County,42.3,-83.9,Michigan,26161,398
+56012,48104,1,Ann Arbor,Washtenaw County,42.27,-83.71,Michigan,26161,398
+56015,48108,1,Ann Arbor,Washtenaw County,42.22,-83.73,Michigan,26161,398
+56022,48111,3,Belleville,Wayne County,42.2,-83.5,Michigan,26163,3601
 56110,48116,2,Brighton,Livingston County,42.5,-83.77,Michigan,26093,163
 56113,48117,3,Carleton,Monroe County,42.0,-83.4,Michigan,26115,211
+56118,48122,1,Melvindale,Wayne County,42.28,-83.18,Michigan,26163,3601
+56127,48123,1,Dearborn,Wayne County,,,Michigan,26163,3601
+56128,48124,1,Dearborn,Wayne County,42.3,-83.25,Michigan,26163,3601
+56137,48125,1,Dearborn Heights,Wayne County,42.29,-83.26,Michigan,26163,3601
+56156,48126,2,Dearborn,Wayne County,42.33,-83.2,Michigan,26163,3601
+56166,48127,2,Dearborn Heights,Wayne County,42.33,-83.27,Michigan,26163,3601
+56176,48128,2,Dearborn,Wayne County,42.32,-83.27,Michigan,26163,3601
+56178,48130,2,Dexter,Washtenaw County,42.35,-83.9,Michigan,26161,398
+56179,48131,3,Dundee,Monroe County,42.0,-83.7,Michigan,26115,211
+56186,48133,1,Erie,Monroe County,41.79,-83.49,Michigan,26115,211
+56187,48134,3,Flat Rock,Wayne County,42.11,-83.3,Michigan,26163,3601
+56205,48135,2,Garden City,Wayne County,42.33,-83.34,Michigan,26163,3601
+56212,48137,1,Gregory,Livingston County,42.5,-84.1,Michigan,26093,163
+56213,48138,1,Grosse Ile,Wayne County,42.14,-83.15,Michigan,26163,3601
+56216,48140,1,Ida,Monroe County,41.89,-83.59,Michigan,26115,211
+56219,48141,2,Inkster,Wayne County,42.29,-83.31,Michigan,26163,3601
+56277,48145,2,La Salle,Monroe County,41.85,-83.46,Michigan,26115,211
+56279,48146,2,Lincoln Park,Wayne County,42.25,-83.18,Michigan,26163,3601
+56332,48150,2,Livonia,Wayne County,42.37,-83.37,Michigan,26163,3601
+56335,48152,2,Livonia,Wayne County,42.42,-83.37,Michigan,26163,3601
+56345,48154,1,Livonia,Wayne County,42.4,-83.38,Michigan,26163,3601
+56347,48158,2,Manchester,Washtenaw County,42.2,-84.0,Michigan,26161,398
+56349,48159,3,Maybee,Monroe County,42.0,-83.6,Michigan,26115,211
+56351,48160,3,Milan,Washtenaw County,42.1,-83.7,Michigan,26161,398
+56363,48161,2,Monroe,Monroe County,41.9,-83.5,Michigan,26115,211
+56405,48162,2,Monroe,Monroe County,42.0,-83.4,Michigan,26115,211
+56432,48164,1,New Boston,Wayne County,42.13,-83.4,Michigan,26163,3601
+56433,48165,2,New Hudson,Oakland County,42.5,-83.62,Michigan,26125,737
+56445,48166,2,Newport,Monroe County,42.0,-83.3,Michigan,26115,211
+56462,48167,3,Northville,Oakland County,42.4,-83.5,Michigan,26125,737
+56471,48168,3,Northville,Wayne County,42.4,-83.53,Michigan,26163,3601
+56472,48169,3,Pinckney,Livingston County,42.5,-83.9,Michigan,26093,163
+56475,48170,3,Plymouth,Wayne County,42.4,-83.5,Michigan,26163,3601
+56476,48173,3,Rockwood,Wayne County,42.07,-83.23,Michigan,26163,3601
+56483,48174,3,Romulus,Wayne County,42.2,-83.35,Michigan,26163,3601
+56551,48176,2,Saline,Washtenaw County,42.1,-83.8,Michigan,26161,398
+56569,48178,1,South Lyon,Oakland County,42.4,-83.7,Michigan,26125,737
+56580,48179,1,South Rockwood,Monroe County,42.04,-83.26,Michigan,26115,211
+56585,48180,2,Taylor,Wayne County,42.23,-83.27,Michigan,26163,3601
+56686,48182,1,Temperance,Monroe County,41.79,-83.59,Michigan,26115,211
+56690,48183,2,Trenton,Wayne County,42.13,-83.22,Michigan,26163,3601
+56727,48184,2,Wayne,Wayne County,42.28,-83.39,Michigan,26163,3601
+56755,48185,2,Westland,Wayne County,42.33,-83.37,Michigan,26163,3601
+56800,48186,3,Westland,Wayne County,42.29,-83.37,Michigan,26163,3601
+56844,48187,1,Canton,Wayne County,42.33,-83.49,Michigan,26163,3601
+56867,48188,1,Canton,Wayne County,42.29,-83.49,Michigan,26163,3601
+56887,48189,2,Whitmore Lake,Washtenaw County,42.41,-83.79,Michigan,26161,398
+56889,48190,2,Whittaker,Washtenaw County,42.124,-83.601,Michigan,26161,398
+56891,48191,2,Willis,Washtenaw County,42.12,-83.57,Michigan,26161,398
+56895,48192,1,Wyandotte,Wayne County,42.21,-83.16,Michigan,26163,3601
+56912,48193,2,Riverview,Wayne County,42.17,-83.21,Michigan,26163,3601
+56929,48195,2,Southgate,Wayne County,42.21,-83.2,Michigan,26163,3601
+56961,48197,2,Ypsilanti,Washtenaw County,42.21,-83.62,Michigan,26161,398
+57032,48198,1,Ypsilanti,Washtenaw County,42.27,-83.6,Michigan,26161,398
+57130,48201,1,Detroit,Wayne County,42.35,-83.06,Michigan,26163,3601
+57142,48202,3,Detroit,Wayne County,42.38,-83.08,Michigan,26163,3601
+57146,48203,2,Highland Park,Wayne County,42.42,-83.1,Michigan,26163,3601
+57180,48204,1,Detroit,Wayne County,42.37,-83.14,Michigan,26163,3601
+57218,48205,2,Detroit,Wayne County,42.43,-82.98,Michigan,26163,3601
+57310,48206,1,Detroit,Wayne County,42.37,-83.11,Michigan,26163,3601
+57328,48207,2,Detroit,Wayne County,42.35,-83.0,Michigan,26163,3601
+57342,48208,1,Detroit,Wayne County,42.35,-83.09,Michigan,26163,3601
+57353,48209,2,Detroit,Wayne County,42.3,-83.11,Michigan,26163,3601
+57362,48210,1,Detroit,Wayne County,42.34,-83.13,Michigan,26163,3601
+57375,48211,1,Detroit,Wayne County,42.38,-83.05,Michigan,26163,3601
+57380,48212,3,Hamtramck,Wayne County,42.41,-83.05,Michigan,26163,3601
+57393,48213,2,Detroit,Wayne County,42.4,-82.99,Michigan,26163,3601
+57430,48214,1,Detroit,Wayne County,42.37,-82.98,Michigan,26163,3601
+57443,48215,3,Detroit,Wayne County,42.38,-82.95,Michigan,26163,3601
+57456,48216,3,Detroit,Wayne County,42.33,-83.08,Michigan,26163,3601
+57458,48217,1,Detroit,Wayne County,42.28,-83.15,Michigan,26163,3601
+57469,48218,2,River Rouge,Wayne County,42.27,-83.13,Michigan,26163,3601
+57491,48219,2,Detroit,Wayne County,42.42,-83.25,Michigan,26163,3601
+57592,48220,1,Ferndale,Oakland County,42.46,-83.14,Michigan,26125,737
+57599,48221,1,Detroit,Wayne County,42.43,-83.14,Michigan,26163,3601
+57643,48223,1,Detroit,Wayne County,42.39,-83.25,Michigan,26163,3601
+57691,48224,1,Detroit,Wayne County,42.41,-82.94,Michigan,26163,3601
+57794,48225,1,Harper Woods,Wayne County,42.44,-82.93,Michigan,26163,3601
+57813,48227,2,Detroit,Wayne County,42.39,-83.19,Michigan,26163,3601
+57915,48228,1,Detroit,Wayne County,42.3,-83.3,Michigan,26163,3601
+58095,48229,2,Ecorse,Wayne County,42.25,-83.14,Michigan,26163,3601
+58114,48230,1,Grosse Pointe,Wayne County,42.38,-82.92,Michigan,26163,3601
+58115,48232,3,Detroit,Wayne County,,,Michigan,26163,3601
+58116,48234,2,Detroit,Wayne County,42.43,-83.04,Michigan,26163,3601
+58196,48235,1,Detroit,Wayne County,42.43,-83.19,Michigan,26163,3601
+58298,48236,1,Grosse Pointe,Wayne County,42.42,-82.9,Michigan,26163,3601
+58300,48237,2,Oak Park,Oakland County,42.47,-83.18,Michigan,26125,737
+58322,48238,3,Detroit,Wayne County,42.39,-83.13,Michigan,26163,3601
+58365,48239,1,Redford,Wayne County,42.38,-83.28,Michigan,26163,3601
+58421,48240,3,Redford,Wayne County,42.42,-83.3,Michigan,26163,3601
+58458,48244,3,Detroit,Wayne County,,,Michigan,26163,3601
+58461,48302,2,Bloomfield Hills,Oakland County,42.59,-83.29,Michigan,26125,737
+58462,48304,1,Bloomfield Hills,Oakland County,42.59,-83.24,Michigan,26125,737
+58464,48306,1,Rochester,Oakland County,42.74,-83.09,Michigan,26125,737
+58465,48307,2,Rochester,Oakland County,42.66,-83.12,Michigan,26125,737
+58472,48309,2,Rochester,Oakland County,42.66,-83.19,Michigan,26125,737
+58475,48310,3,Sterling Heights,Macomb County,42.56,-83.07,Michigan,26099,980
+58491,48312,2,Sterling Heights,Macomb County,42.56,-83.01,Michigan,26099,980
+58501,48313,1,Sterling Heights,Macomb County,42.6,-83.01,Michigan,26099,980
+58510,48314,2,Sterling Heights,Macomb County,42.61,-83.05,Michigan,26099,980
+58513,48315,2,Utica,Macomb County,42.67,-83.0,Michigan,26099,980
+58526,48316,2,Utica,Macomb County,42.69,-83.06,Michigan,26099,980
+58528,48317,1,Utica,Macomb County,42.64,-83.05,Michigan,26099,980
+58542,48320,2,Keego Harbor,Oakland County,42.61,-83.34,Michigan,26125,737
+58543,48322,1,West Bloomfield,Oakland County,42.54,-83.38,Michigan,26125,737
+58550,48323,1,West Bloomfield,Oakland County,42.57,-83.38,Michigan,26125,737
+58552,48324,3,West Bloomfield,Oakland County,42.59,-83.38,Michigan,26125,737
+58553,48326,3,Auburn Hills,Oakland County,42.67,-83.28,Michigan,26125,737
+58561,48327,1,Waterford,Oakland County,42.65,-83.41,Michigan,26125,737
+58576,48328,1,Waterford,Oakland County,42.65,-83.36,Michigan,26125,737
+58583,48329,1,Waterford,Oakland County,42.69,-83.39,Michigan,26125,737
+58586,48331,3,Farmington,Oakland County,42.5,-83.41,Michigan,26125,737
+58590,48332,2,Farmington,Oakland County,,,Michigan,26125,737
+58591,48334,1,Farmington,Oakland County,42.51,-83.35,Michigan,26125,737
+58595,48335,1,Farmington,Oakland County,42.46,-83.41,Michigan,26125,737
+58597,48336,1,Farmington,Oakland County,42.46,-83.35,Michigan,26125,737
+58608,48340,3,Pontiac,Oakland County,42.67,-83.29,Michigan,26125,737
+58627,48341,2,Pontiac,Oakland County,42.63,-83.29,Michigan,26125,737
+58641,48342,2,Pontiac,Oakland County,42.64,-83.28,Michigan,26125,737
+58660,48346,3,Clarkston,Oakland County,42.72,-83.42,Michigan,26125,737
+58666,48350,1,Davisburg,Oakland County,42.74,-83.53,Michigan,26125,737
+58668,48353,2,Hartland,Livingston County,42.64,-83.72,Michigan,26093,163
+58669,48356,2,Highland,Oakland County,42.65,-83.59,Michigan,26125,737
+58670,48357,2,Highland,Oakland County,42.65,-83.64,Michigan,26125,737
+58673,48360,2,Lake Orion,Oakland County,42.74,-83.27,Michigan,26125,737
+58674,48362,2,Lake Orion,Oakland County,42.78,-83.27,Michigan,26125,737
+58676,48367,2,Leonard,Oakland County,42.84,-83.14,Michigan,26125,737
+58677,48371,3,Oxford,Oakland County,42.85,-83.29,Michigan,26125,737
+58678,48374,1,Novi,Oakland County,42.47,-83.52,Michigan,26125,737
+58680,48375,1,Novi,Oakland County,42.46,-83.46,Michigan,26125,737
+58686,48377,1,Novi,Oakland County,42.5,-83.48,Michigan,26125,737
+58699,48380,1,Milford,Oakland County,42.58,-83.67,Michigan,26125,737
+58702,48381,1,Milford,Oakland County,42.56,-83.6,Michigan,26125,737
+58716,48382,2,Commerce Township,Oakland County,42.58,-83.5,Michigan,26125,737
+58722,48383,1,White Lake,Oakland County,42.66,-83.53,Michigan,26125,737
+58732,48386,1,White Lake,Oakland County,42.66,-83.48,Michigan,26125,737
+58738,48390,3,Walled Lake,Oakland County,42.55,-83.48,Michigan,26125,737
+58742,48393,2,Wixom,Oakland County,42.51,-83.56,Michigan,26125,737
 58755,48401,2,Applegate,Sanilac County,43.4,-82.7,Michigan,26151,94
+58758,48412,1,Attica,Lapeer County,43.1,-83.2,Michigan,26087,66
 58761,48413,1,Bad Axe,Huron County,43.8,-83.0,Michigan,26063,66
 58777,48414,1,Bancroft,Shiawassee County,42.86,-84.08,Michigan,26155,114
 58778,48415,1,Birch Run,Saginaw County,43.3,-83.8,Michigan,26145,524
+58780,48416,1,Brown City,Sanilac County,43.2,-83.0,Michigan,26151,94
+58781,48417,2,Burt,Saginaw County,43.26,-83.93,Michigan,26145,524
+58783,48418,1,Byron,Shiawassee County,42.8,-84.0,Michigan,26155,114
+58786,48419,2,Carsonville,Sanilac County,43.4,-82.7,Michigan,26151,94
 58792,48420,2,Clio,Genesee County,43.2,-83.7,Michigan,26049,1282
+58822,48421,1,Columbiaville,Lapeer County,43.14,-83.38,Michigan,26087,66
+58824,48422,2,Croswell,Sanilac County,43.3,-82.6,Michigan,26151,94
+58828,48423,1,Davison,Genesee County,43.0,-83.5,Michigan,26049,1282
+58863,48426,1,Decker,Sanilac County,43.5,-83.1,Michigan,26151,94
+58864,48427,2,Deckerville,Sanilac County,43.5,-82.7,Michigan,26151,94
+58869,48428,2,Dryden,Lapeer County,42.94,-83.15,Michigan,26087,66
+58870,48429,1,Durand,Shiawassee County,42.9,-84.0,Michigan,26155,114
+58873,48430,2,Fenton,Genesee County,42.8,-83.7,Michigan,26049,1282
+58893,48432,1,Filion,Huron County,43.9,-83.0,Michigan,26063,66
+58894,48433,2,Flushing,Genesee County,43.08,-83.86,Michigan,26049,1282
+58912,48437,2,Genesee,Genesee County,43.11,-83.62,Michigan,26049,1282
+58914,48438,2,Goodrich,Genesee County,42.92,-83.47,Michigan,26049,1282
+58916,48439,2,Grand Blanc,Genesee County,42.9,-83.7,Michigan,26049,1282
+58963,48441,2,Harbor Beach,Huron County,43.8,-82.7,Michigan,26063,66
+58966,48442,1,Holly,Oakland County,42.8,-83.6,Michigan,26125,737
+58981,48444,2,Imlay City,Lapeer County,43.1,-83.1,Michigan,26087,66
+58982,48445,1,Kinde,Huron County,44.0,-83.0,Michigan,26063,66
+58984,48446,1,Lapeer,Lapeer County,43.1,-83.3,Michigan,26087,66
+59009,48449,2,Lennon,Shiawassee County,43.0,-83.95,Michigan,26155,114
+59010,48450,2,Lexington,Sanilac County,43.3,-82.5,Michigan,26151,94
+59015,48451,2,Linden,Genesee County,42.8,-83.8,Michigan,26049,1282
+59020,48453,2,Marlette,Sanilac County,43.3,-83.0,Michigan,26151,94
+59026,48454,2,Melvin,Sanilac County,43.2,-82.83,Michigan,26151,94
+59027,48457,1,Montrose,Genesee County,43.2,-83.9,Michigan,26049,1282
+59042,48458,1,Mount Morris,Genesee County,43.1,-83.7,Michigan,26049,1282
+59096,48461,3,North Branch,Lapeer County,43.2,-83.2,Michigan,26087,66
+59101,48463,1,Otisville,Genesee County,43.16,-83.52,Michigan,26049,1282
+59103,48466,2,Peck,Sanilac County,43.28,-82.81,Michigan,26151,94
+59106,48467,1,Port Austin,Huron County,44.0,-83.0,Michigan,26063,66
+59110,48468,1,Port Hope,Huron County,43.9,-82.8,Michigan,26063,66
+59111,48470,1,Ruth,Huron County,43.74,-82.75,Michigan,26063,66
+59112,48471,2,Sandusky,Sanilac County,43.4,-82.9,Michigan,26151,94
+59126,48472,3,Snover,Sanilac County,43.5,-83.0,Michigan,26151,94
+59128,48473,3,Swartz Creek,Genesee County,42.9,-83.8,Michigan,26049,1282
+59135,48475,1,Ubly,Huron County,43.7,-83.0,Michigan,26063,66
+59137,48480,1,Grand Blanc,Genesee County,,,Michigan,26049,1282
+59138,48501,1,Flint,Genesee County,,,Michigan,26049,1282
+59139,48502,1,Flint,Genesee County,43.02,-83.69,Michigan,26049,1282
+59141,48503,2,Flint,Genesee County,43.01,-83.68,Michigan,26049,1282
+59206,48504,2,Flint,Genesee County,43.06,-83.75,Michigan,26049,1282
+59291,48505,1,Flint,Genesee County,43.06,-83.69,Michigan,26049,1282
+59367,48506,3,Flint,Genesee County,43.07,-83.63,Michigan,26049,1282
+59427,48507,3,Flint,Genesee County,42.96,-83.72,Michigan,26049,1282
+59511,48509,2,Burton,Genesee County,43.03,-83.61,Michigan,26049,1282
+59528,48519,3,Burton,Genesee County,42.99,-83.61,Michigan,26049,1282
+59537,48529,1,Burton,Genesee County,42.97,-83.66,Michigan,26049,1282
+59566,48532,1,Flint,Genesee County,43.01,-83.8,Michigan,26049,1282
+59632,48601,3,Saginaw,Saginaw County,43.4,-83.9,Michigan,26145,524
+59744,48602,2,Saginaw,Saginaw County,43.42,-83.97,Michigan,26145,524
+59838,48603,2,Saginaw,Saginaw County,43.47,-84.02,Michigan,26145,524
+59867,48604,2,Saginaw,Saginaw County,43.49,-83.97,Michigan,26145,524
+59881,48607,3,Saginaw,Saginaw County,43.43,-83.93,Michigan,26145,524
+59883,48609,3,Saginaw,Saginaw County,43.4,-84.1,Michigan,26145,524
 59889,48610,1,Alger,Arenac County,44.1,-84.2,Michigan,26011,27
 59894,48611,1,Auburn,Bay County,43.64,-84.09,Michigan,26017,147
 59896,48612,1,Beaverton,Gladwin County,43.9,-84.4,Michigan,26051,35
+59900,48614,3,Brant,Saginaw County,43.2,-84.3,Michigan,26145,524
 59902,48615,3,Breckenridge,Gratiot County,43.4,-84.5,Michigan,26057,84
+59903,48616,2,Chesaning,Saginaw County,43.2,-84.1,Michigan,26145,524
 59906,48617,2,Clare,Clare County,43.9,-84.7,Michigan,26035,44
 59909,48618,1,Coleman,Midland County,43.7,-84.6,Michigan,26111,111
 59913,48619,1,Comins,Oscoda County,44.8,-84.0,Michigan,26135,1
+59914,48622,1,Farwell,Clare County,43.8,-84.9,Michigan,26035,44
+59917,48623,1,Freeland,Saginaw County,43.5,-84.1,Michigan,26145,524
+59920,48624,2,Gladwin,Gladwin County,44.1,-84.5,Michigan,26051,35
+59930,48625,1,Harrison,Clare County,44.0,-84.9,Michigan,26035,44
+59941,48626,1,Hemlock,Saginaw County,43.4,-84.2,Michigan,26145,524
 59943,48627,1,Higgins Lake,Roscommon County,44.491,-84.779,Michigan,26143,98
+59944,48628,1,Hope,Midland County,43.8,-84.33,Michigan,26111,111
+59947,48629,2,Houghton Lake,Roscommon County,44.3,-84.7,Michigan,26143,98
+59966,48631,2,Kawkawlin,Bay County,43.69,-84.0,Michigan,26017,147
+59969,48632,1,Lake,Clare County,43.8,-85.0,Michigan,26035,44
 59971,48635,2,Lupton,Ogemaw County,44.4,-84.0,Michigan,26129,113
+59976,48637,1,Merrill,Saginaw County,43.4,-84.3,Michigan,26145,524
+59977,48638,1,Saginaw,Saginaw County,43.41,-84.02,Michigan,26145,524
+59997,48640,1,Midland,Midland County,43.6,-84.4,Michigan,26111,111
+60016,48642,1,Midland,Midland County,43.7,-84.2,Michigan,26111,111
+60044,48649,2,Oakley,Saginaw County,43.16,-84.21,Michigan,26145,524
+60046,48650,3,Pinconning,Bay County,43.8,-84.0,Michigan,26017,147
+60050,48651,2,Prudenville,Roscommon County,44.3,-84.7,Michigan,26143,98
+60066,48652,1,Rhodes,Gladwin County,43.9,-84.2,Michigan,26051,35
+60068,48653,1,Roscommon,Roscommon County,44.5,-84.6,Michigan,26143,98
+60073,48654,1,Rose City,Ogemaw County,44.5,-84.1,Michigan,26129,113
+60076,48655,2,Saint Charles,Saginaw County,43.3,-84.2,Michigan,26145,524
+60079,48656,3,Saint Helen,Roscommon County,44.3,-84.5,Michigan,26143,98
+60090,48657,2,Sanford,Midland County,43.7,-84.4,Michigan,26111,111
+60097,48658,1,Standish,Arenac County,44.0,-83.9,Michigan,26011,27
+60102,48659,1,Sterling,Arenac County,44.1,-84.1,Michigan,26011,27
+60103,48661,2,West Branch,Ogemaw County,44.3,-84.2,Michigan,26129,113
+60138,48662,2,Wheeler,Gratiot County,43.4,-84.4,Michigan,26057,84
+60139,48686,2,Midland,Midland County,,,Michigan,26111,111
 60140,48701,3,Akron,Tuscola County,43.6,-83.6,Michigan,26157,115
+60141,48706,2,Bay City,Bay County,43.6,-83.9,Michigan,26017,147
+60178,48708,1,Bay City,Bay County,43.56,-83.83,Michigan,26017,147
+60204,48722,2,Bridgeport,Saginaw County,43.34,-83.83,Michigan,26145,524
+60206,48723,2,Caro,Tuscola County,43.5,-83.4,Michigan,26157,115
+60239,48724,2,Carrollton,Saginaw County,43.45,-83.93,Michigan,26145,524
+60240,48725,1,Caseville,Huron County,43.9,-83.2,Michigan,26063,66
+60241,48726,2,Cass City,Tuscola County,43.6,-83.2,Michigan,26157,115
+60247,48729,2,Deford,Tuscola County,43.5,-83.2,Michigan,26157,115
 60248,48730,2,East Tawas,Iosco County,44.3,-83.5,Michigan,26069,95
+60255,48731,3,Elkton,Huron County,43.8,-83.1,Michigan,26063,66
+60260,48732,1,Essexville,Bay County,43.61,-83.78,Michigan,26017,147
+60268,48734,1,Frankenmuth,Saginaw County,43.36,-83.74,Michigan,26145,524
+60269,48735,1,Gagetown,Tuscola County,43.7,-83.3,Michigan,26157,115
+60270,48739,2,Hale,Iosco County,44.4,-83.8,Michigan,26069,95
 60275,48740,2,Harrisville,Alcona County,44.7,-83.4,Michigan,26001,3
+60276,48741,1,Kingston,Tuscola County,43.4,-83.2,Michigan,26157,115
+60278,48742,1,Lincoln,Alcona County,44.7,-83.4,Michigan,26001,3
+60279,48744,1,Mayville,Tuscola County,43.3,-83.4,Michigan,26157,115
+60282,48746,3,Millington,Tuscola County,43.3,-83.5,Michigan,26157,115
+60286,48748,3,National City,Iosco County,44.3,-83.7,Michigan,26069,95
+60291,48749,3,Omer,Arenac County,44.1,-83.9,Michigan,26011,27
+60293,48750,2,Oscoda,Iosco County,44.4,-83.5,Michigan,26069,95
+60302,48754,2,Owendale,Huron County,43.7,-83.2,Michigan,26063,66
+60303,48755,2,Pigeon,Huron County,43.8,-83.3,Michigan,26063,66
+60305,48756,1,Prescott,Ogemaw County,44.2,-84.0,Michigan,26129,113
+60317,48757,1,Reese,Tuscola County,43.5,-83.7,Michigan,26157,115
+60318,48759,2,Sebewaing,Huron County,43.8,-83.4,Michigan,26063,66
+60320,48761,2,South Branch,Iosco County,44.5,-83.9,Michigan,26069,95
+60321,48763,1,Tawas City,Iosco County,44.2,-83.6,Michigan,26069,95
+60341,48766,1,Twining,Arenac County,44.1,-83.9,Michigan,26011,27
+60342,48767,3,Unionville,Tuscola County,43.6,-83.5,Michigan,26157,115
+60343,48768,1,Vassar,Tuscola County,43.4,-83.6,Michigan,26157,115
+60348,48770,2,Whittemore,Iosco County,44.2,-83.8,Michigan,26069,95
+60355,48801,1,Alma,Gratiot County,43.4,-84.7,Michigan,26057,84
 60378,48808,1,Bath,Clinton County,42.83,-84.44,Michigan,26037,35
 60380,48809,2,Belding,Ionia County,43.1,-85.3,Michigan,26067,95
 60385,48811,2,Carson City,Montcalm County,43.19,-84.86,Michigan,26117,101
 60387,48813,1,Charlotte,Eaton County,42.6,-84.8,Michigan,26045,125
+60402,48817,1,Corunna,Shiawassee County,43.0,-84.0,Michigan,26155,114
+60404,48818,2,Crystal,Montcalm County,43.27,-84.9,Michigan,26117,101
+60405,48820,2,Dewitt,Clinton County,42.9,-84.6,Michigan,26037,35
+60406,48821,1,Dimondale,Eaton County,42.64,-84.66,Michigan,26045,125
 60408,48823,1,East Lansing,Ingham County,42.76,-84.44,Michigan,26065,348
+60423,48825,2,East Lansing,Ingham County,42.732,-84.496,Michigan,26065,348
+60424,48827,2,Eaton Rapids,Eaton County,42.5,-84.7,Michigan,26045,125
+60428,48829,1,Edmore,Montcalm County,43.4,-85.0,Michigan,26117,101
+60430,48831,1,Elsie,Clinton County,43.1,-84.4,Michigan,26037,35
+60433,48832,1,Elwell,Gratiot County,43.4,-84.78,Michigan,26057,84
+60436,48834,1,Fenwick,Montcalm County,43.1,-85.1,Michigan,26117,101
+60438,48836,3,Fowlerville,Livingston County,42.7,-84.1,Michigan,26093,163
+60451,48837,1,Grand Ledge,Eaton County,42.8,-84.8,Michigan,26045,125
+60456,48838,2,Greenville,Montcalm County,43.2,-85.3,Michigan,26117,101
+60478,48840,1,Haslett,Ingham County,42.77,-84.37,Michigan,26065,348
+60484,48842,1,Holt,Ingham County,42.63,-84.54,Michigan,26065,348
+60491,48843,1,Howell,Livingston County,42.6,-83.9,Michigan,26093,163
+60505,48846,1,Ionia,Ionia County,43.0,-85.1,Michigan,26067,95
+60544,48847,1,Ithaca,Gratiot County,43.3,-84.6,Michigan,26057,84
+60546,48848,2,Laingsburg,Shiawassee County,42.9,-84.4,Michigan,26155,114
+60547,48849,1,Lake Odessa,Ionia County,42.8,-85.1,Michigan,26067,95
+60552,48850,2,Lakeview,Montcalm County,43.4,-85.3,Michigan,26117,101
+60553,48853,1,Maple Rapids,Clinton County,43.1,-84.69,Michigan,26037,35
+60554,48855,1,Howell,Livingston County,42.7,-83.9,Michigan,26093,163
+60556,48857,2,Morrice,Shiawassee County,42.85,-84.14,Michigan,26155,114
 60557,48858,1,Mount Pleasant,Isabella County,43.6,-84.8,Michigan,26073,105
+60617,48860,1,Muir,Ionia County,43.04,-84.91,Michigan,26067,95
+60618,48864,1,Okemos,Ingham County,42.71,-84.4,Michigan,26065,348
+60620,48865,1,Orleans,Ionia County,43.08,-85.11,Michigan,26067,95
+60623,48866,1,Ovid,Clinton County,42.99,-84.37,Michigan,26037,35
+60624,48867,1,Owosso,Shiawassee County,43.0,-84.2,Michigan,26155,114
+60658,48871,1,Perrinton,Gratiot County,43.16,-84.68,Michigan,26057,84
+60660,48872,2,Perry,Shiawassee County,42.8,-84.2,Michigan,26155,114
+60668,48873,2,Pewamo,Ionia County,43.0,-84.8,Michigan,26067,95
+60669,48875,2,Portland,Ionia County,42.9,-84.9,Michigan,26067,95
+60674,48876,1,Potterville,Eaton County,42.65,-84.73,Michigan,26045,125
+60685,48877,1,Riverdale,Gratiot County,43.4,-84.8,Michigan,26057,84
+60690,48879,2,Saint Johns,Clinton County,43.0,-84.6,Michigan,26037,35
+60702,48880,1,Saint Louis,Gratiot County,43.5,-84.6,Michigan,26057,84
+60710,48881,1,Saranac,Ionia County,42.9,-85.2,Michigan,26067,95
+60711,48884,2,Sheridan,Montcalm County,43.2,-85.1,Michigan,26117,101
+60713,48885,1,Sidney,Montcalm County,43.25,-85.15,Michigan,26117,101
+60715,48886,2,Six Lakes,Montcalm County,43.43,-85.16,Michigan,26117,101
+60717,48888,1,Stanton,Montcalm County,43.3,-85.1,Michigan,26117,101
+60724,48889,2,Sumner,Gratiot County,43.29,-84.8,Michigan,26057,84
+60725,48890,2,Sunfield,Eaton County,42.77,-84.97,Michigan,26045,125
+60726,48891,2,Vestaburg,Montcalm County,43.4,-84.9,Michigan,26117,101
+60731,48892,3,Webberville,Ingham County,42.6,-84.2,Michigan,26065,348
+60744,48895,3,Williamston,Ingham County,42.7,-84.3,Michigan,26065,348
 60747,48897,2,Woodland,Barry County,42.7,-85.13,Michigan,26015,69
+60751,48906,2,Lansing,Ingham County,42.78,-84.58,Michigan,26065,348
+60779,48910,2,Lansing,Ingham County,42.7,-84.52,Michigan,26065,348
+60821,48911,3,Lansing,Ingham County,42.68,-84.56,Michigan,26065,348
+60855,48912,3,Lansing,Ingham County,42.74,-84.52,Michigan,26065,348
+60865,48915,1,Lansing,Ingham County,42.74,-84.57,Michigan,26065,348
+60871,48917,2,Lansing,Eaton County,42.73,-84.63,Michigan,26045,125
+60884,48918,1,Lansing,Ingham County,,,Michigan,26065,348
+60886,48933,1,Lansing,Ingham County,42.73,-84.56,Michigan,26065,348
 60891,49001,2,Kalamazoo,Kalamazoo County,42.27,-85.56,Michigan,26077,622
+60940,49002,1,Portage,Kalamazoo County,42.2,-85.57,Michigan,26077,622
+60964,49004,2,Kalamazoo,Kalamazoo County,42.35,-85.58,Michigan,26077,622
+60986,49006,1,Kalamazoo,Kalamazoo County,42.3,-85.63,Michigan,26077,622
+61020,49007,2,Kalamazoo,Kalamazoo County,42.3,-85.6,Michigan,26077,622
+61055,49008,1,Kalamazoo,Kalamazoo County,42.27,-85.62,Michigan,26077,622
+61075,49009,2,Kalamazoo,Kalamazoo County,42.3,-85.7,Michigan,26077,622
 61147,49010,3,Allegan,Allegan County,42.5,-85.9,Michigan,26005,147
 61159,49011,2,Athens,Calhoun County,42.09,-85.22,Michigan,26025,324
 61160,49013,1,Bangor,Van Buren County,42.3,-86.1,Michigan,26159,252
+61166,49014,1,Battle Creek,Calhoun County,42.3,-85.1,Michigan,26025,324
+61213,49015,2,Battle Creek,Calhoun County,42.27,-85.24,Michigan,26025,324
+61269,49016,2,Battle Creek,Calhoun County,,,Michigan,26025,324
+61271,49017,1,Battle Creek,Calhoun County,42.4,-85.2,Michigan,26025,324
+61297,49019,1,Kalamazoo,Kalamazoo County,,,Michigan,26077,622
+61298,49020,2,Bedford,Calhoun County,,,Michigan,26025,324
+61299,49021,1,Bellevue,Eaton County,42.4,-85.1,Michigan,26045,125
 61304,49022,1,Benton Harbor,Berrien County,42.1,-86.3,Michigan,26021,447
+61418,49023,1,Benton Harbor,Berrien County,,,Michigan,26021,447
+61419,49024,2,Portage,Kalamazoo County,42.2,-85.62,Michigan,26077,622
+61445,49026,3,Bloomingdale,Van Buren County,42.38,-85.97,Michigan,26159,252
 61447,49028,1,Bronson,Branch County,41.9,-85.2,Michigan,26023,203
+61463,49029,1,Burlington,Calhoun County,42.14,-85.1,Michigan,26025,324
 61468,49030,1,Burr Oak,St. Joseph County,41.8,-85.4,Michigan,26149,150
 61470,49031,2,Cassopolis,Cass County,41.9,-86.0,Michigan,26027,73
+61479,49032,2,Centreville,St. Joseph County,41.9,-85.5,Michigan,26149,150
+61481,49034,1,Climax,Kalamazoo County,42.23,-85.34,Michigan,26077,622
+61482,49036,1,Coldwater,Branch County,41.9,-85.0,Michigan,26023,203
+61549,49037,2,Battle Creek,Calhoun County,42.32,-85.24,Michigan,26025,324
+61581,49038,2,Coloma,Berrien County,42.2,-86.3,Michigan,26021,447
+61588,49039,1,Hagar Shores,Berrien County,,,Michigan,26021,447
+61590,49040,2,Colon,St. Joseph County,41.97,-85.34,Michigan,26149,150
+61596,49042,3,Constantine,St. Joseph County,41.9,-85.7,Michigan,26149,150
+61600,49043,3,Covert,Van Buren County,42.29,-86.27,Michigan,26159,252
+61607,49045,1,Decatur,Van Buren County,42.1,-86.0,Michigan,26159,252
+61619,49046,1,Delton,Barry County,42.5,-85.4,Michigan,26015,69
+61624,49047,1,Dowagiac,Cass County,42.0,-86.1,Michigan,26027,73
+61637,49048,2,Kalamazoo,Kalamazoo County,42.27,-85.49,Michigan,26077,622
+61707,49050,2,Dowling,Barry County,42.49,-85.24,Michigan,26015,69
+61710,49052,2,Fulton,Kalamazoo County,42.12,-85.32,Michigan,26077,622
+61712,49053,1,Galesburg,Kalamazoo County,42.29,-85.4,Michigan,26077,622
+61721,49055,1,Gobles,Van Buren County,42.4,-85.9,Michigan,26159,252
+61732,49056,1,Grand Junction,Van Buren County,42.4,-86.1,Michigan,26159,252
+61743,49057,1,Hartford,Van Buren County,42.2,-86.2,Michigan,26159,252
+61751,49058,1,Hastings,Barry County,42.6,-85.3,Michigan,26015,69
+61765,49065,1,Lawton,Van Buren County,42.13,-85.83,Michigan,26159,252
+61778,49067,1,Marcellus,Cass County,42.0,-85.8,Michigan,26027,73
+61783,49068,2,Marshall,Calhoun County,42.3,-84.9,Michigan,26025,324
+61794,49070,1,Martin,Allegan County,42.54,-85.62,Michigan,26005,147
+61796,49071,1,Mattawan,Van Buren County,42.2,-85.8,Michigan,26159,252
+61810,49072,1,Mendon,St. Joseph County,42.0,-85.5,Michigan,26149,150
+61811,49073,1,Nashville,Barry County,42.6,-85.1,Michigan,26015,69
+61818,49076,1,Olivet,Eaton County,42.4,-84.9,Michigan,26045,125
+61821,49078,1,Otsego,Allegan County,42.5,-85.7,Michigan,26005,147
+61843,49079,1,Paw Paw,Van Buren County,42.2,-85.9,Michigan,26159,252
+61883,49080,1,Plainwell,Allegan County,42.5,-85.6,Michigan,26005,147
+61909,49081,2,Portage,Kalamazoo County,,,Michigan,26077,622
+61910,49082,1,Quincy,Branch County,41.9,-84.9,Michigan,26023,203
+61925,49083,1,Richland,Kalamazoo County,42.38,-85.46,Michigan,26077,622
+61926,49085,2,Saint Joseph,Berrien County,42.06,-86.45,Michigan,26021,447
+61929,49087,2,Schoolcraft,Kalamazoo County,42.12,-85.69,Michigan,26077,622
+61932,49089,1,Sherwood,Branch County,42.01,-85.23,Michigan,26023,203
+61933,49090,1,South Haven,Van Buren County,42.4,-86.2,Michigan,26159,252
+61966,49091,3,Sturgis,St. Joseph County,41.8,-85.4,Michigan,26149,150
+62000,49092,2,Tekonsha,Calhoun County,42.1,-85.0,Michigan,26025,324
+62004,49093,1,Three Rivers,St. Joseph County,42.0,-85.7,Michigan,26149,150
+62039,49094,2,Union City,Branch County,42.1,-85.1,Michigan,26023,203
+62050,49095,3,Vandalia,Cass County,41.9,-85.9,Michigan,26027,73
+62052,49096,1,Vermontville,Eaton County,42.6,-85.0,Michigan,26045,125
+62060,49097,1,Vicksburg,Kalamazoo County,42.1,-85.5,Michigan,26077,622
+62063,49098,2,Watervliet,Berrien County,42.2,-86.2,Michigan,26021,447
+62066,49099,1,White Pigeon,St. Joseph County,41.8,-85.7,Michigan,26149,150
+62074,49102,2,Berrien Center,Berrien County,41.95,-86.27,Michigan,26021,447
+62075,49103,3,Berrien Springs,Berrien County,41.95,-86.37,Michigan,26021,447
+62079,49107,1,Buchanan,Berrien County,41.8,-86.4,Michigan,26021,447
+62091,49111,1,Eau Claire,Berrien County,42.02,-86.28,Michigan,26021,447
+62094,49112,2,Edwardsburg,Cass County,41.8,-86.0,Michigan,26027,73
+62105,49117,2,New Buffalo,Berrien County,41.79,-86.74,Michigan,26021,447
+62106,49119,1,New Troy,Berrien County,41.8759,-86.5492,Michigan,26021,447
+62107,49120,3,Niles,Berrien County,41.8,-86.2,Michigan,26021,447
+62204,49126,3,Sodus,Berrien County,42.02,-86.37,Michigan,26021,447
+62205,49127,2,Stevensville,Berrien County,42.01,-86.51,Michigan,26021,447
 62209,49201,1,Jackson,Jackson County,42.2,-84.4,Michigan,26075,167
+62240,49202,1,Jackson,Jackson County,42.28,-84.4,Michigan,26075,167
+62257,49203,1,Jackson,Jackson County,42.22,-84.4,Michigan,26075,167
 62300,49220,3,Addison,Lenawee County,41.99,-84.33,Michigan,26091,132
+62301,49221,1,Adrian,Lenawee County,41.9,-84.1,Michigan,26091,132
+62343,49224,1,Albion,Calhoun County,42.3,-84.7,Michigan,26025,324
 62347,49227,1,Allen,Hillsdale County,41.95,-84.77,Michigan,26059,144
+62349,49228,2,Blissfield,Lenawee County,41.8,-83.9,Michigan,26091,132
+62351,49229,2,Britton,Lenawee County,42.0,-83.8,Michigan,26091,132
+62352,49230,1,Brooklyn,Jackson County,42.1,-84.2,Michigan,26075,167
+62354,49232,2,Camden,Hillsdale County,41.7,-84.6,Michigan,26059,144
+62356,49235,2,Clayton,Lenawee County,41.86,-84.21,Michigan,26091,132
+62360,49236,1,Clinton,Lenawee County,42.1,-84.0,Michigan,26091,132
+62364,49237,1,Concord,Jackson County,42.18,-84.64,Michigan,26075,167
+62365,49238,2,Deerfield,Lenawee County,41.9,-83.8,Michigan,26091,132
+62366,49239,1,Frontier,Hillsdale County,,,Michigan,26059,144
+62367,49242,3,Hillsdale,Hillsdale County,41.9,-84.6,Michigan,26059,144
+62404,49245,2,Homer,Calhoun County,42.1,-84.8,Michigan,26025,324
+62407,49246,2,Horton,Jackson County,42.11,-84.51,Michigan,26075,167
+62408,49247,1,Hudson,Lenawee County,41.8,-84.3,Michigan,26091,132
+62411,49249,2,Jerome,Hillsdale County,42.04,-84.46,Michigan,26059,144
+62413,49250,2,Jonesville,Hillsdale County,42.0,-84.6,Michigan,26059,144
+62428,49251,1,Leslie,Ingham County,42.5,-84.4,Michigan,26065,348
+62431,49252,2,Litchfield,Hillsdale County,42.04,-84.77,Michigan,26059,144
+62435,49253,2,Manitou Beach,Lenawee County,41.97,-84.27,Michigan,26091,132
+62436,49255,2,Montgomery,Branch County,41.8,-84.9,Michigan,26023,203
+62438,49256,2,Morenci,Lenawee County,41.8,-84.2,Michigan,26091,132
+62439,49258,2,Mosherville,Hillsdale County,,,Michigan,26059,144
+62440,49265,2,Onsted,Lenawee County,42.01,-84.17,Michigan,26091,132
+62442,49266,2,Osseo,Hillsdale County,41.8,-84.5,Michigan,26059,144
+62443,49267,2,Ottawa Lake,Monroe County,41.77,-83.73,Michigan,26115,211
+62444,49269,2,Parma,Jackson County,42.3,-84.6,Michigan,26075,167
+62446,49270,2,Petersburg,Monroe County,41.87,-83.68,Michigan,26115,211
+62447,49271,3,Pittsford,Hillsdale County,41.9,-84.5,Michigan,26059,144
+62451,49274,3,Reading,Hillsdale County,41.8,-84.8,Michigan,26059,144
+62461,49282,2,Somerset Center,Hillsdale County,42.03,-84.41,Michigan,26059,144
+62462,49286,1,Tecumseh,Lenawee County,42.0,-83.9,Michigan,26091,132
+62471,49287,1,Tipton,Lenawee County,42.03,-84.08,Michigan,26091,132
+62474,49288,3,Waldron,Hillsdale County,41.7,-84.4,Michigan,26059,144
 62475,49302,2,Alto,Kent County,42.82,-85.4,Michigan,26081,575
 62477,49304,2,Baldwin,Lake County,43.9,-85.9,Michigan,26085,16
+62478,49306,2,Belmont,Kent County,43.08,-85.57,Michigan,26081,575
 62481,49307,1,Big Rapids,Mecosta County,43.7,-85.5,Michigan,26107,91
 62516,49309,3,Bitely,Newaygo County,43.8,-85.9,Michigan,26123,103
+62520,49310,1,Blanchard,Isabella County,43.5,-85.1,Michigan,26073,105
+62521,49315,1,Byron Center,Kent County,42.8,-85.7,Michigan,26081,575
+62525,49316,1,Caledonia,Kent County,42.79,-85.55,Michigan,26081,575
 62527,49318,1,Casnovia,Muskegon County,43.23,-85.83,Michigan,26121,546
+62528,49319,3,Cedar Springs,Kent County,43.2,-85.5,Michigan,26081,575
+62530,49320,1,Chippewa Lake,Mecosta County,43.745,-85.292,Michigan,26107,91
+62531,49321,3,Comstock Park,Kent County,43.08,-85.68,Michigan,26081,575
+62556,49323,3,Dorr,Allegan County,42.7,-85.8,Michigan,26005,147
+62560,49325,1,Freeport,Barry County,42.8,-85.3,Michigan,26015,69
+62561,49326,2,Gowen,Kent County,43.25,-85.31,Michigan,26081,575
+62562,49327,1,Grant,Newaygo County,43.4,-85.9,Michigan,26123,103
+62568,49329,2,Howard City,Montcalm County,43.4,-85.5,Michigan,26117,101
+62573,49330,1,Kent City,Kent County,43.25,-85.74,Michigan,26081,575
+62575,49331,2,Lowell,Kent County,43.0,-85.3,Michigan,26081,575
+62578,49332,1,Mecosta,Mecosta County,43.6,-85.3,Michigan,26107,91
+62579,49333,2,Middleville,Barry County,42.7,-85.5,Michigan,26015,69
+62581,49336,2,Morley,Mecosta County,43.5,-85.4,Michigan,26107,91
+62587,49337,2,Newaygo,Newaygo County,43.4,-85.7,Michigan,26123,103
+62600,49338,2,Paris,Mecosta County,43.8,-85.6,Michigan,26107,91
+62602,49340,2,Remus,Mecosta County,43.6,-85.1,Michigan,26107,91
+62603,49341,2,Rockford,Kent County,43.1,-85.5,Michigan,26081,575
+62607,49342,1,Rodney,Mecosta County,43.69,-85.33,Michigan,26107,91
+62611,49344,1,Shelbyville,Allegan County,42.59,-85.59,Michigan,26005,147
+62612,49345,1,Sparta,Kent County,43.15,-85.69,Michigan,26081,575
+62616,49346,1,Stanwood,Mecosta County,43.6,-85.4,Michigan,26107,91
+62620,49348,1,Wayland,Allegan County,42.7,-85.6,Michigan,26005,147
+62623,49349,3,White Cloud,Newaygo County,43.6,-85.8,Michigan,26123,103
 62637,49401,2,Allendale,Ottawa County,42.98,-85.95,Michigan,26139,208
+62645,49404,3,Coopersville,Ottawa County,43.1,-85.9,Michigan,26139,208
 62652,49405,2,Custer,Mason County,43.9,-86.2,Michigan,26105,94
+62657,49406,2,Douglas,Allegan County,42.64,-86.2,Michigan,26005,147
+62658,49408,2,Fennville,Allegan County,42.6,-86.1,Michigan,26005,147
+62665,49410,1,Fountain,Mason County,44.01,-86.15,Michigan,26105,94
+62670,49411,2,Free Soil,Mason County,44.1,-86.3,Michigan,26105,94
+62672,49412,1,Fremont,Newaygo County,43.5,-85.9,Michigan,26123,103
+62693,49415,2,Fruitport,Muskegon County,43.15,-86.13,Michigan,26121,546
+62696,49417,1,Grand Haven,Ottawa County,43.0,-86.1,Michigan,26139,208
+62717,49418,2,Grandville,Kent County,42.88,-85.78,Michigan,26081,575
+62731,49419,1,Hamilton,Allegan County,42.7,-86.0,Michigan,26005,147
 62732,49420,1,Hart,Oceana County,43.7,-86.3,Michigan,26127,47
+62737,49421,2,Hesperia,Oceana County,43.6,-86.1,Michigan,26127,47
+62741,49423,1,Holland,Ottawa County,42.7,-86.1,Michigan,26139,208
+62774,49424,2,Holland,Ottawa County,42.8,-86.1,Michigan,26139,208
+62807,49425,2,Holton,Muskegon County,43.4,-86.1,Michigan,26121,546
+62814,49426,2,Hudsonville,Ottawa County,42.8,-85.9,Michigan,26139,208
+62822,49428,2,Jenison,Ottawa County,42.92,-85.84,Michigan,26139,208
+62825,49431,2,Ludington,Mason County,44.0,-86.4,Michigan,26105,94
+62855,49435,1,Marne,Ottawa County,43.03,-85.83,Michigan,26139,208
+62856,49437,2,Montague,Muskegon County,43.5,-86.3,Michigan,26121,546
+62868,49440,1,Muskegon,Muskegon County,43.24,-86.26,Michigan,26121,546
+62869,49441,3,Muskegon,Muskegon County,43.18,-86.28,Michigan,26121,546
+62918,49442,2,Muskegon,Muskegon County,43.2,-86.1,Michigan,26121,546
+63032,49443,1,Muskegon,Muskegon County,,,Michigan,26121,546
+63033,49444,1,Muskegon,Muskegon County,43.18,-86.19,Michigan,26121,546
+63109,49445,1,Muskegon,Muskegon County,43.3,-86.3,Michigan,26121,546
+63119,49446,1,New Era,Oceana County,43.6,-86.4,Michigan,26127,47
+63124,49448,2,Nunica,Ottawa County,43.1,-86.07,Michigan,26139,208
+63127,49449,1,Pentwater,Oceana County,43.8,-86.37,Michigan,26127,47
+63130,49450,1,Pullman,Allegan County,42.5,-86.1,Michigan,26005,147
+63136,49451,2,Ravenna,Muskegon County,43.2,-86.0,Michigan,26121,546
+63137,49452,3,Rothbury,Oceana County,43.51,-86.27,Michigan,26127,47
+63141,49454,2,Scottville,Mason County,43.9,-86.3,Michigan,26105,94
+63150,49455,2,Shelby,Oceana County,43.6,-86.3,Michigan,26127,47
+63156,49456,2,Spring Lake,Ottawa County,43.09,-86.2,Michigan,26139,208
+63164,49457,1,Twin Lake,Muskegon County,43.4,-86.2,Michigan,26121,546
+63184,49460,1,West Olive,Ottawa County,42.93,-86.12,Michigan,26139,208
+63185,49461,2,Whitehall,Muskegon County,43.4,-86.3,Michigan,26121,546
+63200,49464,2,Zeeland,Ottawa County,42.9,-86.0,Michigan,26139,208
+63209,49503,2,Grand Rapids,Kent County,42.95,-85.67,Michigan,26081,575
+63227,49504,2,Grand Rapids,Kent County,42.98,-85.71,Michigan,26081,575
+63249,49505,1,Grand Rapids,Kent County,43.0,-85.63,Michigan,26081,575
+63259,49506,1,Grand Rapids,Kent County,42.94,-85.62,Michigan,26081,575
+63267,49507,3,Grand Rapids,Kent County,42.93,-85.65,Michigan,26081,575
+63298,49508,2,Grand Rapids,Kent County,42.86,-85.62,Michigan,26081,575
+63327,49509,1,Wyoming,Kent County,42.9,-85.69,Michigan,26081,575
+63342,49512,3,Grand Rapids,Kent County,42.88,-85.53,Michigan,26081,575
+63354,49519,3,Wyoming,Kent County,42.9,-85.72,Michigan,26081,575
+63376,49525,2,Grand Rapids,Kent County,43.01,-85.6,Michigan,26081,575
+63380,49534,1,Grand Rapids,Kent County,42.97,-85.79,Michigan,26081,575
+63385,49544,2,Grand Rapids,Kent County,43.05,-85.73,Michigan,26081,575
+63405,49546,1,Grand Rapids,Kent County,42.93,-85.54,Michigan,26081,575
+63415,49548,1,Grand Rapids,Kent County,42.87,-85.66,Michigan,26081,575
 63478,49601,3,Cadillac,Wexford County,44.3,-85.5,Michigan,26165,92
 63512,49610,1,Acme,Grand Traverse County,,,Michigan,26055,55
+63513,49618,2,Boon,Wexford County,44.3,-85.6,Michigan,26165,92
+63514,49620,2,Buckley,Wexford County,44.5,-85.7,Michigan,26165,92
+63515,49623,2,Chase,Lake County,43.9,-85.7,Michigan,26085,16
 63516,49631,2,Evart,Osceola County,43.9,-85.3,Michigan,26133,33
+63519,49637,1,Grawn,Grand Traverse County,44.62,-85.7,Michigan,26055,55
+63520,49639,1,Hersey,Osceola County,43.8,-85.4,Michigan,26133,33
+63524,49642,2,Idlewild,Lake County,43.88,-85.76,Michigan,26085,16
+63526,49643,2,Interlochen,Grand Traverse County,44.6,-85.8,Michigan,26055,55
 63528,49646,1,Kalkaska,Kalkaska County,44.7,-85.1,Michigan,26079,9
+63530,49649,1,Kingsley,Grand Traverse County,44.5,-85.5,Michigan,26055,55
 63531,49651,1,Lake City,Missaukee County,44.4,-85.1,Michigan,26113,16
+63536,49656,2,Luther,Lake County,44.1,-85.7,Michigan,26085,16
+63542,49657,3,Mc Bain,Missaukee County,44.2,-85.2,Michigan,26113,16
 63544,49659,1,Mancelona,Antrim County,44.9,-85.0,Michigan,26009,15
+63547,49663,1,Manton,Wexford County,44.4,-85.4,Michigan,26165,92
+63557,49665,2,Marion,Osceola County,44.1,-85.1,Michigan,26133,33
+63561,49666,1,Mayfield,Grand Traverse County,44.6,-85.5,Michigan,26055,55
+63562,49667,2,Merritt,Missaukee County,44.4,-84.9,Michigan,26113,16
+63565,49668,1,Mesick,Wexford County,44.4,-85.7,Michigan,26165,92
+63571,49676,2,Rapid City,Kalkaska County,44.8,-85.3,Michigan,26079,9
+63572,49677,2,Reed City,Osceola County,43.9,-85.5,Michigan,26133,33
 63573,49683,2,Thompsonville,Benzie County,44.5,-85.9,Michigan,26019,8
+63574,49684,2,Traverse City,Grand Traverse County,44.8,-85.7,Michigan,26055,55
+63576,49685,1,Traverse City,Grand Traverse County,,,Michigan,26055,55
+63585,49686,2,Traverse City,Grand Traverse County,44.9,-85.5,Michigan,26055,55
+63594,49688,2,Tustin,Osceola County,44.1,-85.4,Michigan,26133,33
+63596,49696,2,Traverse City,Grand Traverse County,,,Michigan,26055,55
 63597,49705,2,Afton,Cheboygan County,45.4,-84.5,Michigan,26031,96
 63600,49706,2,Alanson,Emmet County,45.4,-84.8,Michigan,26047,58
 63603,49707,2,Alpena,Alpena County,45.1,-83.5,Michigan,26007,51
 63625,49709,1,Atlanta,Montmorency County,45.0,-84.2,Michigan,26119,11
 63628,49712,1,Boyne City,Charlevoix County,45.2,-85.0,Michigan,26029,17
+63629,49713,2,Boyne Falls,Charlevoix County,45.2,-84.8,Michigan,26029,17
 63636,49715,2,Brimley,Chippewa County,46.4,-84.8,Michigan,26033,95
+63637,49716,2,Brutus,Emmet County,45.51,-84.75,Michigan,26047,58
+63638,49720,1,Charlevoix,Charlevoix County,45.3,-85.2,Michigan,26029,17
+63640,49721,1,Cheboygan,Cheboygan County,45.6,-84.5,Michigan,26031,96
+63693,49724,1,Dafter,Chippewa County,46.3,-84.4,Michigan,26033,95
+63694,49727,1,East Jordan,Charlevoix County,45.1,-85.1,Michigan,26029,17
+63695,49730,1,Elmira,Antrim County,45.1,-84.9,Michigan,26009,15
 63699,49733,1,Frederic,Crawford County,44.8,-84.7,Michigan,26039,6
 63701,49735,1,Gaylord,Otsego County,45.0,-84.6,Michigan,26137,72
+63736,49736,2,Goetzville,Chippewa County,46.1,-84.1,Michigan,26033,95
+63737,49738,2,Grayling,Crawford County,44.7,-84.6,Michigan,26039,6
+63740,49740,2,Harbor Springs,Emmet County,45.5,-85.0,Michigan,26047,58
+63741,49744,2,Herron,Alpena County,45.0,-83.7,Michigan,26007,51
+63742,49746,1,Hillman,Montmorency County,45.1,-84.0,Michigan,26119,11
+63743,49747,3,Hubbard Lake,Alpena County,44.9,-83.6,Michigan,26007,51
+63745,49749,1,Indian River,Cheboygan County,45.4,-84.6,Michigan,26031,96
+63746,49751,2,Johannesburg,Otsego County,45.0,-84.4,Michigan,26137,72
+63752,49753,2,Lachine,Alpena County,45.0,-83.8,Michigan,26007,51
+63753,49755,1,Levering,Emmet County,45.7,-84.8,Michigan,26047,58
+63754,49756,2,Lewiston,Montmorency County,44.8,-84.2,Michigan,26119,11
 63757,49759,1,Millersburg,Presque Isle County,45.4,-84.1,Michigan,26141,8
+63758,49764,2,Oden,Emmet County,45.3,-84.9,Michigan,26047,58
+63759,49765,2,Onaway,Presque Isle County,45.4,-84.2,Michigan,26141,8
+63760,49768,2,Paradise,Chippewa County,46.6,-85.1,Michigan,26033,95
+63761,49769,1,Pellston,Emmet County,45.6,-84.8,Michigan,26047,58
+63762,49770,1,Petoskey,Emmet County,45.3,-84.9,Michigan,26047,58
+63788,49779,2,Rogers City,Presque Isle County,45.4,-83.9,Michigan,26141,8
+63790,49780,1,Rudyard,Chippewa County,46.2,-84.8,Michigan,26033,95
+63792,49783,2,Sault Sainte Marie,Chippewa County,46.4,-84.3,Michigan,26033,95
+63828,49788,2,Kincheloe,Chippewa County,46.26,-84.47,Michigan,26033,95
+63834,49795,1,Vanderbilt,Otsego County,45.2,-84.6,Michigan,26137,72
+63839,49796,1,Walloon Lake,Charlevoix County,45.268,-84.928,Michigan,26029,17
 63840,49801,2,Iron Mountain,Dickinson County,45.9,-88.0,Michigan,26043,110
+63868,49802,1,Kingsford,Dickinson County,45.8,-88.07,Michigan,26043,110
 63889,49807,2,Bark River,Delta County,45.8,-87.4,Michigan,26041,104
 63891,49814,1,Champion,Marquette County,46.6,-87.9,Michigan,26103,125
+63892,49818,3,Cornell,Delta County,46.0,-87.3,Michigan,26041,104
 63894,49822,2,Deerton,Alger County,46.4,-87.0,Michigan,26003,2
+63895,49829,2,Escanaba,Delta County,45.8,-87.2,Michigan,26041,104
+63931,49834,1,Foster City,Dickinson County,45.98,-87.73,Michigan,26043,110
+63932,49837,3,Gladstone,Delta County,45.9,-87.1,Michigan,26041,104
+63942,49841,1,Gwinn,Marquette County,46.3,-87.5,Michigan,26103,125
 63958,49847,1,Hermansville,Menominee County,45.7,-87.6,Michigan,26109,28
+63962,49849,1,Ishpeming,Marquette County,46.6,-87.8,Michigan,26103,125
+63973,49855,2,Marquette,Marquette County,46.6,-87.3,Michigan,26103,125
+64007,49858,1,Menominee,Menominee County,45.2,-87.6,Michigan,26109,28
+64014,49865,1,National Mine,Marquette County,,,Michigan,26103,125
+64015,49866,2,Negaunee,Marquette County,46.5,-87.6,Michigan,26103,125
+64019,49870,2,Norway,Dickinson County,45.8,-87.9,Michigan,26043,110
+64022,49876,3,Quinnesec,Dickinson County,45.78,-87.98,Michigan,26043,110
+64023,49878,2,Rapid River,Delta County,45.9,-86.8,Michigan,26041,104
+64024,49881,1,Sagola,Dickinson County,46.1,-88.0,Michigan,26043,110
+64025,49885,2,Skandia,Marquette County,46.3,-87.2,Michigan,26103,125
+64028,49886,3,Spalding,Menominee County,45.71,-87.49,Michigan,26109,28
+64029,49887,2,Stephenson,Menominee County,45.5,-87.6,Michigan,26109,28
+64030,49892,2,Vulcan,Dickinson County,45.8,-87.8,Michigan,26043,110
+64035,49894,2,Wells,Delta County,45.78,-87.07,Michigan,26041,104
 64037,49905,1,Atlantic Mine,Houghton County,47.1,-88.7,Michigan,26061,71
 64039,49911,3,Bessemer,Gogebic County,46.5,-90.0,Michigan,26053,81
+64051,49913,3,Calumet,Houghton County,47.2,-88.4,Michigan,26061,71
+64055,49916,2,Chassell,Houghton County,47.0,-88.6,Michigan,26061,71
+64060,49917,3,Copper City,Houghton County,47.284,-88.39,Michigan,26061,71
 64062,49920,3,Crystal Falls,Iron County,46.2,-88.4,Michigan,26071,4
+64063,49921,2,Dodgeville,Houghton County,47.09,-88.58,Michigan,26061,71
+64064,49930,2,Hancock,Houghton County,47.2,-88.5,Michigan,26061,71
+64072,49931,1,Houghton,Houghton County,47.1,-88.6,Michigan,26061,71
+64077,49934,2,Hubbell,Houghton County,47.18,-88.43,Michigan,26061,71
+64078,49938,2,Ironwood,Gogebic County,46.5,-90.2,Michigan,26053,81
+64109,49945,2,Lake Linden,Houghton County,47.1,-88.4,Michigan,26061,71
 64110,49946,3,Lanse,Baraga County,46.8,-88.3,Michigan,26013,3
+64111,49952,1,Nisula,Houghton County,46.7,-88.9,Michigan,26061,71
+64113,49955,2,Painesdale,Houghton County,47.05,-88.69,Michigan,26061,71
+64115,49958,1,Pelkie,Houghton County,46.7,-88.6,Michigan,26061,71
+64117,49963,2,South Range,Houghton County,47.072,-88.643,Michigan,26061,71
+64118,49968,2,Wakefield,Gogebic County,46.5,-89.9,Michigan,26053,81
+108070,49285,3,Stockbridge,Ingham County,42.5,-84.2,Michigan,26065,348
 108075,49621,3,Cedar,Leelanau County,44.9,-85.8,Michigan,26089,6
+108337,48703,1,Au Gres,Arenac County,44.1,-83.6,Michigan,26011,27
+108475,48070,1,Huntington Woods,Oakland County,42.48,-83.17,Michigan,26125,737
+108493,48851,1,Lyons,Ionia County,42.95,-84.94,Michigan,26067,95
+108516,48436,1,Gaines,Genesee County,42.87,-83.88,Michigan,26049,1282
+108664,49633,1,Fife Lake,Kalkaska County,44.6,-85.1,Michigan,26079,9
+108735,48106,1,Ann Arbor,Washtenaw County,,,Michigan,26161,398
+108764,49615,1,Bellaire,Antrim County,45.0,-85.2,Michigan,26009,15
+108779,49969,1,Watersmeet,Gogebic County,46.2,-89.3,Michigan,26053,81
+108785,49728,1,Eckerman,Chippewa County,46.4,-85.1,Michigan,26033,95
+108825,48765,1,Turner,Arenac County,44.2,-83.7,Michigan,26011,27
+108923,49305,1,Barryton,Mecosta County,43.75,-85.15,Michigan,26107,91
+108954,48318,1,Utica,Macomb County,,,Michigan,26099,980
+109385,48114,1,Brighton,Livingston County,42.58,-83.75,Michigan,26093,163
+109426,48804,1,Mount Pleasant,Isabella County,,,Michigan,26073,105
+109430,49629,1,Elk Rapids,Antrim County,44.91,-85.4,Michigan,26009,15
+110032,49262,1,North Adams,Hillsdale County,41.96,-84.48,Michigan,26059,144
+110498,49690,3,Williamsburg,Grand Traverse County,44.8,-85.4,Michigan,26055,55
+110502,49680,3,South Boardman,Kalkaska County,44.64,-85.25,Michigan,26079,9
 110561,49971,2,White Pine,Ontonagon County,46.76,-89.58,Michigan,26131,2
+110582,49402,1,Branch,Mason County,43.9,-86.1,Michigan,26105,94
+110721,49617,3,Beulah,Benzie County,44.6,-86.0,Michigan,26019,8
 110758,49614,2,Bear Lake,Manistee County,44.4,-86.1,Michigan,26101,2
+110831,48105,2,Ann Arbor,Washtenaw County,42.3,-83.7,Michigan,26161,398
+110988,48634,1,Linwood,Bay County,43.8,-84.1,Michigan,26017,147
+111220,49635,3,Frankfort,Benzie County,44.6,-86.2,Michigan,26019,8
+111336,48095,1,Washington,Macomb County,42.78,-83.04,Michigan,26099,980

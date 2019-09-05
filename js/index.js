@@ -510,6 +510,7 @@ $(document).ready(function () {
                     var getCity = window.lodash.filter(cityData, function (o) {
                         return o.id == d.id;
                     });
+                    console.log('current selected country ===>', d)
                     console.log('initial cityData ===>', cityData)
                     console.log('initial getCity ===>', getCity)
                     console.log('initial georgiaWalmarts ===>', georgiaWalmarts)
