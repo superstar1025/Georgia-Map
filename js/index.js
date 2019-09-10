@@ -9,7 +9,7 @@ $(document).ready(function () {
             map_ratio: 0.5,
             centered_x: 0,
             centered_y: -5,
-            importData: ['NoData', 'March', 'April', 'May', 'June'],
+            importData: ['NoData', 'March', 'April', 'May', 'June', 'July', 'August'],
             store: 'georgia_stores.json'
         },
         Texas: {
@@ -19,7 +19,7 @@ $(document).ready(function () {
             map_ratio: 1.2,
             centered_x: 0,
             centered_y: 11,
-            importData: ['NoData', 'July'],
+            importData: ['NoData', 'July', 'August'],
             store: 'texas_stores.json'
         },
         Florida: {
@@ -29,7 +29,7 @@ $(document).ready(function () {
             map_ratio: 0.7,
             centered_x: -20,
             centered_y: 20,
-            importData: ['NoData', 'July'],
+            importData: ['NoData', 'July', 'August'],
             store: 'florida_stores.json'
         },
         Michigan: {
@@ -39,7 +39,7 @@ $(document).ready(function () {
             map_ratio: 0.8,
             centered_x: 0,
             centered_y: -2,
-            importData: ['NoData', 'July'],
+            importData: ['NoData', 'July', 'August'],
             store: 'michigan_stores.json'
         }
     }
@@ -854,14 +854,5 @@ $(document).ready(function () {
         });
         return vars;
     }
-
-    // initial state config
-    function initStateConfig(state) {
-        STATE_NAME = STATE_CONFIGURATIONS[state].state_name;
-        SPECIFIC_STATE_INFO = STATE_CONFIGURATIONS[state].specific_state_info;
-        STATE_FIPS = STATE_CONFIGURATIONS[state].state_fips;
-        MAP_RATIO = STATE_CONFIGURATIONS[state].map_ratio;
-        CENTERED_X = STATE_CONFIGURATIONS[state].centered_x;
-        CENTERED_Y = STATE_CONFIGURATIONS[state].centered_y;
-    }
+    
 })

@@ -1,15 +1,15 @@
 ,Zipcode,Score,City,County,Lat,Long,State,id,CountyScore
 64129,73301,1,Austin,Travis County,,,Texas,48453,1053
-64131,75001,2,Addison,Dallas County,32.96,-96.84,Texas,48113,7368
+64131,75001,2,Addison,Dallas County,32.96,-96.84,Texas,48113,7370
 64152,75002,1,Allen,Collin County,33.08,-96.61,Texas,48085,1447
-64202,75006,2,Carrollton,Dallas County,32.95,-96.89,Texas,48113,7368
+64202,75006,2,Carrollton,Dallas County,32.95,-96.89,Texas,48113,7370
 64249,75007,1,Carrollton,Denton County,33.0,-96.9,Texas,48121,2102
 64307,75009,3,Celina,Collin County,33.3,-96.8,Texas,48085,1447
 64316,75010,1,Carrollton,Denton County,33.03,-96.9,Texas,48121,2102
-64331,75011,2,Carrollton,Dallas County,,,Texas,48113,7368
+64331,75011,2,Carrollton,Dallas County,,,Texas,48113,7370
 64332,75013,1,Allen,Collin County,33.12,-96.69,Texas,48085,1447
-64348,75014,1,Irving,Dallas County,,,Texas,48113,7368
-64352,75019,2,Coppell,Dallas County,32.96,-96.98,Texas,48113,7368
+64348,75014,1,Irving,Dallas County,,,Texas,48113,7370
+64352,75019,2,Coppell,Dallas County,32.96,-96.98,Texas,48113,7370
 64365,75020,1,Denison,Grayson County,33.76,-96.6,Texas,48181,494
 64443,75021,2,Denison,Grayson County,33.74,-96.47,Texas,48181,494
 64460,75022,1,Flower Mound,Denton County,33.03,-97.12,Texas,48121,2102
@@ -21,27 +21,27 @@
 64600,75033,1,Frisco,,,,Texas,NA,47
 64624,75034,2,Frisco,Denton County,33.12,-96.88,Texas,48121,2102
 64674,75035,1,Frisco,Collin County,33.16,-96.77,Texas,48085,1447
-64709,75038,2,Irving,Dallas County,32.88,-96.98,Texas,48113,7368
-64759,75039,2,Irving,Dallas County,32.88,-96.95,Texas,48113,7368
-64763,75040,1,Garland,Dallas County,32.93,-96.62,Texas,48113,7368
-64840,75041,1,Garland,Dallas County,32.88,-96.65,Texas,48113,7368
-64899,75042,2,Garland,Dallas County,32.92,-96.68,Texas,48113,7368
-64940,75043,1,Garland,Dallas County,32.86,-96.59,Texas,48113,7368
-65075,75044,1,Garland,Dallas County,32.96,-96.65,Texas,48113,7368
-65122,75046,2,Garland,Dallas County,,,Texas,48113,7368
-65123,75048,2,Sachse,Dallas County,32.97,-96.58,Texas,48113,7368
-65139,75049,2,Garland,Dallas County,,,Texas,48113,7368
-65141,75050,1,Grand Prairie,Dallas County,32.78,-96.99,Texas,48113,7368
-65210,75051,1,Grand Prairie,Dallas County,32.73,-96.99,Texas,48113,7368
-65284,75052,2,Grand Prairie,Dallas County,32.65,-97.02,Texas,48113,7368
+64709,75038,2,Irving,Dallas County,32.88,-96.98,Texas,48113,7370
+64759,75039,2,Irving,Dallas County,32.88,-96.95,Texas,48113,7370
+64763,75040,1,Garland,Dallas County,32.93,-96.62,Texas,48113,7370
+64840,75041,1,Garland,Dallas County,32.88,-96.65,Texas,48113,7370
+64899,75042,2,Garland,Dallas County,32.92,-96.68,Texas,48113,7370
+64940,75043,1,Garland,Dallas County,32.86,-96.59,Texas,48113,7370
+65075,75044,1,Garland,Dallas County,32.96,-96.65,Texas,48113,7370
+65122,75046,2,Garland,Dallas County,,,Texas,48113,7370
+65123,75048,2,Sachse,Dallas County,32.97,-96.58,Texas,48113,7370
+65139,75049,2,Garland,Dallas County,,,Texas,48113,7370
+65141,75050,1,Grand Prairie,Dallas County,32.78,-96.99,Texas,48113,7370
+65210,75051,1,Grand Prairie,Dallas County,32.73,-96.99,Texas,48113,7370
+65284,75052,2,Grand Prairie,Dallas County,32.65,-97.02,Texas,48113,7370
 65428,75054,1,Grand Prairie,Tarrant County,32.6,-97.04,Texas,48439,6798
 65437,75056,1,The Colony,Denton County,33.07,-96.9,Texas,48121,2102
 65497,75057,2,Lewisville,Denton County,33.05,-96.98,Texas,48121,2102
 65533,75058,1,Gunter,Grayson County,33.45,-96.73,Texas,48181,494
-65536,75060,1,Irving,Dallas County,32.79,-96.95,Texas,48113,7368
-65562,75061,1,Irving,Dallas County,32.83,-97.01,Texas,48113,7368
-65643,75062,3,Irving,Dallas County,32.85,-96.96,Texas,48113,7368
-65695,75063,1,Irving,Dallas County,32.92,-96.98,Texas,48113,7368
+65536,75060,1,Irving,Dallas County,32.79,-96.95,Texas,48113,7370
+65562,75061,1,Irving,Dallas County,32.83,-97.01,Texas,48113,7370
+65643,75062,3,Irving,Dallas County,32.85,-96.96,Texas,48113,7370
+65695,75063,1,Irving,Dallas County,32.92,-96.98,Texas,48113,7370
 65721,75064,2,Irving,,,,Texas,NA,47
 65722,75065,2,Lake Dallas,Denton County,33.12,-97.03,Texas,48121,2102
 65745,75067,2,Lewisville,Denton County,33.02,-96.99,Texas,48121,2102
@@ -54,13 +54,13 @@
 66250,75076,2,Pottsboro,Grayson County,33.8,-96.7,Texas,48181,494
 66258,75077,2,Lewisville,Denton County,33.08,-97.07,Texas,48121,2102
 66280,75078,1,Prosper,Collin County,33.26,-96.82,Texas,48085,1447
-66302,75080,1,Richardson,Dallas County,32.97,-96.74,Texas,48113,7368
-66329,75081,1,Richardson,Dallas County,32.95,-96.72,Texas,48113,7368
+66302,75080,1,Richardson,Dallas County,32.97,-96.74,Texas,48113,7370
+66329,75081,1,Richardson,Dallas County,32.95,-96.72,Texas,48113,7370
 66343,75082,1,Richardson,Collin County,32.99,-96.66,Texas,48085,1447
 66347,75086,3,Plano,Collin County,,,Texas,48085,1447
 66348,75087,1,Rockwall,Rockwall County,32.94,-96.44,Texas,48397,165
-66353,75088,3,Rowlett,Dallas County,32.89,-96.55,Texas,48113,7368
-66379,75089,2,Rowlett,Dallas County,32.94,-96.55,Texas,48113,7368
+66353,75088,3,Rowlett,Dallas County,32.89,-96.55,Texas,48113,7370
+66379,75089,2,Rowlett,Dallas County,32.94,-96.55,Texas,48113,7370
 66397,75090,1,Sherman,Grayson County,33.6,-96.5,Texas,48181,494
 66457,75091,1,Sherman,Grayson County,,,Texas,48181,494
 66458,75092,2,Sherman,Grayson County,33.6,-96.7,Texas,48181,494
@@ -71,37 +71,37 @@
 66659,75101,1,Bardwell,Ellis County,32.3,-96.6,Texas,48139,683
 66662,75102,1,Barry,Navarro County,32.1,-96.6,Texas,48349,221
 66665,75103,1,Canton,Van Zandt County,32.5,-95.9,Texas,48467,233
-66701,75104,1,Cedar Hill,Dallas County,32.59,-96.96,Texas,48113,7368
-66829,75106,1,Cedar Hill,Dallas County,,,Texas,48113,7368
+66701,75104,1,Cedar Hill,Dallas County,32.59,-96.96,Texas,48113,7370
+66829,75106,1,Cedar Hill,Dallas County,,,Texas,48113,7370
 66831,75109,3,Corsicana,Navarro County,32.1,-96.3,Texas,48349,221
 66836,75110,3,Corsicana,Navarro County,32.1,-96.5,Texas,48349,221
 66911,75114,1,Crandall,Kaufman County,32.6,-96.4,Texas,48257,425
-66923,75115,1,Desoto,Dallas County,32.61,-96.87,Texas,48113,7368
-67091,75116,3,Duncanville,Dallas County,32.66,-96.92,Texas,48113,7368
+66923,75115,1,Desoto,Dallas County,32.61,-96.87,Texas,48113,7370
+67091,75116,3,Duncanville,Dallas County,32.66,-96.92,Texas,48113,7370
 67124,75117,2,Edgewood,Van Zandt County,32.7,-95.9,Texas,48467,233
 67133,75118,3,Elmo,Kaufman County,,,Texas,48257,425
 67134,75119,3,Ennis,Ellis County,32.4,-96.6,Texas,48139,683
 67238,75120,3,Ennis,Ellis County,,,Texas,48139,683
 67241,75121,2,Copeville,Collin County,,,Texas,48085,1447
-67243,75123,1,Desoto,Dallas County,,,Texas,48113,7368
+67243,75123,1,Desoto,Dallas County,,,Texas,48113,7370
 67245,75124,1,Eustace,Henderson County,32.3,-96.0,Texas,48213,481
 67252,75125,1,Ferris,Ellis County,32.5,-96.6,Texas,48139,683
 67262,75126,3,Forney,Kaufman County,32.7,-96.4,Texas,48257,425
 67324,75127,1,Fruitvale,Van Zandt County,32.66,-95.8,Texas,48467,233
 67333,75132,1,Fate,Rockwall County,32.9,-96.3,Texas,48397,165
-67334,75134,1,Lancaster,Dallas County,32.63,-96.76,Texas,48113,7368
+67334,75134,1,Lancaster,Dallas County,32.63,-96.76,Texas,48113,7370
 67420,75135,1,Caddo Mills,Hunt County,33.1,-96.2,Texas,48231,547
-67433,75137,2,Duncanville,Dallas County,32.63,-96.91,Texas,48113,7368
+67433,75137,2,Duncanville,Dallas County,32.63,-96.91,Texas,48113,7370
 67469,75140,2,Grand Saline,Van Zandt County,32.7,-95.7,Texas,48467,233
-67482,75141,3,Hutchins,Dallas County,32.64,-96.7,Texas,48113,7368
+67482,75141,3,Hutchins,Dallas County,32.64,-96.7,Texas,48113,7370
 67493,75142,2,Kaufman,Kaufman County,32.6,-96.3,Texas,48257,425
 67548,75143,2,Kemp,Henderson County,32.4,-96.3,Texas,48213,481
 67597,75144,1,Kerens,Navarro County,32.1,-96.2,Texas,48349,221
-67606,75146,3,Lancaster,Dallas County,32.57,-96.74,Texas,48113,7368
+67606,75146,3,Lancaster,Dallas County,32.57,-96.74,Texas,48113,7370
 67710,75147,1,Mabank,Kaufman County,32.4,-96.0,Texas,48257,425
 67737,75148,1,Malakoff,Henderson County,32.1,-96.0,Texas,48213,481
-67750,75149,1,Mesquite,Dallas County,32.77,-96.62,Texas,48113,7368
-67905,75150,1,Mesquite,Dallas County,32.82,-96.63,Texas,48113,7368
+67750,75149,1,Mesquite,Dallas County,32.77,-96.62,Texas,48113,7370
+67905,75150,1,Mesquite,Dallas County,32.82,-96.63,Texas,48113,7370
 68029,75152,2,Palmer,Ellis County,32.43,-96.67,Texas,48139,683
 68037,75153,3,Powell,Navarro County,32.17,-96.36,Texas,48349,221
 68040,75154,1,Red Oak,Ellis County,32.5,-96.8,Texas,48139,683
@@ -109,7 +109,7 @@
 68146,75156,3,Mabank,Henderson County,32.28,-96.1,Texas,48213,481
 68219,75157,1,Rosser,Kaufman County,32.46,-96.44,Texas,48257,425
 68222,75158,2,Scurry,Kaufman County,32.5,-96.4,Texas,48257,425
-68229,75159,1,Seagoville,Dallas County,32.6,-96.6,Texas,48113,7368
+68229,75159,1,Seagoville,Dallas County,32.6,-96.6,Texas,48113,7370
 68312,75160,1,Terrell,Kaufman County,32.8,-96.3,Texas,48257,425
 68377,75161,1,Terrell,Kaufman County,32.7,-96.2,Texas,48257,425
 68389,75163,2,Trinidad,Henderson County,32.2,-96.1,Texas,48213,481
@@ -118,66 +118,66 @@
 68488,75167,1,Waxahachie,Ellis County,32.4,-96.9,Texas,48139,683
 68491,75168,2,Waxahachie,Ellis County,,,Texas,48139,683
 68492,75169,3,Wills Point,Van Zandt County,32.7,-96.0,Texas,48467,233
-68532,75172,1,Wilmer,Dallas County,32.61,-96.67,Texas,48113,7368
+68532,75172,1,Wilmer,Dallas County,32.61,-96.67,Texas,48113,7370
 68543,75173,1,Nevada,Collin County,33.06,-96.38,Texas,48085,1447
-68551,75180,2,Balch Springs,Dallas County,32.72,-96.61,Texas,48113,7368
-68638,75181,2,Mesquite,Dallas County,32.74,-96.55,Texas,48113,7368
-68681,75182,1,Sunnyvale,Dallas County,32.79,-96.56,Texas,48113,7368
+68551,75180,2,Balch Springs,Dallas County,32.72,-96.61,Texas,48113,7370
+68638,75181,2,Mesquite,Dallas County,32.74,-96.55,Texas,48113,7370
+68681,75182,1,Sunnyvale,Dallas County,32.79,-96.56,Texas,48113,7370
 68686,75189,2,Royse City,Rockwall County,32.9,-96.3,Texas,48397,165
-68761,75201,1,Dallas,Dallas County,32.79,-96.8,Texas,48113,7368
-68765,75203,2,Dallas,Dallas County,32.74,-96.79,Texas,48113,7368
-68789,75204,1,Dallas,Dallas County,32.8,-96.79,Texas,48113,7368
-68800,75205,3,Dallas,Dallas County,32.83,-96.79,Texas,48113,7368
-68801,75206,2,Dallas,Dallas County,32.83,-96.77,Texas,48113,7368
-68807,75208,2,Dallas,Dallas County,32.75,-96.84,Texas,48113,7368
-68813,75209,1,Dallas,Dallas County,32.84,-96.83,Texas,48113,7368
-68821,75210,3,Dallas,Dallas County,32.76,-96.74,Texas,48113,7368
-68850,75211,3,Dallas,Dallas County,32.74,-96.92,Texas,48113,7368
-68922,75212,2,Dallas,Dallas County,32.78,-96.87,Texas,48113,7368
-68992,75214,2,Dallas,Dallas County,32.83,-96.74,Texas,48113,7368
-69005,75215,1,Dallas,Dallas County,32.75,-96.77,Texas,48113,7368
-69061,75216,3,Dallas,Dallas County,32.71,-96.77,Texas,48113,7368
-69252,75217,2,Dallas,Dallas County,32.7,-96.68,Texas,48113,7368
-69426,75218,3,Dallas,Dallas County,32.84,-96.7,Texas,48113,7368
-69437,75219,3,Dallas,Dallas County,32.81,-96.82,Texas,48113,7368
-69453,75220,2,Dallas,Dallas County,32.86,-96.87,Texas,48113,7368
-69507,75221,1,Dallas,Dallas County,,,Texas,48113,7368
-69508,75223,2,Dallas,Dallas County,32.79,-96.75,Texas,48113,7368
-69519,75224,1,Dallas,Dallas County,32.71,-96.84,Texas,48113,7368
-69561,75225,2,Dallas,Dallas County,32.87,-96.79,Texas,48113,7368
-69562,75227,2,Dallas,Dallas County,32.77,-96.69,Texas,48113,7368
-69711,75228,1,Dallas,Dallas County,32.83,-96.68,Texas,48113,7368
-69877,75229,1,Dallas,Dallas County,32.9,-96.89,Texas,48113,7368
-69881,75230,1,Dallas,Dallas County,32.9,-96.79,Texas,48113,7368
-69889,75231,1,Dallas,Dallas County,32.88,-96.75,Texas,48113,7368
-69998,75232,1,Dallas,Dallas County,32.66,-96.84,Texas,48113,7368
-70104,75233,1,Dallas,Dallas County,32.71,-96.87,Texas,48113,7368
-70136,75234,1,Dallas,Dallas County,32.92,-96.9,Texas,48113,7368
-70156,75235,2,Dallas,Dallas County,32.83,-96.85,Texas,48113,7368
-70170,75236,2,Dallas,Dallas County,32.69,-96.94,Texas,48113,7368
-70230,75237,1,Dallas,Dallas County,32.66,-96.87,Texas,48113,7368
-70366,75238,1,Dallas,Dallas County,32.88,-96.71,Texas,48113,7368
-70416,75240,2,Dallas,Dallas County,32.93,-96.79,Texas,48113,7368
-70455,75241,3,Dallas,Dallas County,32.67,-96.76,Texas,48113,7368
-70611,75242,2,Dallas,Dallas County,,,Texas,48113,7368
-70612,75243,1,Dallas,Dallas County,32.91,-96.74,Texas,48113,7368
-70769,75244,2,Dallas,Dallas County,32.93,-96.84,Texas,48113,7368
-70778,75246,2,Dallas,Dallas County,32.793,-96.773,Texas,48113,7368
-70781,75247,3,Dallas,Dallas County,32.83,-96.88,Texas,48113,7368
-70784,75248,3,Dallas,Dallas County,32.97,-96.8,Texas,48113,7368
-70804,75249,1,Dallas,Dallas County,32.64,-96.97,Texas,48113,7368
-70843,75250,3,Dallas,Dallas County,,,Texas,48113,7368
-70845,75251,2,Dallas,Dallas County,32.917,-96.773,Texas,48113,7368
+68761,75201,1,Dallas,Dallas County,32.79,-96.8,Texas,48113,7370
+68765,75203,2,Dallas,Dallas County,32.74,-96.79,Texas,48113,7370
+68789,75204,1,Dallas,Dallas County,32.8,-96.79,Texas,48113,7370
+68800,75205,3,Dallas,Dallas County,32.83,-96.79,Texas,48113,7370
+68801,75206,2,Dallas,Dallas County,32.83,-96.77,Texas,48113,7370
+68807,75208,2,Dallas,Dallas County,32.75,-96.84,Texas,48113,7370
+68813,75209,1,Dallas,Dallas County,32.84,-96.83,Texas,48113,7370
+68821,75210,3,Dallas,Dallas County,32.76,-96.74,Texas,48113,7370
+68850,75211,3,Dallas,Dallas County,32.74,-96.92,Texas,48113,7370
+68922,75212,2,Dallas,Dallas County,32.78,-96.87,Texas,48113,7370
+68992,75214,2,Dallas,Dallas County,32.83,-96.74,Texas,48113,7370
+69005,75215,1,Dallas,Dallas County,32.75,-96.77,Texas,48113,7370
+69061,75216,3,Dallas,Dallas County,32.71,-96.77,Texas,48113,7370
+69252,75217,2,Dallas,Dallas County,32.7,-96.68,Texas,48113,7370
+69426,75218,3,Dallas,Dallas County,32.84,-96.7,Texas,48113,7370
+69437,75219,3,Dallas,Dallas County,32.81,-96.82,Texas,48113,7370
+69453,75220,2,Dallas,Dallas County,32.86,-96.87,Texas,48113,7370
+69507,75221,1,Dallas,Dallas County,,,Texas,48113,7370
+69508,75223,2,Dallas,Dallas County,32.79,-96.75,Texas,48113,7370
+69519,75224,1,Dallas,Dallas County,32.71,-96.84,Texas,48113,7370
+69561,75225,2,Dallas,Dallas County,32.87,-96.79,Texas,48113,7370
+69562,75227,2,Dallas,Dallas County,32.77,-96.69,Texas,48113,7370
+69711,75228,1,Dallas,Dallas County,32.83,-96.68,Texas,48113,7370
+69877,75229,1,Dallas,Dallas County,32.9,-96.89,Texas,48113,7370
+69881,75230,1,Dallas,Dallas County,32.9,-96.79,Texas,48113,7370
+69889,75231,1,Dallas,Dallas County,32.88,-96.75,Texas,48113,7370
+69998,75232,1,Dallas,Dallas County,32.66,-96.84,Texas,48113,7370
+70104,75233,1,Dallas,Dallas County,32.71,-96.87,Texas,48113,7370
+70136,75234,1,Dallas,Dallas County,32.92,-96.9,Texas,48113,7370
+70156,75235,2,Dallas,Dallas County,32.83,-96.85,Texas,48113,7370
+70170,75236,2,Dallas,Dallas County,32.69,-96.94,Texas,48113,7370
+70230,75237,1,Dallas,Dallas County,32.66,-96.87,Texas,48113,7370
+70366,75238,1,Dallas,Dallas County,32.88,-96.71,Texas,48113,7370
+70416,75240,2,Dallas,Dallas County,32.93,-96.79,Texas,48113,7370
+70455,75241,3,Dallas,Dallas County,32.67,-96.76,Texas,48113,7370
+70611,75242,2,Dallas,Dallas County,,,Texas,48113,7370
+70612,75243,1,Dallas,Dallas County,32.91,-96.74,Texas,48113,7370
+70769,75244,2,Dallas,Dallas County,32.93,-96.84,Texas,48113,7370
+70778,75246,2,Dallas,Dallas County,32.793,-96.773,Texas,48113,7370
+70781,75247,3,Dallas,Dallas County,32.83,-96.88,Texas,48113,7370
+70784,75248,3,Dallas,Dallas County,32.97,-96.8,Texas,48113,7370
+70804,75249,1,Dallas,Dallas County,32.64,-96.97,Texas,48113,7370
+70843,75250,3,Dallas,Dallas County,,,Texas,48113,7370
+70845,75251,2,Dallas,Dallas County,32.917,-96.773,Texas,48113,7370
 70848,75252,2,Dallas,Collin County,33.0,-96.79,Texas,48085,1447
-70871,75253,1,Dallas,Dallas County,32.67,-96.61,Texas,48113,7368
-70941,75254,1,Dallas,Dallas County,32.95,-96.8,Texas,48113,7368
-70970,75285,2,Dallas,Dallas County,,,Texas,48113,7368
+70871,75253,1,Dallas,Dallas County,32.67,-96.61,Texas,48113,7370
+70941,75254,1,Dallas,Dallas County,32.95,-96.8,Texas,48113,7370
+70970,75285,2,Dallas,Dallas County,,,Texas,48113,7370
 70971,75287,2,Dallas,Denton County,33.0,-96.84,Texas,48121,2102
-71133,75343,2,Dallas,Dallas County,,,Texas,48113,7368
-71134,75354,1,Dallas,Dallas County,,,Texas,48113,7368
-71136,75367,1,Dallas,Dallas County,,,Texas,48113,7368
-71137,75370,2,Dallas,Dallas County,,,Texas,48113,7368
-71138,75389,2,Dallas,Dallas County,,,Texas,48113,7368
+71133,75343,2,Dallas,Dallas County,,,Texas,48113,7370
+71134,75354,1,Dallas,Dallas County,,,Texas,48113,7370
+71136,75367,1,Dallas,Dallas County,,,Texas,48113,7370
+71137,75370,2,Dallas,Dallas County,,,Texas,48113,7370
+71138,75389,2,Dallas,Dallas County,,,Texas,48113,7370
 71139,75401,3,Greenville,Hunt County,33.2,-96.1,Texas,48231,547
 71247,75402,1,Greenville,Hunt County,33.1,-96.1,Texas,48231,547
 71298,75403,1,Greenville,Hunt County,,,Texas,48231,547
@@ -367,8 +367,8 @@
 74835,75860,1,Teague,Freestone County,31.6,-96.2,Texas,48161,65
 74849,75861,2,Tennessee Colony,Anderson County,31.9,-95.9,Texas,48001,493
 74857,75862,2,Trinity,Trinity County,31.0,-95.4,Texas,48455,24
-74866,75901,1,Lufkin,Angelina County,31.3,-94.6,Texas,48005,295
-74933,75904,1,Lufkin,Angelina County,31.4,-94.8,Texas,48005,295
+74866,75901,1,Lufkin,Angelina County,31.3,-94.6,Texas,48005,297
+74933,75904,1,Lufkin,Angelina County,31.4,-94.8,Texas,48005,297
 75000,75926,1,Apple Springs,Trinity County,31.3,-95.0,Texas,48455,24
 75002,75928,1,Bon Wier,Newton County,30.7,-93.7,Texas,48351,47
 75012,75929,1,Broaddus,San Augustine County,31.2,-94.2,Texas,48405,24
@@ -379,22 +379,22 @@
 75064,75936,1,Chester,Tyler County,30.9,-94.6,Texas,48457,147
 75065,75937,2,Chireno,Nacogdoches County,31.5,-94.4,Texas,48347,291
 75068,75938,1,Colmesneil,Tyler County,30.9,-94.4,Texas,48457,147
-75078,75939,2,Corrigan,Polk County,31.0,-94.8,Texas,48373,271
-75083,75941,1,Diboll,Angelina County,31.2,-94.8,Texas,48005,295
+75078,75939,2,Corrigan,Polk County,31.0,-94.8,Texas,48373,274
+75083,75941,1,Diboll,Angelina County,31.2,-94.8,Texas,48005,297
 75097,75942,2,Doucette,Tyler County,30.825,-94.426,Texas,48457,147
 75098,75944,2,Etoile,Nacogdoches County,31.34,-94.39,Texas,48347,291
 75100,75946,3,Garrison,Nacogdoches County,31.8,-94.5,Texas,48347,291
-75103,75949,2,Huntington,Angelina County,31.2,-94.6,Texas,48005,295
+75103,75949,2,Huntington,Angelina County,31.2,-94.6,Texas,48005,297
 75113,75951,1,Jasper,Jasper County,30.9,-94.2,Texas,48241,203
 75190,75954,2,Joaquin,Shelby County,31.9,-94.1,Texas,48419,138
 75195,75956,1,Kirbyville,Jasper County,30.7,-94.0,Texas,48241,203
-75212,75960,1,Moscow,Polk County,30.9,-94.8,Texas,48373,271
+75212,75960,1,Moscow,Polk County,30.9,-94.8,Texas,48373,274
 75214,75961,1,Nacogdoches,Nacogdoches County,31.6,-94.5,Texas,48347,291
 75265,75962,2,Nacogdoches,Nacogdoches County,31.62,-94.647,Texas,48347,291
 75269,75964,2,Nacogdoches,Nacogdoches County,31.6,-94.8,Texas,48347,291
 75298,75965,1,Nacogdoches,Nacogdoches County,31.7,-94.6,Texas,48347,291
 75352,75966,2,Newton,Newton County,30.8,-93.7,Texas,48351,47
-75362,75969,1,Pollok,Angelina County,31.4,-94.9,Texas,48005,295
+75362,75969,1,Pollok,Angelina County,31.4,-94.9,Texas,48005,297
 75368,75972,1,San Augustine,San Augustine County,31.5,-94.1,Texas,48405,24
 75381,75973,2,Shelbyville,Shelby County,31.7,-94.0,Texas,48419,138
 75391,75974,1,Tenaha,Shelby County,31.9,-94.2,Texas,48419,138
@@ -402,7 +402,7 @@
 75399,75976,3,Wells,Cherokee County,31.49,-94.94,Texas,48073,259
 75400,75977,1,Wiergate,Newton County,31.0,-93.8,Texas,48351,47
 75403,75979,3,Woodville,Tyler County,30.8,-94.4,Texas,48457,147
-75462,75980,3,Zavalla,Angelina County,31.1,-94.3,Texas,48005,295
+75462,75980,3,Zavalla,Angelina County,31.1,-94.3,Texas,48005,297
 75463,76001,1,Arlington,Tarrant County,32.63,-97.15,Texas,48439,6798
 75522,76002,1,Arlington,Tarrant County,32.62,-97.09,Texas,48439,6798
 75561,76006,1,Arlington,Tarrant County,32.78,-97.1,Texas,48439,6798
@@ -820,12 +820,12 @@
 88749,77316,1,Montgomery,Montgomery County,30.3,-95.7,Texas,48339,1133
 88772,77318,1,Willis,Montgomery County,30.44,-95.54,Texas,48339,1133
 88788,77320,3,Huntsville,Walker County,30.8,-95.5,Texas,48471,161
-88812,77326,1,Ace,Polk County,30.7,-94.8,Texas,48373,271
+88812,77326,1,Ace,Polk County,30.7,-94.8,Texas,48373,274
 88813,77327,2,Cleveland,Liberty County,30.3,-94.9,Texas,48291,392
 88889,77328,1,Cleveland,San Jacinto County,30.4,-95.2,Texas,48407,151
 88925,77331,2,Coldspring,San Jacinto County,30.6,-95.2,Texas,48407,151
 88930,77333,2,Dobbin,Montgomery County,,,Texas,48339,1133
-88932,77335,2,Goodrich,Polk County,30.6,-94.95,Texas,48373,271
+88932,77335,2,Goodrich,Polk County,30.6,-94.95,Texas,48373,274
 88940,77336,1,Huffman,Harris County,30.06,-95.1,Texas,48201,10209
 88954,77337,1,Hufsmith,Harris County,,,Texas,48201,10209
 88955,77338,1,Humble,Harris County,30.01,-95.29,Texas,48201,10209
@@ -835,15 +835,15 @@
 89158,77345,1,Kingwood,Harris County,30.06,-95.16,Texas,48201,10209
 89161,77346,1,Humble,Harris County,29.98,-95.18,Texas,48201,10209
 89233,77347,3,Humble,Harris County,,,Texas,48201,10209
-89234,77350,1,Leggett,Polk County,30.7,-94.8,Texas,48373,271
-89235,77351,3,Livingston,Polk County,30.7,-94.8,Texas,48373,271
+89234,77350,1,Leggett,Polk County,30.7,-94.8,Texas,48373,274
+89235,77351,3,Livingston,Polk County,30.7,-94.8,Texas,48373,274
 89343,77354,2,Magnolia,Montgomery County,30.2,-95.7,Texas,48339,1133
 89383,77355,1,Magnolia,Montgomery County,30.16,-95.75,Texas,48339,1133
 89405,77356,1,Montgomery,Montgomery County,30.4,-95.7,Texas,48339,1133
 89426,77357,2,New Caney,Montgomery County,30.2,-95.2,Texas,48339,1133
 89505,77358,1,New Waverly,Walker County,30.6,-95.4,Texas,48471,161
 89508,77359,3,Oakhurst,San Jacinto County,30.8,-95.3,Texas,48407,151
-89511,77360,2,Onalaska,Polk County,30.85,-95.12,Texas,48373,271
+89511,77360,2,Onalaska,Polk County,30.85,-95.12,Texas,48373,274
 89529,77362,1,Pinehurst,Montgomery County,30.16,-95.66,Texas,48339,1133
 89533,77363,1,Plantersville,Grimes County,30.3,-95.9,Texas,48185,95
 89539,77364,2,Pointblank,San Jacinto County,30.77,-95.23,Texas,48407,151
@@ -1311,15 +1311,15 @@
 101610,78605,2,Bertram,Burnet County,30.7,-98.0,Texas,48053,74
 101614,78606,3,Blanco,Blanco County,30.1,-98.4,Texas,48031,10
 101617,78608,2,Briggs,Burnet County,30.94,-97.93,Texas,48053,74
-101618,78610,1,Buda,Hays County,30.1,-97.8,Texas,48209,464
+101618,78610,1,Buda,Hays County,30.1,-97.8,Texas,48209,467
 101658,78611,2,Burnet,Burnet County,30.8,-98.3,Texas,48053,74
 101674,78612,1,Cedar Creek,Bastrop County,30.1,-97.5,Texas,48021,281
 101690,78613,1,Cedar Park,Williamson County,30.5,-97.82,Texas,48491,741
 101739,78614,1,Cost,Gonzales County,29.41,-97.61,Texas,48177,90
 101741,78616,1,Dale,Caldwell County,29.9,-97.6,Texas,48055,132
 101754,78617,1,Del Valle,Travis County,30.15,-97.58,Texas,48453,1053
-101775,78619,1,Driftwood,Hays County,30.1,-98.04,Texas,48209,464
-101776,78620,1,Dripping Springs,Hays County,30.2,-98.1,Texas,48209,464
+101775,78619,1,Driftwood,Hays County,30.1,-98.04,Texas,48209,467
+101776,78620,1,Dripping Springs,Hays County,30.2,-98.1,Texas,48209,467
 101778,78621,2,Elgin,Bastrop County,30.3,-97.4,Texas,48021,281
 101843,78624,3,Fredericksburg,Gillespie County,30.3,-98.9,Texas,48171,66
 101877,78626,2,Georgetown,Williamson County,30.7,-97.6,Texas,48491,741
@@ -1334,7 +1334,7 @@
 102005,78636,1,Johnson City,Blanco County,30.3,-98.4,Texas,48031,10
 102006,78638,2,Kingsbury,Guadalupe County,29.7,-97.8,Texas,48187,280
 102011,78639,3,Kingsland,Llano County,30.68,-98.45,Texas,48299,37
-102016,78640,1,Kyle,Hays County,30.0,-97.8,Texas,48209,464
+102016,78640,1,Kyle,Hays County,30.0,-97.8,Texas,48209,467
 102099,78641,3,Leander,Williamson County,30.5,-97.9,Texas,48491,741
 102146,78642,2,Liberty Hill,Williamson County,30.7,-97.9,Texas,48491,741
 102155,78643,1,Llano,Llano County,30.7,-98.7,Texas,48299,37
@@ -1352,7 +1352,7 @@
 102307,78660,3,Pflugerville,Travis County,30.43,-97.6,Texas,48453,1053
 102357,78664,1,Round Rock,Williamson County,30.5,-97.64,Texas,48491,741
 102410,78665,1,Round Rock,Williamson County,30.54,-97.65,Texas,48491,741
-102449,78666,1,San Marcos,Hays County,29.9,-98.0,Texas,48209,464
+102449,78666,1,San Marcos,Hays County,29.9,-98.0,Texas,48209,467
 102600,78669,1,Spicewood,Travis County,30.4,-98.1,Texas,48453,1053
 102601,78671,2,Stonewall,Gillespie County,30.21,-98.62,Texas,48171,66
 102602,78674,1,Weir,Williamson County,,,Texas,48491,741
@@ -1379,7 +1379,7 @@
 102811,78731,2,Austin,Travis County,30.35,-97.77,Texas,48453,1053
 102813,78732,1,Austin,Travis County,30.38,-97.89,Texas,48453,1053
 102814,78735,2,Austin,Travis County,30.27,-97.87,Texas,48453,1053
-102819,78737,1,Austin,Hays County,30.2,-97.99,Texas,48209,464
+102819,78737,1,Austin,Hays County,30.2,-97.99,Texas,48209,467
 102821,78741,1,Austin,Travis County,30.23,-97.72,Texas,48453,1053
 102858,78742,2,Austin,Travis County,30.24,-97.66,Texas,48453,1053
 102859,78744,1,Austin,Travis County,30.18,-97.74,Texas,48453,1053
@@ -1644,11 +1644,11 @@
 108325,75606,1,Longview,Gregg County,,,Texas,48183,677
 108351,78734,1,Austin,Travis County,30.38,-97.96,Texas,48453,1053
 108382,79226,1,Clarendon,Donley County,35.0,-100.8,Texas,48129,1
-108390,75053,1,Grand Prairie,Dallas County,,,Texas,48113,7368
+108390,75053,1,Grand Prairie,Dallas County,,,Texas,48113,7370
 108468,77629,1,Nome,Jefferson County,30.02,-94.43,Texas,48245,644
 108709,75948,1,Hemphill,Sabine County,31.3,-93.8,Texas,48403,1
 108710,77903,1,Victoria,Victoria County,,,Texas,48469,298
-109009,77399,1,Livingston,Polk County,,,Texas,48373,271
+109009,77399,1,Livingston,Polk County,,,Texas,48373,274
 109024,78373,1,Port Aransas,Nueces County,27.8,-97.2,Texas,48355,1094
 109247,79086,1,Sunray,Moore County,35.8,-101.8,Texas,48341,139
 109302,76531,1,Hamilton,Hamilton County,31.7,-98.2,Texas,48193,6
@@ -1656,7 +1656,7 @@
 109729,75470,1,Petty,Lamar County,33.6,-95.81,Texas,48277,205
 109840,78480,1,Corpus Christi,Nueces County,,,Texas,48355,1094
 109935,76681,1,Richland,Navarro County,31.9,-96.4,Texas,48349,221
-109950,75017,1,Irving,Dallas County,,,Texas,48113,7368
+109950,75017,1,Irving,Dallas County,,,Texas,48113,7370
 109952,79367,1,Smyer,Hockley County,33.6,-102.3,Texas,48219,100
 110034,79830,1,Alpine,Brewster County,30.0,-103.4,Texas,48043,1
 110182,77005,1,Houston,Harris County,29.72,-95.42,Texas,48201,10209
