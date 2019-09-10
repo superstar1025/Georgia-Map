@@ -58,8 +58,6 @@ $(document).ready(function () {
     const CENTERED_Y = STATE_CONFIGURATIONS[CURRENT_STATE].centered_y;
     const WALMART_STORES = `./assets/Walmart-data/${STATE_CONFIGURATIONS[CURRENT_STATE].store}`; 
 
-    // const GEORGIA_WALMART_STORES = "./assets/Walmart-data/georgia_stores.json";
-    // const WALMART_STORES = "./assets/Walmart-data/Master_Alignment.csv";
     const WALMART_ICON = "./assets/icons/walmart-white1.png";
     const COLOR_1 = "#002f45";
     const COLOR_2 = "#12547a";
@@ -178,8 +176,6 @@ $(document).ready(function () {
             newURL = route + '?state=' + selectedState;
         }
         location.replace(newURL);
-        // initStateConfig(selectedState);
-        // ready(usMapData, stateInfo);
     })
 
     var usCountiesData = null;
@@ -510,10 +506,7 @@ $(document).ready(function () {
                     var getCity = window.lodash.filter(cityData, function (o) {
                         return o.id == d.id;
                     });
-                    console.log('current selected country ===>', d)
-                    console.log('initial cityData ===>', cityData)
-                    console.log('initial getCity ===>', getCity)
-                    console.log('initial georgiaWalmarts ===>', georgiaWalmarts)
+                    
                     getCity.map((item, key) => {
                         var walmart = window.lodash.filter(georgiaWalmarts, function (o) {
                             return o.zip == item.Zipcode;
