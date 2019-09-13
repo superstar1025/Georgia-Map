@@ -188,11 +188,11 @@ $(document).ready(function () {
                     usCountiesData = data;
                     cityData = citydata;
                     mainMapDraw(us, cityData, usCountiesData);
-                    if (cityData.length == 0) {
-                        if (!zoomable) {
-                            walMartMark();
-                        }
-                    }
+                    // if (cityData.length == 0) {
+                    //     if (!zoomable) {
+                    //         walMartMark();
+                    //     }
+                    // }
                     legend();
                 });
             });
@@ -232,6 +232,8 @@ $(document).ready(function () {
                         var getCountyScore = window.lodash.filter(cityData, function (o) {
                             return o.id == getCounty[0].id;
                         });
+                        if (getCountyScore[0] !== undefined && getCountyScore[0].CountyScore > 4000) {
+                        }
                         color = getCountyScore.length > 0 ?
                             colorRange(getCountyScore[0] == undefined ? "#002F45" : getCountyScore[0].CountyScore) : '#002F45';
                     } else {
@@ -517,7 +519,6 @@ $(document).ready(function () {
                         }
                     })
 
-                    console.log('initial locationMarkData ===>', locationMarkData)
                     locationMark(locationMarkData, d);
 
                     $('.city-marked-' + d.id).css("display", "block");
@@ -699,7 +700,7 @@ $(document).ready(function () {
     // }
 
     function colorRange(score) {
-        var color = "#fff";
+        var color = COLOR_1;
         if (0 < score && score <= 400) {
             color = COLOR_1;
         } else if (400 < score && score <= 800) {
@@ -784,6 +785,7 @@ $(document).ready(function () {
         active.classed("active", false);
         active = d3.select(null);
         $('.city-marked').css("display", "none");
+        $('image').css("display", "none");
 
         g.transition()
             .delay(100)
@@ -834,6 +836,7 @@ $(document).ready(function () {
     function toogleZoom() {
         $(".toogle-switch").click(function (e) {
             zoomable = e.target.checked;
+            $('image').css("display", "none");
             mainMapDraw(usMapData, cityData, usCountiesData);
         })
     }
